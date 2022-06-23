@@ -1,0 +1,7 @@
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\bin\Debug\MiniProfiler.xml
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\bin\Debug\MiniProfiler.dll
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\bin\Debug\MiniProfiler.pdb
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\obj\Debug\StackExchange.Profiling.csproj.AssemblyReference.cache
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\obj\Debug\StackExchange.Profiling.csproj.CoreCompileInputs.cache
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\obj\Debug\MiniProfiler.dll
+C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\obj\Debug\MiniProfiler.pdb

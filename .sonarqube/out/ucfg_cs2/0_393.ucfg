@@ -1,0 +1,70 @@
+
+áStackExchange.Profiling.MiniProfilerExtensions.Step(StackExchange.Profiling.MiniProfiler, string, StackExchange.Profiling.ProfileLevel)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csA" A(&"0*”
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC C(#‡
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC C(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*˝
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC& C(*{
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC& C(*
+%2"__id*
+""ê
+ç
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC& C(*
+%1System.IDisposable"__id*
+
+%2*
+3*Î
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC- C(J≠
+™
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC- C(K
+%4System.IDisposable"[StackExchange.Profiling.MiniProfiler.StepImpl(string, StackExchange.Profiling.ProfileLevel)*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+namestring*
+""§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC- C(K
+%3System.IDisposable"__id*
+
+%4System.IDisposable§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC- C(K
+%1System.IDisposable"__id*
+
+%3System.IDisposable*
+3*Ï
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csD	 D(	"Å
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csC C(L
+
+%1System.IDisposable*‰
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csD	 D(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csD D(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+namestring:-
+level$StackExchange.Profiling.ProfileLevelB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

@@ -1,0 +1,26 @@
+
+IStackExchange.Profiling.Data.SimpleProfiledTransaction.IsolationLevel.getk
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs6 6("0*…
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs6 6(4‚
+ÿ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs6 6(% 
+%0System.Data.IDbTransaction"__id*h*f8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"*
+_transactionSystem.Data.IDbTransactionùö
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs6 6(4 
+%1System.Data.IsolationLevel"-System.Data.IDbTransaction.IsolationLevel.get*"
+ 
+%0System.Data.IDbTransaction2IsolationLevel.get"‘
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs6 6(5"
+ 
+%1System.Data.IsolationLevel*õ
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs67 6(7"‚
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs66 6(7
+implicit returnB:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction

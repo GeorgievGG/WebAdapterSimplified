@@ -1,0 +1,31 @@
+
+‡StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando.System.Collections.Generic.IDictionary<string, object>.ContainsKey(string)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csË- Ë(8"0*¢
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÍ Í(+ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÍ Í(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>›˜
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÍ Í(,
+
+%1bool"FSystem.Collections.Generic.IDictionary<TKey, TValue>.ContainsKey(TKey)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+keystring2ContainsKey(TKey)"p
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÍ Í(-
+
+
+%1bool*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÎ Î("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÎ Î(
+implicit return:
+keystringB@>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando

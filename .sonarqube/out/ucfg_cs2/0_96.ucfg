@@ -1,0 +1,92 @@
+
+UStackExchange.Profiling.Suppression.Suppression(StackExchange.Profiling.MiniProfiler)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs ("1*b
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs+	 +(	*
+0*½
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs ( Õ
+Ò
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs ( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+2
+3*à
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs   (:Ÿœ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs   (;"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÙ
+Ö
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs   (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+profiler*
+4*´
+3X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs# $("˜
+•
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs# #(*
+%3$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.Suppression.Profiler.set*'%
+#StackExchange.Profiling.Suppression*2
+0
+profiler$StackExchange.Profiling.MiniProfilerä
+á
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs$ $(*
+%4$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.Suppression.Profiler.get*'%
+#StackExchange.Profiling.SuppressionÊ
+Ç
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs$ $("
+
+%5bool"1StackExchange.Profiling.MiniProfiler.IsActive.get*,
+*
+%4$StackExchange.Profiling.MiniProfiler*
+5
+6*Á
+5X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs+	 +(	"b
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs& &(
+""*Í
+6X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs) *(!ä
+á
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs) )(*
+%6$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.Suppression.Profiler.get*'%
+#StackExchange.Profiling.SuppressionÒ
+Ï
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs) )(%
+
+%7bool"1StackExchange.Profiling.MiniProfiler.IsActive.set*,
+*
+%6$StackExchange.Profiling.MiniProfiler*
+""¬
+©
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs* *(!?%
+#StackExchange.Profiling.Suppression"
+_wasSuppressedbool"__id*
+""*
+4*Î
+4X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs+	 +(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Suppression.cs+ +(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfilerB'%
+#StackExchange.Profiling.Suppression

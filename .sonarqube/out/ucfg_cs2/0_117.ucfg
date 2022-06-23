@@ -1,0 +1,171 @@
+
+BStackExchange.Profiling.Helpers.HaackFormatter.SplitFormat(string)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs&4 &(?"0*˚
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs( )(ã
+à
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs( ((!
+exprEndIndexint"__id*
+""*
+1*û
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs- .(%ó
+î
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs-  -(O	
+%0int"RStackExchange.Profiling.Helpers.HaackFormatter.IndexOfExpressionStart(string, int)*2"0
+.StackExchange.Profiling.Helpers.HaackFormatter*
+
+formatstring*
+""ë
+é
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs- -(O
+expStartIndexint"__id*
+	
+%0int*
+2
+3*ç
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs1 1(8ö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs1+ 1(8	
+%1int"string.Length.get*
+
+formatstring*
+4
+5*ß
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs3% 3(X©
+¶
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs37 3(Y
+%2string"string.Substring(int)*
+
+formatstring*
+""ÍÁ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs3% 3(ZB
+%3<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat"<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormatû
+õ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs3) 3(6
+
+%4void"RStackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat.LiteralFormat(string)*D
+B
+%3<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat*
+
+%2string*
+5*m
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csP	 P(	*
+6*p
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs9 9(8*
+7
+8*¥
+7c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs= =(m∂
+≥
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs=* =(n
+%5string"string.Substring(int, int)*
+
+formatstring*
+""*
+""ÍÁ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs= =(oB
+%6<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat"<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormatû
+õ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs= =()
+
+%7void"RStackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat.LiteralFormat(string)*D
+B
+%6<StackExchange.Profiling.Helpers.HaackFormatter.LiteralFormat*
+
+%5string*
+8*ù
+8c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs@ A(%ï
+í
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs@$ @(R	
+%8int"PStackExchange.Profiling.Helpers.HaackFormatter.IndexOfExpressionEnd(string, int)*2"0
+.StackExchange.Profiling.Helpers.HaackFormatter*
+
+formatstring*
+""ë
+é
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs@ @(R
+endBraceIndexint"__id*
+	
+%8int*
+9
+10* 
+9c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csD! D(Tπ
+∂
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csD6 D(U
+%9string"string.Substring(int)*
+
+formatstring*
+
+expStartIndexintÒÓ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csD! D(VF
+%10?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression"?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression©
+¶
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csD% D(5
+%11void"XStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.FormatExpression(string)*H
+F
+%10?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression*
+
+%9string*
+11*¯
+10c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csH L(nõ
+ò
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csH H(0
+exprEndIndexint"__id*
+
+endBraceIndexint«
+ƒ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csL- L(o
+%12string"string.Substring(int, int)*
+
+formatstring*
+
+expStartIndexint*
+""ÒÓ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csL L(pF
+%13?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression"?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression™
+ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csL L(,
+%14void"XStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.FormatExpression(string)*H
+F
+%13?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression*
+
+%12string*
+11*q
+11c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csO O(%*
+1
+6*‰
+6c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csP	 P(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csP P(	
+implicit return:
+formatstringB2"0
+.StackExchange.Profiling.Helpers.HaackFormatter

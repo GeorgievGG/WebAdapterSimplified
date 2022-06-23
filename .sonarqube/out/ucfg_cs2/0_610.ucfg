@@ -1,0 +1,47 @@
+
+EStackExchange.Profiling.Data.SimpleProfiledConnection.CreateCommand()j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csr r('"0*Ù
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst t(Y˝
+˙
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst- t(8
+%0System.Data.IDbConnection"__id*e*c7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"(
+_connectionSystem.Data.IDbConnectionÏÈ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst- t(H
+%1System.Data.IDbCommand")System.Data.IDbConnection.CreateCommand()*!
+
+%0System.Data.IDbConnection2CreateCommand()ô
+ñ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cstP t(Y.
+%2(StackExchange.Profiling.Data.IDbProfiler"__id*r*p7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler›⁄
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst t(Z8
+%32StackExchange.Profiling.Data.SimpleProfiledCommand"2StackExchange.Profiling.Data.SimpleProfiledCommandÏ
+È
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst t(,
+
+%4void"•StackExchange.Profiling.Data.SimpleProfiledCommand.SimpleProfiledCommand(System.Data.IDbCommand, System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)*:
+8
+%32StackExchange.Profiling.Data.SimpleProfiledCommand*
+
+%1System.Data.IDbCommand*97
+5StackExchange.Profiling.Data.SimpleProfiledConnection*0
+.
+%2(StackExchange.Profiling.Data.IDbProfiler"®
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cst t([:
+8
+%32StackExchange.Profiling.Data.SimpleProfiledCommand*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csu	 u(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csu u(	
+implicit returnB97
+5StackExchange.Profiling.Data.SimpleProfiledConnection

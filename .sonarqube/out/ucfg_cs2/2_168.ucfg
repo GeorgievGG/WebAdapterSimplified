@@ -1,0 +1,66 @@
+
+­WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.SetActualResponseType(System.Web.Http.HttpConfiguration, System.Type, string, string, params string[])}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs© ©(0"0*÷
+0~
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs« «(¬Ê
+Ç
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs« «(/D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"„WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationá
+Þ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs« «(F:
+%14System.Collections.Generic.IDictionary<TKey, TValue>"YWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActualHttpMessageTypes.get*F
+D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator–
+“
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs«a «(y
+%2"__id*
+""ýú
+~
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs«K «(¦>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey"8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyï
+ì
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs«O «(`
+
+%4void"ÂWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)*@
+>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+%2*
+
+controllerNamestring*
+
+
+actionNamestring*
+
+parameterNamesstring[]°
+­
+~
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs« «(­
+
+%5void"__mapSet*<
+:
+%14System.Collections.Generic.IDictionary<TKey, TValue>*@
+>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+typeSystem.Type*
+1*™
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¬	 ¬(	"”
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¬ ¬(	
+implicit return:+
+config!System.Web.Http.HttpConfiguration:
+typeSystem.Type:
+controllerNamestring:
+
+actionNamestring:
+parameterNamesstring[]BJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

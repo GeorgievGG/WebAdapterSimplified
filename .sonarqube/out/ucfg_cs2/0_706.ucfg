@@ -1,0 +1,26 @@
+
+?StackExchange.Profiling.Data.SimpleProfiledDataReader.Dispose()l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¯ ¯("0*ì
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs± ²($…
+‚
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs± ±(
+
+%0void"CStackExchange.Profiling.Data.SimpleProfiledDataReader.Dispose(bool)*97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader*
+""ë
+è
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs² ²(%
+
+%1void""System.GC.SuppressFinalize(object)*"
+	System.GC*97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader*
+1*÷
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs³	 ³(	"ƒ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs³ ³(	
+implicit returnB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

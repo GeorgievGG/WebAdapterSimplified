@@ -1,0 +1,139 @@
+
+vStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetDeserializer(System.Type, System.Data.IDataReader, int, int, bool)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csò1 ò(@"0*ƒ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú ú(&‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú ú(&
+
+%0bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+typeSystem.Type*
+""*
+1
+2*ƒ
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csù ù(.‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csù ù(.
+
+%1bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+typeSystem.Type*
+""*
+1
+3*◊
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csü ü(bÈ
+Ê
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csü ü(c
+%2System.Func<T, TResult>"pStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetDynamicDeserializer(System.Data.IDataRecord, int, int, bool)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*#
+!
+readerSystem.Data.IDataReader*
+""*
+""*
+"""É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csü ü(d
+
+%2System.Func<T, TResult>*ë
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£ £(°
+û
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£ £(
+
+%3bool"System.Type.IsClass.get*
+
+typeSystem.Type*
+4
+5*ƒ
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£  £(6‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£  £(6
+
+%4bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+typeSystem.Type*
+""*
+6
+5*ƒ
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£: £(P‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£: £(P
+
+%5bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+typeSystem.Type*
+""*
+7
+5*ƒ
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£T £({‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs£T £({
+
+%6bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+typeSystem.Type*
+""*
+8
+5*˘
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs• •(fã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs• •(g
+%7System.Func<T, TResult>"{StackExchange.Profiling.Helpers.Dapper.SqlMapper.GetClassDeserializer(System.Type, System.Data.IDataReader, int, int, bool)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*
+
+typeSystem.Type*#
+!
+readerSystem.Data.IDataReader*
+""*
+""*
+"""É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs• •(h
+
+%7System.Func<T, TResult>*°
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß ß(9≥
+∞
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß ß(:
+%8System.Func<T, TResult>"XStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetStructDeserializer(System.Type, int)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*
+
+typeSystem.Type*
+"""É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß ß(;
+
+%8System.Func<T, TResult>*ﬁ
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs©	 ©(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© ©(	
+implicit return:
+typeSystem.Type:!
+readerSystem.Data.IDataReader:
+
+startBoundint:
+lengthint: 
+returnNullIfFirstMissingboolB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

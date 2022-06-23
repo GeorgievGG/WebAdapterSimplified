@@ -1,0 +1,50 @@
+
+VWebAdapterSimplifiedLibrary.DataIsolationScope.RunInSystemUserScope<T>(System.Func<T>)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csC C(,"0*›	
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csE E(Gš
+—
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csE6 E(G6
+%00WebAdapterSimplifiedLibrary.DataIsolationContext"DWebAdapterSimplifiedLibrary.DataIsolationScope.SystemUserContext.get*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScopeÎË
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csE E(H4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope".WebAdapterSimplifiedLibrary.DataIsolationScopeÛ
+Ø
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csE# E(5
+
+%2void"sWebAdapterSimplifiedLibrary.DataIsolationScope.DataIsolationScope(WebAdapterSimplifiedLibrary.DataIsolationContext)*6
+4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope*8
+6
+%00WebAdapterSimplifiedLibrary.DataIsolationContextß
+Ü
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csE E(H7
+scope.WebAdapterSimplifiedLibrary.DataIsolationScope"__id*6
+4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope*
+1*‡
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csG G(ª
+§
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csG G(
+%3T"System.Func<TResult>.Invoke()*
+System.Func<TResult>"p
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csG G( 	
+
+%3T*m
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csI	 I(	*
+3*ä
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csI	 I(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csI I(	
+implicit return:
+actionSystem.Func<TResult>B2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

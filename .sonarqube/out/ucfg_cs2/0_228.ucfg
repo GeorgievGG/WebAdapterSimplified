@@ -1,0 +1,73 @@
+
+íStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo.CompareTo(StackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo)l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs ( "0*ª
+0l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (¢
+ü
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs ("
+%0System.DateTime"OStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo.Started.get*GE
+CStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo©
+¶
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs- (:
+%1System.DateTime"OStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo.Started.get*N
+L
+otherCStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo⁄
+◊
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (;	
+%2int"*System.DateTime.CompareTo(System.DateTime)*
+
+%0System.DateTime*
+
+%1System.DateTimeë
+é
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (;
+compint"__id*
+	
+%2int*
+1
+2*ñ
+1l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (;ô
+ñ
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs& ((
+%3System.Guid"JStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo.Id.get*GE
+CStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo†
+ù
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs3 (;
+%4System.Guid"JStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo.Id.get*N
+L
+otherCStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo 
+«
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs& (<	
+%5int""System.Guid.CompareTo(System.Guid)*
+
+%3System.Guid*
+
+%4System.Guidë
+é
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (<
+compint"__id*
+	
+%5int*
+2*
+2l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs ("}
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (
+
+compint*˜
+3l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs ("É
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs (
+implicit return:L
+otherCStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfoBGE
+CStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.ProfileInfo

@@ -1,0 +1,172 @@
+
+_EOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController.FindUser(string)h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! ()"6*«	
+0h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (dÊ
+Ç
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (!7
+%01WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic"__id*›*˜P
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController"D
+_privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic€
+~
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs7 (\
+%1"__id*
+""ý
+ú
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs^ (d
+%2System.Guid"@WebApiAdapterSimplified.Controllers.BaseApiController.UserId.get*97
+5WebApiAdapterSimplified.Controllers.BaseApiControllerãà
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (e
+
+%3bool"`WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic.CheckMatrixPrivilege(System.Guid, System.Guid)*9
+7
+%01WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic*
+
+%1*
+
+%2System.Guid2.CheckMatrixPrivilege(System.Guid, System.Guid)*
+1
+2*¨	
+1h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (ZÊ
+Ç
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (!7
+%41WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic"__id*›*˜P
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController"D
+_privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic€
+~
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs7 (R
+%5"__id*
+""ý
+ú
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.csT (Z
+%6System.Guid"@WebApiAdapterSimplified.Controllers.BaseApiController.UserId.get*97
+5WebApiAdapterSimplified.Controllers.BaseApiControllerãà
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs ([
+
+%7bool"`WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic.CheckMatrixPrivilege(System.Guid, System.Guid)*9
+7
+%41WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic*
+
+%5*
+
+%6System.Guid2.CheckMatrixPrivilege(System.Guid, System.Guid)*
+2*u
+2h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (\*
+3
+4*œ
+3h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs ("”
+‘
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs ("'
+%8!System.Web.Http.IHttpActionResult"AWebApiAdapterSimplified.Controllers.BaseApiController.Forbidden()*97
+5WebApiAdapterSimplified.Controllers.BaseApiController"•
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (#)
+'
+%8!System.Web.Http.IHttpActionResult*¤
+4h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! :(*ÓÐ
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! !(14
+%9.WebAdapterSimplifiedLibrary.FindUserResultData".WebAdapterSimplifiedLibrary.FindUserResultData÷
+ô
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! !(/
+%10void"CWebAdapterSimplifiedLibrary.FindUserResultData.FindUserResultData()*6
+4
+%9.WebAdapterSimplifiedLibrary.FindUserResultDataå
+â
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! !(18
+result.WebAdapterSimplifiedLibrary.FindUserResultData"__id*6
+4
+%9.WebAdapterSimplifiedLibrary.FindUserResultDataÈ
+Å
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs"( "(:5
+%11.WebAdapterSimplifiedLibrary.IMatrixUserService"__id*›*˜P
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController"D
+_matrixUserService.WebAdapterSimplifiedLibrary.IMatrixUserService°­
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs"( "(W
+%12bool"IWebAdapterSimplifiedLibrary.IMatrixUserService.IsExistingUserInDb(string)*7
+5
+%11.WebAdapterSimplifiedLibrary.IMatrixUserService*
+
+userNamestring2IsExistingUserInDb(string)Œ
+‰
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs" "(W
+%13bool"EWebAdapterSimplifiedLibrary.FindUserResultData.IsExistingUserInDb.set*:
+8
+result.WebAdapterSimplifiedLibrary.FindUserResultData*
+
+%12boolƒ
+€
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs: :(*:
+%143WebAdapterSimplifiedLibrary.FindUserResultViewModel"iWebAdapterSimplifiedLibrary.MappingExtensions.ToViewModel(WebAdapterSimplifiedLibrary.FindUserResultData)*1"/
+-WebAdapterSimplifiedLibrary.MappingExtensions*:
+8
+result.WebAdapterSimplifiedLibrary.FindUserResultData½º
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs: :(+;
+%154System.Web.Http.Results.OkNegotiatedContentResult<T>"&System.Web.Http.ApiController.Ok<T>(T)*!
+System.Web.Http.ApiController*<
+:
+%143WebAdapterSimplifiedLibrary.FindUserResultViewModel2Ok<T>(T)"©
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs: :(,=
+;
+%154System.Web.Http.Results.OkNegotiatedContentResult<T>*î
+5h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs;	 ;(	"
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs; ;(	
+implicit return*×
+6h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs: (:˜
+•
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs! ()
+%16"__entrypoint*
+
+userNamestringÏ
+Ì
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs	 (
+%17"
+__annotate*75
+3System.Web.Http.HttpGetAttribute.HttpGetAttribute()*
+
+userNamestringÑ
+Î
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs	 (G
+%18"
+__annotate*97
+5System.Web.Http.RouteAttribute.RouteAttribute(string)*
+
+userNamestring¡
+ž
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs* (9
+userNamestring"__annotation*
+
+%17*
+
+%18*
+0:
+userNamestringBRP
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController

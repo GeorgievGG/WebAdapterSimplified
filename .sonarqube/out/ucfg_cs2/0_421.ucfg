@@ -1,0 +1,336 @@
+
+lStackExchange.Profiling.Storage.SqlServerStorage.LoadProfilerRecord(System.Data.Common.DbConnection, object)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≠ ≠(/"0*Ó
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csØ ∞(S
+}
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∞8 ∞(E
+%0"__id*
+""˘
+ˆ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∞ ∞(TA
+%1;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"¶StackExchange.Profiling.Helpers.Dapper.SqlMapper.QueryMultiple(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*/
+-
+
+connectionSystem.Data.Common.DbConnection*
+
+%0*
+
+keyParameterobject*
+""*
+""*
+""˝
+˙
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∞ ∞(TD
+multi;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"__id*C
+A
+%1;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*
+1*±
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≤ ∂($¨
+©
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≤ ≤(5/
+%2)System.Collections.Generic.IEnumerable<T>"EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<T>()*F
+D
+multi;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader…
+∆
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≤ ≤(G*
+%3$StackExchange.Profiling.MiniProfiler"`System.Linq.Enumerable.SingleOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>“
+œ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≤ ≤(G0
+profiler$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%3$StackExchange.Profiling.MiniProfiler¨
+©
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≥ ≥(2/
+%4)System.Collections.Generic.IEnumerable<T>"EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<T>()*F
+D
+multi;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReaderæ
+ª
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≥ ≥(;(
+%5"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%4)System.Collections.Generic.IEnumerable<T>Õ
+ 
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≥ ≥(;-
+timings"System.Collections.Generic.List<T>"__id**
+(
+%5"System.Collections.Generic.List<T>¨
+©
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥$ ¥(L/
+%6)System.Collections.Generic.IEnumerable<T>"EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<T>()*F
+D
+multi;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReaderæ
+ª
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥$ ¥(U(
+%7"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%6)System.Collections.Generic.IEnumerable<T>”
+–
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥ ¥(U3
+clientTimings"System.Collections.Generic.List<T>"__id**
+(
+%7"System.Collections.Generic.List<T>‰
+·
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂ ∂($
+
+%8bool""object.operator !=(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+2
+3*°
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂( ∂(FÒ
+Ó
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂( ∂(=
+%9System.Nullable<T>"5StackExchange.Profiling.MiniProfiler.RootTimingId.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler∂
+≥
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂( ∂(F
+%10bool"System.Nullable<T>.HasValue.get*
+
+%9System.Nullable<T>*
+4
+3*ì
+4g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂J ∂(Wú
+ô
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∂J ∂(W
+%11bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*/
+-
+timings"System.Collections.Generic.List<T>*
+5
+3*ç
+5g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∏ π(*Ê
+„
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∏% ∏(f%
+%12StackExchange.Profiling.Timing"|System.Linq.Enumerable.SingleOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*/
+-
+timings"System.Collections.Generic.List<T>*
+""…
+∆
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∏ ∏(f,
+
+rootTimingStackExchange.Profiling.Timing"__id*'
+%
+%12StackExchange.Profiling.Timing·
+ﬁ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csπ π(*
+%13bool""object.operator !=(object, object)*
+"
+object*.
+,
+
+rootTimingStackExchange.Profiling.Timing*
+""*
+6
+7*Â
+6g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csª ø(N¶
+£
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csª ª(2%
+%14StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Root.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*.
+,
+
+rootTimingStackExchange.Profiling.Timing
+Ì
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csº º(C
+%15void"<System.Collections.Generic.List<T>.ForEach(System.Action<T>)*/
+-
+timings"System.Collections.Generic.List<T>*
+""à
+Ö
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csΩ Ω(2
+%16bool",System.Collections.Generic.List<T>.Remove(T)*/
+-
+timings"System.Collections.Generic.List<T>*.
+,
+
+rootTimingStackExchange.Profiling.Timingù
+ö
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csæ4 æ(c*
+%17#System.Linq.ILookup<TKey, TElement>"•System.Linq.Enumerable.ToLookup<TSource, TKey, TElement>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>, System.Func<TSource, TElement>)*"
+System.Linq.Enumerable*/
+-
+timings"System.Collections.Generic.List<T>*
+""*
+""ﬁ
+€
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csæ æ(c<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>"__id*,
+*
+%17#System.Linq.ILookup<TKey, TElement>…
+∆
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csø ø(O
+%18void"ßStackExchange.Profiling.Storage.SqlServerStorage.PopulateChildTimings(StackExchange.Profiling.Timing, System.Linq.ILookup<System.Guid, StackExchange.Profiling.Timing>)*42
+0StackExchange.Profiling.Storage.SqlServerStorage*.
+,
+
+rootTimingStackExchange.Profiling.Timing*>
+<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>*
+7*ô
+7g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡ ¡(+¢
+ü
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡ ¡(+
+%19bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*5
+3
+clientTimings"System.Collections.Generic.List<T>*
+8
+9*≤
+9g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡/ ¡([Ä
+˝
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡/ ¡(R
+%20System.Nullable<T>"CStackExchange.Profiling.MiniProfiler.ClientTimingsRedirectCount.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler∑
+¥
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡/ ¡([
+%21bool"System.Nullable<T>.HasValue.get*
+
+%20System.Nullable<T>*
+8
+10*Õ
+8g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs√ ≈(O¡æ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs√1 «(,
+%25%StackExchange.Profiling.ClientTimings"%StackExchange.Profiling.ClientTimings‡
+›
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs√5 √(B
+%26void"5StackExchange.Profiling.ClientTimings.ClientTimings()*.
+,
+%25%StackExchange.Profiling.ClientTimingsÄ
+˝
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈, ≈(O
+%27System.Nullable<T>"CStackExchange.Profiling.MiniProfiler.ClientTimingsRedirectCount.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerõ
+ò
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈, ≈(O
+
+%23int"__id*
+
+%27System.Nullable<T>å
+â
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈, ≈(O
+
+%22int"__id*
+
+
+%23int*
+11
+12*Ü
+11g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈S ≈(TÅ
+
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈S ≈(T
+
+%24int"__id*2 å
+â
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈S ≈(T
+
+%22int"__id*
+
+
+%24int*
+12*“
+12g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs√ ∆(3Ô
+Ï
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs≈ ≈(T
+
+%28int"7StackExchange.Profiling.ClientTimings.RedirectCount.set*.
+,
+%25%StackExchange.Profiling.ClientTimings*
+
+
+%22int±
+Æ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs∆ ∆(3)
+%29"System.Collections.Generic.List<T>"1StackExchange.Profiling.ClientTimings.Timings.set*.
+,
+%25%StackExchange.Profiling.ClientTimings*5
+3
+clientTimings"System.Collections.Generic.List<T>∂
+≥
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs√ «(,
+%30%StackExchange.Profiling.ClientTimings"6StackExchange.Profiling.MiniProfiler.ClientTimings.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*.
+,
+%25%StackExchange.Profiling.ClientTimings*
+10*r
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÃ	 Ã(	*
+10*ç
+10g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÀ À("ù
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÀ À(2
+0
+profiler$StackExchange.Profiling.MiniProfiler*Ì
+13g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÃ	 Ã(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÃ Ã(	
+implicit return:-
+
+connectionSystem.Data.Common.DbConnection:
+keyParameterobjectB42
+0StackExchange.Profiling.Storage.SqlServerStorage

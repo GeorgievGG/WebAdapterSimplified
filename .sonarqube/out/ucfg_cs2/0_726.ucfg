@@ -1,0 +1,44 @@
+
+§StackExchange.Profiling.Helpers.Dapper.SqlMapper.Query(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, bool, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÇ+ Ç(0"0*í
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(sé
+ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ0 Ñ(?
+%0dynamic"__id*
+
+paramdynamicÅ
+˛
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(t/
+%1)System.Collections.Generic.IEnumerable<T>"ßStackExchange.Profiling.Helpers.Dapper.SqlMapper.Query<T>(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, bool, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*"
+ 
+cnnSystem.Data.IDbConnection*
+
+sqlstring*
+
+%0dynamic*+
+)
+transactionSystem.Data.IDbTransaction*
+""*
+""*
+"""ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(u1
+/
+%1)System.Collections.Generic.IEnumerable<T>*ﬁ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÖ	 Ö(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÖ Ö(	
+implicit return: 
+cnnSystem.Data.IDbConnection:
+sqlstring:
+paramdynamic:)
+transactionSystem.Data.IDbTransaction:
+bufferedbool:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

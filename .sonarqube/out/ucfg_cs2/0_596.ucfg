@@ -1,0 +1,39 @@
+
+HStackExchange.Profiling.Data.SimpleProfiledConnection.BeginTransaction()j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csV V(."0*Â
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX X(Uý
+ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX1 X(<
+%0System.Data.IDbConnection"__id*e*c7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"(
+_connectionSystem.Data.IDbConnectionöó
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX1 X(O 
+%1System.Data.IDbTransaction",System.Data.IDbConnection.BeginTransaction()*!
+
+%0System.Data.IDbConnection2BeginTransaction()åâ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX X(V<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction"6StackExchange.Profiling.Data.SimpleProfiledTransactionÀ
+½
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX X(0
+
+%3void"£StackExchange.Profiling.Data.SimpleProfiledTransaction.SimpleProfiledTransaction(System.Data.IDbTransaction, StackExchange.Profiling.Data.SimpleProfiledConnection)*>
+<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction*"
+ 
+%1System.Data.IDbTransaction*97
+5StackExchange.Profiling.Data.SimpleProfiledConnection"¬
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csX X(W>
+<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction*ó
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csY	 Y(	"
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csY Y(	
+implicit returnB97
+5StackExchange.Profiling.Data.SimpleProfiledConnection

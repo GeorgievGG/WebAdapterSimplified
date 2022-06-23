@@ -1,0 +1,15 @@
+≠
+4StackExchange.Profiling.Storage.MultiStorageProviderobject«
+GMultiStorageProvider(params StackExchange.Profiling.Storage.IStorage[])|StackExchange.Profiling.Storage.MultiStorageProvider.MultiStorageProvider(params StackExchange.Profiling.Storage.IStorage[])¯
+_List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)îStackExchange.Profiling.Storage.MultiStorageProvider.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)ç
+*Save(StackExchange.Profiling.MiniProfiler)_StackExchange.Profiling.Storage.MultiStorageProvider.Save(StackExchange.Profiling.MiniProfiler)[
+Load(System.Guid)FStackExchange.Profiling.Storage.MultiStorageProvider.Load(System.Guid)y
+ SetUnviewed(string, System.Guid)UStackExchange.Profiling.Storage.MultiStorageProvider.SetUnviewed(string, System.Guid)u
+SetViewed(string, System.Guid)SStackExchange.Profiling.Storage.MultiStorageProvider.SetViewed(string, System.Guid)e
+GetUnviewedIds(string)KStackExchange.Profiling.Storage.MultiStorageProvider.GetUnviewedIds(string)M
+
+Stores.get?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.getM
+
+Stores.set?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.seta
+AllowParallelOps.getIStackExchange.Profiling.Storage.MultiStorageProvider.AllowParallelOps.geta
+AllowParallelOps.setIStackExchange.Profiling.Storage.MultiStorageProvider.AllowParallelOps.set

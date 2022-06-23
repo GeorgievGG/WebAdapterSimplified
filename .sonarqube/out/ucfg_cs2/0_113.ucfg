@@ -1,0 +1,25 @@
+
+;StackExchange.Profiling.Data.ProfiledDbTransaction.Commit()g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs@ @(#"0*Ê
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csB B(!†
+ƒ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csB B(&
+%0 System.Data.Common.DbTransaction"__id*j*h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransactionÍ
+Ê
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csB B(!
+
+%1void")System.Data.Common.DbTransaction.Commit()*(
+&
+%0 System.Data.Common.DbTransaction*
+1*ì
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csC	 C(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csC C(	
+implicit returnB64
+2StackExchange.Profiling.Data.ProfiledDbTransaction

@@ -1,0 +1,20 @@
+à
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGeneratorobjectu
+HelpPageSampleGenerator()XWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.HelpPageSampleGenerator()Ω
+=GetSampleRequests(System.Web.Http.Description.ApiDescription)|WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleRequests(System.Web.Http.Description.ApiDescription)ø
+>GetSampleResponses(System.Web.Http.Description.ApiDescription)}WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleResponses(System.Web.Http.Description.ApiDescription)û
+mGetSample(System.Web.Http.Description.ApiDescription, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection)¨WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSample(System.Web.Http.Description.ApiDescription, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection)ß
+ÒGetActionSample(string, string, System.Collections.Generic.IEnumerable<string>, System.Type, System.Net.Http.Formatting.MediaTypeFormatter, System.Net.Http.Headers.MediaTypeHeaderValue, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection)∞WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetActionSample(string, string, System.Collections.Generic.IEnumerable<string>, System.Type, System.Net.Http.Formatting.MediaTypeFormatter, System.Net.Http.Headers.MediaTypeHeaderValue, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection){
+GetSampleObject(System.Type)[WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleObject(System.Type)÷
+IResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)àWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)ﬂ
+çResolveType(System.Web.Http.Description.ApiDescription, string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, out System.Collections.ObjectModel.Collection<System.Net.Http.Formatting.MediaTypeFormatter>)ÃWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveType(System.Web.Http.Description.ApiDescription, string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, out System.Collections.ObjectModel.Collection<System.Net.Http.Formatting.MediaTypeFormatter>)Á
+ëWriteSampleObjectUsingFormatter(System.Net.Http.Formatting.MediaTypeFormatter, object, System.Type, System.Net.Http.Headers.MediaTypeHeaderValue)–WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.WriteSampleObjectUsingFormatter(System.Net.Http.Formatting.MediaTypeFormatter, object, System.Type, System.Net.Http.Headers.MediaTypeHeaderValue)€
+ãGetAllActionSamples(string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection) WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetAllActionSamples(string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection)w
+ActualHttpMessageTypes.getYWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActualHttpMessageTypes.getw
+ActualHttpMessageTypes.setYWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActualHttpMessageTypes.sete
+ActionSamples.getPWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples.gete
+ActionSamples.setPWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples.sete
+SampleObjects.getPWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects.gete
+SampleObjects.setPWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects.setu
+SampleObjectFactories.getXWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjectFactories.getu
+SampleObjectFactories.setXWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjectFactories.set

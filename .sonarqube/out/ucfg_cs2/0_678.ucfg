@@ -1,0 +1,36 @@
+
+KStackExchange.Profiling.Helpers.Dapper.SqlBuilder.LeftJoin(string, dynamic)a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs„ „(""0*ý
+0a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs† ‡(÷
+ô
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs† †(q
+
+%0void"kStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddClause(string, string, object, string, string, string)*53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+
+leftjoin*
+
+sqlstring*
+
+
+parametersdynamic*
+
+LEFT JOIN *
+
+LEFT JOIN *
+
+"š
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs‡ ‡(53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*à
+1a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csˆ	 ˆ(	"x
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csˆ ˆ(	
+implicit return:
+sqlstring:
+
+parametersdynamicB53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder

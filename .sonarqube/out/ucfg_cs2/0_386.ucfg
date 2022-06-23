@@ -1,0 +1,30 @@
+
+œStackExchange.Profiling.MiniProfilerExtensions.Inline<T>(StackExchange.Profiling.MiniProfiler, System.Func<T>, string, StackExchange.Profiling.ProfileLevel)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs* *("0*ä
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs, ,(1‡
+„
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs, ,(2
+%0T"vStackExchange.Profiling.MiniProfilerExtensions.Inline<T>(StackExchange.Profiling.MiniProfiler, System.Func<T>, string)*2"0
+.StackExchange.Profiling.MiniProfilerExtensions*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*"
+ 
+selectorSystem.Func<TResult>*
+
+namestring"p
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs, ,(3	
+
+%0T*ä
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs-	 -(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs- -(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler: 
+selectorSystem.Func<TResult>:
+namestring:-
+level$StackExchange.Profiling.ProfileLevelB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

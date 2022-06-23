@@ -1,0 +1,105 @@
+
+=StackExchange.Profiling.Data.ProfiledDbCommand.BindByName.setc
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs9 9("0*í
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs; ;(({
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs; ;(
+%0"__id*
+""*
+1
+2*º
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs= =((ò
+ï
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs= =( "
+%1System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommandÒ
+Ï
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs= =((
+
+%2bool""object.operator !=(object, object)*
+"
+object*$
+"
+%1System.Data.Common.DbCommand*
+""*
+3
+4*·
+
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs? @()ò
+ï
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs?2 ?(:"
+%3System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommand³
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs?2 ?(D
+%4System.Type"object.GetType()*$
+"
+%3System.Data.Common.DbCommand™
+–
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs?$ ?(E
+%5System.Action<T1, T2>"IStackExchange.Profiling.Data.ProfiledDbCommand.GetBindByName(System.Type)*2"0
+.StackExchange.Profiling.Data.ProfiledDbCommand*
+
+%4System.Type­
+ª
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs? ?(E
+innerSystem.Action<T1, T2>"__id*
+
+%5System.Action<T1, T2>Í
+Ê
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs@ @()
+
+%6bool"‘System.Action<System.Data.IDbCommand, bool>.operator !=(System.Action<System.Data.IDbCommand, bool>, System.Action<System.Data.IDbCommand, bool>)*"
+System.Action<T1, T2>* 
+
+innerSystem.Action<T1, T2>*
+""*
+5
+4*È
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs@+ @(@ò
+ï
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs@1 @(9"
+%7System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommandã
+à
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs@+ @(A
+
+%8void"$System.Action<T1, T2>.Invoke(T1, T2)*
+System.Action<T1, T2>*$
+"
+%7System.Data.Common.DbCommand*
+""*
+4*¯
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csC C('¿
+¼
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csC C('G0
+.StackExchange.Profiling.Data.ProfiledDbCommand"
+_bindByNamebool"__id*
+""*
+2*ä
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csE E("z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csE E(
+implicit return:
+valueboolB20
+.StackExchange.Profiling.Data.ProfiledDbCommand

@@ -1,0 +1,10 @@
+š
+2StackExchange.Profiling.WebRequestProfilerProvider,StackExchange.Profiling.BaseProfilerProviderobjecto
+WebRequestProfilerProvider()OStackExchange.Profiling.WebRequestProfilerProvider.WebRequestProfilerProvider()Q
+Start(string)@StackExchange.Profiling.WebRequestProfilerProvider.Start(string)
+3Start(StackExchange.Profiling.ProfileLevel, string)fStackExchange.Profiling.WebRequestProfilerProvider.Start(StackExchange.Profiling.ProfileLevel, string)K
+
+Stop(bool)=StackExchange.Profiling.WebRequestProfilerProvider.Stop(bool)_
+GetCurrentProfiler()GStackExchange.Profiling.WebRequestProfilerProvider.GetCurrentProfiler()M
+Current.get>StackExchange.Profiling.WebRequestProfilerProvider.Current.getM
+Current.set>StackExchange.Profiling.WebRequestProfilerProvider.Current.set

@@ -1,0 +1,91 @@
+
+?StackExchange.Profiling.SingletonProfilerProvider.Start(string)f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (!"0*†
+0f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs) (4ò
+ï
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs) (4
+%1string"__id*
+
+sessionNamestringè
+å
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs) (4
+%0string"__id*
+
+%1string*
+1
+2*ç
+1f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs8 (\Ω
+∫
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs8 (O
+%3System.AppDomain""System.AppDomain.CurrentDomain.get*"
+System.AppDomain∂
+≥
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs8 (\
+%4string"!System.AppDomain.FriendlyName.get*
+
+%3System.AppDomainè
+å
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs8 (\
+%2string"__id*
+
+%4stringè
+å
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs8 (\
+%0string"__id*
+
+%2string*
+2*≤
+2f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (Ω∫
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (q*
+%5$StackExchange.Profiling.MiniProfiler"$StackExchange.Profiling.MiniProfiler
+Ì
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs ((
+
+%6void"9StackExchange.Profiling.MiniProfiler.MiniProfiler(string)*,
+*
+%5$StackExchange.Profiling.MiniProfiler*
+
+%0string‡
+›
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs` (o
+
+%7bool"1StackExchange.Profiling.MiniProfiler.IsActive.set*,
+*
+%5$StackExchange.Profiling.MiniProfiler*
+""â
+Ü
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (qh3
+1StackExchange.Profiling.SingletonProfilerProvider"1
+	_profiler$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%5$StackExchange.Profiling.MiniProfilerâ
+Ü
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (*
+%8$StackExchange.Profiling.MiniProfiler"__id*j*h3
+1StackExchange.Profiling.SingletonProfilerProvider"1
+	_profiler$StackExchange.Profiling.MiniProfiler"ñ
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (,
+*
+%8$StackExchange.Profiling.MiniProfiler*Í
+3f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs	 (	"}
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs (	
+implicit return:
+sessionNamestringB53
+1StackExchange.Profiling.SingletonProfilerProvider

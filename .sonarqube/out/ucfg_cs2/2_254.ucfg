@@ -1,0 +1,154 @@
+
+WWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.ResourceModel(string)v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs0 0()"5*Œ
+0v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs2 2(/»
+≈
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs2 2(0
+
+%0bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+	modelNamestring*
+1
+2*ï
+1v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs4* 6(i¿
+Ω
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs4F 4(S'
+%1!System.Web.Http.HttpConfiguration"SWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Configuration.get*EC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController’
+“
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs4F 4(rX
+%2RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"ÜWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetModelDescriptionGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*)
+'
+%1!System.Web.Http.HttpConfigurationŒ
+À
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs4* 4(ro
+modelDescriptionGeneratorRWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"__id*Z
+X
+%2RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGeneratorë
+é
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs6 6(=9
+%33System.Collections.Generic.Dictionary<TKey, TValue>"fWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GeneratedModels.get*q
+o
+modelDescriptionGeneratorRWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGeneratorè
+å
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs6 6(j
+
+%4bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*;
+9
+%33System.Collections.Generic.Dictionary<TKey, TValue>*
+
+	modelNamestring*_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*
+3
+2*‡
+3v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs8 8(0ƒ
+¡
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs8 8(1
+%5System.Web.Mvc.ViewResult"&System.Web.Mvc.Controller.View(object)*
+System.Web.Mvc.Controller*_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"õ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs8 8(2!
+
+%5System.Web.Mvc.ViewResult*†
+2v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <(%è
+å
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <(%
+%6"__id*
+""ˇ
+¸
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <(&
+
+%7void"*webapiadaptersimplified/views/shared/error*
+
+%8*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject˛
+˚
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <(&
+
+%9void"(webapiadaptersimplified/views/_viewstart*
+
+%10*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÉ
+Ä
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <(&
+%11void",webapiadaptersimplified/views/shared/_layout*
+
+%12*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"á
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs< <('
+
+%11void*ã
+4v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs=	 =(	"ç
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs= =(	
+implicit return*™
+5v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs0; 0(;ß
+§
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs0 0()
+%13"__entrypoint*
+
+	modelNamestring*
+0:
+	modelNamestringBEC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController

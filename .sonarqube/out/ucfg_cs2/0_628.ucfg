@@ -1,0 +1,34 @@
+
+NStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddTemplate(string, dynamic)_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csn n(#"0*“
+0_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csp p(5âß
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csp p(6@
+%0:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template":StackExchange.Profiling.Helpers.Dapper.SqlBuilder.TemplateŸ
+œ
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csp p(
+
+%1void"‡StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Template(StackExchange.Profiling.Helpers.Dapper.SqlBuilder, string, dynamic)*B
+@
+%0:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template*53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+
+sqlstring*
+
+
+parametersdynamic"¥
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csp p(7B
+@
+%0:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template*Ü
+1_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csq	 q(	"v
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csq q(	
+implicit return:
+sqlstring:
+
+parametersdynamicB53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder

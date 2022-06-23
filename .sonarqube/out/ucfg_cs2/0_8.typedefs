@@ -1,0 +1,10 @@
+Ê
+0StackExchange.Profiling.Helpers.StopwatchWrapperobjectY
+StopwatchWrapper()CStackExchange.Profiling.Helpers.StopwatchWrapper.StopwatchWrapper()A
+Stop()7StackExchange.Profiling.Helpers.StopwatchWrapper.Stop()U
+ElapsedTicks.getAStackExchange.Profiling.Helpers.StopwatchWrapper.ElapsedTicks.getU
+ElapsedTicks.setAStackExchange.Profiling.Helpers.StopwatchWrapper.ElapsedTicks.setO
+Frequency.get>StackExchange.Profiling.Helpers.StopwatchWrapper.Frequency.getO
+Frequency.set>StackExchange.Profiling.Helpers.StopwatchWrapper.Frequency.setO
+IsRunning.get>StackExchange.Profiling.Helpers.StopwatchWrapper.IsRunning.getO
+IsRunning.set>StackExchange.Profiling.Helpers.StopwatchWrapper.IsRunning.set

@@ -1,0 +1,121 @@
+
+ûStackExchange.Profiling.Storage.SqlServerStorage.SaveTimings(System.Collections.Generic.List<StackExchange.Profiling.Timing>, System.Data.Common.DbConnection)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.css s( "0*Œ
+0f
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csu ä(*€
+ÿ
+f
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csu à(D
+sqlstring"__id*ÿ’
+“INSERT INTO MiniProfilerTimings
+            (Id,
+             MiniProfilerId,
+             ParentTimingId,
+             Name,
+             DurationMilliseconds,
+             StartMilliseconds,
+             IsRoot,
+             Depth,
+             CustomTimingsJson)
+SELECT       @Id,
+             @MiniProfilerId,
+             @ParentTimingId,
+             @Name,
+             @DurationMilliseconds,
+             @StartMilliseconds,
+             @IsRoot,
+             @Depth,
+             @CustomTimingsJson
+WHERE NOT EXISTS (SELECT 1 FROM MiniProfilerTimings WHERE Id = @Id)*
+1*t
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csõ	 õ(	*
+2
+3*Ì
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså ò(4“
+œ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csê ê(%
+%0System.Guid"%StackExchange.Profiling.Timing.Id.get**
+(
+timingStackExchange.Profiling.Timingﬁ
+€
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csë ë(1
+%1System.Guid"1StackExchange.Profiling.Timing.MiniProfilerId.get**
+(
+timingStackExchange.Profiling.Timingﬁ
+€
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csí í(1
+%2System.Guid"1StackExchange.Profiling.Timing.ParentTimingId.get**
+(
+timingStackExchange.Profiling.Timingœ
+Ã
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csì# ì(.
+%3string"'StackExchange.Profiling.Timing.Name.get**
+(
+timingStackExchange.Profiling.Timingè
+å
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csì# ì(<
+%4string"FStackExchange.Profiling.Helpers.ExtensionMethods.Truncate(string, int)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+%3string*2»Î
+Ë
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csî î(7
+%5System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.get**
+(
+timingStackExchange.Profiling.Timing›
+⁄
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csï ï(4
+%6decimal"4StackExchange.Profiling.Timing.StartMilliseconds.get**
+(
+timingStackExchange.Profiling.Timingœ
+Ã
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csñ ñ()
+
+%7bool")StackExchange.Profiling.Timing.IsRoot.get**
+(
+timingStackExchange.Profiling.Timingœ
+Ã
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csó ó((
+%8short"(StackExchange.Profiling.Timing.Depth.get**
+(
+timingStackExchange.Profiling.Timing‹
+Ÿ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csò ò(4
+%9string"4StackExchange.Profiling.Timing.CustomTimingsJson.get**
+(
+timingStackExchange.Profiling.Timing≠
+™
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså ô(
+
+%10int"†StackExchange.Profiling.Helpers.Dapper.SqlMapper.Execute(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*)
+'
+connSystem.Data.Common.DbConnection*
+
+sqlstring*
+""*
+""*
+""*
+""*
+1*Ï
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csõ	 õ(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csõ õ(	
+implicit return:-
+timings"System.Collections.Generic.List<T>:'
+connSystem.Data.Common.DbConnectionB42
+0StackExchange.Profiling.Storage.SqlServerStorage

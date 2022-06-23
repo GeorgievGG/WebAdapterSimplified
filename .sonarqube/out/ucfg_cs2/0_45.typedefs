@@ -1,0 +1,36 @@
+¿
+1StackExchange.Profiling.Data.ProfiledDbConnectionSystem.Data.Common.DbConnectionSystem.ComponentModel.ComponentSystem.MarshalByRefObjectobjectõ
+_ProfiledDbConnection(System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)‘StackExchange.Profiling.Data.ProfiledDbConnection.ProfiledDbConnection(System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)b
+ChangeDatabase(string)HStackExchange.Profiling.Data.ProfiledDbConnection.ChangeDatabase(string)D
+Close()9StackExchange.Profiling.Data.ProfiledDbConnection.Close()š
+2EnlistTransaction(System.Transactions.Transaction)dStackExchange.Profiling.Data.ProfiledDbConnection.EnlistTransaction(System.Transactions.Transaction)L
+GetSchema()=StackExchange.Profiling.Data.ProfiledDbConnection.GetSchema()X
+GetSchema(string)CStackExchange.Profiling.Data.ProfiledDbConnection.GetSchema(string)l
+GetSchema(string, string[])MStackExchange.Profiling.Data.ProfiledDbConnection.GetSchema(string, string[])B
+Open()8StackExchange.Profiling.Data.ProfiledDbConnection.Open()’
+.BeginDbTransaction(System.Data.IsolationLevel)`StackExchange.Profiling.Data.ProfiledDbConnection.BeginDbTransaction(System.Data.IsolationLevel)X
+CreateDbCommand()CStackExchange.Profiling.Data.ProfiledDbConnection.CreateDbCommand()P
+Dispose(bool)?StackExchange.Profiling.Data.ProfiledDbConnection.Dispose(bool)®
+<StateChangeHandler(object, System.Data.StateChangeEventArgs)nStackExchange.Profiling.Data.ProfiledDbConnection.StateChangeHandler(object, System.Data.StateChangeEventArgs)D
+Clone()9StackExchange.Profiling.Data.ProfiledDbConnection.Clone()h
+System.ICloneable.Clone()KStackExchange.Profiling.Data.ProfiledDbConnection.System.ICloneable.Clone()\
+InnerConnection.getEStackExchange.Profiling.Data.ProfiledDbConnection.InnerConnection.get\
+InnerConnection.setEStackExchange.Profiling.Data.ProfiledDbConnection.InnerConnection.setN
+Profiler.get>StackExchange.Profiling.Data.ProfiledDbConnection.Profiler.getN
+Profiler.set>StackExchange.Profiling.Data.ProfiledDbConnection.Profiler.set`
+WrappedConnection.getGStackExchange.Profiling.Data.ProfiledDbConnection.WrappedConnection.get`
+WrappedConnection.setGStackExchange.Profiling.Data.ProfiledDbConnection.WrappedConnection.setZ
+CanRaiseEvents.getDStackExchange.Profiling.Data.ProfiledDbConnection.CanRaiseEvents.getZ
+CanRaiseEvents.setDStackExchange.Profiling.Data.ProfiledDbConnection.CanRaiseEvents.set^
+ConnectionString.getFStackExchange.Profiling.Data.ProfiledDbConnection.ConnectionString.get^
+ConnectionString.setFStackExchange.Profiling.Data.ProfiledDbConnection.ConnectionString.set`
+ConnectionTimeout.getGStackExchange.Profiling.Data.ProfiledDbConnection.ConnectionTimeout.get`
+ConnectionTimeout.setGStackExchange.Profiling.Data.ProfiledDbConnection.ConnectionTimeout.setN
+Database.get>StackExchange.Profiling.Data.ProfiledDbConnection.Database.getN
+Database.set>StackExchange.Profiling.Data.ProfiledDbConnection.Database.setR
+DataSource.get@StackExchange.Profiling.Data.ProfiledDbConnection.DataSource.getR
+DataSource.set@StackExchange.Profiling.Data.ProfiledDbConnection.DataSource.setX
+ServerVersion.getCStackExchange.Profiling.Data.ProfiledDbConnection.ServerVersion.getX
+ServerVersion.setCStackExchange.Profiling.Data.ProfiledDbConnection.ServerVersion.setH
+	State.get;StackExchange.Profiling.Data.ProfiledDbConnection.State.getH
+	State.set;StackExchange.Profiling.Data.ProfiledDbConnection.State.set

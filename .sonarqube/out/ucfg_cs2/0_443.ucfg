@@ -1,0 +1,50 @@
+
+DStackExchange.Profiling.Storage.SqlServerStorage.GetOpenConnection()g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csë ë(0"0*Ç
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csí î(@œ™
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csí í((%
+%0System.Data.Common.DbConnection"@StackExchange.Profiling.Storage.SqlServerStorage.GetConnection()*42
+0StackExchange.Profiling.Storage.SqlServerStorage2GetConnection()Æ
+Ã
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csí í(()
+resultSystem.Data.Common.DbConnection"__id*'
+%
+%0System.Data.Common.DbConnectionç
+ä
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csî î(!
+%1System.Data.ConnectionState")System.Data.Common.DbConnection.State.get*+
+)
+resultSystem.Data.Common.DbConnection
+}
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csî  î(@
+%2"__id*
+""*
+1
+2*Á
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csï ï(Í
+Ê
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csï ï(
+
+%3void"&System.Data.Common.DbConnection.Open()*+
+)
+resultSystem.Data.Common.DbConnection*
+2*…
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csð ð("–
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csð ð(+
+)
+resultSystem.Data.Common.DbConnection*ì
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csñ	 ñ(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csñ ñ(	
+implicit returnB42
+0StackExchange.Profiling.Storage.SqlServerStorage

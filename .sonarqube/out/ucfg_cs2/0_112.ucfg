@@ -1,0 +1,48 @@
+
+IStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.Load(System.Guid)l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csx x( "0*°
+
+0l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz {(Ï
+Ì
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz z(*
+%0System.Web.Caching.Cache" System.Web.HttpRuntime.Cache.get*"
+System.Web.HttpRuntime–
+“
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz+ z(:
+%1string"PStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetCacheKey(System.Guid)*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+""Ü
+Ù
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz z(;
+%2object")System.Web.Caching.Cache.this[string].get* 
+
+%0System.Web.Caching.Cache*
+
+%1string•
+’
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz z(K
+%3object"__id*
+
+%2object·
+´
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csz z(K.
+result$StackExchange.Profiling.MiniProfiler"__id*
+
+%3object" 
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs{ {(0
+.
+result$StackExchange.Profiling.MiniProfiler*÷
+1l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs|	 |(	"ƒ
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs| |(	
+implicit return:
+idSystem.GuidB;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage

@@ -1,0 +1,29 @@
+
+CStackExchange.Profiling.Data.ProfiledDbConnection.GetSchema(string)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs¯" ¯(+"0*—
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs± ±(7ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs± ±(%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnection•’
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs± ±(8
+%1System.Data.DataTable"1System.Data.Common.DbConnection.GetSchema(string)*'
+%
+%0System.Data.Common.DbConnection*
+
+collectionNamestring2GetSchema(string)"‰
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs± ±(9
+
+%1System.Data.DataTable*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs²	 ²(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cs² ²(	
+implicit return:
+collectionNamestringB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

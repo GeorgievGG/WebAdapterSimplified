@@ -1,0 +1,36 @@
+
+XStackExchange.Profiling.MiniProfiler.Start(StackExchange.Profiling.ProfileLevel, string)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¥# ¥(("0*Ú
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs§ ¨(Eç
+ä
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs§ §(-
+
+%0void"FStackExchange.Profiling.MiniProfiler.Settings.EnsureProfilerProvider()*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsˆ
+…
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¨ ¨(,/
+%1)StackExchange.Profiling.IProfilerProvider"BStackExchange.Profiling.MiniProfiler.Settings.ProfilerProvider.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsôñ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¨ ¨(F*
+%2$StackExchange.Profiling.MiniProfiler"]StackExchange.Profiling.IProfilerProvider.Start(StackExchange.Profiling.ProfileLevel, string)*1
+/
+%1)StackExchange.Profiling.IProfilerProvider*
+""*
+
+sessionNamestring23Start(StackExchange.Profiling.ProfileLevel, string)"‹
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¨ ¨(G,
+*
+%2$StackExchange.Profiling.MiniProfiler*Ô
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs©	 ©(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs© ©(	
+implicit return:-
+level$StackExchange.Profiling.ProfileLevel:
+sessionNamestringB("&
+$StackExchange.Profiling.MiniProfiler

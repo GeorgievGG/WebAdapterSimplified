@@ -1,0 +1,53 @@
+
+JWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.InvalidSample(string)z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs
+ 
+("1*„
+1z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs	 (	*
+0*ç
+0z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs ($Ý
+Ú
+z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs ($
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+errorMessagestring*
+""*
+2
+3*Ê
+2z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs (>Á¾
+z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs (?"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÿ
+ü
+z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+errorMessage*
+4*¯
+3z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs ('¨
+¥
+z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs ('
+%3string"EWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.ErrorMessage.set*86
+4WebApiAdapterSimplified.Areas.HelpPage.InvalidSample*
+
+errorMessagestring*
+4*“
+4z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs	 (	"‘
+z
+pC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\InvalidSample.cs (	
+implicit return:
+errorMessagestringB86
+4WebApiAdapterSimplified.Areas.HelpPage.InvalidSample

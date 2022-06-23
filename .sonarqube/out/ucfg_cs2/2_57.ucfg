@@ -1,0 +1,38 @@
+
+VWebApiAdapterSimplified.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs ()"0*­
+0b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs (aÓ
+Ð
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs (<
+
+%0void"`System.Web.Mvc.RouteCollectionExtensions.IgnoreRoute(System.Web.Routing.RouteCollection, string)*,"*
+(System.Web.Mvc.RouteCollectionExtensions*.
+,
+routes"System.Web.Routing.RouteCollection*
+{resource}.axd/{*pathInfo}Ü
+Ù
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.csL (a!
+%1System.Web.Mvc.UrlParameter"__id*J*H
+System.Web.Mvc.UrlParameter"'
+OptionalSystem.Web.Mvc.UrlParameter‰
+†
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs (
+%2System.Web.Routing.Route"mSystem.Web.Mvc.RouteCollectionExtensions.MapRoute(System.Web.Routing.RouteCollection, string, string, object)*,"*
+(System.Web.Mvc.RouteCollectionExtensions*.
+,
+routes"System.Web.Routing.RouteCollection*	
+Default*
+{controller}/{action}/{id}*
+""*
+1*â
+1b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs	 (	"y
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\RouteConfig.cs (	
+implicit return:,
+routes"System.Web.Routing.RouteCollectionB'"%
+#WebApiAdapterSimplified.RouteConfig

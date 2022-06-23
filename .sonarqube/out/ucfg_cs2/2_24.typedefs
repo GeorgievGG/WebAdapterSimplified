@@ -1,0 +1,9 @@
+™
+1WebApiAdapterSimplified.Areas.HelpPage.TextSampleobjectZ
+TextSample(string)DWebApiAdapterSimplified.Areas.HelpPage.TextSample.TextSample(string)R
+Equals(object)@WebApiAdapterSimplified.Areas.HelpPage.TextSample.Equals(object)P
+GetHashCode()?WebApiAdapterSimplified.Areas.HelpPage.TextSample.GetHashCode()J
+
+ToString()<WebApiAdapterSimplified.Areas.HelpPage.TextSample.ToString()F
+Text.get:WebApiAdapterSimplified.Areas.HelpPage.TextSample.Text.getF
+Text.set:WebApiAdapterSimplified.Areas.HelpPage.TextSample.Text.set

@@ -1,0 +1,13 @@
+Ÿ
+2StackExchange.Profiling.ClientTimings.ClientTimingobjectS
+ClientTiming()AStackExchange.Profiling.ClientTimings.ClientTiming.ClientTiming()G
+Name.get;StackExchange.Profiling.ClientTimings.ClientTiming.Name.getG
+Name.set;StackExchange.Profiling.ClientTimings.ClientTiming.Name.setI
+	Start.get<StackExchange.Profiling.ClientTimings.ClientTiming.Start.getI
+	Start.set<StackExchange.Profiling.ClientTimings.ClientTiming.Start.setO
+Duration.get?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.getO
+Duration.set?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.setC
+Id.get9StackExchange.Profiling.ClientTimings.ClientTiming.Id.getC
+Id.set9StackExchange.Profiling.ClientTimings.ClientTiming.Id.set[
+MiniProfilerId.getEStackExchange.Profiling.ClientTimings.ClientTiming.MiniProfilerId.get[
+MiniProfilerId.setEStackExchange.Profiling.ClientTimings.ClientTiming.MiniProfilerId.set

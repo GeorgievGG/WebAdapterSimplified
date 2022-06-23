@@ -1,0 +1,6 @@
+projectKey=WebAdapterSimplified
+serverUrl=http://localhost:10148
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:10148/dashboard?id=WebAdapterSimplified
+ceTaskId=AYGBVtm93md26yDWuveP
+ceTaskUrl=http://localhost:10148/api/ce/task?id=AYGBVtm93md26yDWuveP

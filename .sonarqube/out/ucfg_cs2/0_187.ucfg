@@ -1,0 +1,59 @@
+
+ùStackExchange.Profiling.SqlFormatters.SqlServerFormatter.GetReturnValueParameter(System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csí' í(>"0*Î
+0o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î("Ï
+È
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î("
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+
+parameters"System.Collections.Generic.List<T>*
+""*
+1
+2*•
+2o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî& î(7¶
+£
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî' î(7
+
+%1bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*2
+0
+
+parameters"System.Collections.Generic.List<T>*
+1
+3*Ô
+1o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî@ î(D"y
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî9 î(E
+""*ö
+3o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï ï(j˚
+¯
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï ï(k0
+%2*StackExchange.Profiling.SqlTimingParameter"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*2
+0
+
+parameters"System.Collections.Generic.List<T>*
+"""•
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï ï(l2
+0
+%2*StackExchange.Profiling.SqlTimingParameter*˝
+4o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csñ	 ñ(	"Ü
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csñ ñ(	
+implicit return:0
+
+parameters"System.Collections.Generic.List<T>B<":
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter

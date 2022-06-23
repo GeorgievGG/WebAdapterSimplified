@@ -1,0 +1,28 @@
+
+CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetInt16(int)l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs» »("0*Ê
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½()÷
+ô
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReaderÝÚ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(*
+%1short"%System.Data.IDataRecord.GetInt16(int)*
+
+%0System.Data.IDataReader*
+""2GetInt16(int)"}
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(+
+
+%1short*÷
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¾	 ¾(	"ƒ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¾ ¾(	
+implicit return:
+indexintB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

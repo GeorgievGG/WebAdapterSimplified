@@ -1,0 +1,13 @@
+Ö	
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilderobjectn
+AddTemplate(string, dynamic)NStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddTemplate(string, dynamic)¨
+9AddClause(string, string, object, string, string, string)kStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddClause(string, string, object, string, string, string)h
+LeftJoin(string, dynamic)KStackExchange.Profiling.Helpers.Dapper.SqlBuilder.LeftJoin(string, dynamic)b
+Where(string, dynamic)HStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Where(string, dynamic)f
+OrderBy(string, dynamic)JStackExchange.Profiling.Helpers.Dapper.SqlBuilder.OrderBy(string, dynamic)d
+Select(string, dynamic)IStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Select(string, dynamic)b
+AddParameters(dynamic)HStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddParameters(dynamic)`
+Join(string, dynamic)GStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Join(string, dynamic)f
+GroupBy(string, dynamic)JStackExchange.Profiling.Helpers.Dapper.SqlBuilder.GroupBy(string, dynamic)d
+Having(string, dynamic)IStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Having(string, dynamic)N
+SqlBuilder()>StackExchange.Profiling.Helpers.Dapper.SqlBuilder.SqlBuilder()

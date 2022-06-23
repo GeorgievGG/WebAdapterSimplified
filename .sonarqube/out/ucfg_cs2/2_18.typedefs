@@ -1,0 +1,9 @@
+ž
+2WebApiAdapterSimplified.Areas.HelpPage.ImageSampleobject]
+ImageSample(string)FWebApiAdapterSimplified.Areas.HelpPage.ImageSample.ImageSample(string)S
+Equals(object)AWebApiAdapterSimplified.Areas.HelpPage.ImageSample.Equals(object)Q
+GetHashCode()@WebApiAdapterSimplified.Areas.HelpPage.ImageSample.GetHashCode()K
+
+ToString()=WebApiAdapterSimplified.Areas.HelpPage.ImageSample.ToString()E
+Src.get:WebApiAdapterSimplified.Areas.HelpPage.ImageSample.Src.getE
+Src.set:WebApiAdapterSimplified.Areas.HelpPage.ImageSample.Src.set

@@ -1,0 +1,101 @@
+
+WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMethodNode(System.Web.Http.Controllers.HttpActionDescriptor)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs[ [(,"0*±
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs]* ^(1ˇ
+¸
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs]F ](w6
+%00System.Web.Http.Controllers.HttpActionDescriptor"__id*F
+D
+actionDescriptor0System.Web.Http.Controllers.HttpActionDescriptorë
+é
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs]* ](wV
+reflectedActionDescriptor9System.Web.Http.Controllers.ReflectedHttpActionDescriptor"__id*8
+6
+%00System.Web.Http.Controllers.HttpActionDescriptoró
+î
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs^ ^(1
+
+%1bool""object.operator !=(object, object)*
+"
+object*X
+V
+reflectedActionDescriptor9System.Web.Http.Controllers.ReflectedHttpActionDescriptor*
+""*
+1
+2*¯
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs` a(K˛
+˚
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs`8 `(T&
+%2 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoç
+ä
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs`V `(f
+%3"__id*
+""¬
+ø
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs`v `(ö"
+%4System.Reflection.MethodInfo"HSystem.Web.Http.Controllers.ReflectedHttpActionDescriptor.MethodInfo.get*X
+V
+reflectedActionDescriptor9System.Web.Http.Controllers.ReflectedHttpActionDescriptor‡
+›
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs`h `(õ
+%5string"kWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMemberName(System.Reflection.MethodInfo)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*$
+"
+%4System.Reflection.MethodInfoç
+ä
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs`* `(ú
+%6string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*(
+&
+%2 System.Globalization.CultureInfo*
+
+%3*
+
+%5string¨
+©
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs` `(ú
+selectExpressionstring"__id*
+
+%6string§
+°
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csa a()%
+%7System.Xml.XPath.XPathNavigator"__id*|*zA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider"5
+_documentNavigatorSystem.Xml.XPath.XPathNavigatorª∏
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csa a(L%
+%8System.Xml.XPath.XPathNavigator"8System.Xml.XPath.XPathNavigator.SelectSingleNode(string)*'
+%
+%7System.Xml.XPath.XPathNavigator*
+
+selectExpressionstring2SelectSingleNode(string)"ü
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csa a(M'
+%
+%8System.Xml.XPath.XPathNavigator*˘
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csd d("~
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csd d(
+""*á
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cse	 e(	"ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cse e(	
+implicit return:D
+actionDescriptor0System.Web.Http.Controllers.HttpActionDescriptorBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

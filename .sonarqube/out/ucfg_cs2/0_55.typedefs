@@ -1,0 +1,12 @@
+ÿ
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReaderobject≠
+vGridReader(System.Data.IDbCommand, System.Data.IDataReader, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)≤StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.GridReader(System.Data.IDbCommand, System.Data.IDataReader, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)R
+	Read<T>()EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<T>()È
+TMultiReadInternal<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(object, string)êStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.MultiReadInternal<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(object, string)€
+MRead<TFirst, TSecond, TReturn>(System.Func<TFirst, TSecond, TReturn>, string)âStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<TFirst, TSecond, TReturn>(System.Func<TFirst, TSecond, TReturn>, string)˚
+]Read<TFirst, TSecond, TThird, TReturn>(System.Func<TFirst, TSecond, TThird, TReturn>, string)ôStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<TFirst, TSecond, TThird, TReturn>(System.Func<TFirst, TSecond, TThird, TReturn>, string)ü
+oRead<TFirst, TSecond, TThird, TFourth, TReturn>(System.Func<TFirst, TSecond, TThird, TFourth, TReturn>, string)´StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<TFirst, TSecond, TThird, TFourth, TReturn>(System.Func<TFirst, TSecond, TThird, TFourth, TReturn>, string)ø
+Read<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(System.Func<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>, string)ªStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(System.Func<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>, string)≤
+∏ReadDeferred<T>(int, System.Func<System.Data.IDataReader, object>, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, System.Func<System.Func<System.Data.IDataReader, object>>)ÙStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.ReadDeferred<T>(int, System.Func<System.Data.IDataReader, object>, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, System.Func<System.Func<System.Data.IDataReader, object>>)X
+NextResult()HStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.NextResult()R
+	Dispose()EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Dispose()

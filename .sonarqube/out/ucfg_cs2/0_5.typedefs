@@ -1,0 +1,12 @@
+≠
+!StackExchange.Profiling.SqlTimingobjectè
+tSqlTiming(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, StackExchange.Profiling.MiniProfiler)ñStackExchange.Profiling.SqlTiming.SqlTiming(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, StackExchange.Profiling.MiniProfiler):
+
+ToString(),StackExchange.Profiling.SqlTiming.ToString()B
+Equals(object)0StackExchange.Profiling.SqlTiming.Equals(object)@
+GetHashCode()/StackExchange.Profiling.SqlTiming.GetHashCode()T
+ExecutionComplete(bool)9StackExchange.Profiling.SqlTiming.ExecutionComplete(bool)P
+ReaderFetchComplete()7StackExchange.Profiling.SqlTiming.ReaderFetchComplete()`
+AddSpacesToParameters(string)?StackExchange.Profiling.SqlTiming.AddSpacesToParameters(string)P
+StartMilliseconds.get7StackExchange.Profiling.SqlTiming.StartMilliseconds.getP
+StartMilliseconds.set7StackExchange.Profiling.SqlTiming.StartMilliseconds.set

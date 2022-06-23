@@ -1,0 +1,82 @@
+
+zWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.CreateDefaultDocumentation(System.Type)â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¸ ¸(1"0*ö
+0â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˛ ˇ(Lˇ
+¸
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csˇ ˇ((:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*´*®T
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"P
+DefaultTypeDocumentation4System.Collections.Generic.IDictionary<TKey, TValue>˛˚
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csˇ ˇ(M
+
+%1bool"RSystem.Collections.Generic.IDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+typeSystem.Type*
+
+documentationstring2TryGetValue(TKey, out TValue)*
+1
+2*π
+1â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÅ Å($"ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÅ Å(%
+
+documentationstring*ˇ
+2â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÉ É(-±
+Æ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÉ É(%Z
+%2TWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider"lWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.DocumentationProvider.get*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator±
+Æ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÉ É(-
+
+%3bool""object.operator !=(object, object)*
+"
+object*\
+Z
+%2TWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider*
+""*
+3
+4*±	
+3â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÖ Ö(K±
+Æ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÖ  Ö(5Z
+%4TWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider"lWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.DocumentationProvider.get*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator•¢
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÖ  Ö(L
+%5string"rWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider.GetDocumentation(System.Type)*\
+Z
+%4TWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider*
+
+typeSystem.Type2GetDocumentation(System.Type)æ
+ª
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÖ Ö(L
+documentationstring"__id*
+
+%5string*
+4*π
+4â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csà à( "ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csà à(!
+
+documentationstring*≥
+5â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csâ	 â(	"°
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csâ â(	
+implicit return:
+typeSystem.TypeBVT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator

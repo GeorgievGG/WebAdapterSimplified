@@ -1,0 +1,40 @@
+
+ÇWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpActionDescriptor)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs, ,(."0*ê
+
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs. /(4Æ
+´
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs.( .(G%
+%0System.Xml.XPath.XPathNavigator"WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMethodNode(System.Web.Http.Controllers.HttpActionDescriptor)*CA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*F
+D
+actionDescriptor0System.Web.Http.Controllers.HttpActionDescriptor◊
+‘
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs. .(G-
+
+methodNodeSystem.Xml.XPath.XPathNavigator"__id*'
+%
+%0System.Xml.XPath.XPathNavigatorÄ
+˝
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs/ /(5
+%1string"tWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTagValue(System.Xml.XPath.XPathNavigator, string)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*/
+-
+
+methodNodeSystem.Xml.XPath.XPathNavigator*	
+summary"Ü
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs/ /(6
+
+%1string*á
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs0	 0(	"ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs0 0(	
+implicit return:D
+actionDescriptor0System.Web.Http.Controllers.HttpActionDescriptorBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

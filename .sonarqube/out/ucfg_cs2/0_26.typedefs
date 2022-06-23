@@ -1,0 +1,65 @@
+˚,
+$StackExchange.Profiling.MiniProfilerobjectû
+zStackExchange.Profiling.Data.IDbProfiler.ExecuteStart(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)üStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.ExecuteStart(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)„
+úStackExchange.Profiling.Data.IDbProfiler.ExecuteFinish(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)¡StackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.ExecuteFinish(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)≈
+NStackExchange.Profiling.Data.IDbProfiler.ReaderFinish(System.Data.IDataReader)sStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.ReaderFinish(System.Data.IDataReader)π
+áStackExchange.Profiling.Data.IDbProfiler.OnError(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Exception)¨StackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.OnError(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Exception)E
+MiniProfiler()3StackExchange.Profiling.MiniProfiler.MiniProfiler()Q
+MiniProfiler(string)9StackExchange.Profiling.MiniProfiler.MiniProfiler(string)ù
+:MiniProfiler(string, StackExchange.Profiling.ProfileLevel)_StackExchange.Profiling.MiniProfiler.MiniProfiler(string, StackExchange.Profiling.ProfileLevel)=
+
+ToString()/StackExchange.Profiling.MiniProfiler.ToString()E
+Equals(object)3StackExchange.Profiling.MiniProfiler.Equals(object)C
+GetHashCode()2StackExchange.Profiling.MiniProfiler.GetHashCode()Q
+GetTimingHierarchy()9StackExchange.Profiling.MiniProfiler.GetTimingHierarchy()7
+Clone(),StackExchange.Profiling.MiniProfiler.Clone()k
+!StepImpl(string, decimal?, bool?)FStackExchange.Profiling.MiniProfiler.StepImpl(string, decimal?, bool?)ï
+6StepImpl(string, StackExchange.Profiling.ProfileLevel)[StackExchange.Profiling.MiniProfiler.StepImpl(string, StackExchange.Profiling.ProfileLevel)A
+IgnoreImpl()1StackExchange.Profiling.MiniProfiler.IgnoreImpl()=
+
+StopImpl()/StackExchange.Profiling.MiniProfiler.StopImpl()a
+GetRoundedMilliseconds(long)AStackExchange.Profiling.MiniProfiler.GetRoundedMilliseconds(long)c
+GetDurationMilliseconds(long)BStackExchange.Profiling.MiniProfiler.GetDurationMilliseconds(long)£
+=OnDeserialized(System.Runtime.Serialization.StreamingContext)bStackExchange.Profiling.MiniProfiler.OnDeserialized(System.Runtime.Serialization.StreamingContext)G
+SqlProfiler.get4StackExchange.Profiling.MiniProfiler.SqlProfiler.getG
+SqlProfiler.set4StackExchange.Profiling.MiniProfiler.SqlProfiler.setì
+5StackExchange.Profiling.Data.IDbProfiler.IsActive.getZStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.IsActive.getì
+5StackExchange.Profiling.Data.IDbProfiler.IsActive.setZStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.IsActive.setA
+IsActive.get1StackExchange.Profiling.MiniProfiler.IsActive.getA
+IsActive.set1StackExchange.Profiling.MiniProfiler.IsActive.set5
+Id.get+StackExchange.Profiling.MiniProfiler.Id.get5
+Id.set+StackExchange.Profiling.MiniProfiler.Id.set9
+Name.get-StackExchange.Profiling.MiniProfiler.Name.get9
+Name.set-StackExchange.Profiling.MiniProfiler.Name.set?
+Started.get0StackExchange.Profiling.MiniProfiler.Started.get?
+Started.set0StackExchange.Profiling.MiniProfiler.Started.setY
+DurationMilliseconds.get=StackExchange.Profiling.MiniProfiler.DurationMilliseconds.getY
+DurationMilliseconds.set=StackExchange.Profiling.MiniProfiler.DurationMilliseconds.setG
+MachineName.get4StackExchange.Profiling.MiniProfiler.MachineName.getG
+MachineName.set4StackExchange.Profiling.MiniProfiler.MachineName.setG
+CustomLinks.get4StackExchange.Profiling.MiniProfiler.CustomLinks.getG
+CustomLinks.set4StackExchange.Profiling.MiniProfiler.CustomLinks.setO
+CustomLinksJson.get8StackExchange.Profiling.MiniProfiler.CustomLinksJson.getO
+CustomLinksJson.set8StackExchange.Profiling.MiniProfiler.CustomLinksJson.set9
+Root.get-StackExchange.Profiling.MiniProfiler.Root.get9
+Root.set-StackExchange.Profiling.MiniProfiler.Root.setI
+RootTimingId.get5StackExchange.Profiling.MiniProfiler.RootTimingId.getI
+RootTimingId.set5StackExchange.Profiling.MiniProfiler.RootTimingId.setK
+ClientTimings.get6StackExchange.Profiling.MiniProfiler.ClientTimings.getK
+ClientTimings.set6StackExchange.Profiling.MiniProfiler.ClientTimings.sete
+ClientTimingsRedirectCount.getCStackExchange.Profiling.MiniProfiler.ClientTimingsRedirectCount.gete
+ClientTimingsRedirectCount.setCStackExchange.Profiling.MiniProfiler.ClientTimingsRedirectCount.set9
+User.get-StackExchange.Profiling.MiniProfiler.User.get9
+User.set-StackExchange.Profiling.MiniProfiler.User.setK
+HasUserViewed.get6StackExchange.Profiling.MiniProfiler.HasUserViewed.getK
+HasUserViewed.set6StackExchange.Profiling.MiniProfiler.HasUserViewed.set;
+	Level.get.StackExchange.Profiling.MiniProfiler.Level.get;
+	Level.set.StackExchange.Profiling.MiniProfiler.Level.set9
+Head.get-StackExchange.Profiling.MiniProfiler.Head.get9
+Head.set-StackExchange.Profiling.MiniProfiler.Head.setI
+ElapsedTicks.get5StackExchange.Profiling.MiniProfiler.ElapsedTicks.getI
+ElapsedTicks.set5StackExchange.Profiling.MiniProfiler.ElapsedTicks.setC
+Stopwatch.get2StackExchange.Profiling.MiniProfiler.Stopwatch.getC
+Stopwatch.set2StackExchange.Profiling.MiniProfiler.Stopwatch.set?
+Storage.get0StackExchange.Profiling.MiniProfiler.Storage.get?
+Storage.set0StackExchange.Profiling.MiniProfiler.Storage.set

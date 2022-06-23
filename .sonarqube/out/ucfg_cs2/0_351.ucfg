@@ -1,0 +1,56 @@
+
+RStackExchange.Profiling.Helpers.Dapper.DynamicParameters.DynamicParameters(object)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csô ô( "1*á
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú	 ú(	ÕÒ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß3 ß(V9
+%03System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß7 ß(T
+
+%1void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>©
+¦
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß& ß(V:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"A
+
+parameters3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>*
+0*¯
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csö ö( ¿
+¼
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csö ö( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*
+
+templateobject*
+""*
+2
+3*†
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csø ø()™
+–
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csø ø(*
+
+%3void"RStackExchange.Profiling.Helpers.Dapper.DynamicParameters.AddDynamicParams(dynamic)*<:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters*
+
+templateobject*
+3*Þ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú	 ú(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú ú(	
+implicit return:
+templateobjectB<:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters

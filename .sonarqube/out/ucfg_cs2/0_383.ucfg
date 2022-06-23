@@ -1,0 +1,92 @@
+
+vStackExchange.Profiling.MiniProfilerExtensions.Inline<T>(StackExchange.Profiling.MiniProfiler, System.Func<T>, string)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ("0*È
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ( ˆ
+Û
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ( 
+
+%0bool":System.Func<T>.operator ==(System.Func<T>, System.Func<T>)*"
+System.Func<TResult>*"
+ 
+selectorSystem.Func<TResult>*
+""*
+1
+2*Å
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs( (L™ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs( (M"
+%1System.ArgumentNullException"System.ArgumentNullException‰
+·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs, (A
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+selector*
+3*”
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ( ‡
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ( 
+
+%3bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+4
+5*á
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs) (3™
+ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs) (3
+%4T"System.Func<TResult>.Invoke()*
+System.Func<TResult>"p
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs" (4	
+
+%4T*ê
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ()†
+ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs (*
+%5System.IDisposable"FStackExchange.Profiling.MiniProfiler.StepImpl(string, decimal?, bool?)*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+namestring*
+""*
+""*
+6*á
+6c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs (!™
+ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs (!
+%6T"System.Func<TResult>.Invoke()*
+System.Func<TResult>"p
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ("	
+
+%6T*m
+7c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs	 (	*
+3*‰
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs (	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler: 
+selectorSystem.Func<TResult>:
+namestringB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

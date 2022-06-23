@@ -1,0 +1,34 @@
+
+@WebApiAdapterSimplified.Controllers.BaseApiController.UserId.getj
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs ("0*Î	
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs! (T˙
+˜
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs! (/4
+%0.System.Web.Http.Controllers.HttpRequestContext"0System.Web.Http.ApiController.RequestContext.get*!
+System.Web.Http.ApiController†ù
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs! (9*
+%1$System.Security.Principal.IPrincipal"<System.Web.Http.Controllers.HttpRequestContext.Principal.get*6
+4
+%0.System.Web.Http.Controllers.HttpRequestContext2Principal.getâÜ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs! (B)
+%2#System.Security.Principal.IIdentity"1System.Security.Principal.IPrincipal.Identity.get*,
+*
+%1$System.Security.Principal.IPrincipal2Identity.get»
+≈
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs! (T
+%3System.Guid"cWebAdapterSimplifiedLibrary.IdentityExtensions.GetUserIdAsGuid(System.Security.Principal.IIdentity)*2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions*+
+)
+%2#System.Security.Principal.IIdentity*
+1*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.csU (U"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.csT (U
+implicit returnB97
+5WebApiAdapterSimplified.Controllers.BaseApiController

@@ -1,0 +1,7 @@
+ä
+#StackExchange.Profiling.SuppressionobjectB
+Suppression()1StackExchange.Profiling.Suppression.Suppression()Š
+1Suppression(StackExchange.Profiling.MiniProfiler)UStackExchange.Profiling.Suppression.Suppression(StackExchange.Profiling.MiniProfiler)`
+System.IDisposable.Dispose()@StackExchange.Profiling.Suppression.System.IDisposable.Dispose()@
+Profiler.get0StackExchange.Profiling.Suppression.Profiler.get@
+Profiler.set0StackExchange.Profiling.Suppression.Profiler.set

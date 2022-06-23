@@ -1,0 +1,27 @@
+
+‘StackExchange.Profiling.Helpers.Dapper.SqlMapper.FilterParameters(System.Collections.Generic.IEnumerable<System.Reflection.PropertyInfo>, string)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¢	1 ¢	(A"0*ì
+0a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤	 ¤	(•ê
+ç
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤	 ¤	(–/
+%0)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*9
+7
+
+parameters)System.Collections.Generic.IEnumerable<T>*
+"""–
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤	 ¤	(—1
+/
+%0)System.Collections.Generic.IEnumerable<T>*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥		 ¥	(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥	 ¥	(	
+implicit return:7
+
+parameters)System.Collections.Generic.IEnumerable<T>:
+sqlstringB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

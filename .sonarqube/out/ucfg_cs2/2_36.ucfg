@@ -1,0 +1,30 @@
+
+¶WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.SetDocumentationProvider(System.Web.Http.HttpConfiguration, System.Web.Http.Description.IDocumentationProvider){
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs (3"0*…
+0{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs (Y”
+‘
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs (3
+%0-System.Web.Http.Controllers.ServicesContainer".System.Web.Http.HttpConfiguration.Services.get*-
++
+config!System.Web.Http.HttpConfigurationæ
+ã
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs (Z
+
+%1void"JSystem.Web.Http.Controllers.ServicesContainer.Replace(System.Type, object)*5
+3
+%0-System.Web.Http.Controllers.ServicesContainer*
+""*M
+K
+documentationProvider2System.Web.Http.Description.IDocumentationProvider*
+1*•
+1{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs	 (	"’
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs (	
+implicit return:+
+config!System.Web.Http.HttpConfiguration:K
+documentationProvider2System.Web.Http.Description.IDocumentationProviderBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

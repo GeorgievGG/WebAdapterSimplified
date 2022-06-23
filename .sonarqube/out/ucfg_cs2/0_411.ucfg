@@ -1,0 +1,105 @@
+
+rStackExchange.Profiling.MiniProfilerExtensions.AddCustomLink(StackExchange.Profiling.MiniProfiler, string, string)e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs´ ´(("0*◊
+0e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≠ ≠( ‚
+ﬂ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≠ ≠( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*“
+2e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≠$ ≠(6›
+⁄
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≠% ≠(6
+
+%1bool"1StackExchange.Profiling.MiniProfiler.IsActive.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+1
+3*€
+1e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∏	 ∏(	"o
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≠8 ≠(?
+""*o
+3e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csØ Ø(*
+4*Ú
+4e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs± ±(0è
+å
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs± ±((9
+%23System.Collections.Generic.Dictionary<TKey, TValue>"4StackExchange.Profiling.MiniProfiler.CustomLinks.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerÎ
+Ë
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs± ±(0
+
+%3bool""object.operator ==(object, object)*
+"
+object*;
+9
+%23System.Collections.Generic.Dictionary<TKey, TValue>*
+""*
+5
+6*ì
+5e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≥ ≥(K⁄◊
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≥+ ≥(K9
+%43System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ı
+Ú
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≥/ ≥(I
+
+%5void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%43System.Collections.Generic.Dictionary<TKey, TValue>Ã
+…
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs≥ ≥(K9
+%63System.Collections.Generic.Dictionary<TKey, TValue>"4StackExchange.Profiling.MiniProfiler.CustomLinks.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*;
+9
+%43System.Collections.Generic.Dictionary<TKey, TValue>*
+6*ﬁ
+6e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∑ ∑(,è
+å
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∑ ∑( 9
+%73System.Collections.Generic.Dictionary<TKey, TValue>"4StackExchange.Profiling.MiniProfiler.CustomLinks.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler⁄
+◊
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∑ ∑(,
+%8"__mapSet*;
+9
+%73System.Collections.Generic.Dictionary<TKey, TValue>*
+
+textstring*
+
+urlstring*
+7*Ë
+7e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∏	 ∏(	"|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs∏ ∏(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+textstring:
+urlstringB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

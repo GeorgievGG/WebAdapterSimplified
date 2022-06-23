@@ -1,0 +1,50 @@
+
+˝StackExchange.Profiling.Helpers.Dapper.SqlMapper.Query<TFirst, TSecond, TThird, TReturn>(System.Data.IDbConnection, string, System.Func<TFirst, TSecond, TThird, TReturn>, dynamic, System.Data.IDbTransaction, bool, string, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì+ ì(0"0*ó
+0a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csõ õ(´é
+ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csõ_ õ(n
+%0dynamic"__id*
+
+paramdynamicÑ
+Å
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csõ õ(¨/
+%1)System.Collections.Generic.IEnumerable<T>"ÈStackExchange.Profiling.Helpers.Dapper.SqlMapper.MultiMap<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(System.Data.IDbConnection, string, object, object, System.Data.IDbTransaction, bool, string, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*"
+ 
+cnnSystem.Data.IDbConnection*
+
+sqlstring*)
+'
+map System.Func<T1, T2, T3, TResult>*
+
+%0dynamic*+
+)
+transactionSystem.Data.IDbTransaction*
+""*
+
+splitOnstring*
+""*
+"""ñ
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csõ õ(≠1
+/
+%1)System.Collections.Generic.IEnumerable<T>*ﬁ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú	 ú(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csú ú(	
+implicit return: 
+cnnSystem.Data.IDbConnection:
+sqlstring:'
+map System.Func<T1, T2, T3, TResult>:
+paramdynamic:)
+transactionSystem.Data.IDbTransaction:
+bufferedbool:
+splitOnstring:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

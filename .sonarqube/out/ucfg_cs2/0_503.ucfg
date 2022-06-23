@@ -1,0 +1,34 @@
+
+DStackExchange.Profiling.Data.SimpleProfiledCommand.ExecuteNonQuery()g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csR R(""0*¥
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csT T(P
+}
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csT T(6
+%0"__id*
+""î
+ë
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csT8 T(@
+%1System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommandÌ
+É
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csT T(Q	
+%2int"ŠStackExchange.Profiling.Data.SimpleProfiledCommand.ProfileWith<TResult>(StackExchange.Profiling.Data.SqlExecuteType, System.Func<TResult>)*64
+2StackExchange.Profiling.Data.SimpleProfiledCommand*
+
+%0*
+"""v
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csT T(R
+	
+%2int*ì
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csU	 U(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csU U(	
+implicit returnB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

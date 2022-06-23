@@ -1,0 +1,32 @@
+
+BStackExchange.Profiling.Helpers.Dapper.SqlMapper.PurgeQueryCache()`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÎ Î(*"0*æ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÐ Ñ( ¾
+»
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÐ Ð(F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*ˆ*…2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper"O
+_queryCache@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>Ç
+Ä
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÐ Ð(
+
+%1void"
+__mapClear*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>î
+ë
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ( 
+
+%2void"EStackExchange.Profiling.Helpers.Dapper.SqlMapper.OnQueryCachePurged()*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*
+1*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÒ	 Ò(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÒ Ò(	
+implicit returnB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

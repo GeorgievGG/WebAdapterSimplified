@@ -1,0 +1,163 @@
+
+ïWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.GenerateComplexObject(System.Type, System.Collections.Generic.Dictionary<System.Type, object>)~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‘ ‘(3"0*ì
+0~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs÷ ÿ(D£
+†
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs÷ ÷( 
+resultobject"__id*
+""ﬂ
+‹
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÿ ÿ(E
+
+%0bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*P
+N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+typeSystem.Type*
+
+resultobject*
+1
+2*ö
+1~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs€ €("î
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs€ €(
+
+resultobject*—
+2~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csﬁ ﬁ( √
+¿
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csﬁ ﬁ( 
+
+%1bool"System.Type.IsValueType.get*
+
+typeSystem.Type*
+3
+4*•
+3~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‡ ‡(6Ï
+È
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‡ ‡(7
+%2object",System.Activator.CreateInstance(System.Type)*"
+System.Activator*
+
+typeSystem.Type´
+®
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‡ ‡(7
+resultobject"__id*
+
+%2object*
+5*∑	
+4~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‰  Â('Œ
+À
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‰B ‰(Q
+%3System.Type[]"__id*.*,
+System.Type"
+
+EmptyTypesSystem.Type[]Ö
+Ç
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‰. ‰(R'
+%4!System.Reflection.ConstructorInfo")System.Type.GetConstructor(System.Type[])*
+
+typeSystem.Type*
+
+%3System.Type[]Ê
+„
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs‰  ‰(R0
+defaultCtor!System.Reflection.ConstructorInfo"__id*)
+'
+%4!System.Reflection.ConstructorInfoÁ
+‰
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÂ Â('
+
+%5bool"sSystem.Reflection.ConstructorInfo.operator ==(System.Reflection.ConstructorInfo, System.Reflection.ConstructorInfo)*%"#
+!System.Reflection.ConstructorInfo*2
+0
+defaultCtor!System.Reflection.ConstructorInfo*
+""*
+6
+7*é
+6~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csË Ë("à
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csË Ë( 
+""*‰
+7~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÎ Î(8ùö
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÎ, Î(9
+%6object[]"object[]ã
+à
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÎ Î(:
+%7object"2System.Reflection.ConstructorInfo.Invoke(object[])*2
+0
+defaultCtor!System.Reflection.ConstructorInfo*
+
+%6object[]´
+®
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÎ Î(:
+resultobject"__id*
+
+%7object*
+5*Ç
+5~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÌ (ñ
+ì
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÌ Ì(5
+
+%8void"__mapSet*P
+N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+typeSystem.Type*
+
+resultobjectÊ
+„
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÓ Ó(F
+
+%9void"õWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.SetPublicProperties(System.Type, object, System.Collections.Generic.Dictionary<System.Type, object>)*:"8
+6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator*
+
+typeSystem.Type*
+
+resultobject*P
+N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>„
+‡
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÔ Ô(B
+%10void"óWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.SetPublicFields(System.Type, object, System.Collections.Generic.Dictionary<System.Type, object>)*:"8
+6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator*
+
+typeSystem.Type*
+
+resultobject*P
+N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>"î
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.cs (
+
+resultobject*õ
+8~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÒ	 Ò(	"ï
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÒ Ò(	
+implicit return:
+typeSystem.Type:N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>B:"8
+6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator

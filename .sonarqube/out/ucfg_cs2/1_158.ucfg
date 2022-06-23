@@ -1,0 +1,100 @@
+
+‹WebAdapterSimplifiedLibrary.IdentityExtensions.GetDataIsolationPolicy(System.Collections.Generic.IEnumerable<System.Security.Claims.Claim>)d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs+ (A"0*“
+0d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs "(Ý
+Ú
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (["
+%0System.Security.Claims.Claim"sSystem.Linq.Enumerable.Single<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*5
+3
+claims)System.Collections.Generic.IEnumerable<T>*
+""Á
+¾
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs ([*
+
+userRightsSystem.Security.Claims.Claim"__id*$
+"
+%0System.Security.Claims.Claim¿¼
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (,
+%1&Newtonsoft.Json.JsonSerializerSettings"&Newtonsoft.Json.JsonSerializerSettingsæ
+ã
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (5
+
+%2void"?Newtonsoft.Json.JsonSerializerSettings.JsonSerializerSettings()*.
+,
+%1&Newtonsoft.Json.JsonSerializerSettingsûø
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs# (OJ
+%3DNewtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver"DNewtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver²
+¯
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' (M
+
+%4void"mNewtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolver.CamelCasePropertyNamesContractResolver()*L
+J
+%3DNewtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolverÛ
+Ø
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (O5
+%5/Newtonsoft.Json.Serialization.IContractResolver";Newtonsoft.Json.JsonSerializerSettings.ContractResolver.set*.
+,
+%1&Newtonsoft.Json.JsonSerializerSettings*L
+J
+%3DNewtonsoft.Json.Serialization.CamelCasePropertyNamesContractResolverÓ
+Ð
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (2
+settings&Newtonsoft.Json.JsonSerializerSettings"__id*.
+,
+%1&Newtonsoft.Json.JsonSerializerSettingsÍ
+Ê
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.csO (_
+%6string"&System.Security.Claims.Claim.Value.get*,
+*
+
+userRightsSystem.Security.Claims.Claimî
+ë
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (j9
+%73WebAdapterSimplifiedLibrary.UserPrivilegesViewModel"aNewtonsoft.Json.JsonConvert.DeserializeObject<T>(string, Newtonsoft.Json.JsonSerializerSettings?)*"
+Newtonsoft.Json.JsonConvert*
+
+%6string*4
+2
+settings&Newtonsoft.Json.JsonSerializerSettingsê
+ç
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (j<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel"__id*;
+9
+%73WebAdapterSimplifiedLibrary.UserPrivilegesViewModel·
+´
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs   (\5
+%8/WebAdapterSimplifiedLibrary.DataIsolationPolicy"WebAdapterSimplifiedLibrary.PrivilegesToDataIsolationPolicyHelper.GetDataIsolationPolicy(WebAdapterSimplifiedLibrary.UserPrivilegesViewModel)*E"C
+AWebAdapterSimplifiedLibrary.PrivilegesToDataIsolationPolicyHelper*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModelã
+à
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs   (\9
+policy/WebAdapterSimplifiedLibrary.DataIsolationPolicy"__id*7
+5
+%8/WebAdapterSimplifiedLibrary.DataIsolationPolicy"£
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs" "(;
+9
+policy/WebAdapterSimplifiedLibrary.DataIsolationPolicy*æ
+1d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs#	 #(	"{
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs# #(	
+implicit return:3
+claims)System.Collections.Generic.IEnumerable<T>B2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions

@@ -1,0 +1,28 @@
+
+GStackExchange.Profiling.Data.SimpleProfiledDataReader.GetFieldType(int)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs? ?( "0*◊
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csA A(-ı
+Ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csA A(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReaderÈÊ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csA A(.
+%1System.Type")System.Data.IDataRecord.GetFieldType(int)*
+
+%0System.Data.IDataReader*
+""2GetFieldType(int)"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csA A(/
+
+%1System.Type*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csB	 B(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csB B(	
+implicit return:
+indexintB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

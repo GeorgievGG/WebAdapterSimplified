@@ -1,0 +1,75 @@
+
+WStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.InsertIntoCache(string, object)n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csç ç($"0*ˇ
+0n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csè ô(&∏
+µ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csè è()
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTimeí
+è
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csè. è(;
+%1System.TimeSpan"IStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.CacheDuration.get*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage‚
+ﬂ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csè è(<
+%2System.DateTime"$System.DateTime.Add(System.TimeSpan)*
+
+%0System.DateTime*
+
+%1System.TimeSpan±
+Æ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csè è(<
+
+expirationSystem.DateTime"__id*
+
+%2System.DateTime—
+Œ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csí í(
+%3System.Web.Caching.Cache" System.Web.HttpRuntime.Cache.get*"
+System.Web.HttpRuntimeÿ
+’
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csó# ó(O
+%4System.TimeSpan"__id*F*D
+System.Web.Caching.Cache"&
+NoSlidingExpirationSystem.TimeSpaná
+Ñ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csò ò(B
+%5"__id*
+""‚
+ﬂ
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csí ô('
+
+%6void"»System.Web.Caching.Cache.Insert(string, object, System.Web.Caching.CacheDependency, System.DateTime, System.TimeSpan, System.Web.Caching.CacheItemPriority, System.Web.Caching.CacheItemRemovedCallback)* 
+
+%3System.Web.Caching.Cache*
+
+keystring*
+
+valueobject*
+""*
+
+
+expirationSystem.DateTime*
+
+%4System.TimeSpan*
+
+%5*
+""*
+1*˚
+1n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csö	 ö(	"Ö
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csö ö(	
+implicit return:
+keystring:
+valueobjectB;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage

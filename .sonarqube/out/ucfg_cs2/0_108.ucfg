@@ -1,0 +1,38 @@
+
+VStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.SetViewed(string, System.Guid)l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csj j("0*‹
+0l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csl n(Á
+¾
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csl l(1(
+%0"System.Collections.Generic.List<T>"UStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetPerUserUnviewedIds(string)*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+
+userstringÎ
+Ë
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csl l(1)
+ids"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>*
+1*Ù
+1l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csp p(à
+Ý
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csp p(
+
+%1bool",System.Collections.Generic.List<T>.Remove(T)*+
+)
+ids"System.Collections.Generic.List<T>*
+""*
+2*÷
+2l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csr	 r(	"ƒ
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csr r(	
+implicit return:
+userstring:
+idSystem.GuidB;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage

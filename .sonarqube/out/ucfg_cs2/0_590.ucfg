@@ -1,0 +1,28 @@
+
+CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetValue(int)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csI I("0*ƒ
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csK K()ı
+Ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csK K(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReader‹Ÿ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csK K(*
+%1object"%System.Data.IDataRecord.GetValue(int)*
+
+%0System.Data.IDataReader*
+""2GetValue(int)"|
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csK K(+
+
+%1object*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csL	 L(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csL L(	
+implicit return:
+indexintB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

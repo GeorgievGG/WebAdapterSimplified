@@ -1,0 +1,40 @@
+
+sStackExchange.Profiling.Data.Link<TKey, TValue>.Link(TKey, TValue, StackExchange.Profiling.Data.Link<TKey, TValue>)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs ("1*`
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs	 (	*
+0*õ
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs (ä
+á
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs (
+
+%0TKey"7StackExchange.Profiling.Data.Link<TKey, TValue>.Key.set*31
+/StackExchange.Profiling.Data.Link<TKey, TValue>*
+
+keyTKeyì
+é
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs (
+%1TValue"9StackExchange.Profiling.Data.Link<TKey, TValue>.Value.set*31
+/StackExchange.Profiling.Data.Link<TKey, TValue>*
+
+valueTValue¼
+¹
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs (5
+%2/StackExchange.Profiling.Data.Link<TKey, TValue>"8StackExchange.Profiling.Data.Link<TKey, TValue>.Tail.set*31
+/StackExchange.Profiling.Data.Link<TKey, TValue>*9
+7
+tail/StackExchange.Profiling.Data.Link<TKey, TValue>*
+2*Ê
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs	 (	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs (	
+implicit return:
+keyTKey:
+valueTValue:7
+tail/StackExchange.Profiling.Data.Link<TKey, TValue>B31
+/StackExchange.Profiling.Data.Link<TKey, TValue>

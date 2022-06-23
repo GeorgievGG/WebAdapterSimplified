@@ -1,0 +1,314 @@
+
+{StackExchange.Profiling.WebRequestProfilerProvider.EnsureName(StackExchange.Profiling.MiniProfiler, System.Web.HttpRequest)i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csù ù(&"0*î
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs† †(7ﬂ
+‹
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs†* †(7
+%0string"-StackExchange.Profiling.MiniProfiler.Name.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerπ
+∂
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs† †(8
+
+%1bool"!string.IsNullOrWhiteSpace(string)*
+"
+string*
+
+%0string*
+1
+2*ã
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs¢ •(Á
+‰
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs¢ ¢(/'
+%2!System.Web.Routing.RequestContext")System.Web.HttpRequest.RequestContext.get*#
+!
+requestSystem.Web.HttpRequest»
+≈
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs¢ ¢(/'
+rc!System.Web.Routing.RequestContext"__id*)
+'
+%2!System.Web.Routing.RequestContext›
+⁄
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs• •(
+
+%3bool""object.operator !=(object, object)*
+"
+object*)
+'
+rc!System.Web.Routing.RequestContext*
+""*
+3
+4*—
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•" •(6˝˙
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•" •(."
+%4System.Web.Routing.RouteData"/System.Web.Routing.RequestContext.RouteData.get*)
+'
+rc!System.Web.Routing.RequestContext2RouteData.getÿ
+’
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•" •(6
+
+%5bool""object.operator !=(object, object)*
+"
+object*$
+"
+%4System.Web.Routing.RouteData*
+""*
+5
+4*§
+5i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•: •(b˝˙
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•D •(P"
+%6System.Web.Routing.RouteData"/System.Web.Routing.RequestContext.RouteData.get*)
+'
+rc!System.Web.Routing.RequestContext2RouteData.getÏ
+È
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•D •(W-
+%7'System.Web.Routing.RouteValueDictionary"'System.Web.Routing.RouteData.Values.get*$
+"
+%6System.Web.Routing.RouteDataÿ
+’
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•; •(W1
+values'System.Web.Routing.RouteValueDictionary"__id*/
+-
+%7'System.Web.Routing.RouteValueDictionary·
+ﬁ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs•: •(^	
+%8int"1System.Web.Routing.RouteValueDictionary.Count.get*3
+1
+values'System.Web.Routing.RouteValueDictionary*
+6
+4*î
+6i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csß ™(*À
+»
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csß% ß(9
+%9object"__mapGet*3
+1
+values'System.Web.Routing.RouteValueDictionary*
+
+Controllerö
+ó
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csß ß(9
+
+controllerobject"__id*
+
+%9object»
+≈
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs®! ®(1
+%10object"__mapGet*3
+1
+values'System.Web.Routing.RouteValueDictionary*
+
+Actionó
+î
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs® ®(1
+actionobject"__id*
+
+%10objectÀ
+»
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs™ ™(*
+%11bool""object.operator !=(object, object)*
+"
+object*
+
+
+controllerobject*
+""*
+7
+4*¿
+7i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs™. ™(<«
+ƒ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs™. ™(<
+%12bool""object.operator !=(object, object)*
+"
+object*
+
+actionobject*
+""*
+8
+4*ü
+8i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´ ´(W¥±
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´( ´(=
+%13string"object.ToString()*
+
+
+controllerobject2
+ToString()ü
+ú
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´( ´(C
+%14string"__concat*
+
+%13string*
+/∞≠
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´F ´(W
+%15string"object.ToString()*
+
+actionobject2
+ToString()©
+¶
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´( ´(W
+%16string"__concat*
+
+%14string*
+
+%15stringÒ
+Ó
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs´ ´(W
+%17string"-StackExchange.Profiling.MiniProfiler.Name.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+%16string*
+4*ó
+4i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÆ Æ(;‡
+›
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÆ. Æ(;
+%18string"-StackExchange.Profiling.MiniProfiler.Name.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerª
+∏
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÆ Æ(<
+%19bool"!string.IsNullOrWhiteSpace(string)*
+"
+string*
+
+%18string*
+9
+2*°
+9i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞ ∞(<∆
+√
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞$ ∞(/
+%23
+System.Uri"System.Web.HttpRequest.Url.get*#
+!
+requestSystem.Web.HttpRequestØ
+¨
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞$ ∞(<
+%24string"System.Uri.AbsolutePath.get*
+
+%23
+System.Uriî
+ë
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞$ ∞(<
+%21string"__id*
+
+%24stringî
+ë
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞$ ∞(<
+%20string"__id*
+
+%21string*
+10
+11*»
+10i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞@ ∞(L¢
+ü
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞@ ∞(L
+%25string"__id**
+string"
+Emptystringî
+ë
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞@ ∞(L
+%22string"__id*
+
+%25stringî
+ë
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞@ ∞(L
+%20string"__id*
+
+%22string*
+11*
+11i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞ ±(1Ò
+Ó
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs∞ ∞(L
+%26string"-StackExchange.Profiling.MiniProfiler.Name.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+%20string‡
+›
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs± ±(%
+%27string"-StackExchange.Profiling.MiniProfiler.Name.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerû
+õ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs± ±(,
+
+%28int"string.Length.get*
+
+%27string*
+12
+2*ˆ
+12i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs≤ ≤(?‡
+›
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs≤( ≤(5
+%29string"-StackExchange.Profiling.MiniProfiler.Name.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler®
+•
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs≤( ≤(@
+%30string"string.Remove(int)*
+
+%29string*22Ò
+Ó
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.cs≤ ≤(@
+%31string"-StackExchange.Profiling.MiniProfiler.Name.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+%30string*
+2*Ò
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csµ	 µ(	"Ä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csµ µ(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:!
+requestSystem.Web.HttpRequestB6"4
+2StackExchange.Profiling.WebRequestProfilerProvider

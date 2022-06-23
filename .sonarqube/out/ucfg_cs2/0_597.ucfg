@@ -1,0 +1,47 @@
+
+ìStackExchange.Profiling.Data.SimpleProfiledConnection.SimpleProfiledConnection(System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csI I('"1*t
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csP	 P(	*
+0*Ì
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csK L( Ö
+Ç
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csK K($c7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"(
+_connectionSystem.Data.IDbConnection"__id*)
+'
+
+connectionSystem.Data.IDbConnectionÎ
+Ë
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csL L( 
+
+%0bool""object.operator !=(object, object)*
+"
+object*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+""*
+2
+3*ñ
+2j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csN N($ü
+ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csN N($p7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+3*Û
+3j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csP	 P(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csP P(	
+implicit return:'
+
+connectionSystem.Data.IDbConnection:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB97
+5StackExchange.Profiling.Data.SimpleProfiledConnection

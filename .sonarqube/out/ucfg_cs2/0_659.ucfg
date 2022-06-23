@@ -1,0 +1,28 @@
+
+FStackExchange.Profiling.Data.SimpleProfiledDataReader.GetDateTime(int)l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csù ù(#"0*Â
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csü ü(,˜
+Ù
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csü ü(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReaderÌÍ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csü ü(-
+%1System.DateTime"(System.Data.IDataRecord.GetDateTime(int)*
+
+%0System.Data.IDataReader*
+""2GetDateTime(int)"á
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csü ü(.
+
+%1System.DateTime*˜
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs†	 †(	"É
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs† †(	
+implicit return:
+indexintB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

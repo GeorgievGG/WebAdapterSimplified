@@ -1,0 +1,35 @@
+
+cWebAdapterSimplifiedLibrary.IdentityExtensions.GetUserIdAsGuid(System.Security.Principal.IIdentity)d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs% %(*"0*ò
+0d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' '(7Æ
+Ã
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' '(8
+%0string"fWebAdapterSimplifiedLibrary.IdentityExtensions.GetUserIdFromClaim(System.Security.Principal.IIdentity)*2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions*1
+/
+identity#System.Security.Principal.IIdentity‰†
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' '(9
+%1System.Guid"System.Guid´
+±
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' '(
+
+%2void"System.Guid.Guid(string)*
+
+%1System.Guid*
+
+%0string"{
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs' '(:
+
+%1System.Guid*æ
+1d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs(	 ((	"{
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs( ((	
+implicit return:/
+identity#System.Security.Principal.IIdentityB2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions

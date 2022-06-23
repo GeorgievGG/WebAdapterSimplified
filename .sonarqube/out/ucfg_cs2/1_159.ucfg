@@ -1,0 +1,69 @@
+
+fWebAdapterSimplifiedLibrary.IdentityExtensions.GetUserIdFromClaim(System.Security.Principal.IIdentity)d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs* *(0"0*ñ
+0d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs, ,(;Õ
+ 
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs,! ,(;)
+%0#System.Security.Principal.IIdentity"__id*1
+/
+identity#System.Security.Principal.IIdentity’
+“
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs, ,(;7
+claimsIdentity%System.Security.Claims.ClaimsIdentity"__id*+
+)
+%0#System.Security.Principal.IIdentity*
+1*q
+1d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs6	 6(	*
+2
+3*õ
+2d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs0 0(Yìê
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs0 0(,/
+%1)System.Collections.Generic.IEnumerable<T>"0System.Security.Claims.ClaimsIdentity.Claims.get*9
+7
+claimsIdentity%System.Security.Claims.ClaimsIdentity2
+Claims.getŸ
+÷
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs0 0(Z"
+%2System.Security.Claims.Claim"sSystem.Linq.Enumerable.Single<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+""≈
+¬
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs0 0(`
+%3string"&System.Security.Claims.Claim.Value.get*$
+"
+%2System.Security.Claims.Claim"v
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs0 0(a
+
+%3string*‘
+3d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs4 4(:ìê
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs4 4(;
+%4System.Exception"System.ExceptionÕ
+ 
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs4 4(#
+
+%5void""System.Exception.Exception(string)*
+
+%4System.Exception*
+GetUserIdFromClaim()*
+4*Ê
+4d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs6	 6(	"{
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs6 6(	
+implicit return:/
+identity#System.Security.Principal.IIdentityB2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions

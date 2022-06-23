@@ -1,0 +1,50 @@
+
+oWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.IsBindableWithTypeConverter(System.Type)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs   (7"0*á
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÃ Ã(%˙
+˜
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÃ Ã(%
+
+%0bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+parameterTypeSystem.Type*
+""*
+1
+2*å
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csŒ Œ("á
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csŒ Œ(
+""*”
+2}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs— —([∑
+¥
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs— —(=)
+%1#System.ComponentModel.TypeConverter">System.ComponentModel.TypeDescriptor.GetConverter(System.Type)*("&
+$System.ComponentModel.TypeDescriptor*
+
+parameterTypeSystem.TypeÑ
+Å
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs— —(\
+
+%2bool"?System.ComponentModel.TypeConverter.CanConvertFrom(System.Type)*+
+)
+%1#System.ComponentModel.TypeConverter*
+"""ç
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs— —(]
+
+
+%2bool*ô
+3}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs“	 “(	"î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs“ “(	
+implicit return:
+parameterTypeSystem.TypeBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

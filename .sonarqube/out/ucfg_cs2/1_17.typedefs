@@ -1,0 +1,14 @@
+Ÿ
+$WebAdapterSimplifiedLibrary.BaseDataobject=
+
+BaseData()/WebAdapterSimplifiedLibrary.BaseData.BaseData()S
+BaseData(System.Guid):WebAdapterSimplifiedLibrary.BaseData.BaseData(System.Guid)c
+BaseData(System.Guid, string)BWebAdapterSimplifiedLibrary.BaseData.BaseData(System.Guid, string)5
+Id.get+WebAdapterSimplifiedLibrary.BaseData.Id.get5
+Id.set+WebAdapterSimplifiedLibrary.BaseData.Id.set9
+Name.get-WebAdapterSimplifiedLibrary.BaseData.Name.get9
+Name.set-WebAdapterSimplifiedLibrary.BaseData.Name.setE
+IsSelected.get3WebAdapterSimplifiedLibrary.BaseData.IsSelected.getE
+IsSelected.set3WebAdapterSimplifiedLibrary.BaseData.IsSelected.setA
+StatusId.get1WebAdapterSimplifiedLibrary.BaseData.StatusId.getA
+StatusId.set1WebAdapterSimplifiedLibrary.BaseData.StatusId.set

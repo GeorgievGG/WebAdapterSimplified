@@ -1,0 +1,145 @@
+
+[StackExchange.Profiling.Data.ProfiledDbDataAdapter.InitCommands(System.Data.IDbDataAdapter)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csI I(!"0*Å
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csK K(4ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csK K(,
+%0System.Data.IDbCommand",System.Data.IDbDataAdapter.SelectCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2SelectCommand.getÐ
+Í
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csK K(4
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Data.IDbCommand*
+""*
+1
+2*æ
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csM M(=ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csM! M(=
+%2System.Data.IDbCommand",System.Data.IDbDataAdapter.SelectCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2SelectCommand.getô
+ñ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csM M(=`4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"(
+_selectCommandSystem.Data.IDbCommand"__id*
+
+%2System.Data.IDbCommand*
+2*Å
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csO O(4ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csO O(,
+%3System.Data.IDbCommand",System.Data.IDbDataAdapter.DeleteCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2DeleteCommand.getÐ
+Í
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csO O(4
+
+%4bool""object.operator !=(object, object)*
+"
+object*
+
+%3System.Data.IDbCommand*
+""*
+3
+4*æ
+3g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csQ Q(=ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csQ! Q(=
+%5System.Data.IDbCommand",System.Data.IDbDataAdapter.DeleteCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2DeleteCommand.getô
+ñ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csQ Q(=`4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"(
+_deleteCommandSystem.Data.IDbCommand"__id*
+
+%5System.Data.IDbCommand*
+4*Å
+4g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csS S(4ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csS S(,
+%6System.Data.IDbCommand",System.Data.IDbDataAdapter.UpdateCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2UpdateCommand.getÐ
+Í
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csS S(4
+
+%7bool""object.operator !=(object, object)*
+"
+object*
+
+%6System.Data.IDbCommand*
+""*
+5
+6*æ
+5g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csU U(=ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csU! U(=
+%8System.Data.IDbCommand",System.Data.IDbDataAdapter.UpdateCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2UpdateCommand.getô
+ñ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csU U(=`4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"(
+_updateCommandSystem.Data.IDbCommand"__id*
+
+%8System.Data.IDbCommand*
+6*Æ
+6g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csW W(4ûø
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csW W(,
+%9System.Data.IDbCommand",System.Data.IDbDataAdapter.InsertCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2InsertCommand.getÑ
+Î
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csW W(4
+%10bool""object.operator !=(object, object)*
+"
+object*
+
+%9System.Data.IDbCommand*
+""*
+7
+8*è
+7g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csY Y(=üù
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csY! Y(=
+%11System.Data.IDbCommand",System.Data.IDbDataAdapter.InsertCommand.get*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter2InsertCommand.getõ
+ò
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csY Y(=`4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"(
+_insertCommandSystem.Data.IDbCommand"__id*
+
+%11System.Data.IDbCommand*
+8*ì
+8g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs[	 [(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs[ [(	
+implicit return:,
+wrappedAdapterSystem.Data.IDbDataAdapterB64
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter

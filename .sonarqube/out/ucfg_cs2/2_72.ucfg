@@ -1,0 +1,161 @@
+
+…WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpParameterDescriptor)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs2 2(."0*Ë
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs4- 5(4‰
+†
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs4L 4(ƒ9
+%03System.Web.Http.Controllers.HttpParameterDescriptor"__id*L
+J
+parameterDescriptor3System.Web.Http.Controllers.HttpParameterDescriptor›
+˜
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs4- 4(ƒ\
+reflectedParameterDescriptor<System.Web.Http.Controllers.ReflectedHttpParameterDescriptor"__id*;
+9
+%03System.Web.Http.Controllers.HttpParameterDescriptor
+š
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs5 5(4
+
+%1bool""object.operator !=(object, object)*
+"
+object*^
+\
+reflectedParameterDescriptor<System.Web.Http.Controllers.ReflectedHttpParameterDescriptor*
+""*
+1
+2*Í
+
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs7 8(&Û
+Ø
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs7: 7(g6
+%20System.Web.Http.Controllers.HttpActionDescriptor"HSystem.Web.Http.Controllers.HttpParameterDescriptor.ActionDescriptor.get*^
+\
+reflectedParameterDescriptor<System.Web.Http.Controllers.ReflectedHttpParameterDescriptor 
+
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs7, 7(h%
+%3System.Xml.XPath.XPathNavigator"WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMethodNode(System.Web.Http.Controllers.HttpActionDescriptor)*CA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*8
+6
+%20System.Web.Http.Controllers.HttpActionDescriptor×
+Ô
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs7 7(h-
+
+methodNodeSystem.Xml.XPath.XPathNavigator"__id*'
+%
+%3System.Xml.XPath.XPathNavigatorî
+ë
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs8 8(&
+
+%4bool""object.operator !=(object, object)*
+"
+object*/
+-
+
+methodNodeSystem.Xml.XPath.XPathNavigator*
+""*
+3
+2*¡
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs: <(-Ð
+Í
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs:+ :(U%
+%5System.Reflection.ParameterInfo"NSystem.Web.Http.Controllers.ReflectedHttpParameterDescriptor.ParameterInfo.get*^
+\
+reflectedParameterDescriptor<System.Web.Http.Controllers.ReflectedHttpParameterDescriptoräá
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs:+ :(Z
+%6string"(System.Reflection.ParameterInfo.Name.get*'
+%
+%5System.Reflection.ParameterInfo2Name.get¨
+¥
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs: :(Z
+parameterNamestring"__id*
+
+%6stringþ
+û
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs;] ;(y&
+%7 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoŽ
+‹
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs;{ ;(Ž
+%8"__id*
+""˜
+•
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs;O ;(ž
+%9string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*(
+&
+%7 System.Globalization.CultureInfo*
+
+%8*
+
+parameterNamestring·´
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs;3 ;(Ÿ&
+%10System.Xml.XPath.XPathNavigator"8System.Xml.XPath.XPathNavigator.SelectSingleNode(string)*/
+-
+
+methodNodeSystem.Xml.XPath.XPathNavigator*
+
+%9string2SelectSingleNode(string)Ü
+Ù
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs;# ;(Ÿ0
+parameterNodeSystem.Xml.XPath.XPathNavigator"__id*(
+&
+%10System.Xml.XPath.XPathNavigatorò
+ï
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs< <(-
+%11bool""object.operator !=(object, object)*
+"
+object*2
+0
+parameterNodeSystem.Xml.XPath.XPathNavigator*
+""*
+4
+2*“
+4t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs> >(9â
+ß
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs> >(2
+%12string"$System.Xml.XPath.XPathItem.Value.get*2
+0
+parameterNodeSystem.Xml.XPath.XPathNavigator¨
+¥
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs> >(9
+%13string"string.Trim()*
+
+%12string"‡
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs> >(:
+
+%13string*ù
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csC C("~
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csC C(
+""*‡
+5t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csD	 D(	"‹
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csD D(	
+implicit return:J
+parameterDescriptor3System.Web.Http.Controllers.HttpParameterDescriptorBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

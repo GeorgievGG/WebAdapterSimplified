@@ -1,0 +1,27 @@
+
+fWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.ModelNameAttribute(string)€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs (!"1*Ï
+1€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs	 (	B
+@
+
+%0void"System.Attribute.Attribute()*
+System.Attribute*
+0*Û
+0€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs (Í
+Ê
+€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs (
+%1string"TWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.Name.set*OM
+KWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameAttribute*
+
+namestring*
+2*¡
+2€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs	 (	"˜
+€
+vC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs (	
+implicit return:
+namestringBOM
+KWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameAttribute

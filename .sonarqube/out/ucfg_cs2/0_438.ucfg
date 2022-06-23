@@ -1,0 +1,79 @@
+
+§StackExchange.Profiling.Storage.SqlServerStorage.PopulateChildTimings(StackExchange.Profiling.Timing, System.Linq.ILookup<System.Guid, StackExchange.Profiling.Timing>)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÔ Ô()"0*Ý
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÖ Ö(8Ò
+Ï
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÖ/ Ö(8
+%0System.Guid"%StackExchange.Profiling.Timing.Id.get**
+(
+parentStackExchange.Profiling.Timing‘Ž
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÖ Ö(9
+
+%1bool"2System.Linq.ILookup<TKey, TElement>.Contains(TKey)*>
+<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>*
+
+%0System.Guid2Contains(TKey)*
+1
+2*ñ
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csØ' Ø(hÒ
+Ï
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csØ= Ø(F
+%2System.Guid"%StackExchange.Profiling.Timing.Id.get**
+(
+parentStackExchange.Profiling.Timing¶³
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csØ' Ø(G/
+%3)System.Collections.Generic.IEnumerable<T>"2System.Linq.ILookup<TKey, TElement>.this[TKey].get*>
+<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>*
+
+%2System.Guid2this[TKey].getï
+ì
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csØ' Ø(i.
+%4(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*1
+/
+%3)System.Collections.Generic.IEnumerable<T>*
+""*
+3*t
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÞ	 Þ(	*
+4
+2*Ô
+4g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÚ Û(F™
+–
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÚ Ú(+
+
+%5void"GStackExchange.Profiling.Timing.AddChild(StackExchange.Profiling.Timing)**
+(
+parentStackExchange.Profiling.Timing**
+(
+timingStackExchange.Profiling.TimingÄ
+Á
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÛ Û(G
+
+%6void"§StackExchange.Profiling.Storage.SqlServerStorage.PopulateChildTimings(StackExchange.Profiling.Timing, System.Linq.ILookup<System.Guid, StackExchange.Profiling.Timing>)*42
+0StackExchange.Profiling.Storage.SqlServerStorage**
+(
+timingStackExchange.Profiling.Timing*>
+<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>*
+3*ì
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÞ	 Þ(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÞ Þ(	
+implicit return:(
+parentStackExchange.Profiling.Timing:<
+timingsLookupByParent#System.Linq.ILookup<TKey, TElement>B42
+0StackExchange.Profiling.Storage.SqlServerStorage

@@ -1,0 +1,91 @@
+
+£StackExchange.Profiling.Data.SimpleProfiledTransaction.SimpleProfiledTransaction(System.Data.IDbTransaction, StackExchange.Profiling.Data.SimpleProfiledConnection)k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs (("1*u
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs	 (	*
+0*Ü
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs (#á
+Þ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs (#
+
+%0bool""object.operator ==(object, object)*
+"
+object*+
+)
+transactionSystem.Data.IDbTransaction*
+""*
+2
+3*œ
+2k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs+ (R²¯
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs+ (S"
+%1System.ArgumentNullException"System.ArgumentNullExceptionï
+ì
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs/ (D
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+transaction*
+4*ö
+3k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs ("û
+ø
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs ("
+
+%3bool""object.operator ==(object, object)*
+"
+object*E
+C
+
+connection5StackExchange.Profiling.Data.SimpleProfiledConnection*
+""*
+5
+6*›
+5k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs* (P²¯
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs* (Q"
+%4System.ArgumentNullException"System.ArgumentNullExceptionî
+ë
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs. (C
+
+%5void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%4System.ArgumentNullException*
+
+connection*
+4*Æ
+6k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs ($‹
+ˆ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs (&f8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"*
+_transactionSystem.Data.IDbTransaction"__id*+
+)
+transactionSystem.Data.IDbTransactionÀ
+½
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs ($€8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"D
+_connection5StackExchange.Profiling.Data.SimpleProfiledConnection"__id*E
+C
+
+connection5StackExchange.Profiling.Data.SimpleProfiledConnection*
+4*õ
+4k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs	 (	"‚
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.cs (	
+implicit return:)
+transactionSystem.Data.IDbTransaction:C
+
+connection5StackExchange.Profiling.Data.SimpleProfiledConnectionB:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction

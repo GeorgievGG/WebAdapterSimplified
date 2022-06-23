@@ -1,0 +1,120 @@
+
+•StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.TryAdd(ref StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>, TKey, ref TValue)^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs\ \(%"0*h
+0^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs^ ^(*
+1*π	
+1^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csa c(7Ì
+Í
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csa# a(TI
+%0CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>"<System.Threading.Interlocked.CompareExchange<T>(ref T, T, T)* "
+System.Threading.Interlocked*M
+K
+headCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*
+""*
+""á
+Ñ
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csa a(TO
+snapshotCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>"__id*K
+I
+%0CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>—
+Œ
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csc c(8
+
+%1bool"°StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.TryGet(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>, TKey, out TValue)*G"E
+CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*Q
+O
+snapshotCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*
+
+keyTKey*
+
+foundTValue*
+2
+3*›
+2^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cse f($ç
+ä
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cse e(%
+valueTValue"__id*
+
+foundTValue"h
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csf f(%
+""*å
+3^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csh j(cÛ
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csh" h(NI
+%2CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>"CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>œ
+Ã
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csh& h(8
+
+%3void"õStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Link(TKey, TValue, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>)*K
+I
+%2CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*
+
+keyTKey*
+
+valueTValue*Q
+O
+snapshotCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>Ü
+É
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csh h(NN
+newNodeCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>"__id*K
+I
+%2CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>Ç
+ˇ
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csj j(WI
+%4CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>"<System.Threading.Interlocked.CompareExchange<T>(ref T, T, T)* "
+System.Threading.Interlocked*M
+K
+headCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*P
+N
+newNodeCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*Q
+O
+snapshotCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>ø
+º
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csj j(c
+
+%5bool""object.operator !=(object, object)*
+"
+object*K
+I
+%4CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>*Q
+O
+snapshotCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>â
+Ü
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csj j(c
+tryAgainbool"__id*
+
+
+%5bool*
+4*k
+4^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csk k(!*
+1
+5*Õ
+5^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csl l("h
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csl l(
+""*⁄
+6^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csm m("u
+^
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csm m(
+implicit return:K
+headCStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>:
+keyTKey:
+valueTValueBG"E
+CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>

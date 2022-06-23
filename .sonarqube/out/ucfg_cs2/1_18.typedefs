@@ -1,0 +1,5 @@
+á
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogicobject—
+°MatrixPrivilegeLogic(WebAdapterSimplifiedLibrary.ICacheService, WebAdapterSimplifiedLibrary.IDbContextScopeFactory, WebAdapterSimplifiedLibrary.IMatrixUserManagementRepository)áWebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.MatrixPrivilegeLogic(WebAdapterSimplifiedLibrary.ICacheService, WebAdapterSimplifiedLibrary.IDbContextScopeFactory, WebAdapterSimplifiedLibrary.IMatrixUserManagementRepository)‘
+.CheckMatrixPrivilege(System.Guid, System.Guid)_WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.CheckMatrixPrivilege(System.Guid, System.Guid)w
+!GetUserAllPrivileges(System.Guid)RWebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.GetUserAllPrivileges(System.Guid)

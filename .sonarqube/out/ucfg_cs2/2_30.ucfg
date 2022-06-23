@@ -1,0 +1,118 @@
+
+^WebApiAdapterSimplified.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs	 	(*"0*¯#
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (*º·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (<*
+%0$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleó
+ð
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs ((
+
+%1void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%0$System.Web.Optimization.ScriptBundle*
+~/bundles/jqueryŠ‡
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (8$
+%2System.Web.Optimization.Bundle"_System.Web.Optimization.Bundle.Include(string, params System.Web.Optimization.IItemTransform[])*,
+*
+%0$System.Web.Optimization.ScriptBundle*!
+~/Scripts/jquery-{version}.js*
+""2@Include(string, params System.Web.Optimization.IItemTransform[])¡
+ž
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (9
+
+%3void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%2System.Web.Optimization.Bundleº·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (?*
+%4$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs ((
+
+%5void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%4$System.Web.Optimization.ScriptBundle*
+~/bundles/modernizr‚ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (0$
+%6System.Web.Optimization.Bundle"_System.Web.Optimization.Bundle.Include(string, params System.Web.Optimization.IItemTransform[])*,
+*
+%4$System.Web.Optimization.ScriptBundle*
+~/Scripts/modernizr-**
+""2@Include(string, params System.Web.Optimization.IItemTransform[])¡
+ž
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (1
+
+%7void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*&
+$
+%6System.Web.Optimization.Bundleº·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (?*
+%8$System.Web.Optimization.ScriptBundle"$System.Web.Optimization.ScriptBundleö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs ((
+
+%9void"9System.Web.Optimization.ScriptBundle.ScriptBundle(string)*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/bundles/bootstrap„
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (/%
+%10System.Web.Optimization.Bundle"_System.Web.Optimization.Bundle.Include(string, params System.Web.Optimization.IItemTransform[])*,
+*
+%8$System.Web.Optimization.ScriptBundle*
+~/Scripts/bootstrap.js*
+""2@Include(string, params System.Web.Optimization.IItemTransform[])£
+ 
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (0
+%11void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*'
+%
+%10System.Web.Optimization.Bundle¹¶
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (8*
+%12#System.Web.Optimization.StyleBundle"#System.Web.Optimization.StyleBundleï
+ì
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs ('
+%13void"7System.Web.Optimization.StyleBundle.StyleBundle(string)*,
+*
+%12#System.Web.Optimization.StyleBundle*
+~/Content/cssÅÂ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (+%
+%14System.Web.Optimization.Bundle"7System.Web.Optimization.Bundle.Include(params string[])*,
+*
+%12#System.Web.Optimization.StyleBundle*
+~/Content/bootstrap.css*
+~/Content/site.css2Include(params string[])£
+ 
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (,
+%15void"LSystem.Web.Optimization.BundleCollection.Add(System.Web.Optimization.Bundle)*5
+3
+bundles(System.Web.Optimization.BundleCollection*'
+%
+%14System.Web.Optimization.Bundle*
+1*ä
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\BundleConfig.cs (	
+implicit return:3
+bundles(System.Web.Optimization.BundleCollectionB("&
+$WebApiAdapterSimplified.BundleConfig

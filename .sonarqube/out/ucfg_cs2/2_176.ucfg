@@ -1,0 +1,36 @@
+
+„WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs³. ³(H"0*´
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csµ ·(2«
+¨
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csµ, µ(=F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"0System.Web.Http.HttpConfiguration.Properties.get*-
++
+config!System.Web.Http.HttpConfigurationÖ
+Ó
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csµ, ·(3
+%1object"jSystem.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.GetOrAdd(TKey, System.Func<TKey, TValue>)*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+""*
+""ž
+›
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csµ ·(3
+%2"__id*
+
+%1object"‡
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csµ ·(4
+
+%2*™
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¸	 ¸(	"”
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¸ ¸(	
+implicit return:+
+config!System.Web.Http.HttpConfigurationBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

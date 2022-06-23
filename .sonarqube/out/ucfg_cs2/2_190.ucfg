@@ -1,0 +1,147 @@
+
+ÑWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GetMemberName(System.Reflection.MemberInfo, bool)â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÕ Õ(+"0*ü
+0â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csœ" –($¯
+ı
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csœ1 œ(c+
+%0%Newtonsoft.Json.JsonPropertyAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfo˚
+¯
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csœ" œ(c5
+jsonProperty%Newtonsoft.Json.JsonPropertyAttribute"__id*-
++
+%0%Newtonsoft.Json.JsonPropertyAttributeå
+â
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs– –($
+
+%1bool""object.operator !=(object, object)*
+"
+object*7
+5
+jsonProperty%Newtonsoft.Json.JsonPropertyAttribute*
+""*
+1
+2*Ä
+1â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs–( –(Wé
+ã
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs–> –(W
+%2string"6Newtonsoft.Json.JsonPropertyAttribute.PropertyName.get*7
+5
+jsonProperty%Newtonsoft.Json.JsonPropertyAttribute’
+“
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs–) –(X
+
+%3bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+%2string*
+3
+2*ø
+3â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs“ “(0é
+ã
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs“ “(0
+%4string"6Newtonsoft.Json.JsonPropertyAttribute.PropertyName.get*7
+5
+jsonProperty%Newtonsoft.Json.JsonPropertyAttribute"ú
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs“ “(1
+
+%4string*ó
+2â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs’ ’((*
+4
+5*«
+4â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs◊$ ÿ(&É
+Ä
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs◊1 ◊(a6
+%50System.Runtime.Serialization.DataMemberAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoè
+å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs◊$ ◊(a>
+
+dataMember0System.Runtime.Serialization.DataMemberAttribute"__id*8
+6
+%50System.Runtime.Serialization.DataMemberAttributeï
+í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÿ ÿ(&
+
+%6bool""object.operator !=(object, object)*
+"
+object*@
+>
+
+dataMember0System.Runtime.Serialization.DataMemberAttribute*
+""*
+6
+5*å
+6â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÿ* ÿ(Oö
+ó
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÿ@ ÿ(O
+%7string"9System.Runtime.Serialization.DataMemberAttribute.Name.get*@
+>
+
+dataMember0System.Runtime.Serialization.DataMemberAttribute’
+“
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÿ+ ÿ(P
+
+%8bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+%7string*
+7
+5*À
+7â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs⁄ ⁄(*ö
+ó
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs⁄ ⁄(*
+%9string"9System.Runtime.Serialization.DataMemberAttribute.Name.get*@
+>
+
+dataMember0System.Runtime.Serialization.DataMemberAttribute"ú
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs⁄ ⁄(+
+
+%9string*°
+5â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csﬁ ﬁ(Ô
+Ï
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csﬁ ﬁ(
+%10string"%System.Reflection.MemberInfo.Name.get*(
+&
+memberSystem.Reflection.MemberInfo"ù
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csﬁ ﬁ(
+
+%10string*≥
+8â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csﬂ	 ﬂ(	"°
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csﬂ ﬂ(	
+implicit return:&
+memberSystem.Reflection.MemberInfo: 
+hasDataContractAttributeboolBV"T
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator

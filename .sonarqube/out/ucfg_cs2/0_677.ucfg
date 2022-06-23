@@ -1,0 +1,132 @@
+
+:StackExchange.Profiling.Data.SimpleProfiledCommand.Clone()i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csƒ ƒ("0*¢
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs… †(ð
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs… …(
+%0System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommand²
+¯
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs… …(-
+%1System.Data.IDbCommand"__id*
+
+%0System.Data.IDbCommand¯
+¬
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs… …(-
+tailSystem.ICloneable"__id*
+
+%1System.Data.IDbCommandÏ
+Ì
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs† †(
+
+%2bool""object.operator ==(object, object)*
+"
+object*
+
+tailSystem.ICloneable*
+""*
+1
+2*Ô
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡ ‡(nð
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡@ ‡(H
+%3System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommand³
+°
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡@ ‡(R
+%4System.Type"object.GetType()*
+
+%3System.Data.IDbCommand¸
+µ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡@ ‡(W
+%5string"%System.Reflection.MemberInfo.Name.get*
+
+%4System.Type§
+¤
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡0 ‡(W
+%6string"__concat*
+Underlying *
+
+%5string®
+«
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡0 ‡(n
+%7string"__concat*
+
+%6string*
+ is not cloneable.°­
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡ ‡(o"
+%8System.NotSupportedException"System.NotSupportedExceptionì
+é
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‡ ‡(/
+
+%9void":System.NotSupportedException.NotSupportedException(string)*$
+"
+%8System.NotSupportedException*
+
+%7string*
+3*¢
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰ ‰(]¾»
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰9 ‰(E
+%10object"System.ICloneable.Clone()*
+
+tailSystem.ICloneable2Clone()Œ
+‰
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰- ‰(E
+%11"__id*
+
+%10objectú
+÷
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰G ‰(R 
+%12System.Data.IDbConnection"__id*b*`4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"(
+_connectionSystem.Data.IDbConnection–
+“
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰T ‰(]/
+%13(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerÝÚ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰ ‰(^9
+%142StackExchange.Profiling.Data.SimpleProfiledCommand"2StackExchange.Profiling.Data.SimpleProfiledCommandÀ
+½
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰ ‰(,
+%15void"¥StackExchange.Profiling.Data.SimpleProfiledCommand.SimpleProfiledCommand(System.Data.IDbCommand, System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)*;
+9
+%142StackExchange.Profiling.Data.SimpleProfiledCommand*
+
+%11*"
+ 
+%12System.Data.IDbConnection*1
+/
+%13(StackExchange.Profiling.Data.IDbProfiler"¨
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs‰ ‰(_;
+9
+%142StackExchange.Profiling.Data.SimpleProfiledCommand*ñ
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csŠ	 Š(	"€
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csŠ Š(	
+implicit returnB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

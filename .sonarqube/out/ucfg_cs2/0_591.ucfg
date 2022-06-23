@@ -1,0 +1,54 @@
+
+¼StackExchange.Profiling.Helpers.Dapper.SqlMapper.TryGetQueryCache(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, out StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÀ À(,"0*×
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(6¾
+»
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*ˆ*…2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper"O
+_queryCache@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>¦
+£
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(7
+
+%1bool"^System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*B
+@
+key9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*E
+C
+value:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*
+1
+2*Ô
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ Å(€
+ý
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ Ä(!
+
+%2void"FStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.RecordHit()*E
+C
+value:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"j
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÅ Å(
+""*Œ
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÇ È(¸
+µ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÇ Ç(C
+value:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"__id*
+"""j
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÈ È(
+""*Þ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÉ	 É(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÉ É(	
+implicit return:@
+key9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity:C
+value:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

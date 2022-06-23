@@ -1,0 +1,75 @@
+
+DStackExchange.Profiling.Helpers.ExtensionMethods.FromJson<T>(string)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csS S(""0*ó
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU U(þ
+û
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU U(
+
+%0bool"AStackExchange.Profiling.Helpers.ExtensionMethods.HasValue(string)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+sstring*
+1
+2*ð
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU" U(MÜÙ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU" U(<:
+%44System.Web.Script.Serialization.JavaScriptSerializer"4System.Web.Script.Serialization.JavaScriptSerializer
+þ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU& U(:
+
+%5void"KSystem.Web.Script.Serialization.JavaScriptSerializer.JavaScriptSerializer()*<
+:
+%44System.Web.Script.Serialization.JavaScriptSerializer
+Š
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU" U(N
+%6T"KSystem.Web.Script.Serialization.JavaScriptSerializer.Deserialize<T>(string)*<
+:
+%44System.Web.Script.Serialization.JavaScriptSerializer*
+
+sstring„
+
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU" U(N
+%2T"__id*	
+
+%6T„
+
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU" U(N
+%1T"__id*	
+
+%2T*
+3*ñ
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csUQ U(U}
+{
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csUQ U(U
+%3"__id*
+""€
+~
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csUQ U(U
+%1T"__id*
+
+%3*
+3*Þ
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csV	 V(	"r
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csU U(V	
+
+%1T*è
+4e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csV	 V(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csV V(	
+implicit return:
+sstringB4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods

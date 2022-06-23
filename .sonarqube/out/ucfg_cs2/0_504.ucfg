@@ -1,0 +1,99 @@
+
+îStackExchange.Profiling.Storage.MultiStorageProvider.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs,! ,(%"0*Ì
+0i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs. .(ì
+ê
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs. .((
+%0"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProviderﬁ
+€
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs. .(
+
+%1bool""object.operator !=(object, object)*
+"
+object**
+(
+%0"System.Collections.Generic.List<T>*
+""*
+1
+2*â
+1i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs0& 0(,ì
+ê
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs0& 0(,(
+%2"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProvider*
+3*v
+3i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs:	 :(	*
+4
+2*’
+4i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs2 3('èå
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs2" 2(P/
+%3)System.Collections.Generic.IEnumerable<T>"àStackExchange.Profiling.Storage.IStorage.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)*3
+1
+store(StackExchange.Profiling.Storage.IStorage*
+""*
+
+startSystem.Nullable<T>*
+
+finishSystem.Nullable<T>*
+""2_List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)›
+⁄
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs2 2(P4
+results)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%3)System.Collections.Generic.IEnumerable<T>Í
+Á
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs3 3('
+
+%4bool""object.operator !=(object, object)*
+"
+object*6
+4
+results)System.Collections.Generic.IEnumerable<T>*
+""*
+5
+3*ù
+5i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs3+ 3(8§
+°
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs3+ 3(8
+
+%5bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*6
+4
+results)System.Collections.Generic.IEnumerable<T>*
+6
+3*î
+6i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs5 5(&"£
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs5 5('6
+4
+results)System.Collections.Generic.IEnumerable<T>*„
+2i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs9 9(#"s
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs9 9($
+""*Ò
+7i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs:	 :(	"Ä
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs: :(	
+implicit return:
+
+maxResultsint:
+startSystem.Nullable<T>:
+finishSystem.Nullable<T>:;
+orderBy0StackExchange.Profiling.Storage.ListResultsOrderB86
+4StackExchange.Profiling.Storage.MultiStorageProvider

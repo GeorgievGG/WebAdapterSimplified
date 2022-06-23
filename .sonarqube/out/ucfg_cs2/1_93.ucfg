@@ -1,0 +1,127 @@
+
+4WebAdapterSimplifiedLibrary.Context.GetContextName()X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (,"0*e
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs%	 %(	*
+1
+2*Æ
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (,Œ
+‰
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs' (H6
+%00WebAdapterSimplifiedLibrary.DataIsolationContext"AWebAdapterSimplifiedLibrary.DataIsolationScope.CurrentContext.get*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScopeã
+à
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (HD
+isolationContext0WebAdapterSimplifiedLibrary.DataIsolationContext"__id*8
+6
+%00WebAdapterSimplifiedLibrary.DataIsolationContexté
+æ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (,
+
+%1bool""object.operator ==(object, object)*
+"
+object*F
+D
+isolationContext0WebAdapterSimplifiedLibrary.DataIsolationContext*
+""*
+3
+4*Æ
+3X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs ($"g
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (%	
+Context*™
+
+4X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs" (s™
+–
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs" (95
+%2/WebAdapterSimplifiedLibrary.DataIsolationPolicy";WebAdapterSimplifiedLibrary.DataIsolationContext.Policy.get*F
+D
+isolationContext0WebAdapterSimplifiedLibrary.DataIsolationContextÞ
+Û
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs" (>
+%3string"8WebAdapterSimplifiedLibrary.DataIsolationPolicy.Name.get*7
+5
+%2/WebAdapterSimplifiedLibrary.DataIsolationPolicy—
+”
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.csB (n5
+%4/WebAdapterSimplifiedLibrary.DataIsolationPolicy"LWebAdapterSimplifiedLibrary.DataIsolationPolicy.DataRestrictionByNothing.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicyÞ
+Û
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.csB (s
+%5string"8WebAdapterSimplifiedLibrary.DataIsolationPolicy.Name.get*7
+5
+%4/WebAdapterSimplifiedLibrary.DataIsolationPolicy¹
+¶
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs" (s
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+%3string*
+
+%5string*
+5
+6*Ó
+5X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (1u
+s
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (1
+%8"__id*	
+Contextx
+v
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (1
+%7string"__id*
+
+%8*
+7*Ü
+6X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (:~
+|
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (:
+%9"__id*
+ContextIsolationx
+v
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs( (:
+%7string"__id*
+
+%9*
+7*ß
+7X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs ("Š
+‡
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (:
+contextNamestring"__id*
+
+%7string"s
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (#
+
+contextNamestring*Æ
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs# #( "g
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs# #(!	
+Context*Î
+8X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs%	 %(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs% %(	
+implicit returnB'"%
+#WebAdapterSimplifiedLibrary.Context

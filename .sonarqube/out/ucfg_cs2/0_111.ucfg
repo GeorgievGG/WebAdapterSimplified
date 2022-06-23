@@ -1,0 +1,27 @@
+
+EStackExchange.Profiling.Data.ProfiledDbTransaction.IsolationLevel.getg
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs: :("0*ı
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs: :(4Ü
+É
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs: :(%&
+%0 System.Data.Common.DbTransaction"__id*j*h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransactionÌ
+Í
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs: :(4 
+%1System.Data.IsolationLevel"3System.Data.Common.DbTransaction.IsolationLevel.get*(
+&
+%0 System.Data.Common.DbTransaction"ç
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs: :(5"
+ 
+%1System.Data.IsolationLevel*Ï
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs:7 :(7"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs:6 :(7
+implicit returnB64
+2StackExchange.Profiling.Data.ProfiledDbTransaction

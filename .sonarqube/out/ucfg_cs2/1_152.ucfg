@@ -1,0 +1,45 @@
+
+RWebAdapterSimplifiedLibrary.DataIsolationScope.RunInSystemUserScope(System.Action)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs; ;(/"0*õ	
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs= =(Gö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs=6 =(G6
+%00WebAdapterSimplifiedLibrary.DataIsolationContext"DWebAdapterSimplifiedLibrary.DataIsolationScope.SystemUserContext.get*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScopeŒÀ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs= =(H4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope".WebAdapterSimplifiedLibrary.DataIsolationScope€
+ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs=# =(5
+
+%2void"sWebAdapterSimplifiedLibrary.DataIsolationScope.DataIsolationScope(WebAdapterSimplifiedLibrary.DataIsolationContext)*6
+4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope*8
+6
+%00WebAdapterSimplifiedLibrary.DataIsolationContextﬂ
+‹
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs= =(H7
+scope.WebAdapterSimplifiedLibrary.DataIsolationScope"__id*6
+4
+%1.WebAdapterSimplifiedLibrary.DataIsolationScope*
+1*è
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs? ?(ü
+ú
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs? ?(
+
+%3void"System.Action.Invoke()*
+System.Action*
+2*‰
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csA	 A(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csA A(	
+implicit return:
+actionSystem.ActionB2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

@@ -1,0 +1,60 @@
+
+`WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.UnwrapException(System.Exception)†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cså" å(1"0*È
+0†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csç è(*Ë
+È
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csç4 ç(S
+%0System.Exception"__id*
+
+	exceptionSystem.ExceptionÝ
+Ú
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csç ç(S/
+aggregateExceptionSystem.AggregateException"__id*
+
+%0System.Exceptionƒ
+€
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csè è(*
+
+%1bool""object.operator !=(object, object)*
+"
+object*1
+/
+aggregateExceptionSystem.AggregateException*
+""*
+1
+2*©
+1†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csê ê(B…
+‚
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csê ê(3
+%2System.AggregateException"#System.AggregateException.Flatten()*1
+/
+aggregateExceptionSystem.AggregateExceptionì
+é
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csê ê(B
+%3System.Exception"#System.Exception.InnerException.get*!
+
+%2System.AggregateException"£
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csê ê(C
+
+%3System.Exception*¹
+2†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csì ì("ª
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csì ì(
+
+	exceptionSystem.Exception*­
+3†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csí	 í(	"ž
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csí í(	
+implicit return:
+	exceptionSystem.ExceptionBB"@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

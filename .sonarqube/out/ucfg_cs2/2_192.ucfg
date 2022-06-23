@@ -1,0 +1,567 @@
+
+{WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GetOrCreateModelDescription(System.Type)á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csn  n(;"0*ô
+0á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csp p(!Å
+˛
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csp p(!
+
+%0bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+	modelTypeSystem.Type*
+""*
+1
+2*Ò
+1á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csr r(;œÃ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csr r(<"
+%1System.ArgumentNullException"System.ArgumentNullExceptionä
+á
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csr r(/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+	modelType*
+3*Ï
+2á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csu v(&Å
+˛
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csu" u(G
+%3System.Type".System.Nullable.GetUnderlyingType(System.Type)*"
+System.Nullable*
+
+	modelTypeSystem.Type«
+ƒ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csu u(G
+underlyingTypeSystem.Type"__id*
+
+%3System.TypeÜ
+É
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csv v(&
+
+%4bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+underlyingTypeSystem.Type*
+""*
+4
+5*„
+4á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csx x(*Œ
+À
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csx x(*
+	modelTypeSystem.Type"__id*
+
+underlyingTypeSystem.Type*
+5*Î
+5á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs{ }(KÈ
+Ê
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs| |(F
+%5string"bWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameHelper.GetModelName(System.Type)*L"J
+HWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelNameHelper*
+
+	modelTypeSystem.Type∏
+µ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs| |(F
+	modelNamestring"__id*
+
+%5stringà
+Ö
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs} }(9
+%63System.Collections.Generic.Dictionary<TKey, TValue>"fWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GeneratedModels.get*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator°
+û
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs} }(L
+
+%7bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*;
+9
+%63System.Collections.Generic.Dictionary<TKey, TValue>*
+
+	modelNamestring*_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*
+6
+7*É
+6á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs (;⁄
+◊
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs! (;
+%8System.Type"WWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription.ModelType.get*_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptioné
+ã
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs (;
+
+%9bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+	modelTypeSystem.Type*
+
+%8System.Type*
+8
+9*õ
+8â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÅ à(.ì
+ê
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÉ É(6'
+%10 System.Globalization.CultureInfo"3System.Globalization.CultureInfo.CurrentCulture.get*$""
+ System.Globalization.CultureInfoâ
+Ü
+ä
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÑ Ö(ê
+%11"__concat*nl
+jA model description could not be created. Duplicate model name '{0}' was found for types '{1}' and '{2}'. *vt
+rUse the [ModelName] attribute to change the model name for at least one of the types so that it has a unique name.›
+⁄
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csá á(6
+%12System.Type"WWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription.ModelType.get*_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionŒ
+À
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csá á(?
+%13string"System.Type.FullName.get*
+
+%12System.Type‘
+—
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csà à(.
+%14string"System.Type.FullName.get*
+
+	modelTypeSystem.Typeﬁ
+€
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÇ à(/
+%15string"Estring.Format(System.IFormatProvider, string, object, object, object)*
+"
+string*)
+'
+%10 System.Globalization.CultureInfo*
+
+%11*
+
+	modelNamestring*
+
+%13string*
+
+%14string⁄◊
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÅ à(0'
+%16 System.InvalidOperationException" System.InvalidOperationExceptionú
+ô
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÅ Å(7
+%17void"BSystem.InvalidOperationException.InvalidOperationException(string)*)
+'
+%16 System.InvalidOperationException*
+
+%15string*
+3*ˇ
+9â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csã ã('"Ì
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csã ã((_
+]
+modelDescriptionIWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*Ò
+7â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csé é(>Ä
+˝
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csé é((;
+%184System.Collections.Generic.IDictionary<TKey, TValue>"__id*´*®T
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"P
+DefaultTypeDocumentation4System.Collections.Generic.IDictionary<TKey, TValue>“œ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csé é(?
+%19bool"FSystem.Collections.Generic.IDictionary<TKey, TValue>.ContainsKey(TKey)*=
+;
+%184System.Collections.Generic.IDictionary<TKey, TValue>*
+
+	modelTypeSystem.Type2ContainsKey(TKey)*
+10
+11*–
+10â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csê ê(C⁄
+◊
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csê ê(DP
+%20IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"ÇWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateSimpleTypeModelDescription(System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type"‡
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csê ê(ER
+P
+%20IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*˘
+11â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csì ì( ‹Ÿ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csì ì( 
+%21bool"System.Type.IsEnum.get*
+
+	modelTypeSystem.Type2
+IsEnum.get*
+12
+13*ﬁ
+12â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csï ï(A‡
+›
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csï ï(BX
+%22QWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription"ÄWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateEnumTypeModelDescription(System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type"Ë
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csï ï(CZ
+X
+%22QWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription*á
+13â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csò ò('ÍÁ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csò ò('
+%23bool"System.Type.IsGenericType.get*
+
+	modelTypeSystem.Type2IsGenericType.get*
+14
+15*«
+14â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csö ú(0˚¯
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csö* ö(I
+%24System.Type[]"!System.Type.GetGenericArguments()*
+
+	modelTypeSystem.Type2GetGenericArguments()–
+Õ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csö ö(I!
+genericArgumentsSystem.Type[]"__id*
+
+%24System.Type[]Ÿ
+÷
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csú ú(+
+
+%25int"System.Array.Length.get*#
+!
+genericArgumentsSystem.Type[]*
+16
+17*∫
+16â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csû ü(A™ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csû* û(a
+%26System.Type"1System.Type.MakeGenericType(params System.Type[])*
+""*#
+!
+genericArgumentsSystem.Type[]2%MakeGenericType(params System.Type[]) 
+«
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csû û(a
+enumerableTypeSystem.Type"__id*
+
+%26System.Type£†
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csü ü(B
+%27bool")System.Type.IsAssignableFrom(System.Type)*
+
+enumerableTypeSystem.Type*
+
+	modelTypeSystem.Type2IsAssignableFrom(System.Type)*
+18
+17*‚
+18â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs° °(_ÿ
+’
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs°M °(`
+%28System.Type"
+__arrayGet*#
+!
+genericArgumentsSystem.Type[]*2 á
+Ñ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs° °(aZ
+%29SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription"èWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateCollectionModelDescription(System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+
+%28System.Type"Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs° °(b\
+Z
+%29SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription*ˆ
+17â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs§ §(0Ÿ
+÷
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs§ §(+
+
+%30int"System.Array.Length.get*#
+!
+genericArgumentsSystem.Type[]*
+19
+15*∫
+19â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¶ ß(A™ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¶* ¶(b
+%31System.Type"1System.Type.MakeGenericType(params System.Type[])*
+""*#
+!
+genericArgumentsSystem.Type[]2%MakeGenericType(params System.Type[]) 
+«
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¶ ¶(b
+dictionaryTypeSystem.Type"__id*
+
+%31System.Type£†
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csß ß(B
+%32bool")System.Type.IsAssignableFrom(System.Type)*
+
+dictionaryTypeSystem.Type*
+
+	modelTypeSystem.Type2IsAssignableFrom(System.Type)*
+20
+21*‚
+
+20â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs© ©(tÿ
+’
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs©M ©(`
+%33System.Type"
+__arrayGet*#
+!
+genericArgumentsSystem.Type[]*2 ⁄
+◊
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs©b ©(u
+%34System.Type"
+__arrayGet*#
+!
+genericArgumentsSystem.Type[]*2™
+ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs© ©(vZ
+%35SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription"úWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateDictionaryModelDescription(System.Type, System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+
+%33System.Type*
+
+%34System.Type"Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs© ©(w\
+Z
+%35SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription*æ
+21â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¨ ≠(C™ß
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¨, ¨(e
+%36System.Type"1System.Type.MakeGenericType(params System.Type[])*
+""*#
+!
+genericArgumentsSystem.Type[]2%MakeGenericType(params System.Type[])Ã
+…
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¨ ¨(e
+keyValuePairTypeSystem.Type"__id*
+
+%36System.Type•¢
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs≠ ≠(D
+%37bool")System.Type.IsAssignableFrom(System.Type)*!
+
+keyValuePairTypeSystem.Type*
+
+	modelTypeSystem.Type2IsAssignableFrom(System.Type)*
+22
+15*Ë
+
+22â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csØ Ø(vÿ
+’
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csØO Ø(b
+%38System.Type"
+__arrayGet*#
+!
+genericArgumentsSystem.Type[]*2 ⁄
+◊
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csØd Ø(w
+%39System.Type"
+__arrayGet*#
+!
+genericArgumentsSystem.Type[]*2Æ
+´
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csØ Ø(x\
+%40UWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription"ûWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateKeyValuePairModelDescription(System.Type, System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+
+%38System.Type*
+
+%39System.Type"Ï
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csØ Ø(y^
+\
+%40UWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription*Ó
+15â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¥ ¥(!—
+Œ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¥ ¥(!
+%41bool"System.Type.IsArray.get*
+
+	modelTypeSystem.Type*
+23
+24*π
+
+23â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∂ ∑(P›
+⁄
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∂# ∂(=
+%42System.Type"System.Type.GetElementType()*
+
+	modelTypeSystem.Type«
+ƒ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∂ ∂(=
+elementTypeSystem.Type"__id*
+
+%42System.Typeè
+å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∑ ∑(QZ
+%43SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription"èWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateCollectionModelDescription(System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+
+elementTypeSystem.Type"Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∑ ∑(R\
+Z
+%43SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription*°
+24â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∫ ∫(8Ñ
+Å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∫ ∫(8
+%44bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+	modelTypeSystem.Type*
+""*
+25
+26*é
+25â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csº º(cé
+ã
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csº º(dZ
+%45SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription"úWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateDictionaryModelDescription(System.Type, System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+""*
+"""Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csº º(e\
+Z
+%45SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription*ß
+26â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csø ø(>äá
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csø ø(?
+%46bool")System.Type.IsAssignableFrom(System.Type)*
+""*
+
+	modelTypeSystem.Type2IsAssignableFrom(System.Type)*
+27
+28*é
+27â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¡ ¡(cé
+ã
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¡ ¡(dZ
+%47SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription"úWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateDictionaryModelDescription(System.Type, System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+""*
+"""Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¡ ¡(e\
+Z
+%47SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription*ß
+28â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csƒ ƒ(>äá
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csƒ ƒ(?
+%48bool")System.Type.IsAssignableFrom(System.Type)*
+""*
+
+	modelTypeSystem.Type2IsAssignableFrom(System.Type)*
+29
+30*˘
+29â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∆ ∆(S˘
+ˆ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∆ ∆(TZ
+%49SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription"èWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateCollectionModelDescription(System.Type, System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type*
+"""Í
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs∆ ∆(U\
+Z
+%49SWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.CollectionModelDescription*—
+30â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs… …(@€
+ÿ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs… …(AP
+%50IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"ÉWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateComplexTypeModelDescription(System.Type)*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+	modelTypeSystem.Type"‡
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs… …(BR
+P
+%50IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*≥
+3â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs 	  (	"°
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs   (	
+implicit return:
+	modelTypeSystem.TypeBVT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator

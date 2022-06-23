@@ -1,0 +1,97 @@
+
+@StackExchange.Profiling.Data.ProfiledDbCommand.DbTransaction.sete
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs∆ ∆("0*ç
+
+0e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs»  (:É
+Ä
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs» »($d0
+.StackExchange.Profiling.Data.ProfiledDbCommand"0
+_transaction System.Data.Common.DbTransaction"__id*+
+)
+value System.Data.Common.DbTransaction≈
+¬
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs…" …(@&
+%0 System.Data.Common.DbTransaction"__id*+
+)
+value System.Data.Common.DbTransaction›
+⁄
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs… …(@A
+awesomeTran2StackExchange.Profiling.Data.ProfiledDbTransaction"__id*(
+&
+%0 System.Data.Common.DbTransactionÙ
+Ò
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs   ("
+%1System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommandÛ
+
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs '  (:
+
+%2bool""object.operator ==(object, object)*
+"
+object*C
+A
+awesomeTran2StackExchange.Profiling.Data.ProfiledDbTransaction*
+""*
+1
+2*¸
+1e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs =  (B≈
+¬
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs =  (B&
+%4 System.Data.Common.DbTransaction"__id*+
+)
+value System.Data.Common.DbTransaction¬
+ø
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs =  (B&
+%3 System.Data.Common.DbTransaction"__id*(
+&
+%4 System.Data.Common.DbTransaction*
+3*û
+2e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs E  (c¢
+ü
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs E  (c&
+%6 System.Data.Common.DbTransaction"IStackExchange.Profiling.Data.ProfiledDbTransaction.WrappedTransaction.get*C
+A
+awesomeTran2StackExchange.Profiling.Data.ProfiledDbTransaction¬
+ø
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs E  (c&
+%5 System.Data.Common.DbTransaction"__id*(
+&
+%6 System.Data.Common.DbTransaction¬
+ø
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs E  (c&
+%3 System.Data.Common.DbTransaction"__id*(
+&
+%5 System.Data.Common.DbTransaction*
+3*Ç
+3e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs   (cê
+ç
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.cs   (c&
+%7 System.Data.Common.DbTransaction",System.Data.Common.DbCommand.Transaction.set*$
+"
+%1System.Data.Common.DbCommand*(
+&
+%3 System.Data.Common.DbTransaction*
+4*Ë
+4e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÀ À("|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÀ À(
+implicit return:)
+value System.Data.Common.DbTransactionB20
+.StackExchange.Profiling.Data.ProfiledDbCommand

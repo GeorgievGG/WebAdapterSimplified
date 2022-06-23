@@ -1,0 +1,28 @@
+
+CStackExchange.Profiling.Helpers.StopwatchWrapper.StopwatchWrapper()_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs7 7( "1*i
+1_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs:	 :(	*
+0*´
+0_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs9 9(-Ó
+Ð
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs9 9(-"
+%0System.Diagnostics.Stopwatch"'System.Diagnostics.Stopwatch.StartNew()* "
+System.Diagnostics.Stopwatchò
+ï
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs9 9(-`2
+0StackExchange.Profiling.Helpers.StopwatchWrapper"*
+
+_stopwatchSystem.Diagnostics.Stopwatch"__id*$
+"
+%0System.Diagnostics.Stopwatch*
+2*Ü
+2_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs:	 :(	"v
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\IStopwatch.cs: :(	
+implicit returnB42
+0StackExchange.Profiling.Helpers.StopwatchWrapper

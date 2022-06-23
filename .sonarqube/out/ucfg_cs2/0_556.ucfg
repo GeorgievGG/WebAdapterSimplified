@@ -1,0 +1,48 @@
+
+FStackExchange.Profiling.MiniProfiler.Settings.EnsureProfilerProvider()d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.cs·! ·(7"0*Ë
+0d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.cs„ „(,ë
+é
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.cs„ „($/
+%0)StackExchange.Profiling.IProfilerProvider"BStackExchange.Profiling.MiniProfiler.Settings.ProfilerProvider.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings‡
+›
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.cs„ „(,
+
+%1bool""object.operator ==(object, object)*
+"
+object*1
+/
+%0)StackExchange.Profiling.IProfilerProvider*
+""*
+1
+2*ù
+1d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÂ Â(G◊‘
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÂ' Â(G8
+%22StackExchange.Profiling.WebRequestProfilerProvider"2StackExchange.Profiling.WebRequestProfilerProviderÇ
+ˇ
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÂ+ Â(E
+
+%3void"OStackExchange.Profiling.WebRequestProfilerProvider.WebRequestProfilerProvider()*:
+8
+%22StackExchange.Profiling.WebRequestProfilerProviderÕ
+ 
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÂ Â(G/
+%4)StackExchange.Profiling.IProfilerProvider"BStackExchange.Profiling.MiniProfiler.Settings.ProfilerProvider.set*1"/
+-StackExchange.Profiling.MiniProfiler.Settings*:
+8
+%22StackExchange.Profiling.WebRequestProfilerProvider*
+2*Ê
+2d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÁ Á("{
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÁ Á(
+implicit returnB1"/
+-StackExchange.Profiling.MiniProfiler.Settings

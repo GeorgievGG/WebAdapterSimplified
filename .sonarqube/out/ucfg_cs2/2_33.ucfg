@@ -1,0 +1,52 @@
+
+XWebApiAdapterSimplified.ForbiddenResult.ExecuteAsync(System.Threading.CancellationToken)\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs) (5"0*Æ
+0\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (+±®
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (\)
+%0#System.Net.Http.HttpResponseMessage"#System.Net.Http.HttpResponseMessageÕ
+Ò
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (2
+
+%1void"9System.Net.Http.HttpResponseMessage.HttpResponseMessage()*+
+)
+%0#System.Net.Http.HttpResponseMessaget
+r
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.csB (Z
+%2"__id*
+""ë
+è
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs5 (Z
+%3System.Net.HttpStatusCode"2System.Net.Http.HttpResponseMessage.StatusCode.set*+
+)
+%0#System.Net.Http.HttpResponseMessage*
+
+%2Å
+Â
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (\/
+response#System.Net.Http.HttpResponseMessage"__id*+
+)
+%0#System.Net.Http.HttpResponseMessage›
+˜
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (,*
+%4$System.Threading.Tasks.Task<TResult>"8System.Threading.Tasks.Task.FromResult<TResult>(TResult)*"
+System.Threading.Tasks.Task*1
+/
+response#System.Net.Http.HttpResponseMessage"Œ
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (-,
+*
+%4$System.Threading.Tasks.Task<TResult>*Ö
+1\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs	 (	"s
+\
+RC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\ForbiddenResult.cs (	
+implicit return:7
+cancellationToken"System.Threading.CancellationTokenB+)
+'WebApiAdapterSimplified.ForbiddenResult

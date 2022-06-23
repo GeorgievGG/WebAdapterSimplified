@@ -1,0 +1,248 @@
+
+qStackExchange.Profiling.SqlFormatters.SqlServerFormatter.PrepareValue(StackExchange.Profiling.SqlTimingParameter)o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs˝ ˝(%"0*Ω
+0o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csˇ ˇ('Û
+
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csˇ ˇ(
+%0string"4StackExchange.Profiling.SqlTimingParameter.Value.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameter»
+≈
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csˇ ˇ('
+
+%1bool""string.operator ==(string, string)*
+"
+string*
+
+%0string*
+""*
+1
+2*Ò
+1o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÅ Å("{
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÅ Å(
+null*¸
+2o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÑ Ñ(3·
+ﬁ
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÑ Ñ(
+%2string[]"__id*U*S:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter"
+	DontQuotestring[]Ù
+Ò
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÑ# Ñ(3
+%3string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameter¢
+ü
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÑ Ñ(4
+
+%4bool"bSystem.Linq.Enumerable.Contains<TSource>(System.Collections.Generic.IEnumerable<TSource>, TSource)*"
+System.Linq.Enumerable*
+
+%2string[]*
+
+%3string*
+3
+4*√
+3o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÜ Ü(1Ù
+Ò
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÜ Ü($
+%5string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameterÕ
+ 
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csÜ Ü(1
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+%5string*	
+Boolean*
+5
+6*ø
+5o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà à(4Û
+
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà à(*
+%7string"4StackExchange.Profiling.SqlTimingParameter.Value.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameter 
+«
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà à(4
+
+%8bool""string.operator ==(string, string)*
+"
+string*
+
+%7string*
+True*
+7
+8*ò
+7o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà7 à(:à
+Ö
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà7 à(:
+%10"__id*
+1ë
+é
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà7 à(:
+%9string"__id*
+
+%10*
+9*ò
+8o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà= à(@à
+Ö
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà= à(@
+%11"__id*
+0ë
+é
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà= à(@
+%9string"__id*
+
+%11*
+9*¯
+9o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï	 ï(	"Å
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csà à(A
+
+%9string*
+6o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csã ã(&Ù
+Ò
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csã ã(&
+%12string"4StackExchange.Profiling.SqlTimingParameter.Value.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameter"Ç
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csã ã('
+
+%12string*í
+4o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csé è(,®
+•
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csé é(%
+%13string"__id**
+string"
+Emptystringù
+ö
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csé é(%
+prefixstring"__id*
+
+%13stringı
+Ú
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csè è( 
+%14string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameterŒ
+À
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csè è(,
+%15bool""string.operator ==(string, string)*
+"
+string*
+
+%14string*
+
+String*
+10
+11*”
+11o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csè0 è(Wı
+Ú
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csè0 è(@
+%16string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameterŸ
+÷
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csè0 è(W
+%17bool""string.operator ==(string, string)*
+"
+string*
+
+%16string*
+StringFixedLength*
+10
+12*ë
+10o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csë ë(ì
+ê
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csë ë(
+prefixstring"__id*
+N*
+12*º	
+12o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î(J®
+•
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î(
+%18string"__concat*
+
+prefixstring*
+'Ù
+Ò
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî" î(1
+%19string"4StackExchange.Profiling.SqlTimingParameter.Value.get*9
+7
+	parameter*StackExchange.Profiling.SqlTimingParameter√
+¿
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî" î(D
+%20string"string.Replace(string, string)*
+
+%19string*
+'*
+''Ø
+¨
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î(D
+%21string"__concat*
+
+%18string*
+
+%20string•
+¢
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î(J
+%22string"__concat*
+
+%21string*
+'"Ç
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csî î(K
+
+%22string*˛
+13o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï	 ï(	"Ü
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csï ï(	
+implicit return:7
+	parameter*StackExchange.Profiling.SqlTimingParameterB<:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter

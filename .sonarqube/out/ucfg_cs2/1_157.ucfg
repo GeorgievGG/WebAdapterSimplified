@@ -1,0 +1,46 @@
+
+‚WebAdapterSimplifiedLibrary.DataIsolationScope.RunInUserScope<T>(WebAdapterSimplifiedLibrary.DataIsolationContext, System.Func<T>)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csS S(&"0*ƒ
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csU U(=ÎË
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csU U(>4
+%0.WebAdapterSimplifiedLibrary.DataIsolationScope".WebAdapterSimplifiedLibrary.DataIsolationScopeà
+Ý
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csU# U(5
+
+%1void"sWebAdapterSimplifiedLibrary.DataIsolationScope.DataIsolationScope(WebAdapterSimplifiedLibrary.DataIsolationContext)*6
+4
+%0.WebAdapterSimplifiedLibrary.DataIsolationScope*=
+;
+context0WebAdapterSimplifiedLibrary.DataIsolationContextß
+Ü
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csU U(>7
+scope.WebAdapterSimplifiedLibrary.DataIsolationScope"__id*6
+4
+%0.WebAdapterSimplifiedLibrary.DataIsolationScope*
+1*‡
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csW W(ª
+§
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csW W(
+%2T"System.Func<TResult>.Invoke()*
+System.Func<TResult>"p
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csW W( 	
+
+%2T*m
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY	 Y(	*
+3*ä
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY	 Y(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY Y(	
+implicit return:;
+context0WebAdapterSimplifiedLibrary.DataIsolationContext:
+actionSystem.Func<TResult>B2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

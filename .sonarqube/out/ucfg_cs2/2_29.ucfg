@@ -1,0 +1,47 @@
+
+PWebApiAdapterSimplified.WebApiConfig.Register(System.Web.Http.HttpConfiguration)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs
+ 
+(#"0*¨
+
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs (<»
+¸
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs (+
+
+%0void"eSystem.Web.Http.HttpConfigurationExtensions.MapHttpAttributeRoutes(System.Web.Http.HttpConfiguration)*/"-
++System.Web.Http.HttpConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationð
+í
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs ()
+%1#System.Web.Http.HttpRouteCollection",System.Web.Http.HttpConfiguration.Routes.get*-
++
+config!System.Web.Http.HttpConfigurationæ
+ã
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs% (<$
+%2System.Web.Http.RouteParameter"__id*P*N 
+System.Web.Http.RouteParameter"*
+OptionalSystem.Web.Http.RouteParameterž
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs ((
+%3"System.Web.Http.Routing.IHttpRoute"wSystem.Web.Http.HttpRouteCollectionExtensions.MapHttpRoute(System.Web.Http.HttpRouteCollection, string, string, object)*1"/
+-System.Web.Http.HttpRouteCollectionExtensions*+
+)
+%1#System.Web.Http.HttpRouteCollection*
+
+DefaultApi*
+api/{controller}/{id}*
+""*
+1*ä
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\WebApiConfig.cs (	
+implicit return:+
+config!System.Web.Http.HttpConfigurationB("&
+$WebApiAdapterSimplified.WebApiConfig

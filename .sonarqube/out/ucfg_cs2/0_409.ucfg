@@ -1,0 +1,416 @@
+
+›StackExchange.Profiling.Helpers.Dapper.DynamicParameters.StackExchange.Profiling.Helpers.Dapper.SqlMapper.IDynamicParameters.AddParameters(System.Data.IDbCommand, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÀ* À(7"0*Œ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÕ Õ(!Ü
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÕ Õ((
+%0"System.Collections.Generic.List<T>"__id*o*m:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"/
+	templates"System.Collections.Generic.List<T>’
+“
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÕ Õ(!
+
+%1bool""object.operator !=(object, object)*
+"
+object**
+(
+%0"System.Collections.Generic.List<T>*
+""*
+1
+2*Û
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ) œ(2Ü
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ) œ(2(
+%2"System.Collections.Generic.List<T>"__id*o*m:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"/
+	templates"System.Collections.Generic.List<T>*
+3*m
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˚	 ˚(	*
+4
+2*ù	
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs— ‘(*†
+ù
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—A —(S
+%3System.Type"object.GetType()*
+
+templateobject·
+ﬁ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—# —(T?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"[StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForDynamicParameters(System.Type)*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+
+%3System.Typeı
+Ú
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs— —(TE
+newIdent9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"__id*A
+?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity±
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‘ ‘(*9
+%53System.Collections.Generic.Dictionary<TKey, TValue>"__id*à*Ö:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"G
+paramReaderCache3System.Collections.Generic.Dictionary<TKey, TValue>*
+5*ì
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs÷ ÷(P±
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs÷ ÷(-9
+%63System.Collections.Generic.Dictionary<TKey, TValue>"__id*à*Ö:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"G
+paramReaderCache3System.Collections.Generic.Dictionary<TKey, TValue>Ô
+Ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs÷ ÷(Q
+
+%7bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*;
+9
+%63System.Collections.Generic.Dictionary<TKey, TValue>*G
+E
+newIdent9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*#
+!
+appenderSystem.Action<T1, T2>*
+6
+7*˝	
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ Ÿ(Aà
+Ö
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ' ÿ(S
+%8System.Action<T1, T2>"ÑStackExchange.Profiling.Helpers.Dapper.SqlMapper.CreateParamInfoGenerator(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+newIdent9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity≠
+™
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ ÿ(S!
+appenderSystem.Action<T1, T2>"__id*
+
+%8System.Action<T1, T2>±
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ Ÿ(,9
+%93System.Collections.Generic.Dictionary<TKey, TValue>"__id*à*Ö:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"G
+paramReaderCache3System.Collections.Generic.Dictionary<TKey, TValue>°
+û
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ Ÿ(A
+%10"__mapSet*;
+9
+%93System.Collections.Generic.Dictionary<TKey, TValue>*G
+E
+newIdent9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*#
+!
+appenderSystem.Action<T1, T2>*
+7*€
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs› ›(.Ó
+Î
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs› ›(/
+%11void"$System.Action<T1, T2>.Invoke(T1, T2)*
+System.Action<T1, T2>*#
+!
+commandSystem.Data.IDbCommand*
+
+templateobject*
+3* 
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs·" ·(3´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs·" ·(,:
+%123System.Collections.Generic.Dictionary<TKey, TValue>"__id*Å*:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters"A
+
+parameters3System.Collections.Generic.Dictionary<TKey, TValue>Ø
+¨
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs·" ·(3J
+%13CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*<
+:
+%123System.Collections.Generic.Dictionary<TKey, TValue>*
+8*n
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˚	 ˚(	*
+9
+10*„
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs„ Ê(ÏÈ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs„ „(1#
+%17System.Data.IDbDataParameter"(System.Data.IDbCommand.CreateParameter()*#
+!
+commandSystem.Data.IDbCommand2CreateParameter()µ
+≤
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs„ „(1!
+pSystem.Data.IDbDataParameter"__id*%
+#
+%17System.Data.IDbDataParameterë
+é
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‰ ‰(%
+%18object"LStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.Value.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfoã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‰ ‰(%
+valobject"__id*
+
+%18objectê
+ç
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ( Â(2
+%19string"KStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.Name.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfoã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ" Â(3
+%20string"FStackExchange.Profiling.Helpers.Dapper.DynamicParameters.Clean(string)*<":
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters*
+
+%19stringÎË
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(3
+%21string",System.Data.IDataParameter.ParameterName.set*#
+!
+pSystem.Data.IDbDataParameter*
+
+%20string2ParameterName.setã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê(
+%15object"__id*
+
+valobjectã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê(
+%14object"__id*
+
+%15object*
+11
+12*¿
+11`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ! Ê(-Æ
+´
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ! Ê(-
+%22System.DBNull"__id*+*)
+System.DBNull"
+ValueSystem.DBNullí
+è
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ! Ê(-
+%16object"__id*
+
+%22System.DBNullã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ! Ê(-
+%14object"__id*
+
+%16object*
+12*Û
+
+12`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ È(€ÿ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê(-
+%23object"$System.Data.IDataParameter.Value.set*#
+!
+pSystem.Data.IDbDataParameter*
+
+%14object2	Value.set∂
+≥
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÁ Á(6%
+%24System.Data.ParameterDirection"YStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.ParameterDirection.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfoìê
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÁ Á(6%
+%25System.Data.ParameterDirection"(System.Data.IDataParameter.Direction.set*#
+!
+pSystem.Data.IDbDataParameter*'
+%
+%24System.Data.ParameterDirection2Direction.setã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csË Ë(%
+%26object"__id*
+
+valobjectâ
+Ü
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csË Ë(%
+sstring"__id*
+
+%26objectπ
+∂
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÈ È(
+%27bool""string.operator !=(string, string)*
+"
+string*
+
+sstring*
+""*
+13
+14*Ü
+13`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÎ Î((ì
+ê
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÎ Î( 
+
+%28int"string.Length.get*
+
+sstring*
+15
+14*Ω
+15`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ Ì(%ŒÀ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ Ì(%
+
+%29int"%System.Data.IDbDataParameter.Size.set*#
+!
+pSystem.Data.IDbDataParameter*2†2Size.set*
+14*Ÿ
+14`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs (&ú
+ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs (
+%30System.Nullable<T>"KStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.Size.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo«
+ƒ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs (&
+%31bool""object.operator !=(object, object)*
+"
+object*
+
+%30System.Nullable<T>*
+""*
+16
+17*í
+16`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(-ú
+ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú('
+%32System.Nullable<T>"KStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.Size.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo¨
+©
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(-
+
+%33int"System.Nullable<T>.Value.get*
+
+%32System.Nullable<T>’“
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(-
+
+%34int"%System.Data.IDbDataParameter.Size.set*#
+!
+pSystem.Data.IDbDataParameter*
+
+
+%33int2Size.set*
+17*€
+17`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÙ Ù((û
+õ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÙ Ù( 
+%35System.Nullable<T>"MStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.DbType.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo«
+ƒ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÙ Ù((
+%36bool""object.operator !=(object, object)*
+"
+object*
+
+%35System.Nullable<T>*
+""*
+18
+19*√
+18`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csˆ ˆ(1û
+õ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csˆ ˆ(+
+%37System.Nullable<T>"MStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.DbType.get*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfoª
+∏
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csˆ ˆ(1
+%38System.Data.DbType"System.Nullable<T>.Value.get*
+
+%37System.Nullable<T>ıÚ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csˆ ˆ(1
+%39System.Data.DbType"%System.Data.IDataParameter.DbType.set*#
+!
+pSystem.Data.IDbDataParameter*
+
+%38System.Data.DbType2
+DbType.set*
+19*ã
+19`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ˘('ÓÎ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ¯("+
+%40$System.Data.IDataParameterCollection"%System.Data.IDbCommand.Parameters.get*#
+!
+commandSystem.Data.IDbCommand2Parameters.get’
+“
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ¯()
+
+%41int"
+__arrayAdd*-
++
+%40$System.Data.IDataParameterCollection*: *#
+!
+pSystem.Data.IDbDataParameter‘
+—
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˘ ˘('#
+%42System.Data.IDbDataParameter"TStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo.AttachedParam.set*M
+K
+paramBStackExchange.Profiling.Helpers.Dapper.DynamicParameters.ParamInfo*#
+!
+pSystem.Data.IDbDataParameter*
+8*ﬂ
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˚	 ˚(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˚ ˚(	
+implicit return:!
+commandSystem.Data.IDbCommand:E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityB<:
+8StackExchange.Profiling.Helpers.Dapper.DynamicParameters

@@ -1,0 +1,32 @@
+
+/StackExchange.Profiling.MiniProfiler.Stop(bool)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs² ²("0*Æ
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs´ µ(9ç
+ä
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs´ ´(-
+
+%0void"FStackExchange.Profiling.MiniProfiler.Settings.EnsureProfilerProvider()*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsˆ
+…
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csµ µ(%/
+%1)StackExchange.Profiling.IProfilerProvider"BStackExchange.Profiling.MiniProfiler.Settings.ProfilerProvider.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settingséæ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csµ µ(:
+
+%2void"4StackExchange.Profiling.IProfilerProvider.Stop(bool)*1
+/
+%1)StackExchange.Profiling.IProfilerProvider*
+""2
+Stop(bool)*
+1*Ô
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¶	 ¶(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs¶ ¶(	
+implicit return:
+discardResultsboolB("&
+$StackExchange.Profiling.MiniProfiler

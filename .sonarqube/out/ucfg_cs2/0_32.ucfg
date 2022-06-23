@@ -1,0 +1,50 @@
+
+dStackExchange.Profiling.BaseProfilerProvider.SetProfilerActive(StackExchange.Profiling.MiniProfiler)a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs+ +(/"0*Ï
+0a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs- -( Þ
+Û
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs- -( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*û
+1a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs. .(:¨¥
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs. .(;"
+%1System.ArgumentNullException"System.ArgumentNullExceptionâ
+ß
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs. .(/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+profiler*
+3*Ï
+2a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs0 0($á
+Þ
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs0 0($
+
+%3bool"1StackExchange.Profiling.MiniProfiler.IsActive.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+3*à
+3a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs1	 1(	"x
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs1 1(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfilerB0".
+,StackExchange.Profiling.BaseProfilerProvider

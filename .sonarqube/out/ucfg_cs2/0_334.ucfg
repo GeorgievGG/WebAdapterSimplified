@@ -1,0 +1,70 @@
+
+5StackExchange.Profiling.MiniProfiler.FromJson(string)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csã# ã(+"0*â
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså å("÷
+ô
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså å("
+
+%0bool"AStackExchange.Profiling.Helpers.ExtensionMethods.HasValue(string)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+jsonstring*
+1
+2*š
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså% å(W€
+ý
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså% å(8:
+%44System.Web.Script.Serialization.JavaScriptSerializer"8StackExchange.Profiling.MiniProfiler.GetJsonSerializer()*("&
+$StackExchange.Profiling.MiniProfiler©
+¦
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså% å(X*
+%5$StackExchange.Profiling.MiniProfiler"KSystem.Web.Script.Serialization.JavaScriptSerializer.Deserialize<T>(string)*<
+:
+%44System.Web.Script.Serialization.JavaScriptSerializer*
+
+jsonstringÀ
+½
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså% å(X*
+%2$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%5$StackExchange.Profiling.MiniProfilerÀ
+½
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså% å(X*
+%1$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%2$StackExchange.Profiling.MiniProfiler*
+3*÷
+2[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså[ å(_s
+q
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså[ å(_
+%3"__id*
+""š
+—
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså[ å(_*
+%1$StackExchange.Profiling.MiniProfiler"__id*
+
+%3*
+3*î
+3[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csæ	 æ(	"‹
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså å(`,
+*
+%1$StackExchange.Profiling.MiniProfiler*Ô
+4[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csæ	 æ(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csæ æ(	
+implicit return:
+jsonstringB("&
+$StackExchange.Profiling.MiniProfiler

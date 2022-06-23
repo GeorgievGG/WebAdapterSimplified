@@ -1,0 +1,11 @@
+§
+:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoobjectY
+GetHitCount()HStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.GetHitCount()U
+RecordHit()FStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.RecordHit()U
+CacheInfo()FStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.CacheInfo()_
+Deserializer.getKStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.Deserializer.get_
+Deserializer.setKStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.Deserializer.setk
+OtherDeserializers.getQStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.OtherDeserializers.getk
+OtherDeserializers.setQStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.OtherDeserializers.set]
+ParamReader.getJStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.get]
+ParamReader.setJStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.set

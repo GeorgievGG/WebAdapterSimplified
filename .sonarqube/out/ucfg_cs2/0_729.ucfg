@@ -1,0 +1,243 @@
+
+¶StackExchange.Profiling.Helpers.Dapper.SqlMapper.QueryMultiple(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csû! û(."0*©
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶- ¶(mÖ
+Ç
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶X ¶(e
+%0"__id*
+
+paramdynamic±
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶X ¶(m
+
+%1bool""object.operator ==(object, object)*
+"
+object*
+
+%0*
+""*
+1
+2*Ì
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶p ¶(tx
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶p ¶(t
+%3"__id*
+""Ü
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶p ¶(t
+%2System.Type"__id*
+
+%3*
+3*∏
+2a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶w ¶(ÖÜ
+É
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶x ¶(Ö
+%5"__id*
+
+paramdynamicì
+ê
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶w ¶(ê
+%6System.Type"object.GetType()*
+
+%5î
+ë
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶w ¶(ê
+%4System.Type"__id*
+
+%6System.Typeî
+ë
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶w ¶(ê
+%2System.Type"__id*
+
+%4System.Type*
+3*”
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ™(%‚ﬂ
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶  ¶(ó?
+%79StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity¡
+æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶$ ¶(,
+
+%8void"®StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, System.Data.IDbConnection, System.Type, System.Type, System.Type[])*A
+?
+%79StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+
+sqlstring*
+""*"
+ 
+cnnSystem.Data.IDbConnection*
+""*
+
+%2System.Type*
+""ˆ
+Û
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(óE
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"__id*A
+?
+%79StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity†
+ù
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß ß(3@
+%9:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"xStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetCacheInfo(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityÛ
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß ß(3B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"__id*B
+@
+%9:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoí
+è
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© ©(!
+cmdSystem.Data.IDbCommand"__id*
+""ñ
+ì
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs™ ™(%!
+readerSystem.Data.IDataReader"__id*
+""*
+4*m
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∑	 ∑(	*
+5
+6*ä
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠ Ø(;ï
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠: ≠(J
+%10System.Action<T1, T2>"JStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.get*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoÜ
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠L ≠(Y
+%11"__id*
+
+paramdynamic´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠ ≠(w
+%12System.Data.IDbCommand"”StackExchange.Profiling.Helpers.Dapper.SqlMapper.SetupCommand(System.Data.IDbConnection, System.Data.IDbTransaction, string, System.Action<System.Data.IDbCommand, object>, object, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*"
+ 
+cnnSystem.Data.IDbConnection*+
+)
+transactionSystem.Data.IDbTransaction*
+
+sqlstring*
+
+%10System.Action<T1, T2>*
+
+%11*
+""*
+""´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠ ≠(w
+cmdSystem.Data.IDbCommand"__id*
+
+%12System.Data.IDbCommandﬂ‹
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÆ Æ(,
+%13System.Data.IDataReader"&System.Data.IDbCommand.ExecuteReader()*
+
+cmdSystem.Data.IDbCommand2ExecuteReader()∞
+≠
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÆ Æ(,!
+readerSystem.Data.IDataReader"__id* 
+
+%13System.Data.IDataReaderÊ„
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csØ Ø(<B
+%14;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader";StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader¸
+˘
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csØ Ø(%
+%15void"≤StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.GridReader(System.Data.IDbCommand, System.Data.IDataReader, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)*D
+B
+%14;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*
+
+cmdSystem.Data.IDbCommand*#
+!
+readerSystem.Data.IDataReader*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csØ Ø(=D
+B
+%14;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*ø
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥("œ
+Ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥("
+%16bool""object.operator !=(object, object)*
+"
+object*#
+!
+readerSystem.Data.IDataReader*
+""*
+7
+8*≠
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥$ ≥(4¿Ω
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥$ ≥(4
+%17void"System.IDisposable.Dispose()*#
+!
+readerSystem.Data.IDataReader2	Dispose()*
+8*º
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥ ¥(À
+»
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥ ¥(
+%18bool""object.operator !=(object, object)*
+"
+object*
+
+cmdSystem.Data.IDbCommand*
+""*
+9
+10*™
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥! ¥(.ºπ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¥! ¥(.
+%19void"System.IDisposable.Dispose()*
+
+cmdSystem.Data.IDbCommand2	Dispose()*
+10*l
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∑	 ∑(	*
+11*ﬂ
+11`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∑	 ∑(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∑ ∑(	
+implicit return: 
+cnnSystem.Data.IDbConnection:
+sqlstring:
+paramdynamic:)
+transactionSystem.Data.IDbTransaction:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

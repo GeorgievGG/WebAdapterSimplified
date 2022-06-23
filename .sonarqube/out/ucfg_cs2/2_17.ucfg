@@ -1,0 +1,40 @@
+
+aWebApiAdapterSimplified.FilterConfig.RegisterGlobalFilters(System.Web.Mvc.GlobalFilterCollection)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs (0"0*“
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs
+ 
+(2¸µ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs
+ 
+(2)
+%0#System.Web.Mvc.HandleErrorAttribute"#System.Web.Mvc.HandleErrorAttributeÝ
+Ú
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs
+ 
+(0
+
+%1void":System.Web.Mvc.HandleErrorAttribute.HandleErrorAttribute()*+
+)
+%0#System.Web.Mvc.HandleErrorAttributeˆ
+…
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs
+ 
+(3
+
+%2void"1System.Web.Mvc.GlobalFilterCollection.Add(object)*2
+0
+filters%System.Web.Mvc.GlobalFilterCollection*+
+)
+%0#System.Web.Mvc.HandleErrorAttribute*
+1*ä
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\App_Start\FilterConfig.cs (	
+implicit return:0
+filters%System.Web.Mvc.GlobalFilterCollectionB("&
+$WebApiAdapterSimplified.FilterConfig

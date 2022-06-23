@@ -1,0 +1,49 @@
+
+CStackExchange.Profiling.Data.SimpleProfiledDataReader.Dispose(bool)l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¹ ¹("0*y
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs» »(*
+1
+2*Ì
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs» »(,÷
+ô
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs» »($
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReaderÖ
+Ó
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs» »(,
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Data.IDataReader*
+""*
+3
+2*º
+3l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(!÷
+ô
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(
+%2System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReaderÇÄ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs½ ½(!
+
+%3void"System.IDisposable.Dispose()*
+
+%2System.Data.IDataReader2	Dispose()*
+2*÷
+2l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¿	 ¿(	"ƒ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¿ ¿(	
+implicit return:
+	disposingboolB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

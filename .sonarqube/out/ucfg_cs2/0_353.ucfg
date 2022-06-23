@@ -1,0 +1,46 @@
+
+JStackExchange.Profiling.Timing.RemoveChild(StackExchange.Profiling.Timing)U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs“ “(!"0*‡
+0U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs• •( Õ
+Ò
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs• •((
+%0"System.Collections.Generic.List<T>"+StackExchange.Profiling.Timing.Children.get*" 
+StackExchange.Profiling.TimingÊ
+Ç
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs• •( 
+
+%1bool""object.operator !=(object, object)*
+"
+object**
+(
+%0"System.Collections.Generic.List<T>*
+""*
+1
+2*¦
+1U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs— —(&Õ
+Ò
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs— —((
+%2"System.Collections.Generic.List<T>"+StackExchange.Profiling.Timing.Children.get*" 
+StackExchange.Profiling.Timingì
+é
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs— —('
+
+%3bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%2"System.Collections.Generic.List<T>**
+(
+timingStackExchange.Profiling.Timing*
+2*È
+2U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs™	 ™(	"l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs™ ™(	
+implicit return:(
+timingStackExchange.Profiling.TimingB" 
+StackExchange.Profiling.Timing

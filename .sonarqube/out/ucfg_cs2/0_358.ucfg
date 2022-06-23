@@ -1,0 +1,44 @@
+
+¤StackExchange.Profiling.SqlProfilerExtensions.ExecuteStart(StackExchange.Profiling.SqlProfiler, System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs^ ^('"0*¿
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs` `(#×
+Ô
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs` `(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*
+""*
+1
+2*Á
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csb	 b(	"b
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs`% `(,
+""*¬
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csa a(6Ç
+Ä
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csa a(7
+
+%1void"yStackExchange.Profiling.SqlProfiler.ExecuteStartImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*#
+!
+commandSystem.Data.IDbCommand*
+""*
+3*Î
+3X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csb	 b(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csb b(	
+implicit return:2
+sqlProfiler#StackExchange.Profiling.SqlProfiler:!
+commandSystem.Data.IDbCommand:3
+type+StackExchange.Profiling.Data.SqlExecuteTypeB1"/
+-StackExchange.Profiling.SqlProfilerExtensions

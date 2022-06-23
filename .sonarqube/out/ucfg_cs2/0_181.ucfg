@@ -1,0 +1,47 @@
+
+VStackExchange.Profiling.SqlFormatters.SqlServerFormatter.TerminateSqlStatement(string)o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csœ œ(,"0*æ
+0o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csž ž(<¬
+©
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csž ž(0	
+%0int"string.Length.get*
+
+sqlStatementstring¸
+µ
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csž ž(5
+
+%1char"string.this[int].get*
+
+sqlStatementstring*
+""*
+1
+2*¨
+1o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs   ()­
+ª
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs   ()
+%2string"__concat*
+
+sqlStatementstring*
+;"
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs   (*
+
+%2string*‚
+2o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs¢ ¢("‹
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs¢ ¢( 
+
+sqlStatementstring*ý
+3o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs£	 £(	"†
+o
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs£ £(	
+implicit return:
+sqlStatementstringB<:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter

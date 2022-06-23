@@ -1,0 +1,90 @@
+
+/StackExchange.Profiling.MiniProfiler.StopImpl()[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÝ Ý("0*Î
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csß ß(÷
+ô
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csß ß(0
+%0*StackExchange.Profiling.Helpers.IStopwatch"__id*]*[&
+$StackExchange.Profiling.MiniProfiler"1
+_sw*StackExchange.Profiling.Helpers.IStopwatchéæ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csß ß(
+
+%1bool"8StackExchange.Profiling.Helpers.IStopwatch.IsRunning.get*2
+0
+%0*StackExchange.Profiling.Helpers.IStopwatch2IsRunning.get*
+1
+2*Ç
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csà à("e
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csà à(
+""*ß
+2[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csâ å(7÷
+ô
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csâ â(0
+%2*StackExchange.Profiling.Helpers.IStopwatch"__id*]*[&
+$StackExchange.Profiling.MiniProfiler"1
+_sw*StackExchange.Profiling.Helpers.IStopwatchÛØ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csâ â(
+
+%3void"1StackExchange.Profiling.Helpers.IStopwatch.Stop()*2
+0
+%2*StackExchange.Profiling.Helpers.IStopwatch2Stop()Í
+Ê
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csã: ã(F
+
+%4long"5StackExchange.Profiling.MiniProfiler.ElapsedTicks.get*(&
+$StackExchange.Profiling.MiniProfilerê
+ç
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csã# ã(G
+%5decimal"AStackExchange.Profiling.MiniProfiler.GetRoundedMilliseconds(long)*(&
+$StackExchange.Profiling.MiniProfiler*
+
+
+%4longé
+æ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csã ã(G
+%6decimal"=StackExchange.Profiling.MiniProfiler.DurationMilliseconds.set*(&
+$StackExchange.Profiling.MiniProfiler*
+
+%5decimalö
+ó
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cså# å(7/
+%7)System.Collections.Generic.IEnumerable<T>"9StackExchange.Profiling.MiniProfiler.GetTimingHierarchy()*(&
+$StackExchange.Profiling.MiniProfiler*
+3*h
+3[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csë	 ë(	*
+4
+5*§
+4[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csç ç(¿
+¼
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csç ç(
+
+%8void"%StackExchange.Profiling.Timing.Stop()**
+(
+timingStackExchange.Profiling.Timing*
+3*Ç
+5[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê("e
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê(
+""*Ô
+6[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csë	 ë(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csë ë(	
+implicit returnB(&
+$StackExchange.Profiling.MiniProfiler

@@ -1,0 +1,120 @@
+
+}StackExchange.Profiling.Data.Link<TKey, TValue>.TryAdd(ref StackExchange.Profiling.Data.Link<TKey, TValue>, TKey, ref TValue)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csS S(!"0*`
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csU U(*
+1*¯
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csX Z(3Ω
+∫
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csX X(P5
+%0/StackExchange.Profiling.Data.Link<TKey, TValue>"<System.Threading.Interlocked.CompareExchange<T>(ref T, T, T)* "
+System.Threading.Interlocked*9
+7
+head/StackExchange.Profiling.Data.Link<TKey, TValue>*
+""*
+""◊
+‘
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csX X(P;
+snapshot/StackExchange.Profiling.Data.Link<TKey, TValue>"__id*7
+5
+%0/StackExchange.Profiling.Data.Link<TKey, TValue>¯
+ı
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csZ Z(4
+
+%1bool"yStackExchange.Profiling.Data.Link<TKey, TValue>.TryGet(StackExchange.Profiling.Data.Link<TKey, TValue>, TKey, out TValue)*3"1
+/StackExchange.Profiling.Data.Link<TKey, TValue>*=
+;
+snapshot/StackExchange.Profiling.Data.Link<TKey, TValue>*
+
+keyTKey*
+
+foundTValue*
+2
+3*≈
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs] ^( Ö
+Ç
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs] ](!
+valueTValue"__id*
+
+foundTValue"`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs^ ^(!
+""*∫
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csa d(_√¿
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csa a(J5
+%2/StackExchange.Profiling.Data.Link<TKey, TValue>"/StackExchange.Profiling.Data.Link<TKey, TValue>ˆ
+Û
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csa" a(4
+
+%3void"sStackExchange.Profiling.Data.Link<TKey, TValue>.Link(TKey, TValue, StackExchange.Profiling.Data.Link<TKey, TValue>)*7
+5
+%2/StackExchange.Profiling.Data.Link<TKey, TValue>*
+
+keyTKey*
+
+valueTValue*=
+;
+snapshot/StackExchange.Profiling.Data.Link<TKey, TValue>÷
+”
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csa a(J:
+newNode/StackExchange.Profiling.Data.Link<TKey, TValue>"__id*7
+5
+%2/StackExchange.Profiling.Data.Link<TKey, TValue>™
+ß
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csd d(S5
+%4/StackExchange.Profiling.Data.Link<TKey, TValue>"<System.Threading.Interlocked.CompareExchange<T>(ref T, T, T)* "
+System.Threading.Interlocked*9
+7
+head/StackExchange.Profiling.Data.Link<TKey, TValue>*<
+:
+newNode/StackExchange.Profiling.Data.Link<TKey, TValue>*=
+;
+snapshot/StackExchange.Profiling.Data.Link<TKey, TValue>è
+å
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csd d(_
+
+%5bool""object.operator !=(object, object)*
+"
+object*7
+5
+%4/StackExchange.Profiling.Data.Link<TKey, TValue>*=
+;
+snapshot/StackExchange.Profiling.Data.Link<TKey, TValue>Ä
+~
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csd d(_
+tryAgainbool"__id*
+
+
+%5bool*
+4*c
+4V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csg g(*
+1
+5*Ω
+5V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csh h("`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csh h(
+""* 
+6V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csi	 i(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csi i(	
+implicit return:7
+head/StackExchange.Profiling.Data.Link<TKey, TValue>:
+keyTKey:
+valueTValueB3"1
+/StackExchange.Profiling.Data.Link<TKey, TValue>

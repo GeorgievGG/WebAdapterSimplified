@@ -1,0 +1,41 @@
+
+bStackExchange.Profiling.Data.SimpleProfiledConnection.BeginTransaction(System.Data.IsolationLevel)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.cs` `(."0*þ
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb b(cý
+ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb1 b(<
+%0System.Data.IDbConnection"__id*e*c7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"(
+_connectionSystem.Data.IDbConnection²¯
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb1 b(] 
+%1System.Data.IDbTransaction"FSystem.Data.IDbConnection.BeginTransaction(System.Data.IsolationLevel)*!
+
+%0System.Data.IDbConnection*
+""2,BeginTransaction(System.Data.IsolationLevel)åâ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb b(d<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction"6StackExchange.Profiling.Data.SimpleProfiledTransactionÀ
+½
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb b(0
+
+%3void"£StackExchange.Profiling.Data.SimpleProfiledTransaction.SimpleProfiledTransaction(System.Data.IDbTransaction, StackExchange.Profiling.Data.SimpleProfiledConnection)*>
+<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction*"
+ 
+%1System.Data.IDbTransaction*97
+5StackExchange.Profiling.Data.SimpleProfiledConnection"¬
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csb b(e>
+<
+%26StackExchange.Profiling.Data.SimpleProfiledTransaction*ó
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csc	 c(	"
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csc c(	
+implicit return:,
+isolationLevelSystem.Data.IsolationLevelB97
+5StackExchange.Profiling.Data.SimpleProfiledConnection

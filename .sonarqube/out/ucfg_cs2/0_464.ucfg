@@ -1,0 +1,68 @@
+
+|StackExchange.Profiling.Storage.MultiStorageProvider.MultiStorageProvider(params StackExchange.Profiling.Storage.IStorage[])i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs (#"1*s
+1i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs&	 &(	*
+0*û
+0i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs! "(Ô
+Ï
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs! !(1/
+%0)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*6
+4
+stores*StackExchange.Profiling.Storage.IStorage[]*
+""¿
+Ω
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs! !(:(
+%1"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%0)System.Collections.Generic.IEnumerable<T>ø
+º
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs! !(:(
+%2"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.set*86
+4StackExchange.Profiling.Storage.MultiStorageProvider**
+(
+%1"System.Collections.Generic.List<T>ì
+ê
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs" "((
+%3"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProviderò
+ï
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs" "(
+
+%4bool"TSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable**
+(
+%3"System.Collections.Generic.List<T>*
+2
+3*ı
+2j
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs$ $(ê±Æ
+j
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs$ $(ë"
+%5System.ArgumentNullException"System.ArgumentNullException 
+«
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs$ $(/
+
+%6void"BSystem.ArgumentNullException.ArgumentNullException(string, string)*$
+"
+%5System.ArgumentNullException*
+
+stores*XV
+TPlease include at least one IStorage object when initializing a MultiStorageProvider*
+3*Ò
+3i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs&	 &(	"Ä
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs& &(	
+implicit return:4
+stores*StackExchange.Profiling.Storage.IStorage[]B86
+4StackExchange.Profiling.Storage.MultiStorageProvider

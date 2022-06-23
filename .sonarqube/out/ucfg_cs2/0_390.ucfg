@@ -1,0 +1,70 @@
+
+aStackExchange.Profiling.MiniProfilerExtensions.Step(StackExchange.Profiling.MiniProfiler, string)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs4" 4(&"0*”
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6 6(#‡
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6 6(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*˝
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6& 6(*{
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6& 6(*
+%2"__id*
+""ê
+ç
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6& 6(*
+%1System.IDisposable"__id*
+
+%2*
+3*ﬁ
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6- 6(C†
+ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6- 6(D
+%4System.IDisposable"FStackExchange.Profiling.MiniProfiler.StepImpl(string, decimal?, bool?)*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+namestring*
+""*
+""§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6- 6(D
+%3System.IDisposable"__id*
+
+%4System.IDisposable§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6- 6(D
+%1System.IDisposable"__id*
+
+%3System.IDisposable*
+3*Ï
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs7	 7(	"Å
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs6 6(E
+
+%1System.IDisposable*‰
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs7	 7(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs7 7(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+namestringB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

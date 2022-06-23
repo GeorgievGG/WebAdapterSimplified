@@ -1,0 +1,41 @@
+
+ãStackExchange.Profiling.MiniProfiler.RenderIncludes(StackExchange.Profiling.RenderPosition?, bool?, bool?, int?, bool?, bool?, bool, bool?)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs˚" ˚(0"0*Ü
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÖ å(Ë
+Â
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÜ Ü(*
+%0$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfiler∫
+∑
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÖ å(
+%1System.Web.HtmlString"´StackExchange.Profiling.MiniProfilerHandler.RenderIncludes(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.RenderPosition?, bool?, bool?, int?, bool?, bool?)*/"-
++StackExchange.Profiling.MiniProfilerHandler*,
+*
+%0$StackExchange.Profiling.MiniProfiler*
+""*
+""*
+""*
+""*
+""*
+"""|
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÖ å(
+
+%1System.Web.HtmlString*‘
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csç	 ç(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csç ç(	
+implicit return:
+positionSystem.Nullable<T>:!
+showTrivialSystem.Nullable<T>:*
+showTimeWithChildrenSystem.Nullable<T>:%
+maxTracesToShowSystem.Nullable<T>:"
+showControlsSystem.Nullable<T>:'
+useExistingjQuerySystem.Nullable<T>:
+samplingOnlybool:!
+startHiddenSystem.Nullable<T>B("&
+$StackExchange.Profiling.MiniProfiler

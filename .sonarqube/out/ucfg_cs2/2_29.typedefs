@@ -1,0 +1,11 @@
+ü
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProviderobject„
+ XmlDocumentationProvider(string)`WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.XmlDocumentationProvider(string)Ñ
+FGetDocumentation(System.Web.Http.Controllers.HttpControllerDescriptor)†WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpControllerDescriptor)É
+BGetDocumentation(System.Web.Http.Controllers.HttpActionDescriptor)‚WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpActionDescriptor)Ï
+EGetDocumentation(System.Web.Http.Controllers.HttpParameterDescriptor)…WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpParameterDescriptor)Ù
+JGetResponseDocumentation(System.Web.Http.Controllers.HttpActionDescriptor)ŠWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetResponseDocumentation(System.Web.Http.Controllers.HttpActionDescriptor) 
+.GetDocumentation(System.Reflection.MemberInfo)nWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Reflection.MemberInfo)~
+GetDocumentation(System.Type)]WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Type)Â
+?GetMethodNode(System.Web.Http.Controllers.HttpActionDescriptor)WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMethodNode(System.Web.Http.Controllers.HttpActionDescriptor)t
+GetTypeNode(System.Type)XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeNode(System.Type)

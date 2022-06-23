@@ -1,0 +1,21 @@
+
+nStackExchange.Profiling.Data.ProfiledDbConnection.StateChangeHandler(object, System.Data.StateChangeEventArgs)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csï ï('"0*Ö
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csñ ñ(3áÞ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csñ ñ(4
+
+%0void"OSystem.Data.Common.DbConnection.OnStateChange(System.Data.StateChangeEventArgs)*#!
+System.Data.Common.DbConnection*?
+=
+stateChangeEventArguments System.Data.StateChangeEventArgs2/OnStateChange(System.Data.StateChangeEventArgs)*
+1*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csò	 ò(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csò ò(	
+implicit return:
+senderobject:=
+stateChangeEventArguments System.Data.StateChangeEventArgsB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

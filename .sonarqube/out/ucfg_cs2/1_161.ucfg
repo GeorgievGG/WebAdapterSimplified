@@ -1,0 +1,63 @@
+
+SWebAdapterSimplifiedLibrary.DataIsolationScope.RunInCurrentUserScope(System.Action)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs[ [(0"0*›
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs] _(Jﬂ
+‹
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs]' ](>*
+%0$System.Security.Principal.IPrincipal",System.Threading.Thread.CurrentPrincipal.get*"
+System.Threading.ThreadÇˇ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs]' ](G)
+%1#System.Security.Principal.IIdentity"1System.Security.Principal.IPrincipal.Identity.get*,
+*
+%0$System.Security.Principal.IPrincipal2Identity.getÓ
+Î
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs]' ](a6
+%20WebAdapterSimplifiedLibrary.DataIsolationContext"kWebAdapterSimplifiedLibrary.IdentityExtensions.GetDataIsolationContext(System.Security.Principal.IIdentity)*2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions*+
+)
+%1#System.Security.Principal.IIdentityÚ
+Ô
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs] ](aH
+dataIsolationContext0WebAdapterSimplifiedLibrary.DataIsolationContext"__id*8
+6
+%20WebAdapterSimplifiedLibrary.DataIsolationContextŒÀ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs_ _(K4
+%3.WebAdapterSimplifiedLibrary.DataIsolationScope".WebAdapterSimplifiedLibrary.DataIsolationScopeÌ
+Í
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs_# _(5
+
+%4void"sWebAdapterSimplifiedLibrary.DataIsolationScope.DataIsolationScope(WebAdapterSimplifiedLibrary.DataIsolationContext)*6
+4
+%3.WebAdapterSimplifiedLibrary.DataIsolationScope*J
+H
+dataIsolationContext0WebAdapterSimplifiedLibrary.DataIsolationContextﬂ
+‹
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs_ _(K7
+scope.WebAdapterSimplifiedLibrary.DataIsolationScope"__id*6
+4
+%3.WebAdapterSimplifiedLibrary.DataIsolationScope*
+1*è
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csa a(ü
+ú
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csa a(
+
+%5void"System.Action.Invoke()*
+System.Action*
+2*‰
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csc	 c(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csc c(	
+implicit return:
+actionSystem.ActionB2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

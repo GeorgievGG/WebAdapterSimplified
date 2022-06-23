@@ -1,0 +1,55 @@
+
+EStackExchange.Profiling.MiniProfiler.Settings.EnsureStorageStrategy()d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÙ! Ù(6"0*Ý
+0d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÛ Û(#‡
+„
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÛ Û(.
+%0(StackExchange.Profiling.Storage.IStorage"9StackExchange.Profiling.MiniProfiler.Settings.Storage.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsß
+Ü
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÛ Û(#
+
+%1bool""object.operator ==(object, object)*
+"
+object*0
+.
+%0(StackExchange.Profiling.Storage.IStorage*
+""*
+1
+2*‘	
+1d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÝ Ý(U½
+º
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÝB Ý(V
+%2System.TimeSpan" System.TimeSpan.FromDays(double)*"
+System.TimeSpan*2áÞ
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÝ Ý(W=
+%37StackExchange.Profiling.Storage.HttpRuntimeCacheStorage"7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage±
+®
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÝ" Ý(A
+
+%4void"`StackExchange.Profiling.Storage.HttpRuntimeCacheStorage.HttpRuntimeCacheStorage(System.TimeSpan)*?
+=
+%37StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+
+%2System.TimeSpanÈ
+Å
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csÝ Ý(W.
+%5(StackExchange.Profiling.Storage.IStorage"9StackExchange.Profiling.MiniProfiler.Settings.Storage.set*1"/
+-StackExchange.Profiling.MiniProfiler.Settings*?
+=
+%37StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+2*æ
+2d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csß ß("{
+d
+XC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.Settings.csß ß(
+implicit returnB1"/
+-StackExchange.Profiling.MiniProfiler.Settings

@@ -1,0 +1,125 @@
+
+:StackExchange.Profiling.Timing.GetCustomTimingList(string)U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs≤# ≤(6"0*ç
+0U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs¥ ¥(´
+®
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs¥ ¥(
+%0object"__id*;*9 
+StackExchange.Profiling.Timing"
+_lockObjectobject*
+1*Æ
+1U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∂ ∂()Î
+Ë
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∂ ∂(!9
+%13System.Collections.Generic.Dictionary<TKey, TValue>"0StackExchange.Profiling.Timing.CustomTimings.get*" 
+StackExchange.Profiling.Timing€
+ÿ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∂ ∂()
+
+%2bool""object.operator ==(object, object)*
+"
+object*;
+9
+%13System.Collections.Generic.Dictionary<TKey, TValue>*
+""*
+2
+3*ø
+2U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∑ ∑(P «
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∑$ ∑(P9
+%33System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>Â
+‚
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∑( ∑(N
+
+%4void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%33System.Collections.Generic.Dictionary<TKey, TValue>®
+•
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∑ ∑(P9
+%53System.Collections.Generic.Dictionary<TKey, TValue>"0StackExchange.Profiling.Timing.CustomTimings.set*" 
+StackExchange.Profiling.Timing*;
+9
+%33System.Collections.Generic.Dictionary<TKey, TValue>*
+3*Õ
+3U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs∫ ª(Î
+Ë
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csª ª(9
+%63System.Collections.Generic.Dictionary<TKey, TValue>"0StackExchange.Profiling.Timing.CustomTimings.get*" 
+StackExchange.Profiling.Timing*
+4*è
+4U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csΩ Ω(CÎ
+Ë
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csΩ Ω("9
+%73System.Collections.Generic.Dictionary<TKey, TValue>"0StackExchange.Profiling.Timing.CustomTimings.get*" 
+StackExchange.Profiling.Timingº
+π
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csΩ Ω(D
+
+%8bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*;
+9
+%73System.Collections.Generic.Dictionary<TKey, TValue>*
+
+categorystring*.
+,
+result"System.Collections.Generic.List<T>*
+5
+6*È
+5U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csø ¿(4®•
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csø ø(5(
+%9"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>æ
+ª
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csø! ø(3
+%10void")System.Collections.Generic.List<T>.List()**
+(
+%9"System.Collections.Generic.List<T>∫
+∑
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csø ø(5,
+result"System.Collections.Generic.List<T>"__id**
+(
+%9"System.Collections.Generic.List<T>Ï
+È
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs¿ ¿(!:
+%113System.Collections.Generic.Dictionary<TKey, TValue>"0StackExchange.Profiling.Timing.CustomTimings.get*" 
+StackExchange.Profiling.TimingÔ
+Ï
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs¿ ¿(4
+%12"__mapSet*<
+:
+%113System.Collections.Generic.Dictionary<TKey, TValue>*
+
+categorystring*.
+,
+result"System.Collections.Generic.List<T>*
+6*‰
+6U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs√ √("á
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs√ √(.
+,
+result"System.Collections.Generic.List<T>*»
+7U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csƒ	 ƒ(	"l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csƒ ƒ(	
+implicit return:
+categorystringB" 
+StackExchange.Profiling.Timing

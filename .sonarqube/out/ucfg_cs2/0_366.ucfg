@@ -1,0 +1,209 @@
+
+StackExchange.Profiling.Storage.SqlServerStorage.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs* (."0*Ê
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs’ •(ØÕ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs’ ’(*7
+%01StackExchange.Profiling.Helpers.Dapper.SqlBuilder"1StackExchange.Profiling.Helpers.Dapper.SqlBuilderó
+ð
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs’ ’((
+
+%1void">StackExchange.Profiling.Helpers.Dapper.SqlBuilder.SqlBuilder()*9
+7
+%01StackExchange.Profiling.Helpers.Dapper.SqlBuilderë
+è
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs’ ’(*<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder"__id*9
+7
+%01StackExchange.Profiling.Helpers.Dapper.SqlBuilder•
+’
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs“( “(B
+%2"__concat*
+select top *
+""º
+·
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs“( “(w
+%3"__concat*
+
+%2*42
+0 Id from MiniProfilers /**where**/ /**orderby**/Î
+Ë
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs“ “(x@
+%4:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"NStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddTemplate(string, dynamic)*>
+<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+
+%3*
+""÷
+ô
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs“ “(x?
+t:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"__id*B
+@
+%4:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Templateô
+ñ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs• •(
+
+%5bool"=System.DateTime.operator !=(System.DateTime, System.DateTime)*"
+System.DateTime*
+
+finishSystem.Nullable<T>*
+""*
+1
+2*Â
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs— —(?Î
+Ë
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs— —(B7
+%61StackExchange.Profiling.Helpers.Dapper.SqlBuilder"HStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Where(string, dynamic)*>
+<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+Started < @finish*
+""*
+2*ê
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csš š(ó
+ð
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csš š(
+
+%7bool"=System.DateTime.operator !=(System.DateTime, System.DateTime)*"
+System.DateTime*
+
+startSystem.Nullable<T>*
+""*
+3
+4*Á
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csœ œ(=Í
+Ê
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csœ œ(@7
+%81StackExchange.Profiling.Helpers.Dapper.SqlBuilder"HStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Where(string, dynamic)*>
+<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+Started > @start*
+""*
+4*õ
+4g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ Ÿ(B
+}
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ' Ÿ(B
+%9"__id*
+""*
+5
+6*Œ
+5g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸE Ÿ(S‹
+ˆ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸE Ÿ(S
+%11"__id*
+Started descŠ
+‡
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸE Ÿ(S
+%10string"__id*
+
+%11*
+7*‹
+6g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸV Ÿ(cŠ
+‡
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸV Ÿ(c
+%12"__id*
+Started ascŠ
+‡
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸV Ÿ(c
+%10string"__id*
+
+%12*
+7*š
+7g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ ¡(1Ë
+È
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ Ÿ(d8
+%131StackExchange.Profiling.Helpers.Dapper.SqlBuilder"JStackExchange.Profiling.Helpers.Dapper.SqlBuilder.OrderBy(string, dynamic)*>
+<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+
+%10string*
+""
+
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡ ¡(1&
+%14System.Data.Common.DbConnection"DStackExchange.Profiling.Storage.SqlServerStorage.GetOpenConnection()*42
+0StackExchange.Profiling.Storage.SqlServerStorageÅ
+Â
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¡ ¡(1'
+connSystem.Data.Common.DbConnection"__id*(
+&
+%14System.Data.Common.DbConnection*
+8*Ê
+8g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£ £(>…
+‚
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£( £(0
+%15string"EStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.RawSql.get*A
+?
+t:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template‰
+†
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£2 £(>
+%16object"IStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Parameters.get*A
+?
+t:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Templateë
+è
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£ £(?0
+%17)System.Collections.Generic.IEnumerable<T>"§StackExchange.Profiling.Helpers.Dapper.SqlMapper.Query<T>(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, bool, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*)
+'
+connSystem.Data.Common.DbConnection*
+
+%15string*
+
+%16object*
+""*
+""*
+""*
+""À
+½
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£ £(H)
+%18"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*2
+0
+%17)System.Collections.Generic.IEnumerable<T>"–
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs£ £(I+
+)
+%18"System.Collections.Generic.List<T>*r
+9g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥	 ¥(	*
+10*í
+10g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥	 ¥(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¥ ¥(	
+implicit return:
+
+maxResultsint:
+startSystem.Nullable<T>:
+finishSystem.Nullable<T>:;
+orderBy0StackExchange.Profiling.Storage.ListResultsOrderB42
+0StackExchange.Profiling.Storage.SqlServerStorage

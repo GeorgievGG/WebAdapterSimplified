@@ -1,0 +1,186 @@
+
+ñStackExchange.Profiling.SqlTiming.SqlTiming(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, StackExchange.Profiling.MiniProfiler)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs ("1*`
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs,	 ,(	*
+0*π
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs ( ”
+–
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs ( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+2
+3*⁄
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs( (Lùö
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs( (M"
+%1System.ArgumentNullException"System.ArgumentNullException◊
+‘
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs, (A
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+profiler*
+4*ﬂ
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs  %(:Ô
+Ï
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs   ( X#
+!StackExchange.Profiling.SqlTiming"1
+	_profiler$StackExchange.Profiling.MiniProfiler"__id*2
+0
+profiler$StackExchange.Profiling.MiniProfiler«ƒ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs"4 "(G
+%3string"&System.Data.IDbCommand.CommandText.get*#
+!
+commandSystem.Data.IDbCommand2CommandText.get·
+ﬁ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs" "(H
+%4string"?StackExchange.Profiling.SqlTiming.AddSpacesToParameters(string)*%#
+!StackExchange.Profiling.SqlTiming*
+
+%3stringà
+Ö
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs" "(H
+commandTextstring"__id*
+
+%4string°
+û
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs# #(:(
+%5"System.Collections.Generic.List<T>"NStackExchange.Profiling.SqlTiming.GetCommandParameters(System.Data.IDbCommand)*%"#
+!StackExchange.Profiling.SqlTiming*#
+!
+commandSystem.Data.IDbCommandø
+º
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs# #(:0
+
+parameters"System.Collections.Generic.List<T>"__id**
+(
+%5"System.Collections.Generic.List<T>â
+Ü
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs% %(29
+%63StackExchange.Profiling.SqlFormatters.ISqlFormatter">StackExchange.Profiling.MiniProfiler.Settings.SqlFormatter.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings‹
+Ÿ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs% %(:
+
+%7bool""object.operator !=(object, object)*
+"
+object*;
+9
+%63StackExchange.Profiling.SqlFormatters.ISqlFormatter*
+""*
+5
+6*≈
+5V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs' '(qâ
+Ü
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs' '(@9
+%83StackExchange.Profiling.SqlFormatters.ISqlFormatter">StackExchange.Profiling.MiniProfiler.Settings.SqlFormatter.get*1"/
+-StackExchange.Profiling.MiniProfiler.SettingsÀ
+»
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs' '(r
+%9string"ÓStackExchange.Profiling.SqlFormatters.SqlFormatterExtensions.GetFormattedSql(StackExchange.Profiling.SqlFormatters.ISqlFormatter, string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)*@">
+<StackExchange.Profiling.SqlFormatters.SqlFormatterExtensions*;
+9
+%83StackExchange.Profiling.SqlFormatters.ISqlFormatter*
+
+commandTextstring*2
+0
+
+parameters"System.Collections.Generic.List<T>*#
+!
+commandSystem.Data.IDbCommandà
+Ö
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs' '(r
+commandTextstring"__id*
+
+%9string*
+6*—
+
+6V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs* +(%ñì
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs*F *(U
+%10string"System.Enum.ToString()*
+""2
+ToString()û
+õ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs* *(V+
+%11$StackExchange.Profiling.CustomTiming"yStackExchange.Profiling.MiniProfilerExtensions.CustomTiming(StackExchange.Profiling.MiniProfiler, string, string, string)*2"0
+.StackExchange.Profiling.MiniProfilerExtensions*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+sql*
+
+commandTextstring*
+
+%10stringÓ
+Î
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs* *(V\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTiming"__id*-
++
+%11$StackExchange.Profiling.CustomTimingÓ
+Î
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs+ +(+
+%12$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingœ
+Ã
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs+ +(%
+%13bool""object.operator ==(object, object)*
+"
+object*-
++
+%12$StackExchange.Profiling.CustomTiming*
+""*
+7
+4*›
+7V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs+- +(L¶£
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs+- +(L'
+%14 System.InvalidOperationException" System.InvalidOperationException—
+Œ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs+1 +(J
+%15void"<System.InvalidOperationException.InvalidOperationException()*)
+'
+%14 System.InvalidOperationException*
+4* 
+4V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs,	 ,(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs, ,(	
+implicit return:!
+commandSystem.Data.IDbCommand:3
+type+StackExchange.Profiling.Data.SqlExecuteType:0
+profiler$StackExchange.Profiling.MiniProfilerB%#
+!StackExchange.Profiling.SqlTiming

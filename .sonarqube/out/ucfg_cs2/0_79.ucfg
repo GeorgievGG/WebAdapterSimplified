@@ -1,0 +1,137 @@
+
++StackExchange.Profiling.CustomTiming.Stop()Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csk k("0*ã
+0Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csm m(,·
+ﬁ
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csm m($
+%0System.Nullable<T>"=StackExchange.Profiling.CustomTiming.DurationMilliseconds.get*(&
+$StackExchange.Profiling.CustomTimingæ
+ª
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csm m(,
+
+%1bool""object.operator ==(object, object)*
+"
+object*
+
+%0System.Nullable<T>*
+""*
+1
+2*ß
+1Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cso o(TÔ
+Ï
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cso' o(0*
+%2$StackExchange.Profiling.MiniProfiler"__id*]*[&
+$StackExchange.Profiling.CustomTiming"1
+	_profiler$StackExchange.Profiling.MiniProfilerq
+o
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csoI o(T
+%3"__id*
+""Á
+‰
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cso' o(U
+%4decimal"BStackExchange.Profiling.MiniProfiler.GetDurationMilliseconds(long)*,
+*
+%2$StackExchange.Profiling.MiniProfiler*
+
+%3Ú
+Ô
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cso o(U
+%5System.Nullable<T>"=StackExchange.Profiling.CustomTiming.DurationMilliseconds.set*(&
+$StackExchange.Profiling.CustomTiming*
+
+%4decimal*
+2*Ô
+2Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr r(#q
+o
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr r(
+%6"__id*
+""ì
+ê
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr r(#
+
+%7bool"System.Nullable<T>.HasValue.get*
+
+%6*
+3
+4*Ô
+3Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr' r(;q
+o
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr' r(1
+%8"__id*
+""ì
+ê
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csr' r(7
+%9decimal"System.Nullable<T>.Value.get*
+
+%8*
+5
+4*◊
+5Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cst t(;‚
+ﬂ
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cst t((
+%10System.Nullable<T>"=StackExchange.Profiling.CustomTiming.DurationMilliseconds.get*(&
+$StackExchange.Profiling.CustomTimingr
+p
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cst+ t(5
+%11"__id*
+""ï
+í
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cst+ t(;
+%12decimal"System.Nullable<T>.Value.get*
+
+%11*
+6
+4*º
+6Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csv v(D
+Ì
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csv v(+
+%13$StackExchange.Profiling.MiniProfiler"__id*]*[&
+$StackExchange.Profiling.CustomTiming"1
+	_profiler$StackExchange.Profiling.MiniProfiler„
+‡
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csv v("%
+%14StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*-
++
+%13$StackExchange.Profiling.MiniProfiler 
+«
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csv6 v(>
+%15string"1StackExchange.Profiling.CustomTiming.Category.get*(&
+$StackExchange.Profiling.CustomTiming∞
+≠
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csv v(E
+%16void"_StackExchange.Profiling.Timing.RemoveCustomTiming(string, StackExchange.Profiling.CustomTiming)*'
+%
+%14StackExchange.Profiling.Timing*
+
+%15string*(&
+$StackExchange.Profiling.CustomTiming*
+4*–
+4Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csy	 y(	"p
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.csy y(	
+implicit returnB(&
+$StackExchange.Profiling.CustomTiming

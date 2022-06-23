@@ -1,0 +1,41 @@
+
+WStackExchange.Profiling.Data.ProfiledDbDataReader.GetChars(int, long, char[], int, int)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csﬁ ﬁ(%"0*â
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‡ ‡(Uˇ
+¸
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‡ ‡(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderù
+ö
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‡ ‡(V
+
+%1long"ESystem.Data.Common.DbDataReader.GetChars(int, long, char[], int, int)*'
+%
+%0System.Data.Common.DbDataReader*
+""*
+""*
+
+bufferchar[]*
+""*
+"""x
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‡ ‡(W
+
+
+%1long*Ó
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs·	 ·(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs· ·(	
+implicit return:
+ordinalint:
+
+dataOffsetlong:
+bufferchar[]:
+bufferOffsetint:
+lengthintB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

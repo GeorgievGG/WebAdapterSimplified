@@ -1,0 +1,85 @@
+
+]WebAdapterSimplifiedLibrary.DatabaseExtensions.GetOpenConnection(System.Data.Entity.Database)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs# (4"0*p
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs	 (	*
+1
+2*à
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (6Ê
+„
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs! (4%
+%0System.Data.Common.DbConnection"*System.Data.Entity.Database.Connection.get*)
+'
+databaseSystem.Data.Entity.Database∆
+√
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (4-
+
+connectionSystem.Data.Common.DbConnection"__id*'
+%
+%0System.Data.Common.DbConnection
+Ì
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs] (q*
+%1$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfiler‘—
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (r7
+%21StackExchange.Profiling.Data.ProfiledDbConnection"1StackExchange.Profiling.Data.ProfiledDbConnection¢
+ü
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (P
+
+%3void"ëStackExchange.Profiling.Data.ProfiledDbConnection.ProfiledDbConnection(System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)*9
+7
+%21StackExchange.Profiling.Data.ProfiledDbConnection*/
+-
+
+connectionSystem.Data.Common.DbConnection*,
+*
+%1$StackExchange.Profiling.MiniProfiler‰
+·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (r9
+conn1StackExchange.Profiling.Data.ProfiledDbConnection"__id*9
+7
+%21StackExchange.Profiling.Data.ProfiledDbConnectionêç
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (!
+%4System.Data.ConnectionState";StackExchange.Profiling.Data.ProfiledDbConnection.State.get*;
+9
+conn1StackExchange.Profiling.Data.ProfiledDbConnection2	State.get{
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs" (6
+%5"__id*
+""*
+3
+4*„
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (Û
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (
+
+%6void"8StackExchange.Profiling.Data.ProfiledDbConnection.Open()*;
+9
+conn1StackExchange.Profiling.Data.ProfiledDbConnection2Open()*
+4*ç
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs ("¢
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (;
+9
+conn1StackExchange.Profiling.Data.ProfiledDbConnection*m
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (*
+5*‰
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DatabaseExtensions.cs (	
+implicit return:'
+databaseSystem.Data.Entity.DatabaseB2"0
+.WebAdapterSimplifiedLibrary.DatabaseExtensions

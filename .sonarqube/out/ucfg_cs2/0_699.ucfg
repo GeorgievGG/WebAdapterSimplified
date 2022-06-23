@@ -1,0 +1,35 @@
+
+JStackExchange.Profiling.Helpers.Dapper.SqlBuilder.GroupBy(string, dynamic)a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÀ À(!"0*ó
+0a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÂ Ã(í
+ê
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÂ Â(f
+
+%0void"kStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddClause(string, string, object, string, string, string)*53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*	
+groupby*
+
+sqlstring*
+
+
+parametersdynamic*
+ , *
+
+
+GROUP BY *
+
+"š
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÃ Ã(53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*à
+1a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÄ	 Ä(	"x
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csÄ Ä(	
+implicit return:
+sqlstring:
+
+parametersdynamicB53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder

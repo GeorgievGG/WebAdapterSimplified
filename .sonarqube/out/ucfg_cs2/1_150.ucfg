@@ -1,0 +1,136 @@
+
+NWebAdapterSimplifiedLibrary.MatrixUserService.IsExistingUserInDbDapper(string)b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs0 0(,"0*Æ
+0b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs2 2(O´
+®
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs2( 2(>8
+%02WebAdapterSimplifiedLibrary.IDbContextScopeFactory"__id*Å*/
+-WebAdapterSimplifiedLibrary.MatrixUserService"L
+_dbContextScopeFactory2WebAdapterSimplifiedLibrary.IDbContextScopeFactoryùö
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs2( 2(O9
+%13WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope"sWebAdapterSimplifiedLibrary.IDbContextScopeFactory.CreateReadOnly(WebAdapterSimplifiedLibrary.DbContextScopeOption)*:
+8
+%02WebAdapterSimplifiedLibrary.IDbContextScopeFactory*
+""2@CreateReadOnly(WebAdapterSimplifiedLibrary.DbContextScopeOption)Ò
+Ó
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs2 2(OE
+dbContextScope3WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope"__id*;
+9
+%13WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope*
+1*ˆ
+1b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs4 9(!ºπ
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs4 4(26
+%20WebAdapterSimplifiedLibrary.IDbContextCollection"BWebAdapterSimplifiedLibrary.IDbContextReadOnlyScope.DbContexts.get*G
+E
+dbContextScope3WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope2DbContexts.get£†
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs4 4(A)
+%3#WebAdapterSimplifiedLibrary.Context"BWebAdapterSimplifiedLibrary.IDbContextCollection.Get<TDbContext>()*8
+6
+%20WebAdapterSimplifiedLibrary.IDbContextCollection2Get<TDbContext>()≈
+¬
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs4 4(A)
+db#WebAdapterSimplifiedLibrary.Context"__id*+
+)
+%3#WebAdapterSimplifiedLibrary.Context‚
+ﬂ
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs6! 6(,!
+%4System.Data.Entity.Database")System.Data.Entity.DbContext.Database.get*+
+)
+db#WebAdapterSimplifiedLibrary.Context∆
+√
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs6! 6(@%
+%5System.Data.Common.DbConnection"]WebAdapterSimplifiedLibrary.DatabaseExtensions.GetOpenConnection(System.Data.Entity.Database)*2"0
+.WebAdapterSimplifiedLibrary.DatabaseExtensions*#
+!
+%4System.Data.Entity.Database≈
+¬
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs6 6(@-
+
+connectionSystem.Data.Common.DbConnection"__id*'
+%
+%5System.Data.Common.DbConnectionÿ
+’
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs7, 7(w
+%6string"__concat*A?
+=select count(*) as value from myapp_users where User_name = '*
+
+userNamestringñ
+ì
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs7, 7(w
+%7string"__concat*
+
+%6string*
+'ﬁ
+€
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs7 7(x/
+%8)System.Collections.Generic.IEnumerable<T>"§StackExchange.Profiling.Helpers.Dapper.SqlMapper.Query(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, bool, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*/
+-
+
+connectionSystem.Data.Common.DbConnection*
+
+%7string*
+""*
+""*
+""*
+""*
+""”
+–
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs7 7(x1
+data)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%8)System.Collections.Generic.IEnumerable<T>ü
+ú
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs8" 8(.
+%9dynamic"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*3
+1
+data)System.Collections.Generic.IEnumerable<T>ù
+ö
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs8" 8(4
+%10dynamic"__mapGet*
+
+%9dynamic*	
+VALUEÜ
+É
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs8 8(4
+%11"__id*
+
+%10dynamicÖ
+Ç
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs8 8(4
+resultint"__id*
+
+%11"l
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs9 9("
+""*l
+2b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs;	 ;(	*
+3*‚
+3b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs;	 ;(	"y
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs; ;(	
+implicit return:
+userNamestringB1/
+-WebAdapterSimplifiedLibrary.MatrixUserService

@@ -1,0 +1,29 @@
+
+>StackExchange.Profiling.Data.ProfiledDbDataReader.GetGuid(int)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csË Ë($"0*Ò
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÍ Í(*ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÍ Í(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderß
+Ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÍ Í(+
+%1System.Guid",System.Data.Common.DbDataReader.GetGuid(int)*'
+%
+%0System.Data.Common.DbDataReader*
+"""
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÍ Í(,
+
+%1System.Guid*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÎ	 Î(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÎ Î(	
+implicit return:
+ordinalintB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

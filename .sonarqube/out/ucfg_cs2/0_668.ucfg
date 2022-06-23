@@ -1,0 +1,34 @@
+
+HStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Where(string, dynamic)a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csé é("0*Ô
+0a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csê ë(È
+Ê
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csê ê(Y
+
+%0void"kStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddClause(string, string, object, string, string, string)*53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*	
+where*
+
+sqlstring*
+
+
+parametersdynamic*	
+ AND *
+
+WHERE *
+
+"ö
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csë ë(53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*‡
+1a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csí	 í(	"x
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csí í(	
+implicit return:
+sqlstring:
+
+parametersdynamicB53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder

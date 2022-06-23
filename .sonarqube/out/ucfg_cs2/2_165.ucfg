@@ -1,0 +1,70 @@
+
+XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeNode(System.Type)v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÇ Ç(*"0*‚
+0v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÑ Ü(Gø
+º
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÑ( Ñ(9
+%0string"XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeName(System.Type)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*
+
+typeSystem.TypeØ
+¨
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÑ Ñ(9
+controllerTypeNamestring"__id*
+
+%0stringÄ
+˝
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÖ4 Ö(P&
+%1 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoè
+å
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÖR Ö(`
+%2"__id*
+""û
+õ
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÖ& Ö(u
+%3string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*(
+&
+%1 System.Globalization.CultureInfo*
+
+%2*
+
+controllerTypeNamestring≠
+™
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÖ Ö(u
+selectExpressionstring"__id*
+
+%3string¶
+£
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÜ Ü(%%
+%4System.Xml.XPath.XPathNavigator"__id*|*zA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider"5
+_documentNavigatorSystem.Xml.XPath.XPathNavigatorΩ∫
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÜ Ü(H%
+%5System.Xml.XPath.XPathNavigator"8System.Xml.XPath.XPathNavigator.SelectSingleNode(string)*'
+%
+%4System.Xml.XPath.XPathNavigator*
+
+selectExpressionstring2SelectSingleNode(string)"°
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÜ Ü(I'
+%
+%5System.Xml.XPath.XPathNavigator*ã
+1v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csá	 á(	"ç
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csá á(	
+implicit return:
+typeSystem.TypeBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

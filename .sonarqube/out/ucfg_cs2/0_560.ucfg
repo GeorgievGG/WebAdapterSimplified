@@ -1,0 +1,57 @@
+
+KStackExchange.Profiling.Helpers.ExtensionMethods.RemoveLeadingSlash(string)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs3 3(1"0*®
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs5 5(*≥
+∞
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs5 5(+
+
+%0bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+inputstring*
+1
+2*É
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs54 5(@ù
+ö
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs54 5(@
+%1string"__id**
+string"
+Emptystring"w
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs5- 5(A
+
+%1string*ö
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs6 6(;ù
+ö
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs6/ 6(;
+%2string"__id**
+string"
+Emptystringî
+ë
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs6 6(<
+%3string"DSystem.Text.RegularExpressions.Regex.Replace(string, string, string)*("&
+$System.Text.RegularExpressions.Regex*
+
+inputstring*
+^/+*
+
+%2string"w
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs6 6(=
+
+%3string*Ë
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs7	 7(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs7 7(	
+implicit return:
+inputstringB4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods

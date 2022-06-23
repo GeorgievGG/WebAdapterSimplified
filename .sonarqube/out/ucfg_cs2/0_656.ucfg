@@ -1,0 +1,48 @@
+
+‡StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Template(StackExchange.Profiling.Helpers.Dapper.SqlBuilder, string, dynamic)_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs; ;("1*®
+1_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs@ @(Â
+¿
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs3 3(N<
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"
+dataSeqint"__id*
+""*
+0*½
+0_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs= ?(&Ù
+Ö
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs= =(,T<
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"
+
+initParamsobject"__id*
+
+
+parametersdynamicÊ
+Ç
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs> >(M<
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"
+sqlstring"__id*
+
+sqlstring¨
+¥
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs? ?(&|<
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template"<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder"__id*>
+<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*
+2*Ü
+2_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs@ @("v
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs@ @(
+implicit return:<
+builder1StackExchange.Profiling.Helpers.Dapper.SqlBuilder:
+sqlstring:
+
+parametersdynamicB><
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template

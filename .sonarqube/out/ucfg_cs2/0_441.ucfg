@@ -1,0 +1,65 @@
+
+<StackExchange.Profiling.Data.ProfiledDbCommand.Dispose(bool)e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÜ  Ü('"0*r
+0e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÞ Þ(*
+1
+2*À
+1e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÞ Þ(-ô
+ñ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÞ Þ(%"
+%0System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommandÔ
+Ñ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csÞ Þ(-
+
+%1bool""object.operator !=(object, object)*
+"
+object*$
+"
+%0System.Data.Common.DbCommand*
+""*
+3
+2*°
+3e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csà à("ô
+ñ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csà à("
+%2System.Data.Common.DbCommand"__id*^*\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommandÇ
+Ä
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csà à("
+
+%3void")System.ComponentModel.Component.Dispose()*$
+"
+%2System.Data.Common.DbCommand*
+2*»
+2e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csâ ã("Ö
+Ó
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csâ â(\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommand"__id*
+""ðí
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csã ã(#
+
+%4void"-System.ComponentModel.Component.Dispose(bool)*20
+.StackExchange.Profiling.Data.ProfiledDbCommand*
+""2Dispose(bool)*
+4*è
+4e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csä	 ä(	"|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csä ä(	
+implicit return:
+	disposingboolB20
+.StackExchange.Profiling.Data.ProfiledDbCommand

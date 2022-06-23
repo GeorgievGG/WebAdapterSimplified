@@ -1,0 +1,32 @@
+Ñ
+.StackExchange.Profiling.Data.ProfiledDbCommandSystem.Data.Common.DbCommandSystem.ComponentModel.ComponentSystem.MarshalByRefObjectobject¨
+zProfiledDbCommand(System.Data.Common.DbCommand, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)©StackExchange.Profiling.Data.ProfiledDbCommand.ProfiledDbCommand(System.Data.Common.DbCommand, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)“
+0ExecuteDbDataReader(System.Data.CommandBehavior)_StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteDbDataReader(System.Data.CommandBehavior)U
+ExecuteNonQuery()@StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()Q
+ExecuteScalar()>StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteScalar()C
+Cancel()7StackExchange.Profiling.Data.ProfiledDbCommand.Cancel()E
+	Prepare()8StackExchange.Profiling.Data.ProfiledDbCommand.Prepare()Y
+CreateDbParameter()BStackExchange.Profiling.Data.ProfiledDbCommand.CreateDbParameter()M
+Dispose(bool)<StackExchange.Profiling.Data.ProfiledDbCommand.Dispose(bool)A
+Clone()6StackExchange.Profiling.Data.ProfiledDbCommand.Clone()e
+System.ICloneable.Clone()HStackExchange.Profiling.Data.ProfiledDbCommand.System.ICloneable.Clone()O
+BindByName.get=StackExchange.Profiling.Data.ProfiledDbCommand.BindByName.getO
+BindByName.set=StackExchange.Profiling.Data.ProfiledDbCommand.BindByName.setQ
+CommandText.get>StackExchange.Profiling.Data.ProfiledDbCommand.CommandText.getQ
+CommandText.set>StackExchange.Profiling.Data.ProfiledDbCommand.CommandText.setW
+CommandTimeout.getAStackExchange.Profiling.Data.ProfiledDbCommand.CommandTimeout.getW
+CommandTimeout.setAStackExchange.Profiling.Data.ProfiledDbCommand.CommandTimeout.setQ
+CommandType.get>StackExchange.Profiling.Data.ProfiledDbCommand.CommandType.getQ
+CommandType.set>StackExchange.Profiling.Data.ProfiledDbCommand.CommandType.setS
+DbConnection.get?StackExchange.Profiling.Data.ProfiledDbCommand.DbConnection.getS
+DbConnection.set?StackExchange.Profiling.Data.ProfiledDbCommand.DbConnection.sete
+DbParameterCollection.getHStackExchange.Profiling.Data.ProfiledDbCommand.DbParameterCollection.gete
+DbParameterCollection.setHStackExchange.Profiling.Data.ProfiledDbCommand.DbParameterCollection.setU
+DbTransaction.get@StackExchange.Profiling.Data.ProfiledDbCommand.DbTransaction.getU
+DbTransaction.set@StackExchange.Profiling.Data.ProfiledDbCommand.DbTransaction.set]
+DesignTimeVisible.getDStackExchange.Profiling.Data.ProfiledDbCommand.DesignTimeVisible.get]
+DesignTimeVisible.setDStackExchange.Profiling.Data.ProfiledDbCommand.DesignTimeVisible.set[
+UpdatedRowSource.getCStackExchange.Profiling.Data.ProfiledDbCommand.UpdatedRowSource.get[
+UpdatedRowSource.setCStackExchange.Profiling.Data.ProfiledDbCommand.UpdatedRowSource.setY
+InternalCommand.getBStackExchange.Profiling.Data.ProfiledDbCommand.InternalCommand.getY
+InternalCommand.setBStackExchange.Profiling.Data.ProfiledDbCommand.InternalCommand.set

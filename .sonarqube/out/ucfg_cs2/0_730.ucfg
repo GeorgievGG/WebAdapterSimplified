@@ -1,0 +1,147 @@
+
+RStackExchange.Profiling.Helpers.Dapper.SqlMapper.LookupDbType(System.Type, string)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs® ®(*"0*Ï
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs° ²(*Ô
+Ñ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs±% ±(E
+%0System.Type".System.Nullable.GetUnderlyingType(System.Type)*"
+System.Nullable*
+
+typeSystem.Type£
+ 
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(E!
+nullUnderlyingTypeSystem.Type"__id*
+
+%0System.Typeâ
+ß
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs² ²(*
+
+%1bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*#
+!
+nullUnderlyingTypeSystem.Type*
+""*
+1
+2*’
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs², ²(E¥
+¢
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs², ²(E
+typeSystem.Type"__id*#
+!
+nullUnderlyingTypeSystem.Type*
+2*œ
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs³ ³(¬©
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs³ ³(
+
+%2bool"System.Type.IsEnum.get*
+
+typeSystem.Type2
+IsEnum.get*
+3
+4*Ñ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(2Ì
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(3
+%3System.Type"*System.Enum.GetUnderlyingType(System.Type)*"
+System.Enum*
+
+typeSystem.Type•
+’
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(3
+typeSystem.Type"__id*
+
+%3System.Type*
+4*É
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs· ·(4ž
+›
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs· ·(9
+%43System.Collections.Generic.Dictionary<TKey, TValue>"__id*v*t2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper">
+typeMap3System.Collections.Generic.Dictionary<TKey, TValue>¸
+µ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs· ·(5
+
+%5bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*;
+9
+%43System.Collections.Generic.Dictionary<TKey, TValue>*
+
+typeSystem.Type*
+
+dbTypeSystem.Data.DbType*
+5
+6*ê
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¹ ¹("‚
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¹ ¹(
+
+dbTypeSystem.Data.DbType*Ê
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs» »(9Ú×
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs» »(:
+
+%6bool")System.Type.IsAssignableFrom(System.Type)*
+""*
+
+typeSystem.Type2IsAssignableFrom(System.Type)*
+7
+8*Ë
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¾ ¾(!x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¾ ¾(!
+%7"__id*
+"""j
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¾ ¾("
+
+%7*”
+8a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(†”
+‘
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ, Â(‡
+%8string"%string.Format(string, object, object)*
+"
+string*B@
+>The member {0} of type {1} cannot be used as a parameter value*
+
+namestring*
+
+typeSystem.Type¨¥
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(ˆ"
+%9System.NotSupportedException"System.NotSupportedExceptionä
+á
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(+
+%10void":System.NotSupportedException.NotSupportedException(string)*$
+"
+%9System.NotSupportedException*
+
+%8string*
+9*Þ
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÃ	 Ã(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÃ Ã(	
+implicit return:
+typeSystem.Type:
+namestringB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

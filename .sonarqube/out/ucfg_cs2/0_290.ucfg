@@ -1,0 +1,77 @@
+
+?StackExchange.Profiling.Data.ProfiledDbConnection.Dispose(bool)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csÞ  Þ('"0*u
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csà à(*
+1
+2*Ø
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csà à(0ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csà à((%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionÚ
+×
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csà à(0
+
+%1bool""object.operator !=(object, object)*
+"
+object*'
+%
+%0System.Data.Common.DbConnection*
+""*
+3
+2*Î
+3h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csâ ã(%ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csâ â(%
+%2System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csã ã(%
+%3System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionÍ
+Ê
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csã ã(%
+
+%4void")System.ComponentModel.Component.Dispose()*'
+%
+%3System.Data.Common.DbConnection*
+2*¼
+2h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cså ç("â
+ß
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.cså å(e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnection"__id*
+""é
+æ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csæ æ(l3
+1StackExchange.Profiling.Data.ProfiledDbConnection"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*
+""öó
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csç ç(#
+
+%5void"-System.ComponentModel.Component.Dispose(bool)*53
+1StackExchange.Profiling.Data.ProfiledDbConnection*
+""2Dispose(bool)*
+4*î
+4h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csè	 è(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csè è(	
+implicit return:
+	disposingboolB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

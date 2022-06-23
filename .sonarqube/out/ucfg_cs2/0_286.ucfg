@@ -1,0 +1,42 @@
+
+`StackExchange.Profiling.Data.ProfiledDbConnection.BeginDbTransaction(System.Data.IsolationLevel)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csÃ) Ã(;"0* 
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ Œ(_É
+Ä
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ- Œ(8%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionî
+ë
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ- Œ(Y&
+%1 System.Data.Common.DbTransaction"LSystem.Data.Common.DbConnection.BeginTransaction(System.Data.IsolationLevel)*'
+%
+%0System.Data.Common.DbConnection*
+""€ÿ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ Œ(`8
+%22StackExchange.Profiling.Data.ProfiledDbTransaction"2StackExchange.Profiling.Data.ProfiledDbTransaction∂
+≥
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ Œ(,
+
+%3void"ùStackExchange.Profiling.Data.ProfiledDbTransaction.ProfiledDbTransaction(System.Data.Common.DbTransaction, StackExchange.Profiling.Data.ProfiledDbConnection)*:
+8
+%22StackExchange.Profiling.Data.ProfiledDbTransaction*(
+&
+%1 System.Data.Common.DbTransaction*53
+1StackExchange.Profiling.Data.ProfiledDbConnection"¶
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŒ Œ(a:
+8
+%22StackExchange.Profiling.Data.ProfiledDbTransaction*Ó
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csœ	 œ(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csœ œ(	
+implicit return:,
+isolationLevelSystem.Data.IsolationLevelB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

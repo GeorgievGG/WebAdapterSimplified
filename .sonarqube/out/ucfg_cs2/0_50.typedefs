@@ -1,0 +1,11 @@
+â
+
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identityobjectp
+ForGrid(System.Type, int)SStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForGrid(System.Type, int)Ž
+(ForGrid(System.Type, System.Type[], int)bStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForGrid(System.Type, System.Type[], int)€
+!ForDynamicParameters(System.Type)[StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForDynamicParameters(System.Type)›
+nIdentity(string, System.Data.CommandType?, System.Data.IDbConnection, System.Type, System.Type, System.Type[])¨StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, System.Data.IDbConnection, System.Type, System.Type, System.Type[])ÿ
+`Identity(string, System.Data.CommandType?, string, System.Type, System.Type, System.Type[], int)šStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, string, System.Type, System.Type, System.Type[], int)Z
+Equals(object)HStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Equals(object)X
+GetHashCode()GStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.GetHashCode()À
+AEquals(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity){StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Equals(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)

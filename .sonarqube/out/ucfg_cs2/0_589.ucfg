@@ -1,0 +1,129 @@
+
+AStackExchange.Profiling.Data.SimpleProfiledCommand.Connection.seti
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csù ù("0*“
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csü ü(0ˆ
+Û
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csü ü((*
+%0$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfiler‡
+›
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csü ü(0
+
+%1bool""object.operator !=(object, object)*
+"
+object*,
+*
+%0$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*Ä
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs° °(4ˆ
+Û
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs°  °(4*
+%2$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfilerë
+é
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs° °(4m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*,
+*
+%2$StackExchange.Profiling.MiniProfiler*
+2*˚	
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs§ ß(5¸
+˘
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs§ §(#`4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"(
+_connectionSystem.Data.IDbConnection"__id*$
+"
+valueSystem.Data.IDbConnectionª
+∏
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs¶ ¶(?
+%3System.Data.IDbConnection"__id*$
+"
+valueSystem.Data.IDbConnectionŸ
+÷
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs¶ ¶(?@
+wrapped5StackExchange.Profiling.Data.SimpleProfiledConnection"__id*!
+
+%3System.Data.IDbConnection
+Ì
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß ß(
+%4System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommandˆ
+Û
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß& ß(5
+
+%5bool""object.operator !=(object, object)*
+"
+object*B
+@
+wrapped5StackExchange.Profiling.Data.SimpleProfiledConnection*
+""*
+3
+4*å
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß8 ß(Q†
+ù
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß8 ß(Q
+%9System.Data.IDbConnection"KStackExchange.Profiling.Data.SimpleProfiledConnection.WrappedConnection.get*B
+@
+wrapped5StackExchange.Profiling.Data.SimpleProfiledConnection∏
+µ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß8 ß(Q
+%7System.Data.IDbConnection"__id*!
+
+%9System.Data.IDbConnection∏
+µ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß8 ß(Q
+%6System.Data.IDbConnection"__id*!
+
+%7System.Data.IDbConnection*
+5*Ï
+4i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csßT ß(Yª
+∏
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csßT ß(Y
+%8System.Data.IDbConnection"__id*$
+"
+valueSystem.Data.IDbConnection∏
+µ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csßT ß(Y
+%6System.Data.IDbConnection"__id*!
+
+%8System.Data.IDbConnection*
+5*Ä
+5i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß ß(Yäá
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csß ß(Y 
+%10System.Data.IDbConnection"%System.Data.IDbCommand.Connection.set*
+
+%4System.Data.IDbCommand*!
+
+%6System.Data.IDbConnection2Connection.set*
+6*Ò
+6i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs® ®("Ä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs® ®(
+implicit return:"
+valueSystem.Data.IDbConnectionB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

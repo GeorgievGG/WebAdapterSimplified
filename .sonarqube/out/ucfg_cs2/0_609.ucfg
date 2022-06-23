@@ -1,0 +1,27 @@
+
+LStackExchange.Profiling.Data.SimpleProfiledConnection.ChangeDatabase(string)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csi i(""0*˘
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csk k(3˝
+˙
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csk k(
+%0System.Data.IDbConnection"__id*e*c7
+5StackExchange.Profiling.Data.SimpleProfiledConnection"(
+_connectionSystem.Data.IDbConnectionÇˇ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csk k(4
+
+%1void"0System.Data.IDbConnection.ChangeDatabase(string)*!
+
+%0System.Data.IDbConnection*
+
+databaseNamestring2ChangeDatabase(string)*
+1*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csl	 l(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledConnection.csl l(	
+implicit return:
+databaseNamestringB97
+5StackExchange.Profiling.Data.SimpleProfiledConnection

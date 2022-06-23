@@ -1,0 +1,29 @@
+
+@StackExchange.Profiling.Data.ProfiledDbDataReader.GetDouble(int)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs– –(("0*Ê
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs˜ ˜(,ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs˜ ˜(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderÜ
+Ù
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs˜ ˜(-
+%1double".System.Data.Common.DbDataReader.GetDouble(int)*'
+%
+%0System.Data.Common.DbDataReader*
+"""z
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs˜ ˜(.
+
+%1double*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs™	 ™(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs™ ™(	
+implicit return:
+ordinalintB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

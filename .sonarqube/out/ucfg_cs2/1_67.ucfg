@@ -1,0 +1,35 @@
+
+-WebAdapterSimplifiedLibrary.Context.Context()X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs ("1*b
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs	 (	*
+0*ê
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (+ 
+«
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (+
+%0string"4WebAdapterSimplifiedLibrary.Context.GetContextName()*'"%
+#WebAdapterSimplifiedLibrary.Contextê
+ç
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (-
+%1string"__concat*	
+name=*
+
+%0stringÀ
+»
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (.
+
+%2void".System.Data.Entity.DbContext.DbContext(string)* 
+System.Data.Entity.DbContext*
+
+%1string*
+2*Œ
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs	 (	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs (	
+implicit returnB'%
+#WebAdapterSimplifiedLibrary.Context

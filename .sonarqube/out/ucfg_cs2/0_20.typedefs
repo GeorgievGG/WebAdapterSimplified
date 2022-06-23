@@ -1,0 +1,10 @@
+Ü
+:StackExchange.Profiling.Helpers.Dapper.SqlBuilder.TemplateobjectØ
+LTemplate(StackExchange.Profiling.Helpers.Dapper.SqlBuilder, string, dynamic)‡StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Template(StackExchange.Profiling.Helpers.Dapper.SqlBuilder, string, dynamic)W
+ResolveSql()GStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.ResolveSql()S
+
+RawSql.getEStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.RawSql.getS
+
+RawSql.setEStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.RawSql.set[
+Parameters.getIStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Parameters.get[
+Parameters.setIStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Template.Parameters.set

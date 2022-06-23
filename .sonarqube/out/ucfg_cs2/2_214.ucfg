@@ -1,0 +1,45 @@
+
+SWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.TryFormatXml(string)†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‡ ‡(*"0*”
+0†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs“	 “(	*
+1
+2*ú
+1†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‹ Œ(%†
+ƒ
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‹  ‹(4
+%0System.Xml.Linq.XDocument"'System.Xml.Linq.XDocument.Parse(string)*"
+System.Xml.Linq.XDocument*
+
+strstring×
+Ô
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‹ ‹(4 
+xmlSystem.Xml.Linq.XDocument"__id*!
+
+%0System.Xml.Linq.XDocumentìé
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŒ Œ(%
+%1string" System.Xml.Linq.XNode.ToString()*"
+ 
+xmlSystem.Xml.Linq.XDocument2
+ToString()"™
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŒ Œ(&
+
+%1string*©
+2†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‘ ‘("š
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs‘ ‘(
+
+strstring*­
+3†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs“	 “(	"ž
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs“ “(	
+implicit return:
+strstringBB"@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

@@ -1,0 +1,183 @@
+
+ÑStackExchange.Profiling.MiniProfilerExtensions.CustomTimingIf(StackExchange.Profiling.MiniProfiler, string, string, decimal, string)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cst# t(1"0*”
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw w( ‡
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw w( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*Œ
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw$ w(6€
+ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw% w(6
+
+%1bool"1StackExchange.Profiling.MiniProfiler.IsActive.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+1
+3*◊
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw? w(C"m
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csw8 w(D
+""*ª
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csx x(%Ò
+Ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csx x($
+%2StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler‘
+—
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csx x(%
+
+%3bool""object.operator ==(object, object)*
+"
+object*&
+$
+%2StackExchange.Profiling.Timing*
+""*
+4
+5*Ç
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csz z(,Æ´
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csz  z(,$
+%4StackExchange.Profiling.Timing"StackExchange.Profiling.Timing≈
+¬
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csz$ z(*
+
+%5void"'StackExchange.Profiling.Timing.Timing()*&
+$
+%4StackExchange.Profiling.Timingô
+ñ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csz z(,$
+%6StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*&
+$
+%4StackExchange.Profiling.Timing*
+5*°
+5d
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs} Ö(%ª∏
+d
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs} Å(*
+%7$StackExchange.Profiling.CustomTiming"$StackExchange.Profiling.CustomTiming‰
+·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs} }()
+
+%8void"iStackExchange.Profiling.CustomTiming.CustomTiming(StackExchange.Profiling.MiniProfiler, string, decimal?)*,
+*
+%7$StackExchange.Profiling.CustomTiming*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+commandStringstring*
+""Û
+
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs ()
+%9string"4StackExchange.Profiling.CustomTiming.ExecuteType.set*,
+*
+%7$StackExchange.Profiling.CustomTiming*
+
+executeTypestring
+Ì
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csÄ Ä(#
+%10string"1StackExchange.Profiling.CustomTiming.Category.set*,
+*
+%7$StackExchange.Profiling.CustomTiming*
+
+categorystringÕ
+ 
+d
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs} Å(.
+result$StackExchange.Profiling.CustomTiming"__id*,
+*
+%7$StackExchange.Profiling.CustomTimingÙ
+Ò
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csÖ Ö(%
+%11StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerÿ
+’
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csÖ Ö(%
+%12bool""object.operator ==(object, object)*
+"
+object*'
+%
+%11StackExchange.Profiling.Timing*
+""*
+6
+7*è
+6e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csá á(,±Æ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csá  á(,%
+%13StackExchange.Profiling.Timing"StackExchange.Profiling.Timing…
+∆
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csá$ á(*
+%14void"'StackExchange.Profiling.Timing.Timing()*'
+%
+%13StackExchange.Profiling.Timingù
+ö
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csá á(,%
+%15StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*'
+%
+%13StackExchange.Profiling.Timing*
+7*∆
+7e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csä å(Ù
+Ò
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csä ä(%
+%16StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler∆
+√
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csä ä(;
+%17void"\StackExchange.Profiling.Timing.AddCustomTiming(string, StackExchange.Profiling.CustomTiming)*'
+%
+%16StackExchange.Profiling.Timing*
+
+categorystring*0
+.
+result$StackExchange.Profiling.CustomTiming"ô
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cså å(0
+.
+result$StackExchange.Profiling.CustomTiming*Ë
+8e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csç	 ç(	"|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csç ç(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+categorystring:
+commandStringstring:
+	minSaveMsdecimal:
+executeTypestringB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

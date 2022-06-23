@@ -1,0 +1,9 @@
+Ô
+4WebApiAdapterSimplified.Areas.HelpPage.InvalidSampleobjectc
+InvalidSample(string)JWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.InvalidSample(string)U
+Equals(object)CWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.Equals(object)S
+GetHashCode()BWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.GetHashCode()M
+
+ToString()?WebApiAdapterSimplified.Areas.HelpPage.InvalidSample.ToString()Y
+ErrorMessage.getEWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.ErrorMessage.getY
+ErrorMessage.setEWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.ErrorMessage.set

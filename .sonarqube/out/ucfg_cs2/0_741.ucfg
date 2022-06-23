@@ -1,0 +1,266 @@
+
+®StackExchange.Profiling.Helpers.Dapper.SqlMapper.QueryInternal<T>(System.Data.IDbConnection, string, object, System.Data.IDbTransaction, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csº& º(3"0*¨
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ( æ(Wº
+π
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæJ æ(W
+
+%0bool""object.operator ==(object, object)*
+"
+object*
+
+paramobject*
+""*
+1
+2*Ì
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæZ æ(^x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæZ æ(^
+%2"__id*
+""Ü
+É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæZ æ(^
+%1System.Type"__id*
+
+%2*
+3*∂
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæa æ(pù
+ö
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæa æ(p
+%4System.Type"object.GetType()*
+
+paramobjectì
+ê
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæa æ(p
+%3System.Type"__id*
+
+%4System.Typeì
+ê
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæa æ(p
+%1System.Type"__id*
+
+%3System.Type*
+3*ù
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ ¡(u·ﬁ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ æ(w?
+%59StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity¡
+æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ æ('
+
+%6void"®StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, System.Data.IDbConnection, System.Type, System.Type, System.Type[])*A
+?
+%59StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+
+sqlstring*
+""*"
+ 
+cnnSystem.Data.IDbConnection*
+""*
+
+%1System.Type*
+""ı
+Ú
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ æ(wE
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"__id*A
+?
+%59StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity†
+ù
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csø ø(-@
+%7:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"xStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetCacheInfo(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityÛ
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csø ø(-B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"__id*B
+@
+%7:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoî
+ë
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¡A ¡(Q
+%8System.Action<T1, T2>"JStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.get*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo≥
+∞
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¡ ¡(v
+%9System.Data.IDbCommand"”StackExchange.Profiling.Helpers.Dapper.SqlMapper.SetupCommand(System.Data.IDbConnection, System.Data.IDbTransaction, string, System.Action<System.Data.IDbCommand, object>, object, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*"
+ 
+cnnSystem.Data.IDbConnection*+
+)
+transactionSystem.Data.IDbTransaction*
+
+sqlstring*
+
+%8System.Action<T1, T2>*
+
+paramobject*
+""*
+""™
+ß
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¡ ¡(v
+cmdSystem.Data.IDbCommand"__id*
+
+%9System.Data.IDbCommand*
+4*ˇ
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs√ √(7ﬂ‹
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs√$ √(7
+%10System.Data.IDataReader"&System.Data.IDbCommand.ExecuteReader()*
+
+cmdSystem.Data.IDbCommand2ExecuteReader()∞
+≠
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs√ √(7!
+readerSystem.Data.IDataReader"__id* 
+
+%10System.Data.IDataReader*
+5*¸
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≈4 Ã(1û
+õ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≈4  ()
+cacheDeserializerSystem.Func<TResult>"__id*
+""ò
+ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÃ Ã()
+%11System.Func<T, TResult>"KStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.Deserializer.get*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo–
+Õ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÃ Ã(1
+%12bool"îSystem.Func<System.Data.IDataReader, object>.operator ==(System.Func<System.Data.IDataReader, object>, System.Func<System.Data.IDataReader, object>)*"
+System.Func<T, TResult>* 
+
+%11System.Func<T, TResult>*
+""*
+6
+7*´
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŒ Œ(+æ
+ª
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŒ Œ(+
+%13System.Func<T, TResult>"System.Func<TResult>.Invoke()*
+System.Func<TResult>*
+7*æ
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs— —(8ò
+ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—' —(8
+%14System.Func<T, TResult>"KStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.Deserializer.get*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo∂
+≥
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs— —(8'
+deserializerSystem.Func<T, TResult>"__id* 
+
+%14System.Func<T, TResult>*
+8*∞
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs” ”((øº
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs” ”((
+%15bool"System.Data.IDataReader.Read()*#
+!
+readerSystem.Data.IDataReader2Read()*
+9
+10*k
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs’ ’(#*
+11*ﬂ
+11`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ ÿ(6Ÿ
+÷
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ# ÿ(7
+%16object"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*#
+!
+readerSystem.Data.IDataReaderå
+â
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÿ ÿ(7
+nextobject"__id*
+
+%16object*
+12
+13
+14*—
+12`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs› ﬁ(6æ
+ª
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs›+ ›(>
+%17System.Func<T, TResult>"System.Func<TResult>.Invoke()*
+System.Func<TResult>∂
+≥
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs› ›(>'
+deserializerSystem.Func<T, TResult>"__id* 
+
+%17System.Func<T, TResult>Ÿ
+÷
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬁ# ﬁ(7
+%18object"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*#
+!
+readerSystem.Data.IDataReaderå
+â
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬁ ﬁ(7
+nextobject"__id*
+
+%18object*
+13*Ú
+13`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‡% ‡(,Ñ
+Å
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‡% ‡(,
+%19"__id*
+
+nextobject*
+8*l
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ	 Â(	*
+15*l
+15`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ	 Â(	*
+14*ﬂ
+14`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ	 Â(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÂ Â(	
+implicit return: 
+cnnSystem.Data.IDbConnection:
+sqlstring:
+paramobject:)
+transactionSystem.Data.IDbTransaction:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

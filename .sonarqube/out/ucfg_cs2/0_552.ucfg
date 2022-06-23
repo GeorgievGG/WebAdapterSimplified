@@ -1,0 +1,94 @@
+
+WStackExchange.Profiling.Helpers.Compression.ParseQValueFromSecondArrayElement(string[])`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs5 5(0"0*ö
+0`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs7 8(â
+Ü
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs7 7(!
+defaultQValuefloat"__id*2û
+õ
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs8 8(	
+%0int"System.Array.Length.get*
+
+partsstring[]*
+1
+2*„
+1`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs8  8(-"|
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs8 8(.
+
+defaultQValuefloat*‰
+2`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs:	 ;(4ö
+ó
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs; ;(!
+%1string"
+__arrayGet*
+
+partsstring[]*2í
+è
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs; ;((
+%2string"string.Trim()*
+
+%1string¬
+ø
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;
+ ;(5
+
+%3bool"!float.TryParse(string, out float)*	"
+float*
+
+%2string*
+
+qvaluefloat*
+3
+4*Ç
+3`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;8 ;(>ã
+à
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;8 ;(>
+%5float"__id*
+
+qvaluefloatá
+Ñ
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;8 ;(>
+%4float"__id*
+
+%5float*
+5*â
+4`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;A ;(Ní
+è
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;A ;(N
+%6float"__id*
+
+defaultQValuefloatá
+Ñ
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs;A ;(N
+%4float"__id*
+
+%6float*
+5*ÿ
+5`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs< <("q
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs; ;(O
+
+%4float*ﬁ
+6`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs< <("w
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs< <(
+implicit return:
+partsstring[]B/"-
++StackExchange.Profiling.Helpers.Compression

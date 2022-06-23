@@ -1,0 +1,74 @@
+
+EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetHashCollissions()`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ3 Ì(E"0*é
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÔ (0≤
+Ø
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÔ Ô(3=
+counts3System.Collections.Generic.Dictionary<TKey, TValue>"__id*
+""æ
+ª
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs  (+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*à*Ö2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper"O
+_queryCache@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs  (0/
+%1)System.Collections.Generic.ICollection<T>"ISystem.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Keys.get*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+1*m
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ	 Ä(	*
+2
+3*á
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Û(?x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ( Û(4
+%2"__id*
+""ù
+ö
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ Û(@
+
+%3bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*?
+=
+counts3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+%2*
+
+countint*
+4
+5*‰
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csı ı(.x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csı ı(+
+%4"__id*
+""*
+1*‰
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˘ ˘(4x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs˘ ˘('
+%5"__id*
+""*
+1*—
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¸ ˛(<"j
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¸ ˛(=
+""*ﬁ
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ	 Ä(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ Ä(	
+implicit returnB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

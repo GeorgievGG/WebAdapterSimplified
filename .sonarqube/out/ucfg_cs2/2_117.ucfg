@@ -1,0 +1,51 @@
+
+FWebApiAdapterSimplified.Areas.HelpPage.ImageSample.ImageSample(string)x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs ("1*Ç
+1x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs	 (	*
+0*⁄
+0x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (“
+œ
+x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+srcstring*
+""*
+2
+3*ª
+2x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (5øº
+x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (6"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÙ
+Ò
+x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+src*
+4*ï
+3x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (ê
+ç
+x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (
+%3string":WebApiAdapterSimplified.Areas.HelpPage.ImageSample.Src.set*64
+2WebApiAdapterSimplified.Areas.HelpPage.ImageSample*
+
+srcstring*
+4*è
+4x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs	 (	"è
+x
+nC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ImageSample.cs (	
+implicit return:
+srcstringB64
+2WebApiAdapterSimplified.Areas.HelpPage.ImageSample

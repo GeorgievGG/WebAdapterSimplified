@@ -1,0 +1,32 @@
+
+@WebAdapterSimplifiedLibrary.DataIsolationScope.ScopeContexts.getc
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs)* )(7"0*Â
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs); )(iœ
+™
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs); )(P4
+%0.System.Collections.Immutable.ImmutableStack<T>"HWebAdapterSimplifiedLibrary.DataIsolationScope.ContextImmutableStack.get*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScopeö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs); )(j/
+%1)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*6
+4
+%0.System.Collections.Immutable.ImmutableStack<T>*
+""º
+·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs); )(s(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+1*ä
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs)t )(t"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs)s )(t
+implicit returnB2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

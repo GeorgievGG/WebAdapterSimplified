@@ -1,0 +1,46 @@
+
+9StackExchange.Profiling.SqlTiming.ExecutionComplete(bool)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csN N(%"0*c
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csP P(*
+1
+2*¤
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csR R(3í
+ê
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csR R(*
+%0$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingÑ
+Î
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csR R(3
+
+%1void":StackExchange.Profiling.CustomTiming.FirstFetchCompleted()*,
+*
+%0$StackExchange.Profiling.CustomTiming*
+3*•
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csV V($í
+ê
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csV V(*
+%2$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingÂ
+¿
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csV V($
+
+%3void"+StackExchange.Profiling.CustomTiming.Stop()*,
+*
+%2$StackExchange.Profiling.CustomTiming*
+3*Ê
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csX	 X(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csX X(	
+implicit return:
+isReaderboolB%#
+!StackExchange.Profiling.SqlTiming

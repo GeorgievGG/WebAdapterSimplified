@@ -1,0 +1,29 @@
+
+·WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleObjects(System.Web.Http.HttpConfiguration, System.Collections.Generic.IDictionary<System.Type, object>){
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs& &(+"0*ò
+0{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs( ((MÈ
+Å
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs( ((/D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"„WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationŸ
+œ
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs( ((M:
+%14System.Collections.Generic.IDictionary<TKey, TValue>"PWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects.set*F
+D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*G
+E
+sampleObjects4System.Collections.Generic.IDictionary<TKey, TValue>*
+1*•
+1{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs)	 )(	"’
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs) )(	
+implicit return:+
+config!System.Web.Http.HttpConfiguration:E
+sampleObjects4System.Collections.Generic.IDictionary<TKey, TValue>BJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

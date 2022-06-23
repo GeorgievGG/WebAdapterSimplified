@@ -1,0 +1,24 @@
+
+eStackExchange.Profiling.SingletonProfilerProvider.Start(StackExchange.Profiling.ProfileLevel, string)f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs# #(!"0*¯
+0f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs% %($¨
+¥
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs% %(%*
+%0$StackExchange.Profiling.MiniProfiler"?StackExchange.Profiling.SingletonProfilerProvider.Start(string)*53
+1StackExchange.Profiling.SingletonProfilerProvider*
+
+sessionNamestring"–
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs% %(&,
+*
+%0$StackExchange.Profiling.MiniProfiler*ê
+1f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs&	 &(	"}
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs& &(	
+implicit return:-
+level$StackExchange.Profiling.ProfileLevel:
+sessionNamestringB53
+1StackExchange.Profiling.SingletonProfilerProvider

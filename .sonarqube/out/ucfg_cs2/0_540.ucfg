@@ -1,0 +1,64 @@
+
+LStackExchange.Profiling.Helpers.ExtensionMethods.EnsureTrailingSlash(string)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs* *(2"0*®
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs, ,(*≥
+∞
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs, ,(+
+
+%0bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+inputstring*
+1
+2*É
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs,4 ,(@ù
+ö
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs,4 ,(@
+%1string"__id**
+string"
+Emptystring"w
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs,- ,(A
+
+%1string*∂
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs- -(Bù
+ö
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs-/ -(;
+%2string"__id**
+string"
+Emptystringî
+ë
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs- -(<
+%3string"DSystem.Text.RegularExpressions.Regex.Replace(string, string, string)*("&
+$System.Text.RegularExpressions.Regex*
+
+inputstring*
+/+$*
+
+%2stringô
+ñ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs- -(B
+%4string"__concat*
+
+%3string*
+/"w
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs- -(C
+
+%4string*Ë
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs.	 .(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.cs. .(	
+implicit return:
+inputstringB4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods

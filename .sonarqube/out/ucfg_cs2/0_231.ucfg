@@ -1,0 +1,24 @@
+
+IStackExchange.Profiling.Storage.SqlServerStorage.SqlServerStorage(string)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs! !("1*o
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs$	 $(	*
+0*ê
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs" "(#û
+õ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs" "($
+
+%0void"OStackExchange.Profiling.Storage.DatabaseStorageBase.DatabaseStorageBase(string)*75
+3StackExchange.Profiling.Storage.DatabaseStorageBase*
+
+connectionStringstring*
+2*Ë
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs$	 $(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs$ $(	
+implicit return:
+connectionStringstringB42
+0StackExchange.Profiling.Storage.SqlServerStorage

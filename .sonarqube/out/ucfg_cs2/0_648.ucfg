@@ -1,0 +1,43 @@
+
+YStackExchange.Profiling.Helpers.Dapper.SqlBuilder.Clauses.Clauses(string, string, string)_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs ("1*Ì
+1_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs (a
+_
+
+%0void")System.Collections.Generic.List<T>.List()*&$
+"System.Collections.Generic.List<T>*
+0*á
+0_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs (&Ï
+Ì
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs ($O;
+9StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Clauses"
+joinerstring"__id*
+
+joinerstringÏ
+Ì
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs ($O;
+9StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Clauses"
+prefixstring"__id*
+
+prefixstringÑ
+Î
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs (&P;
+9StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Clauses"
+postfixstring"__id*
+
+postfixstring*
+2*Ü
+2_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs ("v
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs (
+implicit return:
+joinerstring:
+prefixstring:
+postfixstringB=;
+9StackExchange.Profiling.Helpers.Dapper.SqlBuilder.Clauses

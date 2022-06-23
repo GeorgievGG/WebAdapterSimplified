@@ -1,0 +1,13 @@
+ß	
+2StackExchange.Profiling.Data.ProfiledDbTransaction System.Data.Common.DbTransactionSystem.MarshalByRefObjectobjectå
+jProfiledDbTransaction(System.Data.Common.DbTransaction, StackExchange.Profiling.Data.ProfiledDbConnection)ùStackExchange.Profiling.Data.ProfiledDbTransaction.ProfiledDbTransaction(System.Data.Common.DbTransaction, StackExchange.Profiling.Data.ProfiledDbConnection)G
+Commit();StackExchange.Profiling.Data.ProfiledDbTransaction.Commit()K
+
+Rollback()=StackExchange.Profiling.Data.ProfiledDbTransaction.Rollback()Q
+Dispose(bool)@StackExchange.Profiling.Data.ProfiledDbTransaction.Dispose(bool)W
+DbConnection.getCStackExchange.Profiling.Data.ProfiledDbTransaction.DbConnection.getW
+DbConnection.setCStackExchange.Profiling.Data.ProfiledDbTransaction.DbConnection.setc
+WrappedTransaction.getIStackExchange.Profiling.Data.ProfiledDbTransaction.WrappedTransaction.getc
+WrappedTransaction.setIStackExchange.Profiling.Data.ProfiledDbTransaction.WrappedTransaction.set[
+IsolationLevel.getEStackExchange.Profiling.Data.ProfiledDbTransaction.IsolationLevel.get[
+IsolationLevel.setEStackExchange.Profiling.Data.ProfiledDbTransaction.IsolationLevel.set

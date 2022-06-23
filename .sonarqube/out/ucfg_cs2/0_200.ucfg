@@ -1,0 +1,121 @@
+
+9StackExchange.Profiling.MiniProfiler.MiniProfiler(string)Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs   ("1*c
+1Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs-	 -(	*
+0*¿
+0Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs" ,(-™
+–
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs" "(
+%0System.Guid"System.Guid.NewGuid()*"
+System.GuidÝ
+Ú
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs" "(
+%1System.Guid"+StackExchange.Profiling.MiniProfiler.Id.set*(&
+$StackExchange.Profiling.MiniProfiler*
+
+%0System.Guidq
+o
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs$ $(%
+%2"__id*
+""ì
+é
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs$ $(%*
+%3$StackExchange.Profiling.ProfileLevel".StackExchange.Profiling.MiniProfiler.Level.set*(&
+$StackExchange.Profiling.MiniProfiler*
+
+%2®«
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs& &(/)
+%4#StackExchange.Profiling.SqlProfiler"#StackExchange.Profiling.SqlProfiler˜
+•
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs& &()
+
+%5void"UStackExchange.Profiling.SqlProfiler.SqlProfiler(StackExchange.Profiling.MiniProfiler)*+
+)
+%4#StackExchange.Profiling.SqlProfiler*(&
+$StackExchange.Profiling.MiniProfiler–
+“
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs& &(/)
+%6#StackExchange.Profiling.SqlProfiler"4StackExchange.Profiling.MiniProfiler.SqlProfiler.set*(&
+$StackExchange.Profiling.MiniProfiler*+
+)
+%4#StackExchange.Profiling.SqlProfiler¨
+¥
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs' '(1
+%7string""System.Environment.MachineName.get*"
+System.EnvironmentÜ
+Ù
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs' '(1
+%8string"4StackExchange.Profiling.MiniProfiler.MachineName.set*(&
+$StackExchange.Profiling.MiniProfiler*
+
+%7string¦
+£
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs( ((%
+%9System.DateTime"System.DateTime.UtcNow.get*"
+System.DateTimeë
+è
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs( ((%
+%10System.DateTime"0StackExchange.Profiling.MiniProfiler.Started.set*(&
+$StackExchange.Profiling.MiniProfiler*
+
+%9System.DateTimeó
+ð
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs+ +(,
+%11System.Func<TResult>"CStackExchange.Profiling.MiniProfiler.Settings.StopwatchProvider.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsã
+à
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs+ +(.1
+%12*StackExchange.Profiling.Helpers.IStopwatch"System.Func<TResult>.Invoke()*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsö
+ó
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs+ +(.[&
+$StackExchange.Profiling.MiniProfiler"1
+_sw*StackExchange.Profiling.Helpers.IStopwatch"__id*3
+1
+%12*StackExchange.Profiling.Helpers.IStopwatch¥¢
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs, ,(.%
+%13StackExchange.Profiling.Timing"StackExchange.Profiling.Timingî
+ë
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs, ,(
+%14void"„StackExchange.Profiling.Timing.Timing(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.Timing, string, decimal?, bool?)*'
+%
+%13StackExchange.Profiling.Timing*(&
+$StackExchange.Profiling.MiniProfiler*
+""*
+
+urlstring*
+""*
+""‡
+„
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs, ,(.%
+%15StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Root.set*(&
+$StackExchange.Profiling.MiniProfiler*'
+%
+%13StackExchange.Profiling.Timing*
+2*Ð
+2Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs-	 -(	"p
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs- -(	
+implicit return:
+urlstringB(&
+$StackExchange.Profiling.MiniProfiler

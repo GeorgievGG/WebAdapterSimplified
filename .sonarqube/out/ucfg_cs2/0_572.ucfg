@@ -1,0 +1,74 @@
+
+ëStackExchange.Profiling.Data.SimpleProfiledDataReader.SimpleProfiledDataReader(System.Data.IDataReader, StackExchange.Profiling.Data.IDbProfiler)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs ('"1*t
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs$	 $(	*
+0*“
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (ÿ
+’
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (
+
+%0bool""object.operator ==(object, object)*
+"
+object*#
+!
+readerSystem.Data.IDataReader*
+""*
+2
+3*î
+2j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs& (H±Æ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs& (I"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÈ
+Ê
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs* (?
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+reader*
+4*·
+3j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs  ( ˘
+ˆ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReader"__id*#
+!
+readerSystem.Data.IDataReaderÎ
+Ë
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs   ( 
+
+%3bool""object.operator !=(object, object)*
+"
+object*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+""*
+5
+4*ñ
+5j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs" "($ü
+ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs" "($p7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+4*Û
+4j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs$	 $(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs$ $(	
+implicit return:!
+readerSystem.Data.IDataReader:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

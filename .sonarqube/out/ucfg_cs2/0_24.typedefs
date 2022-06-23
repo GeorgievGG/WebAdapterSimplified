@@ -1,0 +1,21 @@
+È
+5StackExchange.Profiling.Data.SimpleProfiledConnectionobjectõ
+]SimpleProfiledConnection(System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)“StackExchange.Profiling.Data.SimpleProfiledConnection.SimpleProfiledConnection(System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)^
+BeginTransaction()HStackExchange.Profiling.Data.SimpleProfiledConnection.BeginTransaction()’
+,BeginTransaction(System.Data.IsolationLevel)bStackExchange.Profiling.Data.SimpleProfiledConnection.BeginTransaction(System.Data.IsolationLevel)f
+ChangeDatabase(string)LStackExchange.Profiling.Data.SimpleProfiledConnection.ChangeDatabase(string)X
+CreateCommand()EStackExchange.Profiling.Data.SimpleProfiledConnection.CreateCommand()H
+Close()=StackExchange.Profiling.Data.SimpleProfiledConnection.Close()F
+Open()<StackExchange.Profiling.Data.SimpleProfiledConnection.Open()L
+	Dispose()?StackExchange.Profiling.Data.SimpleProfiledConnection.Dispose()T
+Dispose(bool)CStackExchange.Profiling.Data.SimpleProfiledConnection.Dispose(bool)b
+ConnectionString.getJStackExchange.Profiling.Data.SimpleProfiledConnection.ConnectionString.getb
+ConnectionString.setJStackExchange.Profiling.Data.SimpleProfiledConnection.ConnectionString.setd
+ConnectionTimeout.getKStackExchange.Profiling.Data.SimpleProfiledConnection.ConnectionTimeout.getd
+ConnectionTimeout.setKStackExchange.Profiling.Data.SimpleProfiledConnection.ConnectionTimeout.setR
+Database.getBStackExchange.Profiling.Data.SimpleProfiledConnection.Database.getR
+Database.setBStackExchange.Profiling.Data.SimpleProfiledConnection.Database.setL
+	State.get?StackExchange.Profiling.Data.SimpleProfiledConnection.State.getL
+	State.set?StackExchange.Profiling.Data.SimpleProfiledConnection.State.setd
+WrappedConnection.getKStackExchange.Profiling.Data.SimpleProfiledConnection.WrappedConnection.getd
+WrappedConnection.setKStackExchange.Profiling.Data.SimpleProfiledConnection.WrappedConnection.set

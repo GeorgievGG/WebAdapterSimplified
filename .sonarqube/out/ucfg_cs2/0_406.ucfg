@@ -1,0 +1,88 @@
+
+çStackExchange.Profiling.MiniProfilerExtensions.AddProfilerResults(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.MiniProfiler)e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs° °(-"0*◊
+0e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£ £( ‚
+ﬂ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£ £( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*¡
+2e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£$ £(9Û
+
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£$ £(1$
+%1StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler÷
+”
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£$ £(9
+
+%2bool""object.operator ==(object, object)*
+"
+object*&
+$
+%1StackExchange.Profiling.Timing*
+""*
+1
+3*ﬂ
+3e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£= £(UÍ
+Á
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£= £(U
+
+%3bool""object.operator ==(object, object)*
+"
+object*:
+8
+externalProfiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+4*€
+1e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs•	 •(	"o
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs£W £(^
+""*ı
+4e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs§ §(8Û
+
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs§ §($
+%4StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler˚
+¯
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs§# §(8$
+%5StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Root.get*:
+8
+externalProfiler$StackExchange.Profiling.MiniProfilerè
+å
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs§ §(9
+
+%6void"GStackExchange.Profiling.Timing.AddChild(StackExchange.Profiling.Timing)*&
+$
+%4StackExchange.Profiling.Timing*&
+$
+%5StackExchange.Profiling.Timing*
+5*Ë
+5e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs•	 •(	"|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.cs• •(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:8
+externalProfiler$StackExchange.Profiling.MiniProfilerB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

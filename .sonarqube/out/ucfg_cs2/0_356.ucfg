@@ -1,0 +1,30 @@
+
+_StackExchange.Profiling.Timing.RemoveCustomTiming(string, StackExchange.Profiling.CustomTiming)U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs§ §(("0*×
+0U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs© ©(=ú
+÷
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs© ©()(
+%0"System.Collections.Generic.List<T>":StackExchange.Profiling.Timing.GetCustomTimingList(string)*" 
+StackExchange.Profiling.Timing*
+
+categorystringø
+õ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs© ©(>
+
+%1bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%0"System.Collections.Generic.List<T>*6
+4
+customTiming$StackExchange.Profiling.CustomTiming*
+1*È
+1U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csª	 ª(	"l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csª ª(	
+implicit return:
+categorystring:4
+customTiming$StackExchange.Profiling.CustomTimingB" 
+StackExchange.Profiling.Timing

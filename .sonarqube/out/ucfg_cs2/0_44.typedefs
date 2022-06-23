@@ -1,0 +1,25 @@
+ñ
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter System.Data.Common.DbDataAdapterSystem.Data.Common.DataAdapterSystem.ComponentModel.ComponentSystem.MarshalByRefObjectobjectî
+[ProfiledDbDataAdapter(System.Data.IDbDataAdapter, StackExchange.Profiling.Data.IDbProfiler)ŽStackExchange.Profiling.Data.ProfiledDbDataAdapter.ProfiledDbDataAdapter(System.Data.IDbDataAdapter, StackExchange.Profiling.Data.IDbProfiler)‡
+(InitCommands(System.Data.IDbDataAdapter)[StackExchange.Profiling.Data.ProfiledDbDataAdapter.InitCommands(System.Data.IDbDataAdapter)¥
+7FillSchema(System.Data.DataSet, System.Data.SchemaType)jStackExchange.Profiling.Data.ProfiledDbDataAdapter.FillSchema(System.Data.DataSet, System.Data.SchemaType)i
+Fill(System.Data.DataSet)LStackExchange.Profiling.Data.ProfiledDbDataAdapter.Fill(System.Data.DataSet)m
+Fill(System.Data.DataTable)NStackExchange.Profiling.Data.ProfiledDbDataAdapter.Fill(System.Data.DataTable)]
+GetFillParameters()FStackExchange.Profiling.Data.ProfiledDbDataAdapter.GetFillParameters()m
+Update(System.Data.DataSet)NStackExchange.Profiling.Data.ProfiledDbDataAdapter.Update(System.Data.DataSet)]
+InternalAdapter.getFStackExchange.Profiling.Data.ProfiledDbDataAdapter.InternalAdapter.get]
+InternalAdapter.setFStackExchange.Profiling.Data.ProfiledDbDataAdapter.InternalAdapter.setg
+MissingMappingAction.getKStackExchange.Profiling.Data.ProfiledDbDataAdapter.MissingMappingAction.getg
+MissingMappingAction.setKStackExchange.Profiling.Data.ProfiledDbDataAdapter.MissingMappingAction.sete
+MissingSchemaAction.getJStackExchange.Profiling.Data.ProfiledDbDataAdapter.MissingSchemaAction.gete
+MissingSchemaAction.setJStackExchange.Profiling.Data.ProfiledDbDataAdapter.MissingSchemaAction.setY
+TableMappings.getDStackExchange.Profiling.Data.ProfiledDbDataAdapter.TableMappings.getY
+TableMappings.setDStackExchange.Profiling.Data.ProfiledDbDataAdapter.TableMappings.setY
+SelectCommand.getDStackExchange.Profiling.Data.ProfiledDbDataAdapter.SelectCommand.getY
+SelectCommand.setDStackExchange.Profiling.Data.ProfiledDbDataAdapter.SelectCommand.setY
+InsertCommand.getDStackExchange.Profiling.Data.ProfiledDbDataAdapter.InsertCommand.getY
+InsertCommand.setDStackExchange.Profiling.Data.ProfiledDbDataAdapter.InsertCommand.setY
+UpdateCommand.getDStackExchange.Profiling.Data.ProfiledDbDataAdapter.UpdateCommand.getY
+UpdateCommand.setDStackExchange.Profiling.Data.ProfiledDbDataAdapter.UpdateCommand.setY
+DeleteCommand.getDStackExchange.Profiling.Data.ProfiledDbDataAdapter.DeleteCommand.getY
+DeleteCommand.setDStackExchange.Profiling.Data.ProfiledDbDataAdapter.DeleteCommand.set

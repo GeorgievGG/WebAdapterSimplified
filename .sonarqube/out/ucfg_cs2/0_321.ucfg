@@ -1,0 +1,87 @@
+
+¸StackExchange.Profiling.Storage.SqlServerStorage.SaveClientTimings(System.Collections.Generic.List<StackExchange.Profiling.ClientTimings.ClientTiming>, System.Data.Common.DbConnection)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs (&"0*Ù
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ ¬(*å
+â
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csŸ ª(J
+sqlstring"__id*áÞ
+ÛINSERT INTO MiniProfilerClientTimings
+            ( Id,
+              MiniProfilerId,
+              Name,
+              Start,
+              Duration)
+SELECT       @Id,
+             @MiniProfilerId,
+             @Name,
+             @Start,
+             @Duration
+WHERE NOT EXISTS (SELECT 1 FROM MiniProfilerClientTimings WHERE Id = @Id)*
+1*t
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¹	 ¹(	*
+2
+3*­
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs® ¶('ú
+÷
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs² ²(!
+%0System.Guid"9StackExchange.Profiling.ClientTimings.ClientTiming.Id.get*>
+<
+timing2StackExchange.Profiling.ClientTimings.ClientTiming†
+ƒ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs³ ³(-
+%1System.Guid"EStackExchange.Profiling.ClientTimings.ClientTiming.MiniProfilerId.get*>
+<
+timing2StackExchange.Profiling.ClientTimings.ClientTiming÷
+ô
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs´ ´(*
+%2string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.get*>
+<
+timing2StackExchange.Profiling.ClientTimings.ClientTiming
+Œ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs´ ´(8
+%3string"FStackExchange.Profiling.Helpers.ExtensionMethods.Truncate(string, int)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+%2string*2Èù
+ö
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csµ µ($
+%4decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.get*>
+<
+timing2StackExchange.Profiling.ClientTimings.ClientTimingü
+ù
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¶ ¶('
+%5decimal"?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.get*>
+<
+timing2StackExchange.Profiling.ClientTimings.ClientTiming¬
+©
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs® ·(	
+%6int" StackExchange.Profiling.Helpers.Dapper.SqlMapper.Execute(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*)
+'
+connSystem.Data.Common.DbConnection*
+
+sqlstring*
+""*
+""*
+""*
+""*
+1*ì
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¹	 ¹(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs¹ ¹(	
+implicit return:-
+timings"System.Collections.Generic.List<T>:'
+connSystem.Data.Common.DbConnectionB42
+0StackExchange.Profiling.Storage.SqlServerStorage

@@ -1,0 +1,76 @@
+
+`WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.XmlDocumentationProvider(string)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs ('"1*~
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs$	 $(	*
+0*Û
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs ($×
+Ô
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs ($
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+documentPathstring*
+""*
+2
+3*¸
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs   (>»¸
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs   (?"
+%1System.ArgumentNullException"System.ArgumentNullExceptionù
+ö
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs   (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+documentPath*
+4*º
+
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs" #(8¿¼
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs"" "(A$
+%3System.Xml.XPath.XPathDocument"System.Xml.XPath.XPathDocumentý
+ú
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs"& "(3
+
+%4void"4System.Xml.XPath.XPathDocument.XPathDocument(string)*&
+$
+%3System.Xml.XPath.XPathDocument*
+
+documentPathstringÐ
+Í
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs" "(A'
+xpathSystem.Xml.XPath.XPathDocument"__id*&
+$
+%3System.Xml.XPath.XPathDocumentý
+ú
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs#! #(8%
+%5System.Xml.XPath.XPathNavigator"0System.Xml.XPath.XPathDocument.CreateNavigator()*)
+'
+xpathSystem.Xml.XPath.XPathDocument¤
+¡
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs# #(8zA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider"5
+_documentNavigatorSystem.Xml.XPath.XPathNavigator"__id*'
+%
+%5System.Xml.XPath.XPathNavigator*
+4*‡
+4t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs$	 $(	"‹
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs$ $(	
+implicit return:
+documentPathstringBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

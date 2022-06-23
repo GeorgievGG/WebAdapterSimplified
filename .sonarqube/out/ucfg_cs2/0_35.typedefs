@@ -1,0 +1,43 @@
+¯
+5StackExchange.Profiling.Data.SimpleProfiledDataReaderobjectñ
+[SimpleProfiledDataReader(System.Data.IDataReader, StackExchange.Profiling.Data.IDbProfiler)‘StackExchange.Profiling.Data.SimpleProfiledDataReader.SimpleProfiledDataReader(System.Data.IDataReader, StackExchange.Profiling.Data.IDbProfiler)R
+GetName(int)BStackExchange.Profiling.Data.SimpleProfiledDataReader.GetName(int)b
+GetDataTypeName(int)JStackExchange.Profiling.Data.SimpleProfiledDataReader.GetDataTypeName(int)\
+GetFieldType(int)GStackExchange.Profiling.Data.SimpleProfiledDataReader.GetFieldType(int)T
+GetValue(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetValue(int)`
+GetValues(object[])IStackExchange.Profiling.Data.SimpleProfiledDataReader.GetValues(object[])^
+GetOrdinal(string)HStackExchange.Profiling.Data.SimpleProfiledDataReader.GetOrdinal(string)X
+GetBoolean(int)EStackExchange.Profiling.Data.SimpleProfiledDataReader.GetBoolean(int)R
+GetByte(int)BStackExchange.Profiling.Data.SimpleProfiledDataReader.GetByte(int)„
+%GetBytes(int, long, byte[], int, int)[StackExchange.Profiling.Data.SimpleProfiledDataReader.GetBytes(int, long, byte[], int, int)R
+GetChar(int)BStackExchange.Profiling.Data.SimpleProfiledDataReader.GetChar(int)„
+%GetChars(int, long, char[], int, int)[StackExchange.Profiling.Data.SimpleProfiledDataReader.GetChars(int, long, char[], int, int)R
+GetGuid(int)BStackExchange.Profiling.Data.SimpleProfiledDataReader.GetGuid(int)T
+GetInt16(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetInt16(int)T
+GetInt32(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetInt32(int)T
+GetInt64(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetInt64(int)T
+GetFloat(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.GetFloat(int)V
+GetDouble(int)DStackExchange.Profiling.Data.SimpleProfiledDataReader.GetDouble(int)V
+GetString(int)DStackExchange.Profiling.Data.SimpleProfiledDataReader.GetString(int)X
+GetDecimal(int)EStackExchange.Profiling.Data.SimpleProfiledDataReader.GetDecimal(int)Z
+GetDateTime(int)FStackExchange.Profiling.Data.SimpleProfiledDataReader.GetDateTime(int)R
+GetData(int)BStackExchange.Profiling.Data.SimpleProfiledDataReader.GetData(int)T
+IsDBNull(int)CStackExchange.Profiling.Data.SimpleProfiledDataReader.IsDBNull(int)H
+Close()=StackExchange.Profiling.Data.SimpleProfiledDataReader.Close()Z
+GetSchemaTable()FStackExchange.Profiling.Data.SimpleProfiledDataReader.GetSchemaTable()R
+NextResult()BStackExchange.Profiling.Data.SimpleProfiledDataReader.NextResult()F
+Read()<StackExchange.Profiling.Data.SimpleProfiledDataReader.Read()L
+	Dispose()?StackExchange.Profiling.Data.SimpleProfiledDataReader.Dispose()T
+Dispose(bool)CStackExchange.Profiling.Data.SimpleProfiledDataReader.Dispose(bool)V
+FieldCount.getDStackExchange.Profiling.Data.SimpleProfiledDataReader.FieldCount.getV
+FieldCount.setDStackExchange.Profiling.Data.SimpleProfiledDataReader.FieldCount.setT
+this[int].getCStackExchange.Profiling.Data.SimpleProfiledDataReader.this[int].getT
+this[int].setCStackExchange.Profiling.Data.SimpleProfiledDataReader.this[int].setZ
+this[string].getFStackExchange.Profiling.Data.SimpleProfiledDataReader.this[string].getZ
+this[string].setFStackExchange.Profiling.Data.SimpleProfiledDataReader.this[string].setL
+	Depth.get?StackExchange.Profiling.Data.SimpleProfiledDataReader.Depth.getL
+	Depth.set?StackExchange.Profiling.Data.SimpleProfiledDataReader.Depth.setR
+IsClosed.getBStackExchange.Profiling.Data.SimpleProfiledDataReader.IsClosed.getR
+IsClosed.setBStackExchange.Profiling.Data.SimpleProfiledDataReader.IsClosed.set`
+RecordsAffected.getIStackExchange.Profiling.Data.SimpleProfiledDataReader.RecordsAffected.get`
+RecordsAffected.setIStackExchange.Profiling.Data.SimpleProfiledDataReader.RecordsAffected.set

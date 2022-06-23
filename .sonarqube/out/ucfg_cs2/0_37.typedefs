@@ -1,0 +1,14 @@
+á	
+6StackExchange.Profiling.Data.SimpleProfiledTransactionobject”
+lSimpleProfiledTransaction(System.Data.IDbTransaction, StackExchange.Profiling.Data.SimpleProfiledConnection)£StackExchange.Profiling.Data.SimpleProfiledTransaction.SimpleProfiledTransaction(System.Data.IDbTransaction, StackExchange.Profiling.Data.SimpleProfiledConnection)K
+Commit()?StackExchange.Profiling.Data.SimpleProfiledTransaction.Commit()O
+
+Rollback()AStackExchange.Profiling.Data.SimpleProfiledTransaction.Rollback()M
+	Dispose()@StackExchange.Profiling.Data.SimpleProfiledTransaction.Dispose()U
+Dispose(bool)DStackExchange.Profiling.Data.SimpleProfiledTransaction.Dispose(bool)g
+WrappedTransaction.getMStackExchange.Profiling.Data.SimpleProfiledTransaction.WrappedTransaction.getg
+WrappedTransaction.setMStackExchange.Profiling.Data.SimpleProfiledTransaction.WrappedTransaction.setW
+Connection.getEStackExchange.Profiling.Data.SimpleProfiledTransaction.Connection.getW
+Connection.setEStackExchange.Profiling.Data.SimpleProfiledTransaction.Connection.set_
+IsolationLevel.getIStackExchange.Profiling.Data.SimpleProfiledTransaction.IsolationLevel.get_
+IsolationLevel.setIStackExchange.Profiling.Data.SimpleProfiledTransaction.IsolationLevel.set

@@ -1,0 +1,62 @@
+
+pStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetDynamicDeserializer(System.Data.IDataRecord, int, int, bool)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs±1 ±(G"0*À
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ¥(Õ 
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥(.	
+%0int"&System.Data.IDataRecord.FieldCount.get*#
+!
+readerSystem.Data.IDataRecord2FieldCount.getã
+à
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥(.
+
+fieldCountint"__id*
+	
+%0int*
+1
+2*Ó
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∂ ∂(0Å
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∂ ∂(0
+lengthint"__id*
+""*
+2*m
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csπ π((*
+3
+4*‘
+3a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csª ª(ö†ù
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csª ª(õ
+%1System.ArgumentException"System.ArgumentException√
+¿
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csª ª(+
+
+%2void":System.ArgumentException.ArgumentException(string, string)* 
+
+%1System.ArgumentException*ec
+aWhen using the multi-mapping APIs ensure you set the splitOn param if you have keys other than Id*	
+splitOn*
+5*—
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csø Œ("j
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csæ Œ(
+""*ﬁ
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ	 œ(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ œ(	
+implicit return:!
+readerSystem.Data.IDataRecord:
+
+startBoundint:
+lengthint: 
+returnNullIfFirstMissingboolB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

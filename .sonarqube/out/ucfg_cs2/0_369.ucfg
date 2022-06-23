@@ -1,0 +1,57 @@
+
+UStackExchange.Profiling.SqlProfiler.SqlProfiler(StackExchange.Profiling.MiniProfiler)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs ("1*¯
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs	 (	çä
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (PF
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>Œ
+‰
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (N
+
+%1void"WSystem.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.ConcurrentDictionary()*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>§
+¤
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csX (Px%
+#StackExchange.Profiling.SqlProfiler"O
+_inProgress@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>çä
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (>F
+%2@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>Œ
+‰
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (<
+
+%3void"WSystem.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.ConcurrentDictionary()*H
+F
+%2@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>®
+«
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csF (>%
+#StackExchange.Profiling.SqlProfiler"V
+_inProgressReaders@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*H
+F
+%2@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+0*ý
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (˜
+•
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (*
+%4$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.SqlProfiler.Profiler.set*'%
+#StackExchange.Profiling.SqlProfiler*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+2*Î
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs	 (	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs (	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfilerB'%
+#StackExchange.Profiling.SqlProfiler

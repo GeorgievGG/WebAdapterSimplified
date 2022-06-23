@@ -1,0 +1,51 @@
+
+≤StackExchange.Profiling.Data.ProfiledDbDataReader.ProfiledDbDataReader(System.Data.Common.DbDataReader, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs (#"1*’
+1f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs%	 %(	c
+a
+
+%0void".System.Data.Common.DbDataReader.DbDataReader()*#!
+System.Data.Common.DbDataReader*
+0*·
+0f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs !( Å
+˛
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs (a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReader"__id*+
+)
+readerSystem.Data.Common.DbDataReaderÁ
+‰
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs! !( 
+
+%1bool""object.operator !=(object, object)*
+"
+object*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+""*
+2
+3*ä
+2f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs# #($ó
+î
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs# #($l3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+3*Í
+3f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs%	 %(	"}
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs% %(	
+implicit return:)
+readerSystem.Data.Common.DbDataReader:-
+
+connectionSystem.Data.Common.DbConnection:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

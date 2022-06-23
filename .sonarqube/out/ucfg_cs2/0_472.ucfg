@@ -1,0 +1,83 @@
+
+•StackExchange.Profiling.Data.SimpleProfiledCommand.SimpleProfiledCommand(System.Data.IDbCommand, System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs( (($"1*q
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs3	 3(	*
+0*Ã
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs* *(’
+“
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs* *(
+
+%0bool""object.operator ==(object, object)*
+"
+object*#
+!
+commandSystem.Data.IDbCommand*
+""*
+2
+3*å
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs*' *(JÆ´
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs*' *(K"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÁ
+‰
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs*+ *(@
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*	
+command*
+4*◊
+3g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs, /( Û
+
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs, ,(Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommand"__id*#
+!
+commandSystem.Data.IDbCommandˇ
+¸
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs- -($`4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"(
+_connectionSystem.Data.IDbConnection"__id*)
+'
+
+connectionSystem.Data.IDbConnectionË
+Â
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs/ /( 
+
+%3bool""object.operator !=(object, object)*
+"
+object*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+""*
+5
+4*ç
+5g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs1 1($ô
+ñ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs1 1($m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+4*Ï
+4g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs3	 3(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs3 3(	
+implicit return:!
+commandSystem.Data.IDbCommand:'
+
+connectionSystem.Data.IDbConnection:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

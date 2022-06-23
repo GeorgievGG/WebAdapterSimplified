@@ -1,0 +1,120 @@
+
+èWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.ModelDescriptionGenerator(System.Web.Http.HttpConfiguration)á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csY Y(("1*ƒ
+1á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csb	 b(	˝˙
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs[ =(	9
+%03System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ô
+ñ
+à
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs_ (Ö
+
+%1void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>˙
+˜
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csA =(	ßT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"O
+AnnotationTextGenerator4System.Collections.Generic.IDictionary<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>˝˙
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs@N U(	9
+%23System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ò
+ï
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs@R @(j
+
+%3void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%23System.Collections.Generic.Dictionary<TKey, TValue>˚
+¯
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs@3 U(	®T
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"P
+DefaultTypeDocumentation4System.Collections.Generic.IDictionary<TKey, TValue>"__id*;
+9
+%23System.Collections.Generic.Dictionary<TKey, TValue>*
+0*ò
+0á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs[ [(Ä
+˝
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs[ [(
+
+%4bool""object.operator ==(object, object)*
+"
+object*-
++
+config!System.Web.Http.HttpConfiguration*
+""*
+2
+3*Ó
+2á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs] ](8œÃ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs] ](9"
+%5System.ArgumentNullException"System.ArgumentNullExceptioná
+Ñ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs] ](/
+
+%6void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%5System.ArgumentNullException*
+
+config*
+4*£
+3á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs` a(g¥±
+à
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs`% `(õ
+%7System.Lazy<T>"System.Lazy<T>ﬁ
+€
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs`) `(J
+
+%8void"#System.Lazy<T>.Lazy(System.Func<T>)*
+
+%7System.Lazy<T>*
+""Ø
+¨
+à
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs` `(õÄT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"(
+_documentationProviderSystem.Lazy<T>"__id*
+
+%7System.Lazy<T>Ú
+Ô
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csaG a(g
+%9System.StringComparer"+System.StringComparer.OrdinalIgnoreCase.get*"
+System.StringComparer˛˚
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csa a(h:
+%103System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>Ñ
+Å
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csa" a(F
+%11void"__mapSetAll*<
+:
+%103System.Collections.Generic.Dictionary<TKey, TValue>*
+
+%9System.StringComparer«
+ƒ
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csa a(h:
+%123System.Collections.Generic.Dictionary<TKey, TValue>"fWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GeneratedModels.set*VT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*<
+:
+%103System.Collections.Generic.Dictionary<TKey, TValue>*
+4*Ø
+4á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csb	 b(	"ü
+á
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csb b(	
+implicit return:+
+config!System.Web.Http.HttpConfigurationBVT
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator

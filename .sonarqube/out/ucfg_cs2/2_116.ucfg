@@ -1,0 +1,174 @@
+
+nWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Reflection.MemberInfo)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csL L(&"0*„
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csN O(F˛
+˚
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csN. N(J&
+%0 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoÊ
+„
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csNc N(w
+%1System.Type".System.Reflection.MemberInfo.DeclaringType.get*(
+&
+memberSystem.Reflection.MemberInfoª
+∏
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csNW N(x
+%2string"XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeName(System.Type)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*
+
+%1System.TypeŸ
+÷
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csNz N(Ö
+%3string"%System.Reflection.MemberInfo.Name.get*(
+&
+memberSystem.Reflection.MemberInfo™
+ß
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csN  N(Ü
+%4string"=string.Format(System.IFormatProvider, string, object, object)*
+"
+string*(
+&
+%0 System.Globalization.CultureInfo*	
+{0}.{1}*
+
+%2string*
+
+%3string¶
+£
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csN N(Ü
+
+memberNamestring"__id*
+
+%4stringı
+Ú
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO  O(1#
+%5System.Reflection.MemberTypes"+System.Reflection.MemberInfo.MemberType.get*(
+&
+memberSystem.Reflection.MemberInfoç
+ä
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO5 O(F
+%6"__id*
+""*
+1
+2*»
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csOI O(Xé
+ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csOI O(X
+%10"__id*
+""ñ
+ì
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csOI O(X
+%8string"__id*
+
+%10ù
+ö
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csOI O(X
+%7string"__id*
+
+%8string*
+3*»
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO[ O(mé
+ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO[ O(m
+%11"__id*
+""ñ
+ì
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO[ O(m
+%9string"__id*
+
+%11ù
+ö
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO[ O(m
+%7string"__id*
+
+%9string*
+3*–
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO R(6•
+¢
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csO O(m
+
+expressionstring"__id*
+
+%7stringˇ
+¸
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csP4 P(P'
+%12 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfo¶
+£
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csP& P(i
+%13string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*)
+'
+%12 System.Globalization.CultureInfo*
+
+
+expressionstring*
+
+
+memberNamestring¨
+©
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csP P(i
+selectExpressionstring"__id*
+
+%13string•
+¢
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csQ* Q(<&
+%14System.Xml.XPath.XPathNavigator"__id*|*zA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider"5
+_documentNavigatorSystem.Xml.XPath.XPathNavigatorΩ∫
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csQ* Q(_&
+%15System.Xml.XPath.XPathNavigator"8System.Xml.XPath.XPathNavigator.SelectSingleNode(string)*(
+&
+%14System.Xml.XPath.XPathNavigator*
+
+selectExpressionstring2SelectSingleNode(string)⁄
+◊
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csQ Q(_/
+propertyNodeSystem.Xml.XPath.XPathNavigator"__id*(
+&
+%15System.Xml.XPath.XPathNavigatorÉ
+Ä
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csR R(7
+%16string"tWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTagValue(System.Xml.XPath.XPathNavigator, string)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*1
+/
+propertyNodeSystem.Xml.XPath.XPathNavigator*	
+summary"á
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csR R(8
+
+%16string*á
+4t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csS	 S(	"ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csS S(	
+implicit return:&
+memberSystem.Reflection.MemberInfoBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

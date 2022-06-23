@@ -1,0 +1,70 @@
+
+ÿStackExchange.Profiling.Helpers.Dapper.SqlMapper.GenerateMapper<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(System.Func<System.Data.IDataReader, object>, System.Func<System.Data.IDataReader, object>[], object)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs§2 §(@"0*æ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-—
+Œ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-	
+%0int"System.Array.Length.get*F
+D
+otherDeserializers.System.Func<System.Data.IDataReader, object>[]*
+1*m
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-*
+2
+3*”
+2a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© ©(Å"k
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© ©(Ç
+""*m
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-*
+4
+5*”
+4a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs´ ´(´"k
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs´ ´(¨
+""*m
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-*
+6
+7*”
+6a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠ ≠(◊"k
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≠ ≠(ÿ
+""*m
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¶ ¶(-*
+8
+9*”
+8a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∞ ∞(Å"k
+a
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∞ ∞(Ç
+""*Â
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥(5ß§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥(5"
+%1System.NotSupportedException"System.NotSupportedExceptionÕ
+ 
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs≥ ≥(3
+
+%2void"4System.NotSupportedException.NotSupportedException()*$
+"
+%1System.NotSupportedException*
+10*ﬂ
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ	 µ(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(	
+implicit return:'
+deserializerSystem.Func<T, TResult>:D
+otherDeserializers.System.Func<System.Data.IDataReader, object>[]:
+mapobjectB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

@@ -1,0 +1,80 @@
+
+=StackExchange.Profiling.Data.SimpleProfiledDataReader.Close()l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÂ Â("0*Ã
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÈ È(˜
+Ù
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÈ È(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReader÷
+”
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÈ È(
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Data.IDataReader*
+""*
+1
+2*ª
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÎ Î(˜
+Ù
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÎ Î(
+%2System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReader»≈
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÎ Î(
+
+%3void"System.Data.IDataReader.Close()*
+
+%2System.Data.IDataReader2Close()*
+2*Å
+2l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÓ Ó(!õ
+ò
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÓ Ó(.
+%4(StackExchange.Profiling.Data.IDbProfiler"__id*r*p7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerÁ
+‰
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÓ Ó(!
+
+%5bool""object.operator !=(object, object)*
+"
+object*0
+.
+%4(StackExchange.Profiling.Data.IDbProfiler*
+""*
+3
+4*¯
+3l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (+õ
+ò
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (.
+%6(StackExchange.Profiling.Data.IDbProfiler"__id*r*p7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler·ﬁ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs (,
+
+%7void"NStackExchange.Profiling.Data.IDbProfiler.ReaderFinish(System.Data.IDataReader)*0
+.
+%6(StackExchange.Profiling.Data.IDbProfiler*97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader2%ReaderFinish(System.Data.IDataReader)*
+4*˜
+4l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÚ	 Ú(	"É
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.csÚ Ú(	
+implicit returnB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

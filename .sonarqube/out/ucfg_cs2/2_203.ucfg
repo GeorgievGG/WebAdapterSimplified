@@ -1,0 +1,190 @@
+
+ºWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GenerateRequestModelDescription(WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel, WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator, WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csâ â(;"0*›
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csä å(aÕ
+Ò
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csä, ä(C0
+%0*System.Web.Http.Description.ApiDescription"QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ApiDescription.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModelú
+÷
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csä ä(C<
+apiDescription*System.Web.Http.Description.ApiDescription"__id*2
+0
+%0*System.Web.Http.Description.ApiDescription¼
+¹
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cså= å(a2
+%1,System.Collections.ObjectModel.Collection<T>"DSystem.Web.Http.Description.ApiDescription.ParameterDescriptions.get*>
+<
+apiDescription*System.Web.Http.Description.ApiDescription*
+1*Š
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csø	 ø(	*
+2
+3*å
+2}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csç ç(F¿
+¼
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csç ç('4
+%2.System.Web.Http.Description.ApiParameterSource">System.Web.Http.Description.ApiParameterDescription.Source.get*E
+C
+apiParameter3System.Web.Http.Description.ApiParameterDescription–
+“
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csç+ ç(F
+%3"__id*
+""*
+4
+5*Î
+4}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csé ë(NÑ
+Î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csé) é(I9
+%43System.Web.Http.Controllers.HttpParameterDescriptor"KSystem.Web.Http.Description.ApiParameterDescription.ParameterDescriptor.get*E
+C
+apiParameter3System.Web.Http.Description.ApiParameterDescription™
+–
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csé) é(W
+%5System.Type"ESystem.Web.Http.Controllers.HttpParameterDescriptor.ParameterType.get*;
+9
+%43System.Web.Http.Controllers.HttpParameterDescriptor»
+¸
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csé é(W
+parameterTypeSystem.Type"__id*
+
+%5System.TypeØ
+Õ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csê7 ê(pO
+%6IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"{WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GetOrCreateModelDescription(System.Type)*f
+d
+modelGeneratorRWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+parameterTypeSystem.TypeÐ
+Í
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csê ê(pO
+%7IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"ZWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.RequestModelDescription.set*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*Q
+O
+%6IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionž
+›
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë4 ë(N
+%8string"ESystem.Web.Http.Description.ApiParameterDescription.Documentation.get*E
+C
+apiParameter3System.Web.Http.Description.ApiParameterDescriptionÇ
+Ä
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë ë(N
+%9string"WWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.RequestDocumentation.set*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*
+
+%8string*
+1*ç
+5}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csí í(AÒ
+Ï
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csí í(9:
+%103System.Web.Http.Controllers.HttpParameterDescriptor"KSystem.Web.Http.Description.ApiParameterDescription.ParameterDescriptor.get*E
+C
+apiParameter3System.Web.Http.Description.ApiParameterDescription…
+‚
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csí í(A
+%11bool""object.operator !=(object, object)*
+"
+object*<
+:
+%103System.Web.Http.Controllers.HttpParameterDescriptor*
+""*
+6
+1*ñ
+6}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csî î(`Ò
+Ï
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csî î(4:
+%123System.Web.Http.Controllers.HttpParameterDescriptor"KSystem.Web.Http.Description.ApiParameterDescription.ParameterDescriptor.get*E
+C
+apiParameter3System.Web.Http.Description.ApiParameterDescription›
+˜
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csî î(B
+%13System.Type"ESystem.Web.Http.Controllers.HttpParameterDescriptor.ParameterType.get*<
+:
+%123System.Web.Http.Controllers.HttpParameterDescriptorñ
+î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csî î(`
+%14bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+%13System.Type*
+""*
+7
+1*Ë
+7}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csð ò(-þ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csð) ð(f
+%15System.Type"ˆWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)*S
+Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*>
+<
+apiDescription*System.Web.Http.Description.ApiDescription2IResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)¼
+¹
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csð ð(f
+parameterTypeSystem.Type"__id*
+
+%15System.Typeû
+ø
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csò ò(-
+%16bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+parameterTypeSystem.Type*
+""*
+8
+1*¸
+8}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csô ô(sÙ
+Ö
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csô; ô(tP
+%17IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"{WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GetOrCreateModelDescription(System.Type)*f
+d
+modelGeneratorRWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator*
+
+parameterTypeSystem.TypeÒ
+Ï
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csô ô(tP
+%18IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription"ZWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.RequestModelDescription.set*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*R
+P
+%17IWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescription*
+1*™
+3}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csø	 ø(	"”
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csø ø(	
+implicit return:J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel:d
+modelGeneratorRWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator:Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGeneratorBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

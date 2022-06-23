@@ -1,0 +1,111 @@
+
+iStackExchange.Profiling.CustomTiming.CustomTiming(StackExchange.Profiling.MiniProfiler, string, decimal?)Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs ("1*c
+1Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs)	 )(	*
+0*¾
+0Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs %(Põ
+ò
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs ( [&
+$StackExchange.Profiling.CustomTiming"1
+	_profiler$StackExchange.Profiling.MiniProfiler"__id*2
+0
+profiler$StackExchange.Profiling.MiniProfilerÕ
+Ò
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs (/
+
+%0long"5StackExchange.Profiling.MiniProfiler.ElapsedTicks.get*2
+0
+profiler$StackExchange.Profiling.MiniProfiler±
+®
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs (/=&
+$StackExchange.Profiling.CustomTiming"
+_startTickslong"__id*
+
+
+%0long¸
+µ
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs ("J&
+$StackExchange.Profiling.CustomTiming" 
+
+_minSaveMsSystem.Nullable<T>"__id*
+""é
+æ
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs   ()
+%1string"6StackExchange.Profiling.CustomTiming.CommandString.set*(&
+$StackExchange.Profiling.CustomTiming*
+
+commandStringstring™
+–
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs" "(
+%2System.Guid"System.Guid.NewGuid()*"
+System.GuidÝ
+Ú
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs" "(
+%3System.Guid"+StackExchange.Profiling.CustomTiming.Id.set*(&
+$StackExchange.Profiling.CustomTiming*
+
+%2System.GuidÕ
+Ò
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs#@ #(U
+
+%4long"5StackExchange.Profiling.MiniProfiler.ElapsedTicks.get*2
+0
+profiler$StackExchange.Profiling.MiniProfilerò
+ï
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs#  #(V
+%5decimal"AStackExchange.Profiling.MiniProfiler.GetRoundedMilliseconds(long)*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+
+%4longä
+á
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs# #(V
+%6decimal":StackExchange.Profiling.CustomTiming.StartMilliseconds.set*(&
+$StackExchange.Profiling.CustomTiming*
+
+%5decimalú
+÷
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs% %(P
+
+%7bool"[StackExchange.Profiling.MiniProfiler.Settings.ExcludeStackTraceSnippetFromCustomTimings.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings*
+2
+3*§
+2Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs' '(CÜ
+Ù
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs'$ '(C
+%8string"7StackExchange.Profiling.Helpers.StackTraceSnippet.Get()*5"3
+1StackExchange.Profiling.Helpers.StackTraceSnippetâ
+ß
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs' '(C
+%9string":StackExchange.Profiling.CustomTiming.StackTraceSnippet.set*(&
+$StackExchange.Profiling.CustomTiming*
+
+%8string*
+3*Ð
+3Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs)	 )(	"p
+Y
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\CustomTiming.cs) )(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+commandStringstring:
+	minSaveMsSystem.Nullable<T>B(&
+$StackExchange.Profiling.CustomTiming

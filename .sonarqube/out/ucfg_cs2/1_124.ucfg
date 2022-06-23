@@ -1,0 +1,155 @@
+
+WebAdapterSimplifiedLibrary.PrivilegesToDataIsolationPolicyHelper.GetDataIsolationPolicy(WebAdapterSimplifiedLibrary.UserPrivilegesViewModel)v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs* (@"0*Ÿ
+0v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (.™
+–
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (.
+
+%0bool"PWebAdapterSimplifiedLibrary.UserPrivilegesViewModel.DataRestrictionByNothing.get*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel*
+1
+2*ç
+1v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs	 	(Cµ
+²
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs	 	(C5
+%1/WebAdapterSimplifiedLibrary.DataIsolationPolicy"LWebAdapterSimplifiedLibrary.DataIsolationPolicy.DataRestrictionByNothing.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicy"±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs	 	(D7
+5
+%1/WebAdapterSimplifiedLibrary.DataIsolationPolicy*ž
+2v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (-˜
+•
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (-
+
+%2bool"OWebAdapterSimplifiedLibrary.UserPrivilegesViewModel.DataRestrictionByAgency.get*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel*
+3
+4*â
+3v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (>°
+­
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (>5
+%3/WebAdapterSimplifiedLibrary.DataIsolationPolicy"GWebAdapterSimplifiedLibrary.DataIsolationPolicy.RestrictionByAgency.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicy"±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (?7
+5
+%3/WebAdapterSimplifiedLibrary.DataIsolationPolicy* 
+4v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (/š
+—
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (/
+
+%4bool"QWebAdapterSimplifiedLibrary.UserPrivilegesViewModel.DataRestrictionByCreditor.get*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel*
+5
+6*ä
+5v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (@²
+¯
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (@5
+%5/WebAdapterSimplifiedLibrary.DataIsolationPolicy"IWebAdapterSimplifiedLibrary.DataIsolationPolicy.RestrictionByCreditor.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicy"±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (A7
+5
+%5/WebAdapterSimplifiedLibrary.DataIsolationPolicy*œ
+6v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (+–
+“
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (+
+
+%6bool"MWebAdapterSimplifiedLibrary.UserPrivilegesViewModel.DataRestrictionByTeam.get*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel*
+7
+8*à
+7v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (<®
+«
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (<5
+%7/WebAdapterSimplifiedLibrary.DataIsolationPolicy"EWebAdapterSimplifiedLibrary.DataIsolationPolicy.RestrictionByTeam.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicy"±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (=7
+5
+%7/WebAdapterSimplifiedLibrary.DataIsolationPolicy*
+8v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (.–
+“
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (.
+
+%8bool"MWebAdapterSimplifiedLibrary.UserPrivilegesViewModel.DataRestrictionByUser.get*>
+<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModel*
+9
+10*ž
+9v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (7¯
+¬
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (76
+%12/WebAdapterSimplifiedLibrary.DataIsolationPolicy"EWebAdapterSimplifiedLibrary.DataIsolationPolicy.RestrictionByUser.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicyó
+ð
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (76
+%10/WebAdapterSimplifiedLibrary.DataIsolationPolicy"__id*8
+6
+%12/WebAdapterSimplifiedLibrary.DataIsolationPolicyò
+ï
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (75
+%9/WebAdapterSimplifiedLibrary.DataIsolationPolicy"__id*8
+6
+%10/WebAdapterSimplifiedLibrary.DataIsolationPolicy*
+11*¡
+10v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (9±
+®
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (96
+%13/WebAdapterSimplifiedLibrary.DataIsolationPolicy"GWebAdapterSimplifiedLibrary.DataIsolationPolicy.RestrictionByAgency.get*3"1
+/WebAdapterSimplifiedLibrary.DataIsolationPolicyó
+ð
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (96
+%11/WebAdapterSimplifiedLibrary.DataIsolationPolicy"__id*8
+6
+%13/WebAdapterSimplifiedLibrary.DataIsolationPolicyò
+ï
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (95
+%9/WebAdapterSimplifiedLibrary.DataIsolationPolicy"__id*8
+6
+%11/WebAdapterSimplifiedLibrary.DataIsolationPolicy*
+11*°
+11v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs	 (	"±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (:7
+5
+%9/WebAdapterSimplifiedLibrary.DataIsolationPolicy*Œ
+12v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs	 (	"
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\PrivilegesToDataIsolationPolicyHelper.cs (	
+implicit return:<
+model3WebAdapterSimplifiedLibrary.UserPrivilegesViewModelBE"C
+AWebAdapterSimplifiedLibrary.PrivilegesToDataIsolationPolicyHelper

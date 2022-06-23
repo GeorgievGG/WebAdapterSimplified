@@ -1,0 +1,60 @@
+
+YWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.WrapSampleIfString(object)†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs± ±(0"0*õ
+0†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs³ ´($´
+±
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs³" ³(2
+%0object"__id*
+
+sampleobjectº
+·
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs³ ³(2
+stringSamplestring"__id*
+
+%0objectê
+ç
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs´ ´($
+
+%1bool""string.operator !=(string, string)*
+"
+string*
+
+stringSamplestring*
+""*
+1
+2*„
+1†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¶ ¶(2øõ
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¶ ¶(37
+%21WebApiAdapterSimplified.Areas.HelpPage.TextSample"1WebApiAdapterSimplified.Areas.HelpPage.TextSample³
+°
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¶ ¶(%
+
+%3void"DWebApiAdapterSimplified.Areas.HelpPage.TextSample.TextSample(string)*9
+7
+%21WebApiAdapterSimplified.Areas.HelpPage.TextSample*
+
+stringSamplestring"Ä
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¶ ¶(49
+7
+%21WebApiAdapterSimplified.Areas.HelpPage.TextSample*¬
+2†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¹ ¹("
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¹ ¹(
+
+sampleobject*­
+3†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csº	 º(	"ž
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csº º(	
+implicit return:
+sampleobjectBB"@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

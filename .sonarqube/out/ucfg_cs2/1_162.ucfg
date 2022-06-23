@@ -1,0 +1,166 @@
+
+RWebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.GetUserAllPrivileges(System.Guid)e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs7- 7(A"0*Û
+
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs: <(,•
+’
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs;' ;(4/
+%0)WebAdapterSimplifiedLibrary.ICacheService"__id*r*p2
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic":
+_cacheService)WebAdapterSimplifiedLibrary.ICacheService}
+{
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs;^ ;(y
+%1"__id*
+""áÞ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs;' ;(z4
+%2.WebAdapterSimplifiedLibrary.UserPrivilegesData"RWebAdapterSimplifiedLibrary.ICacheService.GetCacheItem<TItem>(System.Guid, string)*1
+/
+%0)WebAdapterSimplifiedLibrary.ICacheService*
+""*
+
+%12(GetCacheItem<TItem>(System.Guid, string)ð
+í
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs; ;(zF
+cachedUserPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData"__id*6
+4
+%2.WebAdapterSimplifiedLibrary.UserPrivilegesDataø
+õ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs< <(,
+
+%3bool""object.operator ==(object, object)*
+"
+object*H
+F
+cachedUserPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData*
+""*
+1
+2*Ò
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs> ?(^Í
+Ê
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs>! >(@A
+%4;WebAdapterSimplifiedLibrary.IMatrixUserManagementRepository"__id*—*”2
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic"^
+_matrixUserManagementRepository;WebAdapterSimplifiedLibrary.IMatrixUserManagementRepositoryçä
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs>! >(Z2
+%5,WebAdapterSimplifiedLibrary.UserPrivilegeAll"ZWebAdapterSimplifiedLibrary.IMatrixUserManagementRepository.GetUserPrivileges(System.Guid)*C
+A
+%4;WebAdapterSimplifiedLibrary.IMatrixUserManagementRepository*
+""2GetUserPrivileges(System.Guid)–
+“
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs>! >(h4
+%6.WebAdapterSimplifiedLibrary.UserPrivilegesData">WebAdapterSimplifiedLibrary.UserPrivilegeAll.UserPrivilege.get*4
+2
+%5,WebAdapterSimplifiedLibrary.UserPrivilegeAllê
+ç
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs> >(h@
+userPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData"__id*6
+4
+%6.WebAdapterSimplifiedLibrary.UserPrivilegesData•
+’
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs? ?(/
+%7)WebAdapterSimplifiedLibrary.ICacheService"__id*r*p2
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic":
+_cacheService)WebAdapterSimplifiedLibrary.ICacheService}
+{
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs?3 ?(N
+%8"__id*
+""‰†
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs? ?(_
+
+%9void"YWebAdapterSimplifiedLibrary.ICacheService.SetCacheItem<TItem>(System.Guid, string, TItem)*1
+/
+%7)WebAdapterSimplifiedLibrary.ICacheService*
+""*
+
+%8*B
+@
+userPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData2/SetCacheItem<TItem>(System.Guid, string, TItem)*
+3*î
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csC C(5ü
+ù
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csC C(5@
+userPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData"__id*H
+F
+cachedUserPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData*
+3*É
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF L($Ô
+Ñ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF$ F(<
+%10System.Type"object.GetType()*B
+@
+userPrivileges.WebAdapterSimplifiedLibrary.UserPrivilegesData~
+|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csG G(2
+%11"__id*
+""~
+|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csG5 G(J
+%12"__id*
+""ì
+é
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF$ G(K'
+%13 System.Reflection.PropertyInfo[]"9System.Type.GetProperties(System.Reflection.BindingFlags)*
+
+%10System.Type*
+""ß
+Ü
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF$ H(S0
+%14)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*)
+'
+%13 System.Reflection.PropertyInfo[]*
+""õ
+ò
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF$ I(O0
+%15)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*2
+0
+%14)System.Collections.Generic.IEnumerable<T>*
+""¾
+»
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF$ J()
+%16"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*2
+0
+%15)System.Collections.Generic.IEnumerable<T>Ö
+Ó
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csF J(7
+userAllPrivileges"System.Collections.Generic.List<T>"__id*+
+)
+%16"System.Collections.Generic.List<T>"¢
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csL L(%9
+7
+userAllPrivileges"System.Collections.Generic.List<T>*è
+4e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csM	 M(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.csM M(	
+implicit return:
+userIdSystem.GuidB42
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic

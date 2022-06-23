@@ -1,0 +1,133 @@
+
+UStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetPerUserUnviewedIds(string)n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¦ ¦(0"0*¹
+0n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¨ «(¬
+©
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¨ ¨(6
+%0string"ZStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetPerUserUnviewedCacheKey(string)*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+
+userstring˜
+•
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¨ ¨(6
+keystring"__id*
+
+%0stringÑ
+Î
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs© ©(*
+%1System.Web.Caching.Cache" System.Web.HttpRuntime.Cache.get*"
+System.Web.HttpRuntimeß
+Ü
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs© ©(/
+%2object")System.Web.Caching.Cache.this[string].get* 
+
+%1System.Web.Caching.Cache*
+
+keystring—
+”
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs© ©(=
+%3object"__id*
+
+%2object·
+´
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs© ©(=,
+result"System.Collections.Generic.List<T>"__id*
+
+%3objectç
+ä
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs« «(
+
+%4bool""object.operator ==(object, object)*
+"
+object*.
+,
+result"System.Collections.Generic.List<T>*
+""*
+1
+2*æ
+1n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs­ ­(/ë
+è
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs­ ­(/
+%5object"__id*b*`9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage"#
+AddPerUserUnviewedIdsLockobject*
+3*ï
+3n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs° ±(&Ñ
+Î
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs° °(.
+%6System.Web.Caching.Cache" System.Web.HttpRuntime.Cache.get*"
+System.Web.HttpRuntimeß
+Ü
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs° °(3
+%7object")System.Web.Caching.Cache.this[string].get* 
+
+%6System.Web.Caching.Cache*
+
+keystring—
+”
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs° °(A
+%8object"__id*
+
+%7object·
+´
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs° °(A,
+result"System.Collections.Generic.List<T>"__id*
+
+%8objectç
+ä
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs± ±(&
+
+%9bool""object.operator ==(object, object)*
+"
+object*.
+,
+result"System.Collections.Generic.List<T>*
+""*
+4
+2*„
+4n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs³ ´(3¯
+¬
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs³ ³(1,
+result"System.Collections.Generic.List<T>"__id*
+""×
+Ô
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs´ ´(4
+%10void"WStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.InsertIntoCache(string, object)*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*
+
+keystring*.
+,
+result"System.Collections.Generic.List<T>*
+2*–
+2n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¹ ¹(" 
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs¹ ¹(.
+,
+result"System.Collections.Generic.List<T>*û
+5n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csº	 º(	"…
+n
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.csº º(	
+implicit return:
+userstringB;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage

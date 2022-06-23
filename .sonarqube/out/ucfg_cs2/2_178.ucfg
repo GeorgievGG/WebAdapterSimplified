@@ -1,0 +1,98 @@
+
+[WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleObject(System.Type)Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs≤ ≤(-"0*Ú
+0Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¥ ∂(Aﬁ
+€
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs∂ ∂(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"PWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects.get*B@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator˙˜
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs∂ ∂(B
+
+%1bool"RSystem.Collections.Generic.IDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+typeSystem.Type*
+
+sampleObjectobject2TryGetValue(TKey, out TValue)*
+1
+2*È
+1Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csπP π(e’
+“
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csπP π(e)
+%2#System.Collections.Generic.IList<T>"XWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.SampleObjectFactories.get*B@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*
+3*î
+3Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs–	 –(	*
+4
+2*∑
+4Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csª ª('†
+ù
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csª ª('
+
+%3bool"∞System.Func<WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator, System.Type, object>.operator ==(System.Func<WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator, System.Type, object>, System.Func<WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator, System.Type, object>)* "
+System.Func<T1, T2, TResult>*)
+'
+factorySystem.Func<T1, T2, TResult>*
+""*
+5
+6*ë
+5Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs–	 –(	*
+3*Ö
+6Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¬ √(0ƒ
+¡
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¬' ¬(:
+%4object"+System.Func<T1, T2, TResult>.Invoke(T1, T2)* 
+System.Func<T1, T2, TResult>*B@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*
+
+typeSystem.Type∫
+∑
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs¬ ¬(:
+sampleObjectobject"__id*
+
+%4objectÍ
+Á
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs√ √(0
+
+%5bool""object.operator !=(object, object)*
+"
+object*
+
+sampleObjectobject*
+""*
+7
+8*ë
+7Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs–	 –(	*
+2*î
+8Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs–	 –(	*
+3
+3*≤
+2Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csœ œ("£
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csœ œ( 
+
+sampleObjectobject*≠
+9Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs–	 –(	"û
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs– –(	
+implicit return:
+typeSystem.TypeBB@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

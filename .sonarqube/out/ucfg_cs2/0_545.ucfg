@@ -1,0 +1,49 @@
+
+DStackExchange.Profiling.Data.SimpleProfiledTransaction.Dispose(bool)k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csR R("0*x
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csT T(*
+1
+2*Ø
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csT T(1‚
+ÿ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csT T() 
+%0System.Data.IDbTransaction"__id*h*f8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"*
+_transactionSystem.Data.IDbTransactionØ
+Õ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csT T(1
+
+%1bool""object.operator !=(object, object)*
+"
+object*"
+ 
+%0System.Data.IDbTransaction*
+""*
+3
+2*Æ
+3k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csV V(&‚
+ÿ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csV V( 
+%2System.Data.IDbTransaction"__id*h*f8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"*
+_transactionSystem.Data.IDbTransactionÉÆ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csV V(&
+
+%3void"System.IDisposable.Dispose()*"
+ 
+%2System.Data.IDbTransaction2	Dispose()*
+2*õ
+2k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csX	 X(	"‚
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csX X(	
+implicit return:
+	disposingboolB:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction

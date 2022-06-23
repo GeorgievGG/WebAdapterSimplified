@@ -1,0 +1,51 @@
+
+µWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleForMediaType(System.Web.Http.HttpConfiguration, object, System.Net.Http.Headers.MediaTypeHeaderValue){
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csg g(0"0*Û
+0{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csi i(jÈ
+Å
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csi i(/D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"„WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationÖ
+Ó
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csi i(=:
+%14System.Collections.Generic.IDictionary<TKey, TValue>"PWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples.get*F
+D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGeneratorú÷
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csiB i(b>
+%28WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey"8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey…
+‚
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csiF i(W
+
+%3void"xWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue)*@
+>
+%28WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*;
+9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValueª
+§
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csi i(k
+
+%4void"__mapSet*<
+:
+%14System.Collections.Generic.IDictionary<TKey, TValue>*@
+>
+%28WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+sampleobject*
+1*•
+1{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csj	 j(	"’
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csj j(	
+implicit return:+
+config!System.Web.Http.HttpConfiguration:
+sampleobject:9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValueBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

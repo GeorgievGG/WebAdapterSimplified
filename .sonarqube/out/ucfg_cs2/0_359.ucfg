@@ -1,0 +1,44 @@
+
+\StackExchange.Profiling.MiniProfilerHandler.NotFound(System.Web.HttpContext, string, string)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csª ª(&"0*¨
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ ¯(Ð
+Í
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ ¬(
+%0System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContextÂ
+¿
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ ¬(-	
+%1int"&System.Web.HttpResponse.StatusCode.set*
+
+%0System.Web.HttpResponse*2”Ð
+Í
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs­ ­(
+%2System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContextØ
+Õ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs­ ­(6
+%3string"'System.Web.HttpResponse.ContentType.set*
+
+%2System.Web.HttpResponse*
+
+contentTypestring"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¯ ¯(
+
+messagestring*â
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs°	 °(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs° °(	
+implicit return:!
+contextSystem.Web.HttpContext:
+contentTypestring:
+messagestringB/"-
++StackExchange.Profiling.MiniProfilerHandler

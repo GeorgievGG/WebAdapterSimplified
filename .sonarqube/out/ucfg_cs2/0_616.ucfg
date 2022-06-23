@@ -1,0 +1,107 @@
+
+éStackExchange.Profiling.Data.ProfiledDbDataAdapter.ProfiledDbDataAdapter(System.Data.IDbDataAdapter, StackExchange.Profiling.Data.IDbProfiler)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs< <($"1*Ÿ
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csG	 G(	f
+d
+
+%0void"0System.Data.Common.DbDataAdapter.DbDataAdapter()*$"
+ System.Data.Common.DbDataAdapter*
+0*◊
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs> >(&‡
+›
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs> >(&
+
+%1bool""object.operator ==(object, object)*
+"
+object*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter*
+""*
+2
+3*ì
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs@ @(@Æ´
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs@ @(A"
+%2System.ArgumentNullException"System.ArgumentNullExceptionÓ
+Î
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cs@ @(/
+
+%3void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%2System.ArgumentNullException*
+wrappedAdapter*
+4*≠
+3g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csC D( Ç
+ˇ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csC C(%^4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"&
+_adapterSystem.Data.IDbDataAdapter"__id*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter⁄
+◊
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD D( .
+%5(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler‘
+—
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD D( .
+%4(StackExchange.Profiling.Data.IDbProfiler"__id*0
+.
+%5(StackExchange.Profiling.Data.IDbProfiler*
+5
+6*í
+5g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD$ D(8Ù
+Ò
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD$ D(8*
+%7$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfiler–
+Õ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD$ D(8.
+%6(StackExchange.Profiling.Data.IDbProfiler"__id*,
+*
+%7$StackExchange.Profiling.MiniProfiler‘
+—
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD$ D(8.
+%4(StackExchange.Profiling.Data.IDbProfiler"__id*0
+.
+%6(StackExchange.Profiling.Data.IDbProfiler*
+6*«
+6g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD F('ì
+ê
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csD D(8m4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*0
+.
+%4(StackExchange.Profiling.Data.IDbProfilerΩ
+∫
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csF F((
+
+%8void"[StackExchange.Profiling.Data.ProfiledDbDataAdapter.InitCommands(System.Data.IDbDataAdapter)*64
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter*.
+,
+wrappedAdapterSystem.Data.IDbDataAdapter*
+4*Ï
+4g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csG	 G(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csG G(	
+implicit return:,
+wrappedAdapterSystem.Data.IDbDataAdapter:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB64
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter

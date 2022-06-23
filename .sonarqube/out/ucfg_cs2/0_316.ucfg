@@ -1,0 +1,37 @@
+
+uStackExchange.Profiling.MiniProfilerHandler.ResultsJson(System.Web.HttpContext, StackExchange.Profiling.MiniProfiler)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÙ Ù()"0*±
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÛ Ü(/Ð
+Í
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÛ Û(
+%0System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContextÕ
+Ò
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÛ Û(=
+%1string"'System.Web.HttpResponse.ContentType.set*
+
+%0System.Web.HttpResponse*
+application/json¦
+£
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÜ Ü(0
+%2string"QStackExchange.Profiling.MiniProfiler.ToJson(StackExchange.Profiling.MiniProfiler)*("&
+$StackExchange.Profiling.MiniProfiler*2
+0
+profiler$StackExchange.Profiling.MiniProfiler"t
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÜ Ü(1
+
+%2string*â
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÝ	 Ý(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÝ Ý(	
+implicit return:!
+contextSystem.Web.HttpContext:0
+profiler$StackExchange.Profiling.MiniProfilerB/"-
++StackExchange.Profiling.MiniProfilerHandler

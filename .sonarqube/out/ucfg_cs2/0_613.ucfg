@@ -1,0 +1,28 @@
+
+tStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreatePermission(System.Security.Permissions.PermissionState)m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csê- ê(="0*†
+0m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csí í(/ë
+é
+m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csí í(*
+%0$System.Data.Common.DbProviderFactory"__id*k*i8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory"-
+_tail$System.Data.Common.DbProviderFactory˜Ù
+m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csí í(0*
+%1$System.Security.CodeAccessPermission"bSystem.Data.Common.DbProviderFactory.CreatePermission(System.Security.Permissions.PermissionState)*,
+*
+%0$System.Data.Common.DbProviderFactory*
+""2=CreatePermission(System.Security.Permissions.PermissionState)"ù
+m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csí í(1,
+*
+%1$System.Security.CodeAccessPermission*˘
+1m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csì	 ì(	"Ñ
+m
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csì ì(	
+implicit return:4
+state+System.Security.Permissions.PermissionStateB:8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory

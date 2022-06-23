@@ -1,0 +1,57 @@
+
+vStackExchange.Profiling.Storage.DatabaseStorageBase.DatabaseStorageBase(System.Configuration.ConnectionStringSettings)h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs" "(%"1*r
+1h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs*	 *(	*
+0*ö
+0h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs$ $(0þ
+û
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs$ $(0
+
+%0bool""object.operator ==(object, object)*
+"
+object*K
+I
+connectionStringSettings-System.Configuration.ConnectionStringSettings*
+""*
+2
+3* 
+2h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs& &(J¯¬
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs& &(K"
+%1System.ArgumentNullException"System.ArgumentNullExceptionù
+ö
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs& &(/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+connectionStringSettings*
+4*’
+3h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs) )(MŒ
+‰
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs)$ )(M
+%3string"BSystem.Configuration.ConnectionStringSettings.ConnectionString.get*K
+I
+connectionStringSettings-System.Configuration.ConnectionStringSettingsŽ
+‹
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs) )(M
+%4string"HStackExchange.Profiling.Storage.DatabaseStorageBase.ConnectionString.set*75
+3StackExchange.Profiling.Storage.DatabaseStorageBase*
+
+%3string*
+4*î
+4h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs*	 *(	"
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\DatabaseStorageBase.cs* *(	
+implicit return:I
+connectionStringSettings-System.Configuration.ConnectionStringSettingsB75
+3StackExchange.Profiling.Storage.DatabaseStorageBase

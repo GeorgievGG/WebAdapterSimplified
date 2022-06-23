@@ -1,0 +1,58 @@
+
+OStackExchange.Profiling.SqlProfiler.ReaderFinishedImpl(System.Data.IDataReader)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs@ @(&"0*ˇ
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csB E(?Ø
+¨
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csE E("F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*Å*%
+#StackExchange.Profiling.SqlProfiler"V
+_inProgressReaders@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>Â
+‚
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csE E(@
+
+%1bool"^System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*#
+!
+readerSystem.Data.IDataReader*+
+)
+stat!StackExchange.Profiling.SqlTiming*
+1
+2*Œ
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csG I(?œ
+Ã
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csG G(*
+
+%2void"7StackExchange.Profiling.SqlTiming.ReaderFetchComplete()*+
+)
+stat!StackExchange.Profiling.SqlTimingØ
+¨
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csI I("F
+%3@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*Å*%
+#StackExchange.Profiling.SqlProfiler"V
+_inProgressReaders@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>Â
+‚
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csI I(@
+
+%4bool"\System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryRemove(TKey, out TValue)*H
+F
+%3@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*#
+!
+readerSystem.Data.IDataReader*-
++
+ignore!StackExchange.Profiling.SqlTiming*
+2*Œ
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csK	 K(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csK K(	
+implicit return:!
+readerSystem.Data.IDataReaderB'%
+#StackExchange.Profiling.SqlProfiler

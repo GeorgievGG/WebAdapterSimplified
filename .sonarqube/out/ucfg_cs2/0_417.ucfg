@@ -1,0 +1,862 @@
+
+IStackExchange.Profiling.ClientTimings.FromRequest(System.Web.HttpRequest)Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs#$ #(/"0*ñ
+0Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs% ((#û
+õ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs% %('/
+timing%StackExchange.Profiling.ClientTimings"__id*
+""r
+p
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs'" '(4
+%0"__id*
+""ç
+ä
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs'" '(I
+%1"__concat*
+
+%0*
+navigationStart]√
+¿
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs' '(J
+%2string"'System.Web.HttpRequest.this[string].get*#
+!
+requestSystem.Web.HttpRequest*
+
+%1¡
+æ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs' '(`
+
+%3bool"long.TryParse(string, out long)*"
+long*
+
+%2string*
+
+navigationStartlong*
+1
+2*±#
+1Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs* 8(l≠™
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs* *(6(
+%4"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>¬
+ø
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs*" *(4
+
+%5void")System.Collections.Generic.List<T>.List()**
+(
+%4"System.Collections.Generic.List<T>¿
+Ω
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs* *(6-
+timings"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>≥∞
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs, ,(,+
+%6%StackExchange.Profiling.ClientTimings"%StackExchange.Profiling.ClientTimings—
+Œ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs, ,(*
+
+%7void"5StackExchange.Profiling.ClientTimings.ClientTimings()*-
++
+%6%StackExchange.Profiling.ClientTimings≈
+¬
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs, ,(,/
+timing%StackExchange.Profiling.ClientTimings"__id*-
++
+%6%StackExchange.Profiling.ClientTimingsÌ
+Í
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs/ /(T
+%8string"'System.Web.HttpRequest.this[string].get*#
+!
+requestSystem.Web.HttpRequest*0.
+,clientPerformance[navigation][redirectCount]ª
+∏
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs/ /(h
+
+%9bool"int.TryParse(string, out int)*"
+int*
+
+%8string*
+
+redirectCountintÔ
+Ï
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs0 0(4
+
+%10int"7StackExchange.Profiling.ClientTimings.RedirectCount.set*1
+/
+timing%StackExchange.Profiling.ClientTimings*
+
+redirectCountint–Õ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs2! 2(G:
+%113System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>Ï
+È
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs2% 2(E
+%12void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*<
+:
+%113System.Collections.Generic.Dictionary<TKey, TValue>Ê
+„
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs2 2(GA
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>"__id*<
+:
+%113System.Collections.Generic.Dictionary<TKey, TValue>–Õ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs3# 3(F:
+%133System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>Ï
+È
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs3' 3(D
+%14void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*<
+:
+%133System.Collections.Generic.Dictionary<TKey, TValue>Ë
+Â
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs3 3(FC
+clientProbes3System.Collections.Generic.Dictionary<TKey, TValue>"__id*<
+:
+%133System.Collections.Generic.Dictionary<TKey, TValue>‡
+›
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs7 7($9
+%152System.Collections.Specialized.NameValueCollection"System.Web.HttpRequest.Form.get*#
+!
+requestSystem.Web.HttpRequest∑¥
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs7 7()M
+%16FSystem.Collections.Specialized.NameObjectCollectionBase.KeysCollection"@System.Collections.Specialized.NameObjectCollectionBase.Keys.get*;
+9
+%152System.Collections.Specialized.NameValueCollection2Keys.getƒ
+¡
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs7 7(80
+%17)System.Collections.Generic.IEnumerable<T>"DSystem.Linq.Enumerable.Cast<TResult>(System.Collections.IEnumerable)*"
+System.Linq.Enumerable*O
+M
+%16FSystem.Collections.Specialized.NameObjectCollectionBase.KeysCollection‰
+·
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs7 8(m/
+%18(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*2
+0
+%17)System.Collections.Generic.IEnumerable<T>*
+""*
+3*i
+3\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù	 ù(	*
+4
+5*Ä
+4Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs: :(9s
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs:' :(9
+%19"__id*
+""°
+û
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs: :(:
+%20bool"string.StartsWith(string)*
+
+keystring*
+
+%19*
+6
+7*‘
+6Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs< D(#Õ
+ 
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs=& =(2
+%21string"'System.Web.HttpRequest.this[string].get*#
+!
+requestSystem.Web.HttpRequest*
+
+keystring∑
+¥
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs= =(<
+%22bool"long.TryParse(string, out long)*"
+long*
+
+%21string*
+
+vallongç
+ä
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs> >(.
+vallong"__id*
+
+navigationStartlongs
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csA A(.
+%23"__id*
+""á
+Ñ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csA A(5
+
+%24int"string.Length.get*
+
+%23è
+å
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csA8 A(B
+
+%25int"string.Length.get*
+
+keystrings
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csAJ A(\
+%26"__id*
+""á
+Ñ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csAJ A(c
+
+%27int"string.Length.get*
+
+%26±
+Æ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs@, A(d
+%28string"string.Substring(int, int)*
+
+keystring*
+
+
+%24int*
+""å
+â
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs@ A(d
+
+parsedNamestring"__id*
+
+%28string*
+8
+7*ì
+8Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csF  F(;®
+•
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csF  F(<
+%29bool"string.EndsWith(string)*
+
+
+parsedNamestring*	
+Start*
+9
+10*ˇ
+9Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csH$ M(Kñ
+ì
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csHH H(Y
+
+%30int"string.Length.get*
+
+
+parsedNamestringÆ
+´
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csH0 H(^
+%31string"string.Substring(int, int)*
+
+
+parsedNamestring*2 *
+""ã
+à
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csH$ H(^
+	shortNamestring"__id*
+
+%31stringŒÀ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csI8 N(=9
+%322StackExchange.Profiling.ClientTimings.ClientTiming"2StackExchange.Profiling.ClientTimings.ClientTimingÏ
+È
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csI< I(H
+%33void"AStackExchange.Profiling.ClientTimings.ClientTiming.ClientTiming()*;
+9
+%322StackExchange.Profiling.ClientTimings.ClientTimingı
+Ú
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csK@ K(M
+%34decimal"?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.set*;
+9
+%322StackExchange.Profiling.ClientTimings.ClientTiming*
+""Ä
+˝
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csL@ L(Q
+%35string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.set*;
+9
+%322StackExchange.Profiling.ClientTimings.ClientTiming*
+
+
+parsedNamestring˘
+ˆ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csM@ M(K
+%36decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.set*;
+9
+%322StackExchange.Profiling.ClientTimings.ClientTiming*
+
+vallongâ
+Ü
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csI  N(=
+%37"__mapSet*C
+A
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+	shortNamestring*;
+9
+%322StackExchange.Profiling.ClientTimings.ClientTiming*
+7*ì
+10Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csP% P(>¶
+£
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csP% P(?
+%38bool"string.EndsWith(string)*
+
+
+parsedNamestring*
+End*
+11
+12*ö
+11Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csR$ T(Kñ
+ì
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csRH R(Y
+
+%39int"string.Length.get*
+
+
+parsedNamestringÆ
+´
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csR0 R(^
+%40string"string.Substring(int, int)*
+
+
+parsedNamestring*2 *
+""ã
+à
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csR$ R(^
+	shortNamestring"__id*
+
+%40string÷
+”
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csT$ T(L
+%41bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*C
+A
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+	shortNamestring*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+13
+7*∆
+13Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csV$ W(6Ë
+Â
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csV7 V(>
+%42decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.get*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTimingÛ
+
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csV$ V(>
+%43decimal"?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.set*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+""˝
+˙
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csW$ W(6
+%44string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.set*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+
+	shortNamestring*
+7*©
+12Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\  \(yŒÀ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\9 \({9
+%452StackExchange.Profiling.ClientTimings.ClientTiming"2StackExchange.Profiling.ClientTimings.ClientTimingÏ
+È
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\= \(I
+%46void"AStackExchange.Profiling.ClientTimings.ClientTiming.ClientTiming()*;
+9
+%452StackExchange.Profiling.ClientTimings.ClientTimingÄ
+˝
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\L \(]
+%47string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.set*;
+9
+%452StackExchange.Profiling.ClientTimings.ClientTiming*
+
+
+parsedNamestring˘
+ˆ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\_ \(j
+%48decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.set*;
+9
+%452StackExchange.Profiling.ClientTimings.ClientTiming*
+
+vallongı
+Ú
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\l \(y
+%49decimal"?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.set*;
+9
+%452StackExchange.Profiling.ClientTimings.ClientTiming*
+""ä
+á
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs\  \({
+%50"__mapSet*C
+A
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+
+parsedNamestring*;
+9
+%452StackExchange.Profiling.ClientTimings.ClientTiming*
+7*Å
+7Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csa a(9s
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csa' a(9
+%51"__id*
+""°
+û
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csa a(:
+%52bool"string.StartsWith(string)*
+
+keystring*
+
+%51*
+14
+3*û
+14Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csc d(Js
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csd- d(E
+%53"__id*
+""Ω
+∫
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csd d(F
+
+%54int"/string.IndexOf(string, System.StringComparison)*
+
+keystring*
+]*
+
+%53*
+15
+3*ñ
+
+15[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdN d(ÿs
+q
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdi d({
+%55"__id*
+""à
+Ö
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdi d(Ç
+
+%56int"string.Length.get*
+
+%55u
+s
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdï d(≠
+%57"__id*
+""ø
+º
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdÑ d(Æ
+
+%58int"/string.IndexOf(string, System.StringComparison)*
+
+keystring*
+]*
+
+%57u
+s
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csd± d(√
+%59"__id*
+""â
+Ü
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csd± d( 
+
+%60int"string.Length.get*
+
+%59≤
+Ø
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csd[ d(À
+%61string"string.Substring(int, int)*
+
+keystring*
+
+
+%56int*
+""∏
+µ
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csdN d(Ÿ
+%62bool"int.TryParse(string, out int)*"
+int*
+
+%61string*
+
+probeIdint*
+16
+3*¿
+16Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csf) g(H”
+–
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csg! g(I
+%63bool"QSystem.Collections.Generic.Dictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*E
+C
+clientProbes3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+probeIdint*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+17
+18*ë
+17Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csi  j(;ŒÀ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csi$ i(69
+%642StackExchange.Profiling.ClientTimings.ClientTiming"2StackExchange.Profiling.ClientTimings.ClientTimingÏ
+È
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csi( i(4
+%65void"AStackExchange.Profiling.ClientTimings.ClientTiming.ClientTiming()*;
+9
+%642StackExchange.Profiling.ClientTimings.ClientTiming€
+ÿ
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csi  i(67
+t2StackExchange.Profiling.ClientTimings.ClientTiming"__id*;
+9
+%642StackExchange.Profiling.ClientTimings.ClientTimingä
+á
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csj  j(<
+%66void"__mapSet*E
+C
+clientProbes3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+probeIdint*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+18*å
+18Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csm  m(2ü
+ú
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csm  m(3
+%67bool"string.EndsWith(string)*
+
+keystring*
+[n]*
+19
+20*∞
+19Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cso  o(4Õ
+ 
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cso) o(5
+%68string"'System.Web.HttpRequest.this[string].get*#
+!
+requestSystem.Web.HttpRequest*
+
+keystring˜
+Ù
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cso  o(5
+%69string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.set*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+
+%68string*
+20*ã
+20Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csr  r(2ü
+ú
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csr  r(3
+%70bool"string.EndsWith(string)*
+
+keystring*
+[d]*
+21
+3*Û
+21Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cst% v(+Õ
+ 
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csu. u(:
+%71string"'System.Web.HttpRequest.this[string].get*#
+!
+requestSystem.Web.HttpRequest*
+
+keystring∑
+¥
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csu  u(D
+%72bool"long.TryParse(string, out long)*"
+long*
+
+%71string*
+
+vallong*
+22
+3*ÿ
+22Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csx$ x(C
+Ì
+Z
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csx$ x(C
+%73decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.set*9
+7
+t2StackExchange.Profiling.ClientTimings.ClientTiming*
+""*
+3*Ü	
+5[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs& Å(.≥
+∞
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs& Ä(!J
+%74CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*E
+C
+clientProbes3System.Collections.Generic.Dictionary<TKey, TValue>ˇ
+¸
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs& Ä(6/
+%75(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*L
+J
+%74CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection*
+""Â
+‚
+[
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cs& Å(/0
+%76)System.Collections.Generic.IEnumerable<T>"zSystem.Linq.Enumerable.GroupBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*1
+/
+%75(System.Linq.IOrderedEnumerable<TElement>*
+""*
+23*l
+23\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù	 ù(	*
+24
+25*ô
+24\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csÉ! Ñ(.Æ
+´
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csÉ! É(/=
+current2StackExchange.Profiling.ClientTimings.ClientTiming"__id*
+""*
+26*l
+26\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù	 ù(	*
+27
+23*÷
+27\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csÜ Ü(+Á
+‰
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csÜ Ü(+
+%77bool""object.operator ==(object, object)*
+"
+object*?
+=
+current2StackExchange.Profiling.ClientTimings.ClientTiming*
+""*
+28
+29*œ
+28\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csà à(*‰
+·
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csà à(*=
+current2StackExchange.Profiling.ClientTimings.ClientTiming"__id*<
+:
+item2StackExchange.Profiling.ClientTimings.ClientTiming*
+26*Ì	
+29\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cså é(*Ì
+Í
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cså/ å(9
+%78decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.get*<
+:
+item2StackExchange.Profiling.ClientTimings.ClientTiming
+Ì
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cså< å(I
+%79decimal"<StackExchange.Profiling.ClientTimings.ClientTiming.Start.get*?
+=
+current2StackExchange.Profiling.ClientTimings.ClientTiming˚
+¯
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.cså å(I
+%80decimal"?StackExchange.Profiling.ClientTimings.ClientTiming.Duration.set*?
+=
+current2StackExchange.Profiling.ClientTimings.ClientTiming*
+""
+Ì
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csç ç(0
+%81void"
+__arrayAdd*/
+-
+timings"System.Collections.Generic.List<T>*: *?
+=
+current2StackExchange.Profiling.ClientTimings.ClientTimingÆ
+´
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csé é(*=
+current2StackExchange.Profiling.ClientTimings.ClientTiming"__id*
+""*
+26*ù
+25\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csì% ì(6≤
+Ø
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csì% ì(6J
+%82CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*C
+A
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>*
+30*l
+30\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù	 ù(	*
+31
+32*¿
+31\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csï ï(6Î
+Ë
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csï- ï(6
+%83string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.get*<
+:
+item2StackExchange.Profiling.ClientTimings.ClientTimingË
+Â
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csï  ï(7
+%84string":StackExchange.Profiling.ClientTimings.SentenceCase(string)*)"'
+%StackExchange.Profiling.ClientTimings*
+
+%83string¸
+˘
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csï ï(7
+%85string";StackExchange.Profiling.ClientTimings.ClientTiming.Name.set*<
+:
+item2StackExchange.Profiling.ClientTimings.ClientTiming*
+
+%84string*
+30*ﬁ
+32\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csò ô(=≤
+Ø
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csò! ò(2J
+%86CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*C
+A
+
+clientPerf3System.Collections.Generic.Dictionary<TKey, TValue>Ä
+˝
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csò ò(3
+%87void"__arrayAddAll*/
+-
+timings"System.Collections.Generic.List<T>*: *L
+J
+%86CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection„
+‡
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csô! ô(>/
+%88(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*/
+-
+timings"System.Collections.Generic.List<T>*
+""¥
+±
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csô! ô(G)
+%89"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%88(System.Linq.IOrderedEnumerable<TElement>ü
+ú
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csô ô(G)
+%90"System.Collections.Generic.List<T>"1StackExchange.Profiling.ClientTimings.Timings.set*1
+/
+timing%StackExchange.Profiling.ClientTimings*+
+)
+%89"System.Collections.Generic.List<T>*
+2*ı
+2\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csú ú("ë
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csú ú(1
+/
+timing%StackExchange.Profiling.ClientTimings*◊
+33\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù	 ù(	"s
+\
+PC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\ClientTimings.csù ù(	
+implicit return:!
+requestSystem.Web.HttpRequestB)"'
+%StackExchange.Profiling.ClientTimings

@@ -1,0 +1,85 @@
+
+RStackExchange.Profiling.Helpers.HaackFormatter.IndexOfExpressionStart(string, int)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csX X(1"0*∞
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csZ [(±
+Æ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csZ Z(7	
+%0int"string.IndexOf(char, int)*
+
+formatstring*
+{*
+""â
+Ü
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csZ Z(7
+indexint"__id*
+	
+%0int*
+1
+2*ﬂ
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs] ]("u
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs] ](
+
+indexint*ç
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csa a()ö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csa a()	
+%1int"string.Length.get*
+
+formatstring*
+3
+4*™
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csc d(#¶
+£
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csc  c(1
+
+%2char"string.this[int].get*
+
+formatstring*
+""é
+ã
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csc c(1
+nextCharchar"__id*
+
+
+%2char*
+5
+4*ˆ
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csf f(Có
+î
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csf f(D	
+%3int"RStackExchange.Profiling.Helpers.HaackFormatter.IndexOfExpressionStart(string, int)*2"0
+.StackExchange.Profiling.Helpers.HaackFormatter*
+
+formatstring*
+"""r
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csf f(E
+	
+%3int*ﬂ
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csj j("u
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csj j(
+
+indexint*‰
+6c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csk	 k(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csk k(	
+implicit return:
+formatstring:
+
+startIndexintB2"0
+.StackExchange.Profiling.Helpers.HaackFormatter

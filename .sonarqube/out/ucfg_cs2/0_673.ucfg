@@ -1,0 +1,33 @@
+
+JStackExchange.Profiling.Helpers.Dapper.SqlBuilder.OrderBy(string, dynamic)a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs˜ ˜(!"0*ò
+0a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csš ›(ì
+é
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csš š(\
+
+%0void"kStackExchange.Profiling.Helpers.Dapper.SqlBuilder.AddClause(string, string, object, string, string, string)*53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*	
+orderby*
+
+sqlstring*
+
+
+parametersdynamic*
+ , *
+	ORDER BY *
+
+"š
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.cs› ›(53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder*à
+1a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csœ	 œ(	"x
+a
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlBuilder.csœ œ(	
+implicit return:
+sqlstring:
+
+parametersdynamicB53
+1StackExchange.Profiling.Helpers.Dapper.SqlBuilder

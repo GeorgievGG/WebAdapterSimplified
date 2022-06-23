@@ -1,0 +1,9 @@
+š
+/StackExchange.Profiling.Data.Link<TKey, TValue>objectº
+CLink(TKey, TValue, StackExchange.Profiling.Data.Link<TKey, TValue>)sStackExchange.Profiling.Data.Link<TKey, TValue>.Link(TKey, TValue, StackExchange.Profiling.Data.Link<TKey, TValue>)B
+Key.get7StackExchange.Profiling.Data.Link<TKey, TValue>.Key.getB
+Key.set7StackExchange.Profiling.Data.Link<TKey, TValue>.Key.setF
+	Value.get9StackExchange.Profiling.Data.Link<TKey, TValue>.Value.getF
+	Value.set9StackExchange.Profiling.Data.Link<TKey, TValue>.Value.setD
+Tail.get8StackExchange.Profiling.Data.Link<TKey, TValue>.Tail.getD
+Tail.set8StackExchange.Profiling.Data.Link<TKey, TValue>.Tail.set

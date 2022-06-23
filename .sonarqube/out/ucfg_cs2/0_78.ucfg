@@ -1,0 +1,98 @@
+
+ÓStackExchange.Profiling.SqlFormatters.SqlFormatterExtensions.GetFormattedSql(StackExchange.Profiling.SqlFormatters.ISqlFormatter, string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (,"0*û
+0q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (,˛
+˚
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs$ (I9
+%03StackExchange.Profiling.SqlFormatters.ISqlFormatter"__id*E
+C
+sqlFormatter3StackExchange.Profiling.SqlFormatters.ISqlFormatterã
+à
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (IP
+advancedFormatter;StackExchange.Profiling.SqlFormatters.IAdvancedSqlFormatter"__id*;
+9
+%03StackExchange.Profiling.SqlFormatters.ISqlFormatteré
+ã
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (,
+
+%1bool""object.operator !=(object, object)*
+"
+object*R
+P
+advancedFormatter;StackExchange.Profiling.SqlFormatters.IAdvancedSqlFormatter*
+""*
+1
+2*Ø
+1q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs/ (k˜Ù
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs/ (l
+%5string"≤StackExchange.Profiling.SqlFormatters.IAdvancedSqlFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)*R
+P
+advancedFormatter;StackExchange.Profiling.SqlFormatters.IAdvancedSqlFormatter*
+
+commandTextstring*2
+0
+
+parameters"System.Collections.Generic.List<T>*#
+!
+commandSystem.Data.IDbCommand2vFormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)ö
+ó
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs/ (l
+%3string"__id*
+
+%5stringö
+ó
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs/ (l
+%2string"__id*
+
+%3string*
+3*…
+2r
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cso (ùéã
+r
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cso (û
+%6string"íStackExchange.Profiling.SqlFormatters.ISqlFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)*E
+C
+sqlFormatter3StackExchange.Profiling.SqlFormatters.ISqlFormatter*
+
+commandTextstring*2
+0
+
+parameters"System.Collections.Generic.List<T>2^FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)õ
+ò
+r
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cso (û
+%4string"__id*
+
+%6stringõ
+ò
+r
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cso (û
+%2string"__id*
+
+%4string*
+3*˝
+3q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs	 (	"Ñ
+r
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (ü
+
+%2string*Å
+4q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs	 (	"à
+q
+gC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlFormatterExtensions.cs (	
+implicit return:C
+sqlFormatter3StackExchange.Profiling.SqlFormatters.ISqlFormatter:
+commandTextstring:0
+
+parameters"System.Collections.Generic.List<T>:!
+commandSystem.Data.IDbCommandB@">
+<StackExchange.Profiling.SqlFormatters.SqlFormatterExtensions

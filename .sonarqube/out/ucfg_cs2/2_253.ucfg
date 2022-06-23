@@ -1,0 +1,149 @@
+
+MWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Api(string)v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs" "("5* 
+0v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs$ $(+ƒ
+¡
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs$ $(,
+
+%0bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+apiIdstring*
+1
+2*ƒ
+1v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs&! '($¿
+Ω
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs&, &(9'
+%1!System.Web.Http.HttpConfiguration"SWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Configuration.get*EC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController”
+–
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs&, &(TD
+%2>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel"ÖWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageApiModel(System.Web.Http.HttpConfiguration, string)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*)
+'
+%1!System.Web.Http.HttpConfiguration*
+
+apiIdstringï
+í
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs&! &(TJ
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel"__id*F
+D
+%2>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModelç
+ä
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs' '($
+
+%3bool""object.operator !=(object, object)*
+"
+object*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*
+""*
+3
+2*Õ
+3v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs) )((±
+Æ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs) )()
+%4System.Web.Mvc.ViewResult"&System.Web.Mvc.Controller.View(object)*
+System.Web.Mvc.Controller*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel"õ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs) )(*!
+
+%4System.Web.Mvc.ViewResult*ü
+2v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -(%è
+å
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -(%
+%5"__id*
+""ˇ
+¸
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -(&
+
+%6void"*webapiadaptersimplified/views/shared/error*
+
+%7*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject˝
+˙
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -(&
+
+%8void"(webapiadaptersimplified/views/_viewstart*
+
+%9*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÉ
+Ä
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -(&
+%10void",webapiadaptersimplified/views/shared/_layout*
+
+%11*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"á
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs- -('
+
+%10void*ã
+4v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs.	 .(	"ç
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs. .(	
+implicit return*¶
+5v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs"- "(-£
+†
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs" "(
+%12"__entrypoint*
+
+apiIdstring*
+0:
+apiIdstringBEC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController

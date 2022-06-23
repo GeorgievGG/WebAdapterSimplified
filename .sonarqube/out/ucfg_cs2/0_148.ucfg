@@ -1,0 +1,70 @@
+
+>StackExchange.Profiling.WebRequestProfilerProvider.Current.geti
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÇ Ç("0*Ù
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÉ Ê(#Ì
+É
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÉ É(1
+%0System.Web.HttpContext""System.Web.HttpContext.Current.get*"
+System.Web.HttpContext·
+´
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÉ É(1!
+contextSystem.Web.HttpContext"__id*
+
+%0System.Web.HttpContext×
+Ô
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÊ Ê(#
+
+%1bool""object.operator ==(object, object)*
+"
+object*#
+!
+contextSystem.Web.HttpContext*
+""*
+1
+2*ã
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÊ, Ê(0"s
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÊ% Ê(1
+""*›
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ Ì(-Û
+Ø
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ Ì($$
+%2System.Collections.IDictionary" System.Web.HttpContext.Items.get*#
+!
+contextSystem.Web.HttpContext
+
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ% Ì(-
+%3"__id*
+""¶
+³
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ Ì(.
+%4object"__mapGet*&
+$
+%2System.Collections.IDictionary*
+
+%3’
+
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ Ì(>
+%5object"__id*
+
+%4object"{
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÌ Ì(?
+
+%5object*ñ
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÍ Í("€
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\WebRequestProfilerProvider.csÍ Í(
+implicit returnB64
+2StackExchange.Profiling.WebRequestProfilerProvider

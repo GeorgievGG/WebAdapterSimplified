@@ -1,0 +1,93 @@
+
+IWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Index()v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (!"2*î
+0v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (Oûõ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (
+%ViewBagDataAllobject"objectüú
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (
+%ViewBagDataHtmlobject"object¿
+Ω
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs, (9'
+%0!System.Web.Http.HttpConfiguration"SWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Configuration.get*EC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpControllerã
+à
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs, (B3
+%1-System.Web.Http.Controllers.ServicesContainer".System.Web.Http.HttpConfiguration.Services.get*)
+'
+%0!System.Web.Http.HttpConfigurationÄ
+˝
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs, (]8
+%22System.Web.Http.Description.IDocumentationProvider"jSystem.Web.Http.ServicesExtensions.GetDocumentationProvider(System.Web.Http.Controllers.ServicesContainer)*&"$
+"System.Web.Http.ServicesExtensions*5
+3
+%1-System.Web.Http.Controllers.ServicesContainerˇ
+¸
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (]
+%3"__mapSet*
+
+%ViewBagDataAllobject*
+DocumentationProvider*:
+8
+%22System.Web.Http.Description.IDocumentationProviderÃ
+…
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (]
+%4"__mapSet*
+
+%ViewBagDataHtmlobject*
+DocumentationProvider*
+""¿
+Ω
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (%'
+%5!System.Web.Http.HttpConfiguration"SWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController.Configuration.get*EC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpControllerã
+à
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (.3
+%6-System.Web.Http.Controllers.ServicesContainer".System.Web.Http.HttpConfiguration.Services.get*)
+'
+%5!System.Web.Http.HttpConfigurationÏ
+È
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (?.
+%7(System.Web.Http.Description.IApiExplorer"`System.Web.Http.ServicesExtensions.GetApiExplorer(System.Web.Http.Controllers.ServicesContainer)*&"$
+"System.Web.Http.ServicesExtensions*5
+3
+%6-System.Web.Http.Controllers.ServicesContainer¥±
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (O2
+%8,System.Collections.ObjectModel.Collection<T>"<System.Web.Http.Description.IApiExplorer.ApiDescriptions.get*0
+.
+%7(System.Web.Http.Description.IApiExplorer2ApiDescriptions.getô
+ñ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (P
+%9System.Web.Mvc.ViewResult"&System.Web.Mvc.Controller.View(object)*
+System.Web.Mvc.Controller*4
+2
+%8,System.Collections.ObjectModel.Collection<T>"õ
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (Q!
+
+%9System.Web.Mvc.ViewResult*ã
+1v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs 	  (	"ç
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs   (	
+implicit return*ì
+2v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs# (#ê
+ç
+v
+lC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Controllers\HelpController.cs (!
+%10"__entrypoint*
+0BEC
+AWebApiAdapterSimplified.Areas.HelpPage.Controllers.HelpController

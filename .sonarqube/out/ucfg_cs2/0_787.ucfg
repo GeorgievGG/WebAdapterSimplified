@@ -1,0 +1,26 @@
+
+âStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Read<TFirst, TSecond, TReturn>(System.Func<TFirst, TSecond, TReturn>, string)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs€( €(,"0*ß
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬁ ﬁ(kß
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬁ ﬁ(l/
+%0)System.Collections.Generic.IEnumerable<T>"êStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.MultiReadInternal<TFirst, TSecond, TThird, TFourth, TFifth, TReturn>(object, string)*?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*&
+$
+funcSystem.Func<T1, T2, TResult>*
+
+splitOnstring"ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬁ ﬁ(m1
+/
+%0)System.Collections.Generic.IEnumerable<T>*ﬁ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬂ ﬂ("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csﬂ ﬂ(
+implicit return:$
+funcSystem.Func<T1, T2, TResult>:
+splitOnstringB?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader

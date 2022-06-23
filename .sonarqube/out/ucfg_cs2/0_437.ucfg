@@ -1,0 +1,46 @@
+
+ÅStackExchange.Profiling.Helpers.Compression.EncodeStreamAndAppendResponseHeaders(System.Web.HttpRequest, System.Web.HttpResponse)`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs
+ 
+(9"0*è
+0`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (:Ë
+Â
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (!8
+%02System.Collections.Specialized.NameValueCollection""System.Web.HttpRequest.Headers.get*#
+!
+requestSystem.Web.HttpRequest–
+Õ
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (4
+%1string"
+__arrayGet*:
+8
+%02System.Collections.Specialized.NameValueCollection*
+Accept-Encodingè
+å
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (4
+encodingstring"__id*
+
+%1string“
+œ
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (;
+
+%2void"qStackExchange.Profiling.Helpers.Compression.EncodeStreamAndAppendResponseHeaders(System.Web.HttpResponse, string)*/"-
++StackExchange.Profiling.Helpers.Compression*%
+#
+responseSystem.Web.HttpResponse*
+
+encodingstring*
+1*ﬁ
+1`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ("w
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (
+implicit return:!
+requestSystem.Web.HttpRequest:#
+responseSystem.Web.HttpResponseB/"-
++StackExchange.Profiling.Helpers.Compression

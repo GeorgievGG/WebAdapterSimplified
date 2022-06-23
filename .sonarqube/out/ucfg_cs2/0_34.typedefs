@@ -1,0 +1,17 @@
+ú
+/StackExchange.Profiling.Helpers.Dapper.DbStringobjectH
+
+DbString():StackExchange.Profiling.Helpers.Dapper.DbString.DbString()Œ
+,AddParameter(System.Data.IDbCommand, string)\StackExchange.Profiling.Helpers.Dapper.DbString.AddParameter(System.Data.IDbCommand, string)H
+
+IsAnsi.get:StackExchange.Profiling.Helpers.Dapper.DbString.IsAnsi.getH
+
+IsAnsi.set:StackExchange.Profiling.Helpers.Dapper.DbString.IsAnsi.setV
+IsFixedLength.getAStackExchange.Profiling.Helpers.Dapper.DbString.IsFixedLength.getV
+IsFixedLength.setAStackExchange.Profiling.Helpers.Dapper.DbString.IsFixedLength.setH
+
+Length.get:StackExchange.Profiling.Helpers.Dapper.DbString.Length.getH
+
+Length.set:StackExchange.Profiling.Helpers.Dapper.DbString.Length.setF
+	Value.get9StackExchange.Profiling.Helpers.Dapper.DbString.Value.getF
+	Value.set9StackExchange.Profiling.Helpers.Dapper.DbString.Value.set

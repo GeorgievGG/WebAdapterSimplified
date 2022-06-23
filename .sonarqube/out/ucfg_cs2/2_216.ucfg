@@ -1,0 +1,61 @@
+
+¶WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.LogInvalidSampleAsError(WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel, object)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs   (3"0*´
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÃ Õ(%™
+ß
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÃ* Ã(A
+%0object"__id*
+
+sampleobjectﬂ
+‹
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÃ Ã(AE
+invalidSample4WebApiAdapterSimplified.Areas.HelpPage.InvalidSample"__id*
+
+%0objectè
+å
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÕ Õ(%
+
+%1bool""object.operator !=(object, object)*
+"
+object*G
+E
+invalidSample4WebApiAdapterSimplified.Areas.HelpPage.InvalidSample*
+""*
+1
+2*è
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csœ œ(E÷
+”
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csœ œ(&2
+%2,System.Collections.ObjectModel.Collection<T>"PWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ErrorMessages.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel†
+ù
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csœ+ œ(E
+%3string"EWebApiAdapterSimplified.Areas.HelpPage.InvalidSample.ErrorMessage.get*G
+E
+invalidSample4WebApiAdapterSimplified.Areas.HelpPage.InvalidSampleâ
+Ü
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csœ œ(F
+
+%4void"3System.Collections.ObjectModel.Collection<T>.Add(T)*4
+2
+%2,System.Collections.ObjectModel.Collection<T>*
+
+%3string*
+2*ô
+2}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs—	 —(	"î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs— —(	
+implicit return:J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel:
+sampleobjectBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

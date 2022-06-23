@@ -1,0 +1,131 @@
+
+ôStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.ReadDeferred<T>(int, System.Func<System.Data.IDataReader, object>, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, System.Func<System.Func<System.Data.IDataReader, object>>)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs›# ›(/"0*ç
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ Ÿ(-x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ$ Ÿ(-
+%0"__id*
+""*
+1
+2*
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ1 Ÿ(>ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ1 Ÿ(7
+%1System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReaderº·
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŸ1 Ÿ(>
+
+%2bool"System.Data.IDataReader.Read()*
+
+%1System.Data.IDataReader2Read()*
+3
+2*j
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¡ ¡(#*
+4*È
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤ ¤(6ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤0 ¤(6
+%3System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReaderÔ
+Ñ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤# ¤(7
+%4object"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*
+
+%3System.Data.IDataReader‹
+ˆ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¤ ¤(7
+nextobject"__id*
+
+%4object*	
+5
+6
+7*º
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¨ ©(6½
+º
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¨+ ¨(B
+%5System.Func<T, TResult>"System.Func<TResult>.Invoke()*
+System.Func<TResult>µ
+²
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¨ ¨(B'
+deserializerSystem.Func<T, TResult>"__id*
+
+%5System.Func<T, TResult>ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs©0 ©(6
+%6System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReaderÔ
+Ñ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs©# ©(7
+%7object"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*
+
+%6System.Data.IDataReader‹
+ˆ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© ©(7
+nextobject"__id*
+
+%7object*
+6*ð
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs«% «(,ƒ
+€
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs«% «(,
+%8"__id*
+
+nextobject*
+0*j
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(*
+7*ç
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs° °(*x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs°! °(*
+%9"__id*
+""*
+8
+9*ê
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs² ²($ý
+ú
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs² ²($
+%10void"HStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.NextResult()*?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*
+9*o
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(*
+10
+10*ß
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csµ µ(
+implicit return:
+indexint:'
+deserializerSystem.Func<T, TResult>:J
+typedIdentity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity:-
+deserializerGeneratorSystem.Func<TResult>B?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader

@@ -1,0 +1,87 @@
+
+©StackExchange.Profiling.Data.ProfiledDbCommand.ProfiledDbCommand(System.Data.Common.DbCommand, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csN N( "1*…
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csY	 Y(	Z
+X
+
+%0void"(System.Data.Common.DbCommand.DbCommand()* 
+System.Data.Common.DbCommand*
+0* 
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csP P(◊
+‘
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csP P(
+
+%1bool""object.operator ==(object, object)*
+"
+object*)
+'
+commandSystem.Data.Common.DbCommand*
+""*
+2
+3*Ä
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csP' P(J™ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csP' P(K"
+%2System.ArgumentNullException"System.ArgumentNullException„
+‡
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csP+ P(@
+
+%3void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%2System.ArgumentNullException*	
+command*
+4*◊
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csR U( ˜
+Ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csR R(\0
+.StackExchange.Profiling.Data.ProfiledDbCommand"(
+_commandSystem.Data.Common.DbCommand"__id*)
+'
+commandSystem.Data.Common.DbCommandÉ
+Ä
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csS S($b0
+.StackExchange.Profiling.Data.ProfiledDbCommand".
+_connectionSystem.Data.Common.DbConnection"__id*/
+-
+
+connectionSystem.Data.Common.DbConnection‰
+·
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csU U( 
+
+%4bool""object.operator !=(object, object)*
+"
+object*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+""*
+5
+4*Å
+5c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csW W($ë
+é
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csW W($i0
+.StackExchange.Profiling.Data.ProfiledDbCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*6
+4
+profiler(StackExchange.Profiling.Data.IDbProfiler*
+4*‰
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csY	 Y(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbCommand.csY Y(	
+implicit return:'
+commandSystem.Data.Common.DbCommand:-
+
+connectionSystem.Data.Common.DbConnection:4
+profiler(StackExchange.Profiling.Data.IDbProfilerB20
+.StackExchange.Profiling.Data.ProfiledDbCommand

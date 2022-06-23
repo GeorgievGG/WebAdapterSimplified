@@ -1,0 +1,26 @@
+
+@StackExchange.Profiling.Data.SimpleProfiledTransaction.Dispose()k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csL L("0*ì
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csN O($†
+ƒ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csN N(
+
+%0void"DStackExchange.Profiling.Data.SimpleProfiledTransaction.Dispose(bool)*:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction*
+""ë
+è
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csO O(%
+
+%1void""System.GC.SuppressFinalize(object)*"
+	System.GC*:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction*
+1*õ
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csP	 P(	"‚
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csP P(	
+implicit returnB:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction

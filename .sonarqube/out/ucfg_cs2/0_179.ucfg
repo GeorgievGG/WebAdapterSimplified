@@ -1,0 +1,12 @@
+
+¬StackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.OnError(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Exception)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs' '( "0*è
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs*	 *(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs* *(	
+implicit return:+
+profiledDbCommandSystem.Data.IDbCommand::
+executeType+StackExchange.Profiling.Data.SqlExecuteType:
+	exceptionSystem.ExceptionB(&
+$StackExchange.Profiling.MiniProfiler

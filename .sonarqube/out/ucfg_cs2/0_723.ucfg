@@ -1,0 +1,61 @@
+
+[StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForDynamicParameters(System.Type)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csØ Ø(0"0*Ÿ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(aÉ
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ$ Ú('
+%0string"__id*N*L;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+sqlstringx
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ) Ú(4
+%1"__id*
+""Ö
+Ó
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ6 Ú(F
+%2string"__id*[*Y;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+connectionStringstringÔ
+Ñ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚH Ú(Q
+%3System.Type"__id*T*R;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+typeSystem.TypeáÞ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(b?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identityµ
+²
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(#
+
+%5void"šStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, string, System.Type, System.Type, System.Type[], int)*A
+?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+
+%0string*
+
+%1*
+
+%2string*
+
+%3System.Type*
+
+typeSystem.Type*
+""*
+"""¥
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ Ú(cA
+?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ Û("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ Û(
+implicit return:
+typeSystem.TypeB=;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity

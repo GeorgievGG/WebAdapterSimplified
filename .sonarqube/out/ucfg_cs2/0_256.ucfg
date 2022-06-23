@@ -1,0 +1,28 @@
+
+HStackExchange.Profiling.Data.ProfiledDbConnection.ChangeDatabase(string)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csã ã(+"0*Ô
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csç ç(3É
+Ä
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csç ç(%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionÙ
+Ò
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csç ç(4
+
+%1void"6System.Data.Common.DbConnection.ChangeDatabase(string)*'
+%
+%0System.Data.Common.DbConnection*
+
+databaseNamestring*
+1*Ó
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csé	 é(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csé é(	
+implicit return:
+databaseNamestringB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

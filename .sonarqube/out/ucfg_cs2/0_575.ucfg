@@ -1,0 +1,133 @@
+
+äStackExchange.Profiling.Data.SimpleProfiledCommand.ProfileWith<TResult>(StackExchange.Profiling.Data.SqlExecuteType, System.Func<TResult>)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs{ {(#"0*Ô
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs} }(!ì
+ê
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs} }(.
+%0(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler‚
+ﬂ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs} }(!
+
+%1bool""object.operator ==(object, object)*
+"
+object*0
+.
+%0(StackExchange.Profiling.Data.IDbProfiler*
+""*
+1
+2*¸
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs}% }(8ì
+ê
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs}& }(/.
+%2(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerÔÏ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs}& }(8
+
+%3bool"5StackExchange.Profiling.Data.IDbProfiler.IsActive.get*0
+.
+%2(StackExchange.Profiling.Data.IDbProfiler2IsActive.get*
+1
+3*ü
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs (¥
+±
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs (
+%4TResult"System.Func<TResult>.Invoke()*
+System.Func<TResult>"z
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs (
+
+%4TResult*…
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÇ É(-ï
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÉ É(.
+%5(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerª∏
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÉ É(.
+
+%6void"zStackExchange.Profiling.Data.IDbProfiler.ExecuteStart(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)*0
+.
+%5(StackExchange.Profiling.Data.IDbProfiler*64
+2StackExchange.Profiling.Data.SimpleProfiledCommand*
+""2QExecuteStart(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)*
+4* 
+4i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÜ Ü(∂
+≥
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÜ Ü(
+%7TResult"System.Func<TResult>.Invoke()*
+System.Func<TResult>ò
+ï
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csÜ Ü(
+resultTResult"__id*
+
+%7TResult*
+5
+6*˝
+5i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csä ä(/ï
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csä ä(.
+%8(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerÔÏ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csä ä(0
+
+%9void"áStackExchange.Profiling.Data.IDbProfiler.OnError(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Exception)*0
+.
+%8(StackExchange.Profiling.Data.IDbProfiler*64
+2StackExchange.Profiling.Data.SimpleProfiledCommand*
+""*
+
+eSystem.Exception2^OnError(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Exception)*
+6*ú
+6i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csè è(8ñ
+ì
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csè è(/
+%10(StackExchange.Profiling.Data.IDbProfiler"__id*o*m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfileräá
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csè è(9
+%11void"úStackExchange.Profiling.Data.IDbProfiler.ExecuteFinish(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)*1
+/
+%10(StackExchange.Profiling.Data.IDbProfiler*64
+2StackExchange.Profiling.Data.SimpleProfiledCommand*
+""*
+""2sExecuteFinish(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)*
+7
+8*Ò
+7i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csë ë("Ä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csë ë(
+
+resultTResult*Ò
+8i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csí	 í(	"Ä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csí í(	
+implicit return:3
+type+StackExchange.Profiling.Data.SqlExecuteType:
+funcSystem.Func<TResult>B64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

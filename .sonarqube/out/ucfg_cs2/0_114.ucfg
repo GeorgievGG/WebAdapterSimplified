@@ -1,0 +1,25 @@
+
+=StackExchange.Profiling.Data.ProfiledDbTransaction.Rollback()g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csH H(%"0*Ì
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csJ J(#†
+ƒ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csJ J(&
+%0 System.Data.Common.DbTransaction"__id*j*h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransactionÏ
+Ì
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csJ J(#
+
+%1void"+System.Data.Common.DbTransaction.Rollback()*(
+&
+%0 System.Data.Common.DbTransaction*
+1*ì
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csK	 K(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csK K(	
+implicit returnB64
+2StackExchange.Profiling.Data.ProfiledDbTransaction

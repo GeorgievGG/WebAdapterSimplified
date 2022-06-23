@@ -1,0 +1,42 @@
+
+;StackExchange.Profiling.SqlProfiler.GetInProgressCommands()X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csP P(0"0*Ï
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(F§
+¤
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*z*x%
+#StackExchange.Profiling.SqlProfiler"O
+_inProgress@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>¥
+¢
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(%/
+%1)System.Collections.Generic.ICollection<T>"KSystem.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.Values.get*H
+F
+%0@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>à
+Ý
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(G.
+%2(System.Linq.IOrderedEnumerable<TElement>"zSystem.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.ICollection<T>*
+""°
+­
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(Q)
+%3#StackExchange.Profiling.SqlTiming[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*0
+.
+%2(System.Linq.IOrderedEnumerable<TElement>"‡
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csR R(R+
+)
+%3#StackExchange.Profiling.SqlTiming[]*Î
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csS	 S(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csS S(	
+implicit returnB'%
+#StackExchange.Profiling.SqlProfiler

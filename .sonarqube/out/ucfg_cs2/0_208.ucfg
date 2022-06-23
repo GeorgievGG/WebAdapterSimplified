@@ -1,0 +1,30 @@
+
+EStackExchange.Profiling.Data.ProfiledDbDataReader.GetValues(object[])h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÀ À(%"0*×
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÂ Â(+ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÂ Â(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderì
+é
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÂ Â(,	
+%1int"3System.Data.Common.DbDataReader.GetValues(object[])*'
+%
+%0System.Data.Common.DbDataReader*
+
+valuesobject[]"w
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÂ Â(-
+	
+%1int*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÃ	 Ã(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÃ Ã(	
+implicit return:
+valuesobject[]B53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

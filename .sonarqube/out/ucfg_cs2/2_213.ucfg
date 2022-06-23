@@ -1,0 +1,145 @@
+
+˜WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.TryGetResourceParameter(System.Web.Http.Description.ApiDescription, System.Web.Http.HttpConfiguration, out System.Web.Http.Description.ApiParameterDescription, out System.Type)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csù ù(3"0*ç
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csü £(,º
+π
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csü# ü(G2
+%0,System.Collections.ObjectModel.Collection<T>"DSystem.Web.Http.Description.ApiDescription.ParameterDescriptions.get*>
+<
+apiDescription*System.Web.Http.Description.ApiDescriptionî
+ë
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csü# °(y9
+%13System.Web.Http.Description.ApiParameterDescription"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*4
+2
+%0,System.Collections.ObjectModel.Collection<T>*
+""í
+è
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csü °(yK
+parameterDescription3System.Web.Http.Description.ApiParameterDescription"__id*;
+9
+%13System.Web.Http.Description.ApiParameterDescriptionï
+í
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs£ £(,
+
+%2bool""object.operator ==(object, object)*
+"
+object*M
+K
+parameterDescription3System.Web.Http.Description.ApiParameterDescription*
+""*
+1
+2*º
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs• ¶(≠
+™
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs• •(#
+resourceTypeSystem.Type"__id*
+"""á
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¶ ¶(
+""*ª	
+2}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs© ´(:Ÿ
+÷
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs© ©(C9
+%33System.Web.Http.Controllers.HttpParameterDescriptor"KSystem.Web.Http.Description.ApiParameterDescription.ParameterDescriptor.get*M
+K
+parameterDescription3System.Web.Http.Description.ApiParameterDescriptionô
+ñ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs© ©(Q
+%4System.Type"ESystem.Web.Http.Controllers.HttpParameterDescriptor.ParameterType.get*;
+9
+%33System.Web.Http.Controllers.HttpParameterDescriptor∫
+∑
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs© ©(Q
+resourceTypeSystem.Type"__id*
+
+%4System.Type˘
+ˆ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs´ ´(:
+
+%5bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+resourceTypeSystem.Type*
+""*
+3
+4*∫
+3}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs≠( Æ([ 
+«
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs≠: ≠(]D
+%6>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"ÑWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfiguration£
+†
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs≠( ≠(]Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"__id*F
+D
+%6>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGeneratorÄ˝
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÆ Æ(\
+%7System.Type"àWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)*S
+Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*>
+<
+apiDescription*System.Web.Http.Description.ApiDescription2IResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)∫
+∑
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÆ Æ(\
+resourceTypeSystem.Type"__id*
+
+%7System.Type*
+4*Ü
+4}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs± ±($˘
+ˆ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs± ±($
+
+%8bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+resourceTypeSystem.Type*
+""*
+5
+6*Ï
+5}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs≥ ¥(›
+⁄
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs≥ ≥(+K
+parameterDescription3System.Web.Http.Description.ApiParameterDescription"__id*
+"""á
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs¥ ¥(
+""*å
+6}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs∑ ∑("á
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs∑ ∑(
+""*ô
+7}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs∏	 ∏(	"î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs∏ ∏(	
+implicit return:<
+apiDescription*System.Web.Http.Description.ApiDescription:+
+config!System.Web.Http.HttpConfiguration:K
+parameterDescription3System.Web.Http.Description.ApiParameterDescription:
+resourceTypeSystem.TypeBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

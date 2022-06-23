@@ -1,0 +1,96 @@
+
+BStackExchange.Profiling.Data.SimpleProfiledCommand.Transaction.seti
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs¥ ¥("0*É
+
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∂ ∏(6ˇ
+¸
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∂ ∂($b4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"*
+_transactionSystem.Data.IDbTransaction"__id*%
+#
+valueSystem.Data.IDbTransactionΩ
+∫
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∑ ∑(@ 
+%0System.Data.IDbTransaction"__id*%
+#
+valueSystem.Data.IDbTransaction€
+ÿ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∑ ∑(@A
+wrapped6StackExchange.Profiling.Data.SimpleProfiledTransaction"__id*"
+ 
+%0System.Data.IDbTransaction
+Ì
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏ ∏(
+%1System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommand˜
+Ù
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏' ∏(6
+
+%2bool""object.operator !=(object, object)*
+"
+object*C
+A
+wrapped6StackExchange.Profiling.Data.SimpleProfiledTransaction*
+""*
+1
+2*î
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏9 ∏(S§
+°
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏9 ∏(S 
+%6System.Data.IDbTransaction"MStackExchange.Profiling.Data.SimpleProfiledTransaction.WrappedTransaction.get*C
+A
+wrapped6StackExchange.Profiling.Data.SimpleProfiledTransaction∫
+∑
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏9 ∏(S 
+%4System.Data.IDbTransaction"__id*"
+ 
+%6System.Data.IDbTransaction∫
+∑
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏9 ∏(S 
+%3System.Data.IDbTransaction"__id*"
+ 
+%4System.Data.IDbTransaction*
+3*
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏V ∏([Ω
+∫
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏V ∏([ 
+%5System.Data.IDbTransaction"__id*%
+#
+valueSystem.Data.IDbTransaction∫
+∑
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏V ∏([ 
+%3System.Data.IDbTransaction"__id*"
+ 
+%5System.Data.IDbTransaction*
+3*É
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏ ∏([çä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.cs∏ ∏([ 
+%7System.Data.IDbTransaction"&System.Data.IDbCommand.Transaction.set*
+
+%1System.Data.IDbCommand*"
+ 
+%3System.Data.IDbTransaction2Transaction.set*
+4*Ò
+4i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csπ π("Ä
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csπ π(
+implicit return:#
+valueSystem.Data.IDbTransactionB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

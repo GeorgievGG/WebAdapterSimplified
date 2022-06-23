@@ -1,0 +1,45 @@
+
+_WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.CheckMatrixPrivilege(System.Guid, System.Guid)e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs+ +(("0*é	
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs- 0(­
+ª
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs-$ -(@/
+%0)System.Collections.Generic.IEnumerable<T>"RWebAdapterSimplifiedLibrary.MatrixPrivilegeLogic.GetUserAllPrivileges(System.Guid)*42
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic*
+""ã
+à
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs- -(@>
+userAllPrivileges)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%0)System.Collections.Generic.IEnumerable<T>Î
+Ë
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs. .(c
+
+%1bool"pSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*@
+>
+userAllPrivileges)System.Collections.Generic.IEnumerable<T>*
+""”
+‘
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs. .(c
+hasPrivilegebool"__id*
+
+
+%1bool"
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs0 0( 
+
+hasPrivilegebool*è
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs1	 1(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixPrivilageLogic.cs1 1(	
+implicit return:
+privilegeIdSystem.Guid:
+userIdSystem.GuidB42
+0WebAdapterSimplifiedLibrary.MatrixPrivilegeLogic

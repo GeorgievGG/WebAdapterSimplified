@@ -1,0 +1,157 @@
+
+TStackExchange.Profiling.MiniProfilerHandler.Includes(System.Web.HttpContext, string)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csü ü(&"0*∏
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs° ¢(*–
+Õ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs° °(+
+%0System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContext≥
+∞
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs° °(+#
+responseSystem.Web.HttpResponse"__id*
+
+%0System.Web.HttpResponse¿
+Ω
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¢ ¢(+
+%1string"#System.IO.Path.GetExtension(string)*"
+System.IO.Path*
+
+pathstring*
+1*o
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¢ ¢(**
+2
+3*–
+2b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs• •(C·
+ﬁ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs• •(C
+%2string"'System.Web.HttpResponse.ContentType.set*%
+#
+responseSystem.Web.HttpResponse*
+application/javascript*
+4*o
+3b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¢ ¢(**
+5
+6*¬
+5b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs® ®(5”
+–
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs® ®(5
+%3string"'System.Web.HttpResponse.ContentType.set*%
+#
+responseSystem.Web.HttpResponse*
+
+text/css*
+4*o
+6b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¢ ¢(**
+7
+8*Ã
+7b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs´ ´(?›
+⁄
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs´ ´(?
+%4string"'System.Web.HttpResponse.ContentType.set*%
+#
+responseSystem.Web.HttpResponse*
+text/x-jquery-tmpl*
+4*ô
+8b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÆ Æ(+π
+∂
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÆ Æ(,
+%5string"\StackExchange.Profiling.MiniProfilerHandler.NotFound(System.Web.HttpContext, string, string)*/"-
++StackExchange.Profiling.MiniProfilerHandler*#
+!
+contextSystem.Web.HttpContext*
+""*
+"""t
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÆ Æ(-
+
+%5string*œ
+4b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∂ ∑(Fø
+º
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑" ∑(8
+%6string""System.IO.Path.GetFileName(string)*"
+System.IO.Path*
+
+pathstringö
+ó
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑ ∑(G
+
+%7bool"NStackExchange.Profiling.MiniProfilerHandler.TryGetResource(string, out string)*/"-
++StackExchange.Profiling.MiniProfilerHandler*
+
+%6string*
+
+resourcestring*
+9
+10*è
+9b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑J ∑(Rë
+é
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑J ∑(R
+%9string"__id*
+
+resourcestringã
+à
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑J ∑(R
+%8string"__id*
+
+%9string*
+11* 
+10b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑U ∑(e∫
+∑
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑U ∑(f
+%11string"\StackExchange.Profiling.MiniProfilerHandler.NotFound(System.Web.HttpContext, string, string)*/"-
++StackExchange.Profiling.MiniProfilerHandler*#
+!
+contextSystem.Web.HttpContext*
+""*
+""ç
+ä
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑U ∑(f
+%10string"__id*
+
+%11stringå
+â
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑U ∑(f
+%8string"__id*
+
+%10string*
+11*ﬁ
+11b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∏	 ∏(	"t
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∑ ∑(g
+
+%8string*„
+12b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∏	 ∏(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∏ ∏(	
+implicit return:!
+contextSystem.Web.HttpContext:
+pathstringB/"-
++StackExchange.Profiling.MiniProfilerHandler

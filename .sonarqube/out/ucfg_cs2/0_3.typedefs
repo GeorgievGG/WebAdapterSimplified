@@ -1,0 +1,8 @@
+Æ
+1StackExchange.Profiling.SingletonProfilerProviderobject^
+GetCurrentProfiler()FStackExchange.Profiling.SingletonProfilerProvider.GetCurrentProfiler()P
+Start(string)?StackExchange.Profiling.SingletonProfilerProvider.Start(string)œ
+3Start(StackExchange.Profiling.ProfileLevel, string)eStackExchange.Profiling.SingletonProfilerProvider.Start(StackExchange.Profiling.ProfileLevel, string)J
+
+Stop(bool)<StackExchange.Profiling.SingletonProfilerProvider.Stop(bool)l
+SingletonProfilerProvider()MStackExchange.Profiling.SingletonProfilerProvider.SingletonProfilerProvider()

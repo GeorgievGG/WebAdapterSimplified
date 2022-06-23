@@ -1,0 +1,66 @@
+
+bStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.ForGrid(System.Type, System.Type[], int)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÏ Ï(%"0*Ç
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(zÉ
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ$ Ñ('
+%0string"__id*N*L;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+sqlstringx
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ) Ñ(4
+%1"__id*
+""Ö
+Ó
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ6 Ñ(F
+%2string"__id*[*Y;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+connectionStringstringÞ
+Û
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑU Ñ(c
+%3System.Type"__id*^*\;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+parametersTypeSystem.TypeáÞ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ({?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityÓ
+Ð
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(#
+
+%5void"šStackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Identity(string, System.Data.CommandType?, string, System.Type, System.Type, System.Type[], int)*A
+?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+
+%0string*
+
+%1*
+
+%2string*
+
+primaryTypeSystem.Type*
+
+%3System.Type*
+
+
+otherTypesSystem.Type[]*
+"""¥
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(|A
+?
+%49StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÒ Ò("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÒ Ò(
+implicit return:
+primaryTypeSystem.Type:
+
+otherTypesSystem.Type[]:
+	gridIndexintB=;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity

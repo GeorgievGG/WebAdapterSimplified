@@ -1,0 +1,15 @@
+æ
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory$System.Data.Common.DbProviderFactoryobject¹
+?ProfiledDbProviderFactory(System.Data.Common.DbProviderFactory)vStackExchange.Profiling.Data.ProfiledDbProviderFactory.ProfiledDbProviderFactory(System.Data.Common.DbProviderFactory)q
+ProfiledDbProviderFactory()RStackExchange.Profiling.Data.ProfiledDbProviderFactory.ProfiledDbProviderFactory()Y
+CreateCommand()FStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateCommand()g
+CreateCommandBuilder()MStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateCommandBuilder()_
+CreateConnection()IStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateConnection()y
+CreateConnectionStringBuilder()VStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateConnectionStringBuilder()a
+CreateDataAdapter()JStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateDataAdapter()s
+CreateDataSourceEnumerator()SStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateDataSourceEnumerator()]
+CreateParameter()HStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateParameter()µ
+=CreatePermission(System.Security.Permissions.PermissionState)tStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreatePermission(System.Security.Permissions.PermissionState)Á
+CInitProfiledDbProviderFactory(System.Data.Common.DbProviderFactory)zStackExchange.Profiling.Data.ProfiledDbProviderFactory.InitProfiledDbProviderFactory(System.Data.Common.DbProviderFactory)}
+!CanCreateDataSourceEnumerator.getXStackExchange.Profiling.Data.ProfiledDbProviderFactory.CanCreateDataSourceEnumerator.get}
+!CanCreateDataSourceEnumerator.setXStackExchange.Profiling.Data.ProfiledDbProviderFactory.CanCreateDataSourceEnumerator.set

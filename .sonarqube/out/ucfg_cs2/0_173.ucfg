@@ -1,0 +1,28 @@
+
+sStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.ReaderFinish(System.Data.IDataReader)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs" "(%"0*ß
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs$ $(+õ
+ò
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs$ $()
+%0#StackExchange.Profiling.SqlProfiler"4StackExchange.Profiling.MiniProfiler.SqlProfiler.get*(&
+$StackExchange.Profiling.MiniProfilerõ
+ò
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs$ $(,
+
+%1void"xStackExchange.Profiling.SqlProfilerExtensions.ReaderFinish(StackExchange.Profiling.SqlProfiler, System.Data.IDataReader)*1"/
+-StackExchange.Profiling.SqlProfilerExtensions*+
+)
+%0#StackExchange.Profiling.SqlProfiler*#
+!
+readerSystem.Data.IDataReader*
+1*è
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs%	 %(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs% %(	
+implicit return:!
+readerSystem.Data.IDataReaderB(&
+$StackExchange.Profiling.MiniProfiler

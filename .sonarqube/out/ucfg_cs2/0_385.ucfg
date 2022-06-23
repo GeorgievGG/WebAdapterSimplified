@@ -1,0 +1,40 @@
+
+FStackExchange.Profiling.MiniProfiler.StepImpl(string, decimal?, bool?)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csÕ Õ(%"0*Ö
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csœ œ(Uﬂ
+‹
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csœ$ œ(($
+%0StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.get*(&
+$StackExchange.Profiling.MiniProfiler¶£
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csœ œ(V$
+%1StackExchange.Profiling.Timing"StackExchange.Profiling.Timingè
+å
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csœ œ(
+
+%2void"ÑStackExchange.Profiling.Timing.Timing(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.Timing, string, decimal?, bool?)*&
+$
+%1StackExchange.Profiling.Timing*(&
+$StackExchange.Profiling.MiniProfiler*&
+$
+%0StackExchange.Profiling.Timing*
+
+namestring*
+""*
+"""Ö
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csœ œ(W&
+$
+%1StackExchange.Profiling.Timing*‘
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs–	 –(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.cs– –(	
+implicit return:
+namestring:
+	minSaveMsSystem.Nullable<T>:0
+includeChildrenWithMinSaveSystem.Nullable<T>B(&
+$StackExchange.Profiling.MiniProfiler

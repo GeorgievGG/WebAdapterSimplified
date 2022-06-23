@@ -1,0 +1,71 @@
+
+8StackExchange.Profiling.SqlTimingParameter.GetHashCode()_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.cs> >('"0*ÿ
+0_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.cs@ B(×
+Ô
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.cs@ @(
+%0string"3StackExchange.Profiling.SqlTimingParameter.Name.get*.,
+*StackExchange.Profiling.SqlTimingParameter•
+’
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.cs@ @(-	
+%1int"string.GetHashCode()*
+
+%0stringˆ
+…
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.cs@ @(-
+hashcodeint"__id*
+	
+%1intØ
+Õ
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csB B(
+%2string"4StackExchange.Profiling.SqlTimingParameter.Value.get*.,
+*StackExchange.Profiling.SqlTimingParameter¸
+µ
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csB B(
+
+%3bool""string.operator !=(string, string)*
+"
+string*
+
+%2string*
+""*
+1
+2*ç
+1_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csC C(/Ø
+Õ
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csC C(!
+%4string"4StackExchange.Profiling.SqlTimingParameter.Value.get*.,
+*StackExchange.Profiling.SqlTimingParameter•
+’
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csC C(/	
+%5int"string.GetHashCode()*
+
+%4stringˆ
+…
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csC C(/
+hashcodeint"__id*
+	
+%5int*
+2*Ú
+2_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csE E("t
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csE E(
+
+hashcodeint*Ü
+3_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csF	 F(	"v
+_
+UC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTimingParameter.csF F(	
+implicit returnB.,
+*StackExchange.Profiling.SqlTimingParameter

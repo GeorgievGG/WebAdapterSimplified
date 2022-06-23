@@ -1,0 +1,8 @@
+Í
+8StackExchange.Profiling.Helpers.Dapper.DynamicParametersobjectc
+DynamicParameters()LStackExchange.Profiling.Helpers.Dapper.DynamicParameters.DynamicParameters()o
+DynamicParameters(object)RStackExchange.Profiling.Helpers.Dapper.DynamicParameters.DynamicParameters(object)o
+AddDynamicParams(dynamic)RStackExchange.Profiling.Helpers.Dapper.DynamicParameters.AddDynamicParams(dynamic)Ü
+OAdd(string, object, System.Data.DbType?, System.Data.ParameterDirection?, int?)ˆStackExchange.Profiling.Helpers.Dapper.DynamicParameters.Add(string, object, System.Data.DbType?, System.Data.ParameterDirection?, int?)‡
+¤StackExchange.Profiling.Helpers.Dapper.SqlMapper.IDynamicParameters.AddParameters(System.Data.IDbCommand, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)ÝStackExchange.Profiling.Helpers.Dapper.DynamicParameters.StackExchange.Profiling.Helpers.Dapper.SqlMapper.IDynamicParameters.AddParameters(System.Data.IDbCommand, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)Y
+Get<T>(string)GStackExchange.Profiling.Helpers.Dapper.DynamicParameters.Get<T>(string)

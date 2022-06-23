@@ -1,0 +1,96 @@
+
+?StackExchange.Profiling.Helpers.ExtensionMethods.ToJson(object)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csG G(%"0*á
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csI K(‹Ÿ
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csI I(/:
+%04System.Web.Script.Serialization.JavaScriptSerializer"4System.Web.Script.Serialization.JavaScriptSerializerÅ
+˛
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csI I(-
+
+%1void"KSystem.Web.Script.Serialization.JavaScriptSerializer.JavaScriptSerializer()*<
+:
+%04System.Web.Script.Serialization.JavaScriptSerializerÍ
+Á
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csI I(/:
+js4System.Web.Script.Serialization.JavaScriptSerializer"__id*<
+:
+%04System.Web.Script.Serialization.JavaScriptSerializer}
+{
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csJ J(+
+%2"__id*
+""É
+Ä
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csJ J(+	
+%3int"FSystem.Web.Script.Serialization.JavaScriptSerializer.MaxJsonLength.set*<
+:
+js4System.Web.Script.Serialization.JavaScriptSerializer*
+
+%2Ω
+∫
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK K(
+
+%4bool""object.operator ==(object, object)*
+"
+object*
+
+oobject*
+""*
+1
+2*˜
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK K(#}
+{
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK K(#
+%6"__id*
+""Ü
+É
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK K(#
+%5string"__id*
+
+%6*
+3*°
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK& K(4ç
+ä
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK& K(5
+%8string"FSystem.Web.Script.Serialization.JavaScriptSerializer.Serialize(object)*<
+:
+js4System.Web.Script.Serialization.JavaScriptSerializer*
+
+oobjecté
+ã
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK& K(5
+%7string"__id*
+
+%8stringé
+ã
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK& K(5
+%5string"__id*
+
+%7string*
+3*„
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csL	 L(	"w
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csK K(6
+
+%5string*Ë
+4e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csL	 L(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\ExtensionMethods.csL L(	
+implicit return:
+oobjectB4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods

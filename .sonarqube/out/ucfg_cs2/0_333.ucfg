@@ -1,0 +1,38 @@
+
+8StackExchange.Profiling.MiniProfiler.GetJsonSerializer()[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csè, è(="0*¶	
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê(ZÒÏ
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê(\:
+%04System.Web.Script.Serialization.JavaScriptSerializer"4System.Web.Script.Serialization.JavaScriptSerializer÷
+ô
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê(+
+
+%1void"KSystem.Web.Script.Serialization.JavaScriptSerializer.JavaScriptSerializer()*<
+:
+%04System.Web.Script.Serialization.JavaScriptSerializerå
+â
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê> ê(Z	
+%2int"EStackExchange.Profiling.MiniProfiler.Settings.MaxJsonResponseSize.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settingsþ
+û
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê. ê(Z	
+%3int"FSystem.Web.Script.Serialization.JavaScriptSerializer.MaxJsonLength.set*<
+:
+%04System.Web.Script.Serialization.JavaScriptSerializer*
+	
+%2int"›
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csê ê(]<
+:
+%04System.Web.Script.Serialization.JavaScriptSerializer*Ô
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csë	 ë(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csë ë(	
+implicit returnB("&
+$StackExchange.Profiling.MiniProfiler

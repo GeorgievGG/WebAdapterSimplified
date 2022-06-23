@@ -1,0 +1,28 @@
+
+—StackExchange.Profiling.SqlFormatters.SqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs> >('"0*³
+0m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs@ @(:½º
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs@ @(;
+%0string"¯StackExchange.Profiling.SqlFormatters.SqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)*<:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter*
+
+commandTextstring*2
+0
+
+parameters"System.Collections.Generic.List<T>*
+""2vFormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)"
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.cs@ @(<
+
+%0string*ù
+1m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csA	 A(	"„
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csA A(	
+implicit return:
+commandTextstring:0
+
+parameters"System.Collections.Generic.List<T>B<:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter

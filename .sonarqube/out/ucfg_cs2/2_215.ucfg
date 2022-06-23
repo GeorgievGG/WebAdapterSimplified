@@ -1,0 +1,60 @@
+
+ÄWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.IsFormatSupported(WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, System.Net.Http.Formatting.MediaTypeFormatter, System.Type)†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs• •(-"0*‘
+0†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs— —(#*
+1*”
+1†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs— —(#*
+2
+3*Þ
+2†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csš š(5µ
+²
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csš š(6
+
+%0bool"FSystem.Net.Http.Formatting.MediaTypeFormatter.CanReadType(System.Type)*<
+:
+	formatter-System.Net.Http.Formatting.MediaTypeFormatter*
+
+typeSystem.Type"—
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csš š(7
+
+
+%0bool*”
+3†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs— —(#*
+4
+5*ß
+4†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csœ œ(6¶
+³
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csœ œ(7
+
+%1bool"GSystem.Net.Http.Formatting.MediaTypeFormatter.CanWriteType(System.Type)*<
+:
+	formatter-System.Net.Http.Formatting.MediaTypeFormatter*
+
+typeSystem.Type"—
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csœ œ(8
+
+
+%1bool* 
+5†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csž ž("‘
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csž ž(
+""*­
+6†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ	 Ÿ(	"ž
+†
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ Ÿ(	
+implicit return:I
+sampleDirection6WebApiAdapterSimplified.Areas.HelpPage.SampleDirection::
+	formatter-System.Net.Http.Formatting.MediaTypeFormatter:
+typeSystem.TypeBB"@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

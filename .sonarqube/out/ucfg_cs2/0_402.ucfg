@@ -1,0 +1,29 @@
+
+BStackExchange.Profiling.MiniProfiler.GetDurationMilliseconds(long)[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csú ú(0"0*‡
+0[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csü ü(CÍ
+Ê
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csü* ü(6
+
+%0long"5StackExchange.Profiling.MiniProfiler.ElapsedTicks.get*(&
+$StackExchange.Profiling.MiniProfilerä
+á
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csü ü(D
+%1decimal"AStackExchange.Profiling.MiniProfiler.GetRoundedMilliseconds(long)*(&
+$StackExchange.Profiling.MiniProfiler*
+"""n
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csü ü(E
+
+%1decimal*Ô
+1[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csý	 ý(	"r
+[
+OC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.csý ý(	
+implicit return:
+
+startTickslongB(&
+$StackExchange.Profiling.MiniProfiler

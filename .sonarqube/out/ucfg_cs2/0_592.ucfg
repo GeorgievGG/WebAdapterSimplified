@@ -1,0 +1,26 @@
+
+VStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateConnectionStringBuilder()k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csc2 c(O"0*‰
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cse e(8è
+å
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cse e(*
+%0$System.Data.Common.DbProviderFactory"__id*k*i8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory"-
+_tail$System.Data.Common.DbProviderFactoryπ∂
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cse e(82
+%1,System.Data.Common.DbConnectionStringBuilder"DSystem.Data.Common.DbProviderFactory.CreateConnectionStringBuilder()*,
+*
+%0$System.Data.Common.DbProviderFactory2CreateConnectionStringBuilder()"£
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cse e(94
+2
+%1,System.Data.Common.DbConnectionStringBuilder*ı
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csf	 f(	"Ç
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csf f(	
+implicit returnB:8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory

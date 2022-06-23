@@ -1,0 +1,179 @@
+
+{StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity.Equals(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs§ §("0*ß
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csª ª(!ï
+ì
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csª ª(!
+
+%0bool""object.operator !=(object, object)*
+"
+object*D
+B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*
+""*
+1
+2*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs« «(0x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs« «(
+%1"__id*
+""x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs«! «(0
+%2"__id*
+""*
+2*m
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(*
+3
+4*
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¬ ¬(&Ô
+Ñ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¬ ¬(
+%3System.Type"__id*T*R;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+typeSystem.TypeÛ
+Ø
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¬ ¬(&
+%4System.Type"__id*[*Y
+B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+typeSystem.Typeß
+Ü
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¬ ¬(&
+
+%5bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+%3System.Type*
+
+%4System.Type*
+4*m
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(*
+5
+6*Í
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs­ ­($É
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs­ ­(
+%6string"__id*N*L;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+sqlstringÐ
+Í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs­ ­($
+%7string"__id*U*S
+B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+sqlstringÁ
+¾
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs­ ­($
+
+%8bool""string.operator ==(string, string)*
+"
+string*
+
+%6string*
+
+%7string*
+6*m
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(*
+7
+8*ß
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs® ®(4x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs® ®(
+%9"__id*
+""y
+w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs®# ®(4
+%10"__id*
+""*
+8*n
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(*
+9
+10*í
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ¯(>×
+Ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ¯($
+%11string"__id*[*Y;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+connectionStringstringÞ
+Û
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯( ¯(>
+%12string"__id*b*`
+B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+connectionStringstringÄ
+Á
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¯ ¯(>
+%13bool""string.operator ==(string, string)*
+"
+string*
+
+%11string*
+
+%12string*
+10*p
+10`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(*
+11
+12*œ
+11`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs° °(:ß
+Ü
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs° °("
+%14System.Type"__id*^*\;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+parametersTypeSystem.Typeæ
+ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs°& °(:
+%15System.Type"__id*e*c
+B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+parametersTypeSystem.Typeâ
+ß
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs° °(:
+%16bool"1System.Type.operator ==(System.Type, System.Type)*"
+System.Type*
+
+%14System.Type*
+
+%15System.Type*
+12*Ù
+12`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±("q
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs© °(;
+	{unknown}*ß
+13`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs± ±(
+implicit return:B
+other9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityB=;
+9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity

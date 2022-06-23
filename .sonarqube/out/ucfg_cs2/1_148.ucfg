@@ -1,0 +1,82 @@
+
+kWebAdapterSimplifiedLibrary.IdentityExtensions.GetDataIsolationContext(System.Security.Principal.IIdentity)d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs+ (B"0*ú
+0d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (®
+•
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (2
+%0"__id*1
+/
+identity#System.Security.Principal.IIdentity‡›
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (:/
+%1)System.Collections.Generic.IEnumerable<T>"0System.Security.Claims.ClaimsIdentity.Claims.get*
+
+%02
+Claims.getª
+∏
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (C(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>…
+∆
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (C,
+claims"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>÷
+”
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs3 (o"
+%3System.Security.Claims.Claim"sSystem.Linq.Enumerable.Single<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*.
+,
+claims"System.Collections.Generic.List<T>*
+""≈
+¬
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs3 (u
+%4string"&System.Security.Claims.Claim.Value.get*$
+"
+%3System.Security.Claims.Claimì
+ê
+e
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.csw (ï5
+%5/WebAdapterSimplifiedLibrary.DataIsolationPolicy"ãWebAdapterSimplifiedLibrary.IdentityExtensions.GetDataIsolationPolicy(System.Collections.Generic.IEnumerable<System.Security.Claims.Claim>)*2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions*.
+,
+claims"System.Collections.Generic.List<T>‘—
+e
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (ñ6
+%60WebAdapterSimplifiedLibrary.DataIsolationContext"0WebAdapterSimplifiedLibrary.DataIsolationContext¯
+ı
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (2
+
+%7void"~WebAdapterSimplifiedLibrary.DataIsolationContext.DataIsolationContext(string, WebAdapterSimplifiedLibrary.DataIsolationPolicy)*8
+6
+%60WebAdapterSimplifiedLibrary.DataIsolationContext*
+
+%4string*7
+5
+%5/WebAdapterSimplifiedLibrary.DataIsolationPolicyÁ
+‰
+e
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (ñ;
+context0WebAdapterSimplifiedLibrary.DataIsolationContext"__id*8
+6
+%60WebAdapterSimplifiedLibrary.DataIsolationContext"•
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (=
+;
+context0WebAdapterSimplifiedLibrary.DataIsolationContext*Ê
+1d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs	 (	"{
+d
+ZC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\IdentitiyExtensions.cs (	
+implicit return:/
+identity#System.Security.Principal.IIdentityB2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions

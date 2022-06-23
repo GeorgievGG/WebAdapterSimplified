@@ -1,0 +1,29 @@
+
+NWebApiAdapterSimplified.Controllers.BaseApiController.DataIsolationContext.getj
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs' (;"0*·
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs? (fÊ
+„
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs? (C*
+%0$System.Security.Principal.IPrincipal"&System.Web.Http.ApiController.User.get*!
+System.Web.Http.ApiControllerâÜ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs? (L)
+%1#System.Security.Principal.IIdentity"1System.Security.Principal.IPrincipal.Identity.get*,
+*
+%0$System.Security.Principal.IPrincipal2Identity.getı
+Ú
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.cs? (f6
+%20WebAdapterSimplifiedLibrary.DataIsolationContext"kWebAdapterSimplifiedLibrary.IdentityExtensions.GetDataIsolationContext(System.Security.Principal.IIdentity)*2"0
+.WebAdapterSimplifiedLibrary.IdentityExtensions*+
+)
+%1#System.Security.Principal.IIdentity*
+1*Û
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.csg (g"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\BaseApiController.csf (g
+implicit returnB97
+5WebApiAdapterSimplified.Controllers.BaseApiController

@@ -1,0 +1,193 @@
+
+OStackExchange.Profiling.MiniProfilerHandler.GetListJson(System.Web.HttpContext)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs‰ ‰()"0*¿
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÊ Á(MŒ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÁ Á(N
+
+%0bool"fStackExchange.Profiling.MiniProfilerHandler.AuthorizeRequest(System.Web.HttpContext, bool, out string)*/"-
++StackExchange.Profiling.MiniProfilerHandler*#
+!
+contextSystem.Web.HttpContext*
+""*
+
+messagestring*
+1
+2*‚
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÈ È("y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÈ È(
+
+messagestring*∫	
+2b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÏ Ô(,Œ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÏ Ï((
+%1System.Web.HttpRequest""System.Web.HttpContext.Request.get*#
+!
+contextSystem.Web.HttpContextÀ
+»
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÏ Ï(3
+%2string"'System.Web.HttpRequest.this[string].get*
+
+%1System.Web.HttpRequest*	
+last-idè
+å
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÏ Ï(3
+lastIdstring"__id*
+
+%2stringz
+x
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÌ Ì(&
+%3"__id*
+""é
+ã
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÌ Ì(&
+lastGuidSystem.Guid"__id*
+
+%3ä
+á
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÔ Ô(,
+
+%4bool"KStackExchange.Profiling.Helpers.ExtensionMethods.IsNullOrWhiteSpace(string)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+lastIdstring*
+3
+4*—
+3b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÒ Ò(2‚
+ﬂ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÒ Ò(3
+
+%5bool"-System.Guid.TryParse(string, out System.Guid)*"
+System.Guid*
+
+lastIdstring*
+
+lastGuidSystem.Guid*
+4*◊
+4b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csı ı(5Ö
+Ç
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csı ı(-.
+%6(StackExchange.Profiling.Storage.IStorage"9StackExchange.Profiling.MiniProfiler.Settings.Storage.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings›
+⁄
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csı ı(5
+
+%7bool""object.operator ==(object, object)*
+"
+object*0
+.
+%6(StackExchange.Profiling.Storage.IStorage*
+""*
+5
+6*‹
+5b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˜ ˜(=Ì
+Í
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˜ ˜(=
+
+%8void"EStackExchange.Profiling.MiniProfiler.Settings.EnsureStorageStrategy()*1"/
+-StackExchange.Profiling.MiniProfiler.Settings*
+6*§	
+6b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˙ ¸(&Ö
+Ç
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˙ ˙(5.
+%9(StackExchange.Profiling.Storage.IStorage"9StackExchange.Profiling.MiniProfiler.Settings.Storage.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings’“
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˙ ˙(?0
+%10)System.Collections.Generic.IEnumerable<T>"àStackExchange.Profiling.Storage.IStorage.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)*0
+.
+%9(StackExchange.Profiling.Storage.IStorage*2d*
+""*
+""*
+""2_List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)’
+“
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˙ ˙(?2
+guids)System.Collections.Generic.IEnumerable<T>"__id*2
+0
+%10)System.Collections.Generic.IEnumerable<T>{
+y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¸ ¸(&
+%11"__id*
+""*
+7
+8*≤
+7b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˛ ˛(:Î
+Ë
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˛ ˛(;0
+%12)System.Collections.Generic.IEnumerable<T>"vSystem.Linq.Enumerable.TakeWhile<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*4
+2
+guids)System.Collections.Generic.IEnumerable<T>*
+""’
+“
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs˛ ˛(;2
+guids)System.Collections.Generic.IEnumerable<T>"__id*2
+0
+%12)System.Collections.Generic.IEnumerable<T>*
+8*ô
+8b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÅ í(≈
+¬
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÅ Å(#0
+%13)System.Collections.Generic.IEnumerable<T>"XSystem.Linq.Enumerable.Reverse<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+guids)System.Collections.Generic.IEnumerable<T>’
+“
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÅ Å(#2
+guids)System.Collections.Generic.IEnumerable<T>"__id*2
+0
+%13)System.Collections.Generic.IEnumerable<T>Ù
+Ò
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÉ í(0
+%14)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*4
+2
+guids)System.Collections.Generic.IEnumerable<T>*
+""°
+û
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÉ í(
+%15string"?StackExchange.Profiling.Helpers.ExtensionMethods.ToJson(object)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*2
+0
+%14)System.Collections.Generic.IEnumerable<T>"u
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÉ í(
+
+%15string*‚
+9b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csì	 ì(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csì ì(	
+implicit return:!
+contextSystem.Web.HttpContextB/"-
++StackExchange.Profiling.MiniProfilerHandler

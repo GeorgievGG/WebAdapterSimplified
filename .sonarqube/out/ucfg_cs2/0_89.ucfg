@@ -1,0 +1,66 @@
+
+VStackExchange.Profiling.SqlFormatters.SqlServerFormatter.RemoveParameterPrefix(string)m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csf f(&"0*¯
+0m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh
+ h(²
+¯
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh
+ h(
+
+%0bool"string.StartsWith(string)*
+
+namestring*
+@*
+1
+2*Û
+1m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh! h(1¯
+¬
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh! h(2
+%4string"string.Substring(int)*
+
+namestring*2–
+“
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh! h(2
+%2string"__id*
+
+%4string–
+“
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh! h(2
+%1string"__id*
+
+%2string*
+3*«
+2m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh5 h(9˜
+•
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh5 h(9
+%3string"__id*
+
+namestring–
+“
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh5 h(9
+%1string"__id*
+
+%3string*
+3*ó
+3m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csi i("
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csh h(:
+
+%1string*ù
+4m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csi i("„
+m
+cC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\SqlServerFormatter.csi i(
+implicit return:
+namestringB<:
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatter

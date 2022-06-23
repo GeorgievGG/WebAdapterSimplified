@@ -1,0 +1,205 @@
+
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.GetHashCode()€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs• •('"0*´
+0€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs— ˜(!Ÿ
+œ
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs— —()
+%0string"KWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ControllerName.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey¿
+¼
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs— —(<
+%1string"string.ToUpperInvariant()*
+
+%0string·
+´
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs— —(J	
+%2int"string.GetHashCode()*
+
+%1string›
+˜
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs—M —(W
+%3string"GWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ActionName.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey¿
+¼
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs—M —(j
+%4string"string.ToUpperInvariant()*
+
+%3string·
+´
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs—M —(x	
+%5int"string.GetHashCode()*
+
+%4string¥
+¢
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs— —(x
+hashCodeint"__id*
+""À
+½
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs˜ ˜(2
+%6,System.Net.Http.Headers.MediaTypeHeaderValue"FWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.MediaType.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey€
+ý
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs˜ ˜(!
+
+%7bool""object.operator !=(object, object)*
+"
+object*4
+2
+%6,System.Net.Http.Headers.MediaTypeHeaderValue*
+""*
+1
+2*
+1€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csš š(3À
+½
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csš š(%2
+%8,System.Net.Http.Headers.MediaTypeHeaderValue"FWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.MediaType.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey’
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csš š(3	
+%9int":System.Net.Http.Headers.MediaTypeHeaderValue.GetHashCode()*4
+2
+%8,System.Net.Http.Headers.MediaTypeHeaderValue2GetHashCode()ª
+§
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csš š(3
+hashCodeint"__id*
+	
+%9int*
+2*©
+2€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csœ œ('­
+ª
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csœ œ(
+%10System.Nullable<T>"LWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.SampleDirection.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyè
+å
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csœ œ('
+%11bool""object.operator !=(object, object)*
+"
+object*
+
+%10System.Nullable<T>*
+""*
+3
+4*½
+3€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csž ž(9­
+ª
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csž ž(+
+%12System.Nullable<T>"LWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.SampleDirection.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyÑ
+Î
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csž ž(9
+
+%13int" System.Nullable<T>.GetHashCode()*
+
+%12System.Nullable<T>«
+¨
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csž ž(9
+hashCodeint"__id*
+
+
+%13int*
+4*­
+4€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs   (%¤
+¡
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs   (
+%14System.Type"JWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterType.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyõ
+ò
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs   (%
+%15bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+%14System.Type*
+""*
+5
+6*µ
+5€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¢ ¢(7¤
+¡
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¢ ¢()
+%16System.Type"JWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterType.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyÒÏ
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¢ ¢(7
+
+%17int"System.Type.GetHashCode()*
+
+%16System.Type2GetHashCode()«
+¨
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¢ ¢(7
+hashCodeint"__id*
+
+
+%17int*
+6*Í
+6€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¤- ¤(;¿
+¼
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¤- ¤(;,
+%18%System.Collections.Generic.HashSet<T>"KWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterNames.get*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+7*Ž
+7€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csª	 ª(	*
+8
+9*Ã
+8€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¦ ¦(JË
+È
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¦ ¦(<
+%19string"string.ToUpperInvariant()*
+
+parameterNamestring¹
+¶
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¦ ¦(J
+
+%20int"string.GetHashCode()*
+
+%19string«
+¨
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs¦ ¦(J
+hashCodeint"__id*
+
+
+%20int*
+7*Ÿ
+9€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs© ©("–
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs© ©(
+
+hashCodeint*¢
+10€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csª	 ª(	"˜
+€
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.csª ª(	
+implicit returnB<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey

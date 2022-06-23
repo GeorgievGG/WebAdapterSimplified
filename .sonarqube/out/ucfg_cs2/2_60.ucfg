@@ -1,0 +1,82 @@
+
+QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.HelpPageApiModel()s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs ("1*}
+1s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs	 (	*
+0*˜
+0s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (4Ú×
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (B2
+%0,System.Collections.ObjectModel.Collection<T>",System.Collections.ObjectModel.Collection<T>õ
+ò
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs  (@
+
+%1void"9System.Collections.ObjectModel.Collection<T>.Collection()*4
+2
+%0,System.Collections.ObjectModel.Collection<T>ø
+õ
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (B2
+%2,System.Collections.ObjectModel.Collection<T>"PWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.UriParameters.set*B@
+>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*4
+2
+%0,System.Collections.ObjectModel.Collection<T>èå
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (K9
+%33System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ƒ
+€
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs! (I
+
+%4void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%33System.Collections.Generic.Dictionary<TKey, TValue>ˆ
+…
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (K:
+%54System.Collections.Generic.IDictionary<TKey, TValue>"QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.SampleRequests.set*B@
+>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*;
+9
+%33System.Collections.Generic.Dictionary<TKey, TValue>èå
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (L9
+%63System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ƒ
+€
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs" (J
+
+%7void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%63System.Collections.Generic.Dictionary<TKey, TValue>‰
+†
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (L:
+%84System.Collections.Generic.IDictionary<TKey, TValue>"RWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.SampleResponses.set*B@
+>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*;
+9
+%63System.Collections.Generic.Dictionary<TKey, TValue>Ú×
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (42
+%9,System.Collections.ObjectModel.Collection<T>",System.Collections.ObjectModel.Collection<T>ö
+ó
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs  (2
+%10void"9System.Collections.ObjectModel.Collection<T>.Collection()*4
+2
+%9,System.Collections.ObjectModel.Collection<T>ù
+ö
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (43
+%11,System.Collections.ObjectModel.Collection<T>"PWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ErrorMessages.set*B@
+>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*4
+2
+%9,System.Collections.ObjectModel.Collection<T>*
+2*…
+2s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs	 (	"Š
+s
+iC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\Models\HelpPageApiModel.cs (	
+implicit returnBB@
+>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel

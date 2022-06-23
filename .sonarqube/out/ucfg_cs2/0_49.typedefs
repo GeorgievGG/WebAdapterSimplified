@@ -1,0 +1,9 @@
+ã
+CStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>object÷
+WLink(TKey, TValue, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>)›StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Link(TKey, TValue, StackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>)V
+Key.getKStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Key.getV
+Key.setKStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Key.setZ
+	Value.getMStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Value.getZ
+	Value.setMStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Value.setX
+Tail.getLStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Tail.getX
+Tail.setLStackExchange.Profiling.Helpers.Dapper.SqlMapper.Link<TKey, TValue>.Tail.set

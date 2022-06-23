@@ -1,0 +1,181 @@
+
+qStackExchange.Profiling.Helpers.Compression.EncodeStreamAndAppendResponseHeaders(System.Web.HttpResponse, string)`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (9"0*µ
+0`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (≈
+¬
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+acceptEncodingstring*
+""*
+1
+2*—
+1`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs! !("j
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (&
+""*‚
+2`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ( å
+â
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (A
+%1string"JStackExchange.Profiling.Helpers.Compression.ParsePreferredEncoding(string)*/"-
++StackExchange.Profiling.Helpers.Compression*
+
+acceptEncodingstringò
+ï
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (A
+preferredEncodingstring"__id*
+
+%1string»
+≈
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ( 
+
+%2bool""string.operator ==(string, string)*
+"
+string*
+
+preferredEncodingstring*
+""*
+3
+4*—
+3`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs! !("j
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs" ()
+""*≥
+4`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (%É
+Ä
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (?
+
+%3void"4System.Web.HttpResponse.AppendHeader(string, string)*%
+#
+responseSystem.Web.HttpResponse*
+Content-Encoding*
+
+preferredEncodingstringÌ
+Í
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (3
+
+%4void"4System.Web.HttpResponse.AppendHeader(string, string)*%
+#
+responseSystem.Web.HttpResponse*
+Vary*
+Accept-EncodingÕ
+ 
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (%
+
+%5bool""string.operator ==(string, string)*
+"
+string*
+
+preferredEncodingstring*	
+deflate*
+5
+6*ù	
+5`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (W»
+≈
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs( (7
+%6System.IO.Stream""System.Web.HttpResponse.Filter.get*%
+#
+responseSystem.Web.HttpResponsex
+v
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs9 (Q
+%7"__id*
+""µ≤
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (X)
+%8#System.IO.Compression.DeflateStream"#System.IO.Compression.DeflateStream∫
+∑
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ('
+
+%9void"pSystem.IO.Compression.DeflateStream.DeflateStream(System.IO.Stream, System.IO.Compression.CompressionMode, bool)*+
+)
+%8#System.IO.Compression.DeflateStream*
+
+%6System.IO.Stream*
+
+%7*
+""ˆ
+Û
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (X
+%10System.IO.Stream""System.Web.HttpResponse.Filter.set*%
+#
+responseSystem.Web.HttpResponse*+
+)
+%8#System.IO.Compression.DeflateStream*
+6*ª
+6`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ("À
+»
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ("
+%11bool""string.operator ==(string, string)*
+"
+string*
+
+preferredEncodingstring*
+gzip*
+7
+8*ì	
+7`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (T…
+∆
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs% (4
+%12System.IO.Stream""System.Web.HttpResponse.Filter.get*%
+#
+responseSystem.Web.HttpResponsey
+w
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs6 (N
+%13"__id*
+""∞≠
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (U'
+%14 System.IO.Compression.GZipStream" System.IO.Compression.GZipStreamµ
+≤
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs ($
+%15void"jSystem.IO.Compression.GZipStream.GZipStream(System.IO.Stream, System.IO.Compression.CompressionMode, bool)*)
+'
+%14 System.IO.Compression.GZipStream*
+
+%12System.IO.Stream*
+
+%13*
+""Ù
+Ò
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs (U
+%16System.IO.Stream""System.Web.HttpResponse.Filter.set*%
+#
+responseSystem.Web.HttpResponse*)
+'
+%14 System.IO.Compression.GZipStream*
+8*ﬁ
+8`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs! !("w
+`
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\Compression.cs! !(
+implicit return:#
+responseSystem.Web.HttpResponse:
+acceptEncodingstringB/"-
++StackExchange.Profiling.Helpers.Compression

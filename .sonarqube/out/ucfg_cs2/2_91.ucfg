@@ -1,0 +1,100 @@
+
+xWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue)~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs ( "1*à
+1~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs	 (	*
+0*í
+0~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (!Ñ
+Å
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (!
+
+%0bool""object.operator ==(object, object)*
+"
+object*;
+9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValue*
+""*
+2
+3*”
+2~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (;≈¬
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (<"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÄ
+˝
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+	mediaType*
+4*≈
+3~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (Q∂
+≥
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (%
+%3string"__id**
+string"
+Emptystring®
+•
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (%
+%4string"GWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ActionName.set*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+%3string∂
+≥
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs ()
+%5string"__id**
+string"
+Emptystring¨
+©
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs ()
+%6string"KWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ControllerName.set*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+%5string˙
+˜
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (!2
+%7,System.Net.Http.Headers.MediaTypeHeaderValue"FWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.MediaType.set*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*;
+9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValueË
+Â
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs1 (Q
+%8System.StringComparer"+System.StringComparer.OrdinalIgnoreCase.get*"
+System.StringComparer◊‘
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (R+
+%9%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>æ
+ª
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs! (0
+%10void"^System.Collections.Generic.HashSet<T>.HashSet(System.Collections.Generic.IEqualityComparer<T>)*-
++
+%9%System.Collections.Generic.HashSet<T>*
+
+%8System.StringComparerÎ
+Ë
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (R,
+%11%System.Collections.Generic.HashSet<T>"KWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterNames.set*<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*-
++
+%9%System.Collections.Generic.HashSet<T>*
+4*õ
+4~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs	 (	"ï
+~
+tC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs (	
+implicit return:9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValueB<:
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey

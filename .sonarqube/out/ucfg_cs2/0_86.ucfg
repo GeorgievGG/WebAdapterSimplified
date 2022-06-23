@@ -1,0 +1,40 @@
+
+`StackExchange.Profiling.Storage.HttpRuntimeCacheStorage.HttpRuntimeCacheStorage(System.TimeSpan)l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs4 4(&"1*è
+1l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs7	 7(	·ﬁ
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs#E #(j9
+%03System.Collections.Generic.SortedList<TKey, TValue>"3System.Collections.Generic.SortedList<TKey, TValue>¸
+˘
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs#I #(h
+
+%1void"@System.Collections.Generic.SortedList<TKey, TValue>.SortedList()*;
+9
+%03System.Collections.Generic.SortedList<TKey, TValue>≥
+∞
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs#9 #(j}9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage"@
+	_profiles3System.Collections.Generic.SortedList<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.SortedList<TKey, TValue>*
+0*≠
+0l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs6 6()¥
+±
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs6 6()
+%2System.TimeSpan"IStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.CacheDuration.set*;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage*"
+ 
+cacheDurationSystem.TimeSpan*
+2*˜
+2l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs7	 7(	"É
+l
+bC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\HttpRuntimeCacheStorage.cs7 7(	
+implicit return: 
+cacheDurationSystem.TimeSpanB;9
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorage

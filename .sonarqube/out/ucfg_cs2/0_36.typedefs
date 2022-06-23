@@ -1,0 +1,13 @@
+Š
+8StackExchange.Profiling.SqlFormatters.SqlServerFormatterobjectú
+^FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)—StackExchange.Profiling.SqlFormatters.SqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)ª
+vFormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)¯StackExchange.Profiling.SqlFormatters.SqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)w
+EnsureParameterPrefix(string)VStackExchange.Profiling.SqlFormatters.SqlServerFormatter.EnsureParameterPrefix(string)w
+RemoveParameterPrefix(string)VStackExchange.Profiling.SqlFormatters.SqlServerFormatter.RemoveParameterPrefix(string)Ó
+ŠGenerateStoreProcedureCall(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Text.StringBuilder)ÃStackExchange.Profiling.SqlFormatters.SqlServerFormatter.GenerateStoreProcedureCall(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Text.StringBuilder)¼
+GenerateSelectStatement(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)¸StackExchange.Profiling.SqlFormatters.SqlServerFormatter.GenerateSelectStatement(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)w
+TerminateSqlStatement(string)VStackExchange.Profiling.SqlFormatters.SqlServerFormatter.TerminateSqlStatement(string)Ñ
+‰GenerateStoredProcedureParameters(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)ÂStackExchange.Profiling.SqlFormatters.SqlServerFormatter.GenerateStoredProcedureParameters(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)°
+yGenerateParamText(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)²StackExchange.Profiling.SqlFormatters.SqlServerFormatter.GenerateParamText(System.Text.StringBuilder, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)­
+8PrepareValue(StackExchange.Profiling.SqlTimingParameter)qStackExchange.Profiling.SqlFormatters.SqlServerFormatter.PrepareValue(StackExchange.Profiling.SqlTimingParameter)e
+SqlServerFormatter()MStackExchange.Profiling.SqlFormatters.SqlServerFormatter.SqlServerFormatter()

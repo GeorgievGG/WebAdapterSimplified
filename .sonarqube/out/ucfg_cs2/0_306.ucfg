@@ -1,0 +1,124 @@
+
+9StackExchange.Profiling.Data.ProfiledDbConnection.Clone()h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csø$ ø()"0*Ì
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csú û(ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csú ú("%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionÃ
+À
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csú ú(0%
+%1System.Data.Common.DbConnection"__id*'
+%
+%0System.Data.Common.DbConnection·
+´
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csú ú(0
+tailSystem.ICloneable"__id*'
+%
+%1System.Data.Common.DbConnectionÎ
+Ë
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû û(
+
+%2bool""object.operator ==(object, object)*
+"
+object*
+
+tailSystem.ICloneable*
+""*
+1
+2*è
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû$ û(~ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csûN û(Y%
+%3System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnection»
+¸
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csûN û(c
+%4System.Type"object.GetType()*'
+%
+%3System.Data.Common.DbConnection·
+´
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csûN û(h
+%5string"%System.Reflection.MemberInfo.Name.get*
+
+%4System.Type¦
+£
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû> û(h
+%6string"__concat*
+Underlying *
+
+%5string¬
+©
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû> û(~
+%7string"__concat*
+
+%6string*
+ is not cloneable¯¬
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû$ û("
+%8System.NotSupportedException"System.NotSupportedExceptionë
+è
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csû( û(=
+
+%9void":System.NotSupportedException.NotSupportedException(string)*$
+"
+%8System.NotSupportedException*
+
+%7string*
+3*á
+2h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü ü(Q½º
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü: ü(F
+%10object"System.ICloneable.Clone()*
+
+tailSystem.ICloneable2Clone()‹
+ˆ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü, ü(F
+%11"__id*
+
+%10object”
+‘
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csüH ü(Q/
+%12(StackExchange.Profiling.Data.IDbProfiler"__id*n*l3
+1StackExchange.Profiling.Data.ProfiledDbConnection"5
+	_profiler(StackExchange.Profiling.Data.IDbProfilerÚ×
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü ü(R8
+%131StackExchange.Profiling.Data.ProfiledDbConnection"1StackExchange.Profiling.Data.ProfiledDbConnection†
+ƒ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü ü(+
+%14void"‘StackExchange.Profiling.Data.ProfiledDbConnection.ProfiledDbConnection(System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)*:
+8
+%131StackExchange.Profiling.Data.ProfiledDbConnection*
+
+%11*1
+/
+%12(StackExchange.Profiling.Data.IDbProfiler"¦
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csü ü(S:
+8
+%131StackExchange.Profiling.Data.ProfiledDbConnection*î
+3h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csý	 ý(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csý ý(	
+implicit returnB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

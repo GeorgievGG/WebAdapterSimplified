@@ -1,0 +1,102 @@
+
+àWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs◊ ◊(9"0*·"
+0Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ ›(w∫
+∑
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ$ Ÿ(86
+%00System.Web.Http.Controllers.HttpActionDescriptor"?System.Web.Http.Description.ApiDescription.ActionDescriptor.get*3
+1
+api*System.Web.Http.Description.ApiDescriptionÕ
+ 
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ$ Ÿ(M:
+%14System.Web.Http.Controllers.HttpControllerDescriptor"ISystem.Web.Http.Controllers.HttpActionDescriptor.ControllerDescriptor.get*8
+6
+%00System.Web.Http.Controllers.HttpActionDescriptor°
+û
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ$ Ÿ(\
+%2string"GSystem.Web.Http.Controllers.HttpControllerDescriptor.ControllerName.get*<
+:
+%14System.Web.Http.Controllers.HttpControllerDescriptorº
+π
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csŸ Ÿ(\
+controllerNamestring"__id*
+
+%2string∫
+∑
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs⁄  ⁄(46
+%30System.Web.Http.Controllers.HttpActionDescriptor"?System.Web.Http.Description.ApiDescription.ActionDescriptor.get*3
+1
+api*System.Web.Http.Description.ApiDescriptionï
+í
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs⁄  ⁄(?
+%4string"?System.Web.Http.Controllers.HttpActionDescriptor.ActionName.get*8
+6
+%30System.Web.Http.Controllers.HttpActionDescriptor∏
+µ
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs⁄ ⁄(?
+
+actionNamestring"__id*
+
+%4stringª
+∏
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs€1 €(J2
+%5,System.Collections.ObjectModel.Collection<T>"DSystem.Web.Http.Description.ApiDescription.ParameterDescriptions.get*3
+1
+api*System.Web.Http.Description.ApiDescriptionò
+ï
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs€1 €(^/
+%6)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*4
+2
+%5,System.Collections.ObjectModel.Collection<T>*
+""Ç
+ˇ
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs€  €(^;
+parameterNames)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%6)System.Collections.Generic.IEnumerable<T>†
+ù
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs›P ›(g
+%7"__id*
+""∞≠
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs› ›(x
+%8System.Type"ÃWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ResolveType(System.Web.Http.Description.ApiDescription, string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, out System.Collections.ObjectModel.Collection<System.Net.Http.Formatting.MediaTypeFormatter>)*B@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*3
+1
+api*System.Web.Http.Description.ApiDescription*
+
+controllerNamestring*
+
+
+actionNamestring*=
+;
+parameterNames)System.Collections.Generic.IEnumerable<T>*
+
+%7*<
+:
+
+formatters,System.Collections.ObjectModel.Collection<T>2çResolveType(System.Web.Http.Description.ApiDescription, string, string, System.Collections.Generic.IEnumerable<string>, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, out System.Collections.ObjectModel.Collection<System.Net.Http.Formatting.MediaTypeFormatter>)"û
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs› ›(y
+
+%8System.Type*≠
+1Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csﬁ	 ﬁ(	"û
+Ü
+zC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.csﬁ ﬁ(	
+implicit return:1
+api*System.Web.Http.Description.ApiDescriptionBB@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator

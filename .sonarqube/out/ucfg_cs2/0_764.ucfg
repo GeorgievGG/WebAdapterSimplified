@@ -1,0 +1,30 @@
+
+ãStackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando.System.Collections.Generic.ICollection<System.Collections.Generic.KeyValuePair<string, object>>.CopyTo(System.Collections.Generic.KeyValuePair<string, object>[], int)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‡; ‡(A"0*å
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‰ ‰(-ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‰ ‰(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>ËÈ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs‰ ‰(.
+
+%1void":System.Collections.Generic.ICollection<T>.CopyTo(T[], int)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*D
+B
+array9System.Collections.Generic.KeyValuePair<string, object>[]*
+""2CopyTo(T[], int)*
+1*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŠ Š("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŠ Š(
+implicit return:B
+array9System.Collections.Generic.KeyValuePair<string, object>[]:
+
+arrayIndexintB@>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando

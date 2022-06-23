@@ -1,0 +1,95 @@
+
+ùStackExchange.Profiling.Data.ProfiledDbTransaction.ProfiledDbTransaction(System.Data.Common.DbTransaction, StackExchange.Profiling.Data.ProfiledDbConnection)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs ($"1*Ÿ
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs#	 #(	f
+d
+
+%0void"0System.Data.Common.DbTransaction.DbTransaction()*$"
+ System.Data.Common.DbTransaction*
+0*⁄
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs (#„
+‡
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs (#
+
+%1bool""object.operator ==(object, object)*
+"
+object*1
+/
+transaction System.Data.Common.DbTransaction*
+""*
+2
+3*ê
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs+ (RÆ´
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs+ (S"
+%2System.ArgumentNullException"System.ArgumentNullExceptionÎ
+Ë
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs/ (D
+
+%3void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%2System.ArgumentNullException*
+transaction*
+4*Í
+3g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs   ("Û
+
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs   ("
+
+%4bool""object.operator ==(object, object)*
+"
+object*A
+?
+
+connection1StackExchange.Profiling.Data.ProfiledDbConnection*
+""*
+5
+6*è
+5g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs *  (PÆ´
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs *  (Q"
+%5System.ArgumentNullException"System.ArgumentNullExceptionÍ
+Á
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs .  (C
+
+%6void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%5System.ArgumentNullException*
+
+connection*
+4*µ
+6g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs! "($è
+å
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs! !(&h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransaction"__id*1
+/
+transaction System.Data.Common.DbTransactionØ
+¨
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs" "($x4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"@
+_connection1StackExchange.Profiling.Data.ProfiledDbConnection"__id*A
+?
+
+connection1StackExchange.Profiling.Data.ProfiledDbConnection*
+4*Ï
+4g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs#	 #(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.cs# #(	
+implicit return:/
+transaction System.Data.Common.DbTransaction:?
+
+connection1StackExchange.Profiling.Data.ProfiledDbConnectionB64
+2StackExchange.Profiling.Data.ProfiledDbTransaction

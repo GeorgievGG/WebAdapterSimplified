@@ -1,0 +1,69 @@
+
+ÒWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleResponse(System.Web.Http.HttpConfiguration, object, System.Net.Http.Headers.MediaTypeHeaderValue, string, string, params string[]){
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs\ \(,"0*È
+0|
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^ ^(°È
+Å
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^ ^(/D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator"„WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*-
++
+config!System.Web.Http.HttpConfigurationÖ
+Ó
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^ ^(=:
+%14System.Collections.Generic.IDictionary<TKey, TValue>"PWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples.get*F
+D
+%0>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator”
+‘
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^c ^({
+%2"__id*
+""ûø
+|
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^B ^(¨>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey"8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyØ
+Õ
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^F ^(W
+
+%4void"ðWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)*@
+>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*;
+9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValue*
+
+%2*
+
+controllerNamestring*
+
+
+actionNamestring*
+
+parameterNamesstring[]«
+¨
+|
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs^ ^(±
+
+%5void"__mapSet*<
+:
+%14System.Collections.Generic.IDictionary<TKey, TValue>*@
+>
+%38WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey*
+
+sampleobject*
+1*•
+1{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs_	 _(	"’
+{
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cs_ _(	
+implicit return:+
+config!System.Web.Http.HttpConfiguration:
+sampleobject:9
+	mediaType,System.Net.Http.Headers.MediaTypeHeaderValue:
+controllerNamestring:
+
+actionNamestring:
+parameterNamesstring[]BJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

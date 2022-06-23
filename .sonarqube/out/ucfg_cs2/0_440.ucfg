@@ -1,0 +1,32 @@
+
+@StackExchange.Profiling.Storage.SqlServerStorage.GetConnection()g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csã' ã(4"0*·
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså å(5ý
+ú
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså% å(5
+%0string"HStackExchange.Profiling.Storage.DatabaseStorageBase.ConnectionString.get*75
+3StackExchange.Profiling.Storage.DatabaseStorageBase¼¹
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså å(6)
+%1#System.Data.SqlClient.SqlConnection"#System.Data.SqlClient.SqlConnectionð
+í
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså å($
+
+%2void"9System.Data.SqlClient.SqlConnection.SqlConnection(string)*+
+)
+%1#System.Data.SqlClient.SqlConnection*
+
+%0string"–
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cså å(7+
+)
+%1#System.Data.SqlClient.SqlConnection*ì
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csæ	 æ(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csæ æ(	
+implicit returnB42
+0StackExchange.Profiling.Storage.SqlServerStorage

@@ -1,0 +1,209 @@
+
+%StackExchange.Profiling.Timing.Stop()U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csË Ë("0*Û
+0U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÍ Í(,—
+Œ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÍ Í($
+%0System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.get*" 
+StackExchange.Profiling.Timing∫
+∑
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÍ Í(,
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Nullable<T>*
+""*
+1
+2*ª
+1U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csˆ	 ˆ(	"_
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÍ. Í(5
+""*≤
+2U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÎ Ó(#◊
+‘
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÎ# Î(+*
+%2$StackExchange.Profiling.MiniProfiler"+StackExchange.Profiling.Timing.Profiler.get*" 
+StackExchange.Profiling.Timingm
+k
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÎD Î(O
+%3"__id*
+""„
+‡
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÎ# Î(P
+%4decimal"BStackExchange.Profiling.MiniProfiler.GetDurationMilliseconds(long)*,
+*
+%2$StackExchange.Profiling.MiniProfiler*
+
+%3‚
+ﬂ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÎ Î(P
+%5System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.set*" 
+StackExchange.Profiling.Timing*
+
+%4decimal◊
+‘
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÏ Ï(*
+%6$StackExchange.Profiling.MiniProfiler"+StackExchange.Profiling.Timing.Profiler.get*" 
+StackExchange.Profiling.Timing’
+“
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÏ Ï(($
+%7StackExchange.Profiling.Timing"/StackExchange.Profiling.Timing.ParentTiming.get*" 
+StackExchange.Profiling.TimingÖ
+Ç
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÏ Ï(($
+%8StackExchange.Profiling.Timing"-StackExchange.Profiling.MiniProfiler.Head.set*,
+*
+%6$StackExchange.Profiling.MiniProfiler*&
+$
+%7StackExchange.Profiling.Timingm
+k
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ Ó(
+%9"__id*
+""ê
+ç
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ Ó(#
+%10bool"System.Nullable<T>.HasValue.get*
+
+%9*
+3
+4*Ê
+3U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ' Ó(;n
+l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ' Ó(1
+%11"__id*
+""ë
+é
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ' Ó(7
+%12decimal"System.Nullable<T>.Value.get*
+
+%11*
+5
+4*Ü
+5U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ? Ó(S÷
+”
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ? Ó(K%
+%13StackExchange.Profiling.Timing"/StackExchange.Profiling.Timing.ParentTiming.get*" 
+StackExchange.Profiling.Timing»
+≈
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÓ? Ó(S
+%14bool""object.operator !=(object, object)*
+"
+object*'
+%
+%13StackExchange.Profiling.Timing*
+""*
+6
+4*“
+6U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs  (;n
+l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs  (;
+%15"__id*
+""*
+7
+8*Í
+7U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs> (R“
+œ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs> (R
+%19System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.get*" 
+StackExchange.Profiling.Timingò
+ï
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs> (R
+%17System.Nullable<T>"__id*
+
+%19System.Nullable<T>ò
+ï
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs> (R
+%16System.Nullable<T>"__id*
+
+%17System.Nullable<T>*
+9*Ã
+8U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csU (x÷
+”
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csU (x
+%20decimal"FStackExchange.Profiling.Timing.DurationWithoutChildrenMilliseconds.get*" 
+StackExchange.Profiling.TimingÅ
+
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csU (x
+%18decimal"__id*
+
+%20decimalç
+ä
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csU (x
+%16System.Nullable<T>"__id*
+
+%18decimal*
+9*à
+9U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs Ò(0û
+õ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.cs (x
+	compareMsSystem.Nullable<T>"__id*
+
+%16System.Nullable<T>n
+l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÒ  Ò(*
+%21"__id*
+""ë
+é
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÒ  Ò(0
+%22decimal"System.Nullable<T>.Value.get*
+
+%21*
+10
+4*º
+10U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÛ Û(1÷
+”
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÛ Û( %
+%23StackExchange.Profiling.Timing"/StackExchange.Profiling.Timing.ParentTiming.get*" 
+StackExchange.Profiling.TimingÄ
+˝
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÛ Û(2
+%24void"JStackExchange.Profiling.Timing.RemoveChild(StackExchange.Profiling.Timing)*'
+%
+%23StackExchange.Profiling.Timing*" 
+StackExchange.Profiling.Timing*
+4*»
+4U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csˆ	 ˆ(	"l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csˆ ˆ(	
+implicit returnB" 
+StackExchange.Profiling.Timing

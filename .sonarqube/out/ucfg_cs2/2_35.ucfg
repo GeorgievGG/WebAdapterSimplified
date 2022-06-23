@@ -1,0 +1,43 @@
+
+†WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetDocumentation(System.Web.Http.Controllers.HttpControllerDescriptor)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs& &(&"0*Ú
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs( )(2¥
+¢
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs(2 ((U
+%0System.Type"GSystem.Web.Http.Controllers.HttpControllerDescriptor.ControllerType.get*N
+L
+controllerDescriptor4System.Web.Http.Controllers.HttpControllerDescriptorÔ
+Ñ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs(& ((V%
+%1System.Xml.XPath.XPathNavigator"XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeNode(System.Type)*CA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*
+
+%0System.TypeÕ
+Ò
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs( ((V+
+typeNodeSystem.Xml.XPath.XPathNavigator"__id*'
+%
+%1System.Xml.XPath.XPathNavigatorþ
+û
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs) )(3
+%2string"tWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTagValue(System.Xml.XPath.XPathNavigator, string)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*-
++
+typeNodeSystem.Xml.XPath.XPathNavigator*	
+summary"†
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs) )(4
+
+%2string*‡
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs*	 *(	"‹
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs* *(	
+implicit return:L
+controllerDescriptor4System.Web.Http.Controllers.HttpControllerDescriptorBCA
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

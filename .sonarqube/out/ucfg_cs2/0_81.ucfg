@@ -1,0 +1,62 @@
+
+0StackExchange.Profiling.SqlTiming.Equals(object)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs> >(#"0*c
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@ @(%*
+1
+2*é	
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@) @(Rí
+ê
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@) @(6*
+%0$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingÉ
+Æ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@) @(9
+%1System.Guid"+StackExchange.Profiling.CustomTiming.Id.get*,
+*
+%0$StackExchange.Profiling.CustomTimingy
+w
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@B @(R
+%2"__id*
+
+otherobjectÎ
+Ë
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@A @(a*
+%3$StackExchange.Profiling.CustomTiming"__id*?*=
+
+%2"5
+_customTiming$StackExchange.Profiling.CustomTimingÉ
+Æ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@A @(d
+%4System.Guid"+StackExchange.Profiling.CustomTiming.Id.get*,
+*
+%3$StackExchange.Profiling.CustomTiming²
+¯
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@) @(e
+
+%5bool"System.Guid.Equals(System.Guid)*
+
+%1System.Guid*
+
+%4System.Guid*
+2*Ä
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csA	 A(	"g
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs@ @(f
+	{unknown}*Ê
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csA	 A(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csA A(	
+implicit return:
+otherobjectB%#
+!StackExchange.Profiling.SqlTiming

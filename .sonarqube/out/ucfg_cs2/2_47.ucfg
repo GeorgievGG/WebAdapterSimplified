@@ -1,0 +1,42 @@
+
+tWebApiAdapterSimplified.Areas.HelpPage.HelpPageAreaRegistration.RegisterArea(System.Web.Mvc.AreaRegistrationContext)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs ()"0*˜
+
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs (Eî
+ë
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.csE (Z!
+%0System.Web.Mvc.UrlParameter"__id*J*H
+System.Web.Mvc.UrlParameter"'
+OptionalSystem.Web.Mvc.UrlParameterÐ
+Í
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs (]
+%1System.Web.Routing.Route"GSystem.Web.Mvc.AreaRegistrationContext.MapRoute(string, string, object)*3
+1
+context&System.Web.Mvc.AreaRegistrationContext*
+HelpPage_Default*
+Help/{action}/{apiId}*
+""‚
+ÿ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs$ (E'
+%2!System.Web.Http.HttpConfiguration"5System.Web.Http.GlobalConfiguration.Configuration.get*'"%
+#System.Web.Http.GlobalConfigurationÎ
+Ë
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs (F
+
+%3void"aWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfig.Register(System.Web.Http.HttpConfiguration)*9"7
+5WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfig*)
+'
+%2!System.Web.Http.HttpConfiguration*
+1*‡
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs	 (	"‹
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageAreaRegistration.cs (	
+implicit return:1
+context&System.Web.Mvc.AreaRegistrationContextBCA
+?WebApiAdapterSimplified.Areas.HelpPage.HelpPageAreaRegistration

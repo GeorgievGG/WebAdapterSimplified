@@ -1,0 +1,76 @@
+
+ÕStackExchange.Profiling.Helpers.Dapper.SqlMapper.ExecuteCommand(System.Data.IDbConnection, System.Data.IDbTransaction, string, System.Action<System.Data.IDbCommand, object>, object, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÙ
+ Ù
+()"0*Ô
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ
+ Û
+(nº
+·
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ
+ Û
+(o
+%0System.Data.IDbCommand"ÓStackExchange.Profiling.Helpers.Dapper.SqlMapper.SetupCommand(System.Data.IDbConnection, System.Data.IDbTransaction, string, System.Action<System.Data.IDbCommand, object>, object, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*"
+ 
+cnnSystem.Data.IDbConnection*+
+)
+transactionSystem.Data.IDbTransaction*
+
+sqlstring*&
+$
+paramReaderSystem.Action<T1, T2>*
+
+objobject*
+""*
+""ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÛ
+ Û
+(o
+cmdSystem.Data.IDbCommand"__id*
+
+%0System.Data.IDbCommand*
+1*§
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÝ
+ Ý
+(,ÎË
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÝ
+ Ý
+(,	
+%1int"(System.Data.IDbCommand.ExecuteNonQuery()*
+
+cmdSystem.Data.IDbCommand2ExecuteNonQuery()"o
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÝ
+ Ý
+(-
+	
+%1int*j
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß
+	 ß
+(	*
+3*Þ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß
+	 ß
+(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csß
+ ß
+(	
+implicit return: 
+cnnSystem.Data.IDbConnection:)
+transactionSystem.Data.IDbTransaction:
+sqlstring:$
+paramReaderSystem.Action<T1, T2>:
+objobject:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

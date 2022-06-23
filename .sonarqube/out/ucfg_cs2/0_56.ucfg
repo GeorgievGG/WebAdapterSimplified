@@ -1,0 +1,68 @@
+
+,StackExchange.Profiling.SqlTiming.ToString()V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs6 6('"0*ú
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(pÌ
+Í
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8( *
+%0$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingœ
+Ã
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(.
+%1string"6StackExchange.Profiling.CustomTiming.CommandString.get*,
+*
+%0$StackExchange.Profiling.CustomTiming˝
+˙
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(;
+%2string"FStackExchange.Profiling.Helpers.ExtensionMethods.Truncate(string, int)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+%1string*2ã
+à
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(B
+%3string"__concat*
+
+%2string*
+ (Ì
+Í
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8E 8(R*
+%4$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTiming‚
+ﬂ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8E 8(g
+%5System.Nullable<T>"=StackExchange.Profiling.CustomTiming.DurationMilliseconds.get*,
+*
+%4$StackExchange.Profiling.CustomTimingü
+ú
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(g
+%6string"__concat*
+
+%3string*
+
+%5System.Nullable<T>ç
+ä
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(p
+%7string"__concat*
+
+%6string*
+ ms)"h
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs8 8(q
+
+%7string* 
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs9	 9(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs9 9(	
+implicit returnB%#
+!StackExchange.Profiling.SqlTiming

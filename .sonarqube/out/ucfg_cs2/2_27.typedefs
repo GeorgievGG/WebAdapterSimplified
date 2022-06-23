@@ -1,0 +1,16 @@
+Í
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGeneratorobjectÐ
+<ModelDescriptionGenerator(System.Web.Http.HttpConfiguration)WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.ModelDescriptionGenerator(System.Web.Http.HttpConfiguration)§
+(GetOrCreateModelDescription(System.Type){WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GetOrCreateModelDescription(System.Type)¥
+'CreateDefaultDocumentation(System.Type)zWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.CreateDefaultDocumentation(System.Type)Ù
+€GenerateAnnotations(System.Reflection.MemberInfo, WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ParameterDescription)ÓWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateAnnotations(System.Reflection.MemberInfo, WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ParameterDescription)Ð
+<GenerateCollectionModelDescription(System.Type, System.Type)WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateCollectionModelDescription(System.Type, System.Type)¸
+0GenerateComplexTypeModelDescription(System.Type)ƒWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateComplexTypeModelDescription(System.Type)ê
+IGenerateDictionaryModelDescription(System.Type, System.Type, System.Type)œWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateDictionaryModelDescription(System.Type, System.Type, System.Type)²
+-GenerateEnumTypeModelDescription(System.Type)€WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateEnumTypeModelDescription(System.Type)î
+KGenerateKeyValuePairModelDescription(System.Type, System.Type, System.Type)žWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateKeyValuePairModelDescription(System.Type, System.Type, System.Type)¶
+/GenerateSimpleTypeModelDescription(System.Type)‚WebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GenerateSimpleTypeModelDescription(System.Type)}
+GeneratedModels.getfWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GeneratedModels.get}
+GeneratedModels.setfWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.GeneratedModels.set‰
+DocumentationProvider.getlWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.DocumentationProvider.get‰
+DocumentationProvider.setlWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.DocumentationProvider.set

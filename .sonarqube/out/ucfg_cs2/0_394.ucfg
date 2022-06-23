@@ -1,0 +1,72 @@
+
+rStackExchange.Profiling.MiniProfilerExtensions.StepIf(StackExchange.Profiling.MiniProfiler, string, decimal, bool)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csR" R(("0*”
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT T(#‡
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT T(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*˝
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT& T(*{
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT& T(*
+%2"__id*
+""ê
+ç
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT& T(*
+%1System.IDisposable"__id*
+
+%2*
+3*ﬁ
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT- T(_†
+ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT- T(`
+%4System.IDisposable"FStackExchange.Profiling.MiniProfiler.StepImpl(string, decimal?, bool?)*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+
+namestring*
+""*
+""§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT- T(`
+%3System.IDisposable"__id*
+
+%4System.IDisposable§
+°
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT- T(`
+%1System.IDisposable"__id*
+
+%3System.IDisposable*
+3*Ï
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csU	 U(	"Å
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csT T(a
+
+%1System.IDisposable*‰
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csU	 U(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerExtensions.csU U(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfiler:
+namestring:
+	minSaveMsdecimal:
+includeChildrenboolB2"0
+.StackExchange.Profiling.MiniProfilerExtensions

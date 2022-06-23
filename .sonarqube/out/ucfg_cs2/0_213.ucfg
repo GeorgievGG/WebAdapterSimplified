@@ -1,0 +1,31 @@
+
+?StackExchange.Profiling.Data.ProfiledDbDataReader.IsDBNull(int)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÎ Î(%"0*Å
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÐ Ð(+ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÐ Ð(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderÙ
+Ö
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÐ Ð(,
+
+%1bool"-System.Data.Common.DbDataReader.IsDBNull(int)*'
+%
+%0System.Data.Common.DbDataReader*
+"""x
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÐ Ð(-
+
+
+%1bool*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÑ	 Ñ(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÑ Ñ(	
+implicit return:
+ordinalintB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

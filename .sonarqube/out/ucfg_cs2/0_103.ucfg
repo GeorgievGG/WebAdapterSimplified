@@ -1,0 +1,249 @@
+
+FStackExchange.Profiling.SqlTiming.GetValue(System.Data.IDataParameter)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csf f(&"0*Î
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csh i( ≈¬
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csh h(-
+%0object"$System.Data.IDataParameter.Value.get*)
+'
+	parameterSystem.Data.IDataParameter2	Value.getÖ
+Ç
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csh h(-
+rawValueobject"__id*
+
+%0objectµ
+≤
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csi i( 
+
+%1bool""object.operator ==(object, object)*
+"
+object*
+
+rawValueobject*
+""*
+1
+2*–
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csi$ i(<£
+†
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csi0 i(<
+%2System.DBNull"__id*+*)
+System.DBNull"
+ValueSystem.DBNullƒ
+¡
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csi$ i(<
+
+%3bool""object.operator ==(object, object)*
+"
+object*
+
+rawValueobject*
+
+%2System.DBNull*
+1
+3*Ω
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csk k("`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csk k(
+""*©
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cso o(1”–
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cso o( 
+%4System.Data.DbType"%System.Data.IDataParameter.DbType.get*)
+'
+	parameterSystem.Data.IDataParameter2
+DbType.getn
+l
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cso$ o(1
+%5"__id*
+""*
+4
+5*§
+4V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csq r(!Ö
+Ç
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csq q(.
+%6object"__id*
+
+rawValueobjectÅ
+
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csq q(.
+bytesbyte[]"__id*
+
+%6object≤
+Ø
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csr r(!
+
+%7bool""object.operator !=(object, object)*
+"
+object*
+
+bytesbyte[]*
+""*
+6
+7*Ë
+6V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csr% r(Ií
+è
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csr% r(1	
+%8int"System.Array.Length.get*
+
+bytesbyte[]n
+l
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csr5 r(I
+%9"__id*
+""*
+8
+7*›
+8V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cst t(Xº
+π
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cst" t(>
+%10string"$System.BitConverter.ToString(byte[])*"
+System.BitConverter*
+
+bytesbyte[]è
+å
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cstL t(X
+%11string"__id**
+string"
+Emptystring≥
+∞
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cst" t(Y
+%12string"string.Replace(string, string)*
+
+%10string*
+-*
+
+%11stringç
+ä
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cst t(Y
+%13string"__concat*
+0x*
+
+%12string"i
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cst t(Z
+
+%13string*Ω
+7V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csx x("`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csx x(
+""*d
+5V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs{ {($*
+9
+10*ã
+9V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs} }(k}
+{
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs} }(*
+%14"__id*
+
+rawValueobject·
+ﬁ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs}: }(k'
+%15 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoﬂ
+‹
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs} }(l
+%16string"8System.DateTime.ToString(string, System.IFormatProvider)*
+
+%14*
+s*)
+'
+%15 System.Globalization.CultureInfo"i
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.cs} }(m
+
+%16string*√
+10X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÅ Ç(ô
+ñ
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÅ Å(,
+%17System.Type"object.GetType()*
+
+rawValueobjectë
+é
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÅ Å(,
+rawTypeSystem.Type"__id*
+
+%17System.Type®•
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÇ Ç(
+%18bool"System.Type.IsEnum.get*
+
+rawTypeSystem.Type2
+IsEnum.get*
+11
+12*î
+11X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÖ Ö(R»
+≈
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÖ4 Ö(S
+%19System.Type"*System.Enum.GetUnderlyingType(System.Type)*"
+System.Enum*
+
+rawTypeSystem.Type‹
+Ÿ
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÖ Ö(T
+%20object".System.Convert.ChangeType(object, System.Type)*"
+System.Convert*
+
+rawValueobject*
+
+%19System.Typeúô
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÖ Ö(_
+%21string"object.ToString()*
+
+%20object2
+ToString()"k
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csÖ Ö(`
+
+%21string*Ô
+12X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csà à(&°û
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csà à(&
+%22string"object.ToString()*
+
+rawValueobject2
+ToString()"k
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csà à('
+
+%22string*œ
+13X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csâ	 â(	"o
+X
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csâ â(	
+implicit return:'
+	parameterSystem.Data.IDataParameterB%"#
+!StackExchange.Profiling.SqlTiming

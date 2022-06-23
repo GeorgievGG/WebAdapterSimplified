@@ -1,0 +1,42 @@
+
+xStackExchange.Profiling.SqlProfilerExtensions.ReaderFinish(StackExchange.Profiling.SqlProfiler, System.Data.IDataReader)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cst t('"0*¿
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csv v(#×
+Ô
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csv v(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*
+""*
+1
+2*Á
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csx	 x(	"b
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csv% v(,
+""*ú
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csw w(1•
+’
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csw w(2
+
+%1void"OStackExchange.Profiling.SqlProfiler.ReaderFinishedImpl(System.Data.IDataReader)*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*#
+!
+readerSystem.Data.IDataReader*
+3*Î
+3X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csx	 x(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csx x(	
+implicit return:2
+sqlProfiler#StackExchange.Profiling.SqlProfiler:!
+readerSystem.Data.IDataReaderB1"/
+-StackExchange.Profiling.SqlProfilerExtensions

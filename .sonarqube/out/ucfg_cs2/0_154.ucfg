@@ -1,0 +1,29 @@
+
+AStackExchange.Profiling.Data.ProfiledDbDataReader.GetDecimal(int)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csˆ  ˆ(*"0*Í
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csŠ Š(-ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csŠ Š(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderÞ
+Û
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csŠ Š(.
+%1decimal"/System.Data.Common.DbDataReader.GetDecimal(int)*'
+%
+%0System.Data.Common.DbDataReader*
+"""{
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csŠ Š(/
+
+%1decimal*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‹	 ‹(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.cs‹ ‹(	
+implicit return:
+ordinalintB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

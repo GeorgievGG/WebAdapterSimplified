@@ -1,0 +1,275 @@
+
+äWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.ShouldDisplayMember(System.Reflection.MemberInfo, bool)â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs· ·(/"0*∞
+0â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs„  È(Aˆ
+Û
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs„- „(])
+%0#Newtonsoft.Json.JsonIgnoreAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoı
+Ú
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs„  „(]1
+
+jsonIgnore#Newtonsoft.Json.JsonIgnoreAttribute"__id*+
+)
+%0#Newtonsoft.Json.JsonIgnoreAttribute˛
+˚
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs‰+ ‰(Z1
+%1+System.Xml.Serialization.XmlIgnoreAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoÑ
+Å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs‰ ‰(Z8
+	xmlIgnore+System.Xml.Serialization.XmlIgnoreAttribute"__id*3
+1
+%1+System.Xml.Serialization.XmlIgnoreAttributeâ
+Ü
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÂ9 Â(o<
+%26System.Runtime.Serialization.IgnoreDataMemberAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfo°
+û
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÂ& Â(oJ
+ignoreDataMember6System.Runtime.Serialization.IgnoreDataMemberAttribute"__id*>
+<
+%26System.Runtime.Serialization.IgnoreDataMemberAttribute
+Ì
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÊ3 Ê(f#
+%3System.NonSerializedAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoÏ
+È
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÊ# Ê(f.
+nonSerializedSystem.NonSerializedAttribute"__id*%
+#
+%3System.NonSerializedAttributeã
+à
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÁ> Á(w>
+%48System.Web.Http.Description.ApiExplorerSettingsAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoß
+§
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÁ) Á(wN
+apiExplorerSetting8System.Web.Http.Description.ApiExplorerSettingsAttribute"__id*@
+>
+%48System.Web.Http.Description.ApiExplorerSettingsAttribute¸
+˘
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÈ& È(:
+%5System.Type".System.Reflection.MemberInfo.DeclaringType.get*(
+&
+memberSystem.Reflection.MemberInfo‘—
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÈ& È(A
+
+%6bool"System.Type.IsEnum.get*
+
+%5System.Type2
+IsEnum.get*
+1
+2*í	
+1â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÍ Í(HÑ
+Å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÍ Í(@7
+%100System.Runtime.Serialization.EnumMemberAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoè
+å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÍ Í(H
+%11bool""object.operator !=(object, object)*
+"
+object*9
+7
+%100System.Runtime.Serialization.EnumMemberAttribute*
+""∞
+≠
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÍ Í(H
+
+%8bool"__id*
+
+%11boolØ
+¨
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÍ Í(H
+
+%7bool"__id*
+
+
+%8bool*
+3*í	
+2â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÎ Î(HÑ
+Å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÎ Î(@7
+%120System.Runtime.Serialization.DataMemberAttribute"_System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.MemberInfo)*/"-
++System.Reflection.CustomAttributeExtensions*(
+&
+memberSystem.Reflection.MemberInfoè
+å
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÎ Î(H
+%13bool""object.operator !=(object, object)*
+"
+object*9
+7
+%120System.Runtime.Serialization.DataMemberAttribute*
+""∞
+≠
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÎ Î(H
+
+%9bool"__id*
+
+%13boolØ
+¨
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÎ Î(H
+
+%7bool"__id*
+
+
+%9bool*
+3*Â
+3â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÈ Ù(%ø
+º
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÈ Î(H
+hasMemberAttributebool"__id*
+
+
+%7boolâ
+Ü
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÙ Ù(%
+%14bool""object.operator ==(object, object)*
+"
+object*3
+1
+
+jsonIgnore#Newtonsoft.Json.JsonIgnoreAttribute*
+""*
+4
+5*ß
+4â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csı ı(!ê
+ç
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csı ı(!
+%15bool""object.operator ==(object, object)*
+"
+object*:
+8
+	xmlIgnore+System.Xml.Serialization.XmlIgnoreAttribute*
+""*
+5*ó
+5â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+6
+7*π
+6â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csˆ ˆ((¢
+ü
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csˆ ˆ((
+%16bool""object.operator ==(object, object)*
+"
+object*L
+J
+ignoreDataMember6System.Runtime.Serialization.IgnoreDataMemberAttribute*
+""*
+7*ó
+7â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+8
+9*ù
+8â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˜ ˜(%Ü
+É
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˜ ˜(%
+%17bool""object.operator ==(object, object)*
+"
+object*0
+.
+nonSerializedSystem.NonSerializedAttribute*
+""*
+9*ô
+9â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+10
+11*√
+10â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¯ ¯(+¶
+£
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¯ ¯(+
+%18bool""object.operator ==(object, object)*
+"
+object*P
+N
+apiExplorerSetting8System.Web.Http.Description.ApiExplorerSettingsAttribute*
+""*
+12
+13*œ
+13â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¯/ ¯(L∂
+≥
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs¯0 ¯(L
+%19bool"FSystem.Web.Http.Description.ApiExplorerSettingsAttribute.IgnoreApi.get*P
+N
+apiExplorerSetting8System.Web.Http.Description.ApiExplorerSettingsAttribute*
+12*ñ
+12â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+11*ö
+11â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+14
+15*ö
+14â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˘ ˘(**
+16
+17*ñ
+17â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˘. ˘(@*
+16*ñ
+16â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	*
+15*Æ
+15â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	"õ
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.csÙ ˘(B
+	{unknown}*¥
+18â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙	 ˙(	"°
+â
+}C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs˙ ˙(	
+implicit return:&
+memberSystem.Reflection.MemberInfo: 
+hasDataContractAttributeboolBV"T
+RWebApiAdapterSimplified.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator

@@ -1,0 +1,103 @@
+
+yStackExchange.Profiling.Data.Link<TKey, TValue>.TryGet(StackExchange.Profiling.Data.Link<TKey, TValue>, TKey, out TValue)V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs9 9(!"0*¿
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs; ;(⁄
+◊
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs; ;(
+
+%0bool""object.operator !=(object, object)*
+"
+object*9
+7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>*
+""*
+1
+2*ÿ
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs= =(3u
+s
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs= =(
+%1"__id*
+
+keyTKey€
+ÿ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs=+ =(3
+
+%2TKey"7StackExchange.Profiling.Data.Link<TKey, TValue>.Key.get*9
+7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>t
+r
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs=# =(3
+%3"__id*
+
+
+%2TKeyß
+§
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs= =(3
+
+%4bool""object.operator ==(object, object)*
+"
+object*
+
+%1*
+
+%3*
+3
+4*£
+3V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs? @(ﬂ
+‹
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs? ?(&
+%5TValue"9StackExchange.Profiling.Data.Link<TKey, TValue>.Value.get*9
+7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>Å
+
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs? ?(&
+valueTValue"__id*
+
+%5TValue"`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.cs@ @( 
+""*¿
+4V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csC C( á
+Ñ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csC C( 5
+%6/StackExchange.Profiling.Data.Link<TKey, TValue>"8StackExchange.Profiling.Data.Link<TKey, TValue>.Tail.get*9
+7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>”
+–
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csC C( 7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>"__id*7
+5
+%6/StackExchange.Profiling.Data.Link<TKey, TValue>*
+0*∏
+2V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csF G(y
+w
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csF F(#
+valueTValue"__id*
+"""`
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csG G(
+""* 
+5V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csH	 H(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\Link.csH H(	
+implicit return:7
+link/StackExchange.Profiling.Data.Link<TKey, TValue>:
+keyTKey:
+valueTValueB3"1
+/StackExchange.Profiling.Data.Link<TKey, TValue>

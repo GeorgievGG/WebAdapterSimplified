@@ -1,0 +1,91 @@
+
+EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Dispose()`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÈ È("0*­
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê("ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê(
+%0System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReaderÊ
+Ç
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÊ Ê("
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Data.IDataReader*
+""*
+1
+2*õ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ Í(!ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ Ì(
+%2System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReader»¸
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÌ Ì($
+
+%3void"System.IDisposable.Dispose()*
+
+%2System.Data.IDataReader2	Dispose()×
+Ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÍ Í(!b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReader"__id*
+""*
+2*«
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÏ Ï(#ï
+ì
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÏ Ï(
+%4System.Data.IDbCommand"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+commandSystem.Data.IDbCommandÉ
+Æ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÏ Ï(#
+
+%5bool""object.operator !=(object, object)*
+"
+object*
+
+%4System.Data.IDbCommand*
+""*
+3
+4*ó
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ò("ï
+ì
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(
+%6System.Data.IDbCommand"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+commandSystem.Data.IDbCommandº·
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ñ(%
+
+%7void"System.IDisposable.Dispose()*
+
+%6System.Data.IDbCommand2	Dispose()×
+Ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÒ Ò("b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+commandSystem.Data.IDbCommand"__id*
+""*
+4*Þ
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÔ Ô("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÔ Ô(
+implicit returnB?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader

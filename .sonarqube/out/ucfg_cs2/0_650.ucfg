@@ -1,0 +1,32 @@
+
+jStackExchange.Profiling.Data.ProfiledDbDataAdapter.FillSchema(System.Data.DataSet, System.Data.SchemaType)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.cse e()"0*Ù
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csg g(:ö
+ó
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csg g( 
+%0System.Data.IDbDataAdapter"__id*`*^4
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter"&
+_adapterSystem.Data.IDbDataAdapteräá
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csg g(;
+%1System.Data.DataTable[]"PSystem.Data.IDataAdapter.FillSchema(System.Data.DataSet, System.Data.SchemaType)*"
+ 
+%0System.Data.IDbDataAdapter* 
+
+dataSetSystem.Data.DataSet*
+""27FillSchema(System.Data.DataSet, System.Data.SchemaType)"Š
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csg g(<
+
+%1System.Data.DataTable[]*ì
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csh	 h(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataAdapter.csh h(	
+implicit return:
+dataSetSystem.Data.DataSet:$
+
+schemaTypeSystem.Data.SchemaTypeB64
+2StackExchange.Profiling.Data.ProfiledDbDataAdapter

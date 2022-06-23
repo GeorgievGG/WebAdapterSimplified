@@ -1,0 +1,39 @@
+
+[StackExchange.Profiling.Data.SimpleProfiledDataReader.GetChars(int, long, char[], int, int)l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs£ £("0*¤
+0l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¥ ¥(T÷
+ô
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¥ ¥(
+%0System.Data.IDataReader"__id*_*]7
+5StackExchange.Profiling.Data.SimpleProfiledDataReader""
+_readerSystem.Data.IDataReader¸µ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¥ ¥(U
+
+%1long"=System.Data.IDataRecord.GetChars(int, long, char[], int, int)*
+
+%0System.Data.IDataReader*
+""*
+""*
+
+bufferchar[]*
+""*
+""2%GetChars(int, long, char[], int, int)"|
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¥ ¥(V
+
+
+%1long*÷
+1l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¦	 ¦(	"ƒ
+l
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledDataReader.cs¦ ¦(	
+implicit return:
+indexint:
+fieldoffsetlong:
+bufferchar[]:
+bufferoffsetint:
+lengthintB97
+5StackExchange.Profiling.Data.SimpleProfiledDataReader

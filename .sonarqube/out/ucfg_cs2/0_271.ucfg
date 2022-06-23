@@ -1,0 +1,82 @@
+
+FStackExchange.Profiling.Timing.DurationWithoutChildrenMilliseconds.getU
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÅ Å("0*™
+0U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÉ Ö(—
+Œ
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÉ É(1
+%0System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.get*" 
+StackExchange.Profiling.Timing≠
+™
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÉ É(E
+%1decimal"&System.Nullable<T>.GetValueOrDefault()*
+
+%0System.Nullable<T>Ñ
+Å
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÉ É(E
+resultdecimal"__id*
+
+%1decimal∫
+∑
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csÖ Ö(
+
+%2bool".StackExchange.Profiling.Timing.HasChildren.get*" 
+StackExchange.Profiling.Timing*
+1
+2*∑
+1U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csá* á(2’
+“
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csá* á(2(
+%3"System.Collections.Generic.List<T>"+StackExchange.Profiling.Timing.Children.get*" 
+StackExchange.Profiling.Timing*
+3*b
+3U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csé é(*
+4
+2*Ò
+4U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csâ â(Pÿ
+’
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csâ" â(<
+%4System.Nullable<T>"7StackExchange.Profiling.Timing.DurationMilliseconds.get*)
+'
+childStackExchange.Profiling.Timing≠
+™
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csâ" â(P
+%5decimal"&System.Nullable<T>.GetValueOrDefault()*
+
+%4System.Nullable<T>Ñ
+Å
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csâ â(P
+resultdecimal"__id*
+
+%5decimal*
+3*˝
+2U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csç ç(+∂
+≥
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csç ç(,
+%6decimal"System.Math.Round(decimal, int)*"
+System.Math*
+
+resultdecimal*2"h
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csç ç(-
+
+%6decimal*»
+5U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csé é("l
+U
+IC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Timing.csé é(
+implicit returnB" 
+StackExchange.Profiling.Timing

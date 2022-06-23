@@ -1,0 +1,17 @@
+¨
+0StackExchange.Profiling.Storage.SqlServerStorage3StackExchange.Profiling.Storage.DatabaseStorageBaseobjecte
+SqlServerStorage(string)IStackExchange.Profiling.Storage.SqlServerStorage.SqlServerStorage(string)≥
+?SqlServerStorage(System.Configuration.ConnectionStringSettings)pStackExchange.Profiling.Storage.SqlServerStorage.SqlServerStorage(System.Configuration.ConnectionStringSettings)â
+*Save(StackExchange.Profiling.MiniProfiler)[StackExchange.Profiling.Storage.SqlServerStorage.Save(StackExchange.Profiling.MiniProfiler)ê
+mSaveTimings(System.Collections.Generic.List<StackExchange.Profiling.Timing>, System.Data.Common.DbConnection)ûStackExchange.Profiling.Storage.SqlServerStorage.SaveTimings(System.Collections.Generic.List<StackExchange.Profiling.Timing>, System.Data.Common.DbConnection)≈
+áSaveClientTimings(System.Collections.Generic.List<StackExchange.Profiling.ClientTimings.ClientTiming>, System.Data.Common.DbConnection)∏StackExchange.Profiling.Storage.SqlServerStorage.SaveClientTimings(System.Collections.Generic.List<StackExchange.Profiling.ClientTimings.ClientTiming>, System.Data.Common.DbConnection)î
+oFlattenTimings(StackExchange.Profiling.Timing, System.Collections.Generic.List<StackExchange.Profiling.Timing>)†StackExchange.Profiling.Storage.SqlServerStorage.FlattenTimings(StackExchange.Profiling.Timing, System.Collections.Generic.List<StackExchange.Profiling.Timing>)W
+Load(System.Guid)BStackExchange.Profiling.Storage.SqlServerStorage.Load(System.Guid)u
+ SetUnviewed(string, System.Guid)QStackExchange.Profiling.Storage.SqlServerStorage.SetUnviewed(string, System.Guid)q
+SetViewed(string, System.Guid)OStackExchange.Profiling.Storage.SqlServerStorage.SetViewed(string, System.Guid)a
+GetUnviewedIds(string)GStackExchange.Profiling.Storage.SqlServerStorage.GetUnviewedIds(string)Ù
+_List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)êStackExchange.Profiling.Storage.SqlServerStorage.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)´
+;LoadProfilerRecord(System.Data.Common.DbConnection, object)lStackExchange.Profiling.Storage.SqlServerStorage.LoadProfilerRecord(System.Data.Common.DbConnection, object)¢
+vPopulateChildTimings(StackExchange.Profiling.Timing, System.Linq.ILookup<System.Guid, StackExchange.Profiling.Timing>)ßStackExchange.Profiling.Storage.SqlServerStorage.PopulateChildTimings(StackExchange.Profiling.Timing, System.Linq.ILookup<System.Guid, StackExchange.Profiling.Timing>)S
+GetConnection()@StackExchange.Profiling.Storage.SqlServerStorage.GetConnection()[
+GetOpenConnection()DStackExchange.Profiling.Storage.SqlServerStorage.GetOpenConnection()

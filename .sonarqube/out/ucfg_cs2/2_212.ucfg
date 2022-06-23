@@ -1,0 +1,196 @@
+
+÷WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.GenerateSamples(WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel, WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator)}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csÖ Ö(+"0*ß
+0}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csâ% â(^’
+“
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csâG â(^0
+%0*System.Web.Http.Description.ApiDescription"QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ApiDescription.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel≈
+¬
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csâ% â(_:
+%14System.Collections.Generic.IDictionary<TKey, TValue>"|WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleRequests(System.Web.Http.Description.ApiDescription)*S
+Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*2
+0
+%0*System.Web.Http.Description.ApiDescription*
+1*ä
+1}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csõ	 õ(	*
+2
+3*œ
+2}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csã å(@ﬂ
+‹
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csã ã(+:
+%24System.Collections.Generic.IDictionary<TKey, TValue>"QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.SampleRequests.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel∂
+≥
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csã0 ã(82
+%3,System.Net.Http.Headers.MediaTypeHeaderValue"=System.Collections.Generic.KeyValuePair<TKey, TValue>.Key.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>í
+è
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csã: ã(D
+%4object"?System.Collections.Generic.KeyValuePair<TKey, TValue>.Value.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>ú
+ô
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csã ã(E
+
+%5void"__mapSet*<
+:
+%24System.Collections.Generic.IDictionary<TKey, TValue>*4
+2
+%3,System.Net.Http.Headers.MediaTypeHeaderValue*
+
+%4objectí
+è
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cså6 å(@
+%6object"?System.Collections.Generic.KeyValuePair<TKey, TValue>.Value.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>·
+ﬁ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.cså å(A
+
+%7void"¶WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.LogInvalidSampleAsError(WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel, object)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*
+
+%6object*
+1*®
+3}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csè% è(_’
+“
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csèH è(_0
+%8*System.Web.Http.Description.ApiDescription"QWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ApiDescription.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel∆
+√
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csè% è(`:
+%94System.Collections.Generic.IDictionary<TKey, TValue>"}WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.GetSampleResponses(System.Web.Http.Description.ApiDescription)*S
+Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*2
+0
+%8*System.Web.Http.Description.ApiDescription*
+4*ä
+4}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csõ	 õ(	*
+5
+6*⁄
+5}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë í(@·
+ﬁ
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë ë(,;
+%104System.Collections.Generic.IDictionary<TKey, TValue>"RWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.SampleResponses.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel∑
+¥
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë1 ë(93
+%11,System.Net.Http.Headers.MediaTypeHeaderValue"=System.Collections.Generic.KeyValuePair<TKey, TValue>.Key.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>ì
+ê
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë; ë(E
+%12object"?System.Collections.Generic.KeyValuePair<TKey, TValue>.Value.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>†
+ù
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csë ë(F
+%13void"__mapSet*=
+;
+%104System.Collections.Generic.IDictionary<TKey, TValue>*5
+3
+%11,System.Net.Http.Headers.MediaTypeHeaderValue*
+
+%12objectì
+ê
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csí6 í(@
+%14object"?System.Collections.Generic.KeyValuePair<TKey, TValue>.Value.get*?
+=
+item5System.Collections.Generic.KeyValuePair<TKey, TValue>„
+‡
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csí í(A
+%15void"¶WebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions.LogInvalidSampleAsError(WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel, object)*J"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel*
+
+%14object*
+4*ä
+6}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csõ	 õ(	*
+7
+8*ñ
+7}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csó ô(=◊
+‘
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csó ó(&3
+%16,System.Collections.ObjectModel.Collection<T>"PWebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel.ErrorMessages.get*L
+J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModelÜ
+É
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csó9 ó(S'
+%17 System.Globalization.CultureInfo"3System.Globalization.CultureInfo.CurrentCulture.get*$""
+ System.Globalization.CultureInfo⁄
+◊
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csô ô(>
+%18System.Exception"`WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator.UnwrapException(System.Exception)*B"@
+>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGenerator*
+
+eSystem.Exception◊‘
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csô ô(F
+%19string"System.Exception.Message.get*
+
+%18System.Exception2Message.get„
+‡
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csó+ ô(G
+%20string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*)
+'
+%17 System.Globalization.CultureInfo*QO
+MAn exception has occurred while generating the sample. Exception message: {0}*
+
+%19stringå
+â
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csó ô(H
+%21void"3System.Collections.ObjectModel.Collection<T>.Add(T)*5
+3
+%16,System.Collections.ObjectModel.Collection<T>*
+
+%20string*
+8*ô
+8}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csõ	 õ(	"î
+}
+qC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\HelpPageConfigurationExtensions.csõ õ(	
+implicit return:J
+apiModel>WebApiAdapterSimplified.Areas.HelpPage.Models.HelpPageApiModel:Q
+sampleGenerator>WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleGeneratorBJ"H
+FWebApiAdapterSimplified.Areas.HelpPage.HelpPageConfigurationExtensions

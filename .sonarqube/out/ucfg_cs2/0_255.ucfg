@@ -1,0 +1,27 @@
+
+dStackExchange.Profiling.Data.ProfiledDbConnection.EnlistTransaction(System.Transactions.Transaction)h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csœ œ(."0*×
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csž ž(5ƒ
+€
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csž ž(%
+%0System.Data.Common.DbConnection"__id*g*e3
+1StackExchange.Profiling.Data.ProfiledDbConnection".
+_connectionSystem.Data.Common.DbConnectionÜÙ
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csž ž(6
+
+%1void"RSystem.Data.Common.DbConnection.EnlistTransaction(System.Transactions.Transaction)*'
+%
+%0System.Data.Common.DbConnection*0
+.
+transactionSystem.Transactions.Transaction22EnlistTransaction(System.Transactions.Transaction)*
+1*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŸ	 Ÿ(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbConnection.csŸ Ÿ(	
+implicit return:.
+transactionSystem.Transactions.TransactionB53
+1StackExchange.Profiling.Data.ProfiledDbConnection

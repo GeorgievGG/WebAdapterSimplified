@@ -1,0 +1,76 @@
+
+yStackExchange.Profiling.SqlProfiler.ExecuteStartImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs% %($"0*È
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs' *('é
+ã
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs'" '(1
+%0"__id*#
+!
+commandSystem.Data.IDbCommand¿
+Ω
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs' '(8
+%1System.Tuple<T1, T2>"#System.Tuple.Create<T1, T2>(T1, T2)*"
+System.Tuple*
+
+%0*
+""ù
+ö
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs' '(8
+idSystem.Tuple<T1, T2>"__id*
+
+%1System.Tuple<T1, T2>‰
+·
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs(9 ((A*
+%2$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.SqlProfiler.Profiler.get*'%
+#StackExchange.Profiling.SqlProfiler©¶
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs( ((B'
+%3!StackExchange.Profiling.SqlTiming"!StackExchange.Profiling.SqlTimingà
+Ö
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs(  (()
+
+%4void"ñStackExchange.Profiling.SqlTiming.SqlTiming(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, StackExchange.Profiling.MiniProfiler)*)
+'
+%3!StackExchange.Profiling.SqlTiming*#
+!
+commandSystem.Data.IDbCommand*
+""*,
+*
+%2$StackExchange.Profiling.MiniProfileræ
+ª
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs( ((B.
+	sqlTiming!StackExchange.Profiling.SqlTiming"__id*)
+'
+%3!StackExchange.Profiling.SqlTimingß
+§
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs* *(F
+%5@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*z*x%
+#StackExchange.Profiling.SqlProfiler"O
+_inProgress@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>á
+Ñ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs* *('
+%6"__mapSet*H
+F
+%5@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+
+idSystem.Tuple<T1, T2>*0
+.
+	sqlTiming!StackExchange.Profiling.SqlTiming*
+1*Œ
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs+	 +(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs+ +(	
+implicit return:!
+commandSystem.Data.IDbCommand:3
+type+StackExchange.Profiling.Data.SqlExecuteTypeB'%
+#StackExchange.Profiling.SqlProfiler

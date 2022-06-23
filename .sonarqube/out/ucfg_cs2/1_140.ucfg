@@ -1,0 +1,104 @@
+
+HWebAdapterSimplifiedLibrary.MatrixUserService.IsExistingUserInDb(string)b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs! !(&"0*Æ
+0b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs# #(O´
+®
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs#( #(>8
+%02WebAdapterSimplifiedLibrary.IDbContextScopeFactory"__id*Å*/
+-WebAdapterSimplifiedLibrary.MatrixUserService"L
+_dbContextScopeFactory2WebAdapterSimplifiedLibrary.IDbContextScopeFactoryùö
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs#( #(O9
+%13WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope"sWebAdapterSimplifiedLibrary.IDbContextScopeFactory.CreateReadOnly(WebAdapterSimplifiedLibrary.DbContextScopeOption)*:
+8
+%02WebAdapterSimplifiedLibrary.IDbContextScopeFactory*
+""2@CreateReadOnly(WebAdapterSimplifiedLibrary.DbContextScopeOption)Ò
+Ó
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs# #(OE
+dbContextScope3WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope"__id*;
+9
+%13WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope*
+1*ã
+1b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs% ,(!ºπ
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs% %(26
+%20WebAdapterSimplifiedLibrary.IDbContextCollection"BWebAdapterSimplifiedLibrary.IDbContextReadOnlyScope.DbContexts.get*G
+E
+dbContextScope3WebAdapterSimplifiedLibrary.IDbContextReadOnlyScope2DbContexts.get£†
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs% %(A)
+%3#WebAdapterSimplifiedLibrary.Context"BWebAdapterSimplifiedLibrary.IDbContextCollection.Get<TDbContext>()*8
+6
+%20WebAdapterSimplifiedLibrary.IDbContextCollection2Get<TDbContext>()≈
+¬
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs% %(A)
+db#WebAdapterSimplifiedLibrary.Context"__id*+
+)
+%3#WebAdapterSimplifiedLibrary.Contextÿ
+’
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs'$ '(n
+%4string"__concat*A?
+=select count(*) as value from myapp_users where User_name = '*
+
+userNamestringñ
+ì
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs'$ '(t
+%5string"__concat*
+
+%4string*
+'ì
+ê
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs' '(t
+
+sqlCommandstring"__id*
+
+%5string‚
+ﬂ
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs( ((&!
+%6System.Data.Entity.Database")System.Data.Entity.DbContext.Database.get*+
+)
+db#WebAdapterSimplifiedLibrary.Contextˇ
+¸
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs( ((D	
+%7int"FSystem.Data.Entity.Database.ExecuteSqlCommand(string, params object[])*#
+!
+%6System.Data.Entity.Database*
+
+
+sqlCommandstring*
+""á
+Ñ
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs( ((D
+dataint"__id*
+	
+%7intã
+à
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs* *(!
+resultint"__id*
+
+dataint"l
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs, ,("
+""*l
+2b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs.	 .(	*
+3*‚
+3b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs.	 .(	"y
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MatrixUserService.cs. .(	
+implicit return:
+userNamestringB1/
+-WebAdapterSimplifiedLibrary.MatrixUserService

@@ -1,0 +1,74 @@
+
+EStackExchange.Profiling.Helpers.HaackFormatter.Format(string, object)c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (#"0*³
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (À
+½
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (
+
+%0bool""string.operator ==(string, string)*
+"
+string*
+
+formatstring*
+""*
+1
+2*ÿ
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (8ª§
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (9"
+%1System.ArgumentNullException"System.ArgumentNullExceptionâ
+ß
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+format*
+3*ò
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (=ö
+ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs# (M
+%3string[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*
+""ž
+›
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (M
+formattedStringsstring[]"__id*
+
+%3string[]›
+˜
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (+
+%4string"__id**
+string"
+EmptystringØ
+Õ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (>
+%5string"$string.Join(string, params string[])*
+"
+string*
+
+%4string*
+
+formattedStringsstring[]"u
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (?
+
+%5string*ä
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs	 (	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs (	
+implicit return:
+formatstring:
+sourceobjectB2"0
+.StackExchange.Profiling.Helpers.HaackFormatter

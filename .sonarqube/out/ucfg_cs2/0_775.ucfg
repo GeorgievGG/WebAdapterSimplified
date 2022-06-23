@@ -1,0 +1,226 @@
+
+”StackExchange.Profiling.Helpers.Dapper.SqlMapper.SetupCommand(System.Data.IDbConnection, System.Data.IDbTransaction, string, System.Action<System.Data.IDbCommand, object>, object, int?, System.Data.CommandType?)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs∆
+" ∆
+(."0*œ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs»
+  
+("„‡
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs»
+ »
+()
+%0System.Data.IDbCommand")System.Data.IDbConnection.CreateCommand()*"
+ 
+cnnSystem.Data.IDbConnection2CreateCommand()™
+ß
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs»
+ »
+()
+cmdSystem.Data.IDbCommand"__id*
+
+%0System.Data.IDbCommand´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs…
++ …
+(8
+%1System.Type"object.GetType()*
+
+cmdSystem.Data.IDbCommandö
+ó
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs…
+ …
+(9
+%2System.Action<T1, T2>"KStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetBindByName(System.Type)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*
+
+%1System.TypeØ
+¨
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs…
+ …
+(9#
+
+bindByNameSystem.Action<T1, T2>"__id*
+
+%2System.Action<T1, T2>œ
+Ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs 
+  
+("
+
+%3bool"ëSystem.Action<System.Data.IDbCommand, bool>.operator !=(System.Action<System.Data.IDbCommand, bool>, System.Action<System.Data.IDbCommand, bool>)*"
+System.Action<T1, T2>*%
+#
+
+bindByNameSystem.Action<T1, T2>*
+""*
+1
+2*»
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs 
+$  
+(8€
+ÿ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs 
+$  
+(9
+
+%4void"$System.Action<T1, T2>.Invoke(T1, T2)*
+System.Action<T1, T2>*
+
+cmdSystem.Data.IDbCommand*
+""*
+2*¸
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÀ
+ Õ
+('éã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÀ
+ À
+() 
+%5System.Data.IDbTransaction"&System.Data.IDbCommand.Transaction.set*
+
+cmdSystem.Data.IDbCommand*+
+)
+transactionSystem.Data.IDbTransaction2Transaction.setﬁ€
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÃ
+ Ã
+(!
+%6string"&System.Data.IDbCommand.CommandText.set*
+
+cmdSystem.Data.IDbCommand*
+
+sqlstring2CommandText.setö
+ó
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÕ
+ Õ
+('
+
+%7bool"System.Nullable<T>.HasValue.get*
+""*
+3
+4*„
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŒ
+ Œ
+(9ñ
+ì
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŒ
+% Œ
+(9	
+%8int"System.Nullable<T>.Value.get*
+""›⁄
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csŒ
+ Œ
+(9	
+%9int")System.Data.IDbCommand.CommandTimeout.set*
+
+cmdSystem.Data.IDbCommand*
+	
+%8int2CommandTimeout.set*
+4*ã
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ
+ œ
+($õ
+ò
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csœ
+ œ
+($
+%10bool"System.Nullable<T>.HasValue.get*
+""*
+5
+6*ú
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs–
+ –
+(3´
+®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs–
+" –
+(3
+%11System.Data.CommandType"System.Nullable<T>.Value.get*
+""Å˛
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs–
+ –
+(3
+%12System.Data.CommandType"&System.Data.IDbCommand.CommandType.set*
+
+cmdSystem.Data.IDbCommand* 
+
+%11System.Data.CommandType2CommandType.set*
+6*«
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—
+ —
+(#◊
+‘
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—
+ —
+(#
+%13bool"óSystem.Action<System.Data.IDbCommand, object>.operator !=(System.Action<System.Data.IDbCommand, object>, System.Action<System.Data.IDbCommand, object>)*"
+System.Action<T1, T2>*&
+$
+paramReaderSystem.Action<T1, T2>*
+""*
+7
+8*“
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs”
+ ”
+($Â
+‚
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs”
+ ”
+(%
+%14void"$System.Action<T1, T2>.Invoke(T1, T2)*
+System.Action<T1, T2>*
+
+cmdSystem.Data.IDbCommand*
+
+objobject*
+8*Î
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs’
+ ’
+("É
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs’
+ ’
+(
+
+cmdSystem.Data.IDbCommand*ﬁ
+9`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs÷
+	 ÷
+(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs÷
+ ÷
+(	
+implicit return: 
+cnnSystem.Data.IDbConnection:)
+transactionSystem.Data.IDbTransaction:
+sqlstring:$
+paramReaderSystem.Action<T1, T2>:
+objobject:$
+commandTimeoutSystem.Nullable<T>:!
+commandTypeSystem.Nullable<T>B4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

@@ -1,0 +1,29 @@
+
+>StackExchange.Profiling.Data.ProfiledDbDataReader.NextResult()h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÙ Ù('"0*¼
+0h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÛ Û('ÿ
+ü
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÛ Û(%
+%0System.Data.Common.DbDataReader"__id*c*a3
+1StackExchange.Profiling.Data.ProfiledDbDataReader"*
+_readerSystem.Data.Common.DbDataReaderÐ
+Í
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÛ Û('
+
+%1bool",System.Data.Common.DbDataReader.NextResult()*'
+%
+%0System.Data.Common.DbDataReader"x
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÛ Û((
+
+
+%1bool*î
+1h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÜ	 Ü(	"
+h
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbDataReader.csÜ Ü(	
+implicit returnB53
+1StackExchange.Profiling.Data.ProfiledDbDataReader

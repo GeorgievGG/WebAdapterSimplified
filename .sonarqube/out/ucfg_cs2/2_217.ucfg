@@ -1,0 +1,97 @@
+
+óWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.SetPublicFields(System.Type, object, System.Collections.Generic.Dictionary<System.Type, object>)~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÅ Å(+"0*»
+0~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÉ Ö(.ó
+î
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÉ0 É(C
+%0"__id*
+""ó
+î
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÉF É([
+%1"__id*
+""˛
+˚
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÉ! É(\#
+%2System.Reflection.FieldInfo[]"5System.Type.GetFields(System.Reflection.BindingFlags)*
+
+typeSystem.Type*
+""Ÿ
+÷
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÉ É(\'
+fieldsSystem.Reflection.FieldInfo[]"__id*%
+#
+%2System.Reflection.FieldInfo[]˘ˆ
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÑ. Ñ(C<
+%36WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator"6WebApiAdapterSimplified.Areas.HelpPage.ObjectGeneratorô
+ñ
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÑ2 Ñ(A
+
+%4void"HWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.ObjectGenerator()*>
+<
+%36WebApiAdapterSimplified.Areas.HelpPage.ObjectGeneratorî
+ë
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csÑ Ñ(CI
+objectGenerator6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator"__id*>
+<
+%36WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator*
+1*ã
+1~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csä	 ä(	*
+2
+3*ò
+
+2~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csá à(.È
+Ê
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csáC á(R
+%5System.Type")System.Reflection.FieldInfo.FieldType.get*&
+$
+fieldSystem.Reflection.FieldInfo÷
+”
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csá$ á(l
+%6object"éWebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator.GenerateObject(System.Type, System.Collections.Generic.Dictionary<System.Type, object>)*K
+I
+objectGenerator6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator*
+
+%5System.Type*P
+N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>Ø
+¨
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csá á(l
+
+fieldValueobject"__id*
+
+%6objectñ
+ì
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csà à(/
+
+%7void"4System.Reflection.FieldInfo.SetValue(object, object)*&
+$
+fieldSystem.Reflection.FieldInfo*
+
+objobject*
+
+
+fieldValueobject*
+1*õ
+3~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csä	 ä(	"ï
+~
+rC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\SampleGeneration\ObjectGenerator.csä ä(	
+implicit return:
+typeSystem.Type:
+objobject:N
+createdObjectReferences3System.Collections.Generic.Dictionary<TKey, TValue>B:"8
+6WebApiAdapterSimplified.Areas.HelpPage.ObjectGenerator

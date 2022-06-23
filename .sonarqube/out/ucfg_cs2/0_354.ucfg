@@ -1,0 +1,40 @@
+
+OStackExchange.Profiling.Storage.SqlServerStorage.SetViewed(string, System.Guid)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÏ Ï(&"0* 
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÓ Ó(1è
+å
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÓ Ó(1%
+%0System.Data.Common.DbConnection"DStackExchange.Profiling.Storage.SqlServerStorage.GetOpenConnection()*42
+0StackExchange.Profiling.Storage.SqlServerStorageƒ
+¡
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÓ Ó(1'
+connSystem.Data.Common.DbConnection"__id*'
+%
+%0System.Data.Common.DbConnection*
+1*·
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs ({Ì
+Í
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs (~	
+%1int"†StackExchange.Profiling.Helpers.Dapper.SqlMapper.Execute(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*)
+'
+connSystem.Data.Common.DbConnection*PN
+LUPDATE MiniProfilers SET HasUserViewed = 1 WHERE Id = @id AND [User] = @user*
+""*
+""*
+""*
+""*
+2*Ï
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÚ	 Ú(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÚ Ú(	
+implicit return:
+userstring:
+idSystem.GuidB42
+0StackExchange.Profiling.Storage.SqlServerStorage

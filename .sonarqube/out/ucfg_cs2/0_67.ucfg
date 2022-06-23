@@ -1,0 +1,100 @@
+
+_StackExchange.Profiling.BaseProfilerProvider.SaveProfiler(StackExchange.Profiling.MiniProfiler)a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csI I(*"0*¶
+0a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csM N(˚
+¯
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csM M().
+%0(StackExchange.Profiling.Storage.IStorage"0StackExchange.Profiling.MiniProfiler.Storage.get*1
+/
+current$StackExchange.Profiling.MiniProfiler”
+–
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csM M()3
+storage(StackExchange.Profiling.Storage.IStorage"__id*0
+.
+%0(StackExchange.Profiling.Storage.IStorage·
+ﬁ
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csN N(
+
+%1bool""object.operator ==(object, object)*
+"
+object*5
+3
+storage(StackExchange.Profiling.Storage.IStorage*
+""*
+1
+2*∑
+1a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csP Q(7Ï
+È
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csP P(=
+
+%2void"EStackExchange.Profiling.MiniProfiler.Settings.EnsureStorageStrategy()*1"/
+-StackExchange.Profiling.MiniProfiler.SettingsÑ
+Å
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csQ Q(7.
+%3(StackExchange.Profiling.Storage.IStorage"9StackExchange.Profiling.MiniProfiler.Settings.Storage.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings”
+–
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csQ Q(73
+storage(StackExchange.Profiling.Storage.IStorage"__id*0
+.
+%3(StackExchange.Profiling.Storage.IStorage*
+2*Æ
+2a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csS T(.›⁄
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csS S(!
+
+%4void"SStackExchange.Profiling.Storage.IStorage.Save(StackExchange.Profiling.MiniProfiler)*5
+3
+storage(StackExchange.Profiling.Storage.IStorage*1
+/
+current$StackExchange.Profiling.MiniProfiler2*Save(StackExchange.Profiling.MiniProfiler)›
+⁄
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csT T(%
+
+%5bool"6StackExchange.Profiling.MiniProfiler.HasUserViewed.get*1
+/
+current$StackExchange.Profiling.MiniProfiler*
+3
+4*ﬁ
+3a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csV V(<÷
+”
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csV$ V(0
+%6string"-StackExchange.Profiling.MiniProfiler.User.get*1
+/
+current$StackExchange.Profiling.MiniProfilerŸ
+÷
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csV2 V(<
+%7System.Guid"+StackExchange.Profiling.MiniProfiler.Id.get*1
+/
+current$StackExchange.Profiling.MiniProfilerª∏
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csV V(=
+
+%8void"IStackExchange.Profiling.Storage.IStorage.SetUnviewed(string, System.Guid)*5
+3
+storage(StackExchange.Profiling.Storage.IStorage*
+
+%6string*
+
+%7System.Guid2 SetUnviewed(string, System.Guid)*
+4*‡
+4a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csX	 X(	"x
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csX X(	
+implicit return:/
+current$StackExchange.Profiling.MiniProfilerB0".
+,StackExchange.Profiling.BaseProfilerProvider

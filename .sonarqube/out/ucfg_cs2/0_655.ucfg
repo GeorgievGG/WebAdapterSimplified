@@ -1,0 +1,70 @@
+
+@StackExchange.Profiling.Data.SimpleProfiledCommand.Dispose(bool)i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csö ö(&"0*v
+0i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø ø(*
+1
+2*¾
+1i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø ø(-ğ
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø ø(%
+%0System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommandÒ
+Ï
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø ø(-
+
+%1bool""object.operator !=(object, object)*
+"
+object*
+
+%0System.Data.IDbCommand*
+""*
+3
+2*¬
+3i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø/ ø(Ağ
+í
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø/ ø(7
+%2System.Data.IDbCommand"__id*\*Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommandÃÀ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csø/ ø(A
+
+%3void"System.IDisposable.Dispose()*
+
+%2System.Data.IDbCommand2	Dispose()*
+2*
+2i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csú ü(Ø
+Õ
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csú ú(Z4
+2StackExchange.Profiling.Data.SimpleProfiledCommand""
+_commandSystem.Data.IDbCommand"__id*
+""Ş
+Û
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csû û(`4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"(
+_connectionSystem.Data.IDbConnection"__id*
+""ë
+è
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csü ü(m4
+2StackExchange.Profiling.Data.SimpleProfiledCommand"5
+	_profiler(StackExchange.Profiling.Data.IDbProfiler"__id*
+""*
+4*ñ
+4i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csı	 ı(	"€
+i
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledCommand.csı ı(	
+implicit return:
+	disposingboolB64
+2StackExchange.Profiling.Data.SimpleProfiledCommand

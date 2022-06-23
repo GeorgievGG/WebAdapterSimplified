@@ -1,0 +1,72 @@
+
+SStackExchange.Profiling.Storage.MultiStorageProvider.SetViewed(string, System.Guid)k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÇ Ç("0*Û
+0k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÑ Ñ(ï
+í
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÑ Ñ((
+%0"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProvider‡
+›
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÑ Ñ(
+
+%1bool""object.operator !=(object, object)*
+"
+object**
+(
+%0"System.Collections.Generic.List<T>*
+""*
+1
+2*¸
+1k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÜ Ü($Å
+˛
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csÜ Ü($
+
+%2bool"IStackExchange.Profiling.Storage.MultiStorageProvider.AllowParallelOps.get*86
+4StackExchange.Profiling.Storage.MultiStorageProvider*
+3
+4*Ö
+3k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csà à(Gï
+í
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csà% à(+(
+%3"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProviderı
+Ú
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csà à(H/
+%4)System.Threading.Tasks.ParallelLoopResult"ySystem.Threading.Tasks.Parallel.ForEach<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Action<TSource>)*#"!
+System.Threading.Tasks.Parallel**
+(
+%3"System.Collections.Generic.List<T>*
+""*
+2*˛
+4k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cså å(=ï
+í
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cså å((
+%5"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProviderÓ
+Î
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cså å(>
+
+%6void"<System.Collections.Generic.List<T>.ForEach(System.Action<T>)**
+(
+%5"System.Collections.Generic.List<T>*
+""*
+2*ı
+2k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csè	 è(	"Ç
+k
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csè è(	
+implicit return:
+userstring:
+idSystem.GuidB86
+4StackExchange.Profiling.Storage.MultiStorageProvider

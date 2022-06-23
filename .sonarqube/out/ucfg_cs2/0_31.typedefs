@@ -1,0 +1,5 @@
+Ö
+5StackExchange.Profiling.SqlFormatters.InlineFormatterobjectd
+InlineFormatter(bool)KStackExchange.Profiling.SqlFormatters.InlineFormatter.InlineFormatter(bool)÷
+^FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)”StackExchange.Profiling.SqlFormatters.InlineFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>)´
+=GetParameterValue(StackExchange.Profiling.SqlTimingParameter)sStackExchange.Profiling.SqlFormatters.InlineFormatter.GetParameterValue(StackExchange.Profiling.SqlTimingParameter)

@@ -1,0 +1,51 @@
+Ï
+StackExchange.Profiling.Timingobject3
+Timing()'StackExchange.Profiling.Timing.Timing()Ó
+eTiming(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.Timing, string, decimal?, bool?)ÑStackExchange.Profiling.Timing.Timing(StackExchange.Profiling.MiniProfiler, StackExchange.Profiling.Timing, string, decimal?, bool?)7
+
+ToString())StackExchange.Profiling.Timing.ToString()?
+Equals(object)-StackExchange.Profiling.Timing.Equals(object)=
+GetHashCode(),StackExchange.Profiling.Timing.GetHashCode()/
+Stop()%StackExchange.Profiling.Timing.Stop()[
+System.IDisposable.Dispose();StackExchange.Profiling.Timing.System.IDisposable.Dispose()s
+(AddChild(StackExchange.Profiling.Timing)GStackExchange.Profiling.Timing.AddChild(StackExchange.Profiling.Timing)y
++RemoveChild(StackExchange.Profiling.Timing)JStackExchange.Profiling.Timing.RemoveChild(StackExchange.Profiling.Timing)ù
+=AddCustomTiming(string, StackExchange.Profiling.CustomTiming)\StackExchange.Profiling.Timing.AddCustomTiming(string, StackExchange.Profiling.CustomTiming)£
+@RemoveCustomTiming(string, StackExchange.Profiling.CustomTiming)_StackExchange.Profiling.Timing.RemoveCustomTiming(string, StackExchange.Profiling.CustomTiming)Y
+GetCustomTimingList(string):StackExchange.Profiling.Timing.GetCustomTimingList(string)/
+Id.get%StackExchange.Profiling.Timing.Id.get/
+Id.set%StackExchange.Profiling.Timing.Id.set3
+Name.get'StackExchange.Profiling.Timing.Name.get3
+Name.set'StackExchange.Profiling.Timing.Name.setS
+DurationMilliseconds.get7StackExchange.Profiling.Timing.DurationMilliseconds.getS
+DurationMilliseconds.set7StackExchange.Profiling.Timing.DurationMilliseconds.setM
+StartMilliseconds.get4StackExchange.Profiling.Timing.StartMilliseconds.getM
+StartMilliseconds.set4StackExchange.Profiling.Timing.StartMilliseconds.set;
+Children.get+StackExchange.Profiling.Timing.Children.get;
+Children.set+StackExchange.Profiling.Timing.Children.setE
+CustomTimings.get0StackExchange.Profiling.Timing.CustomTimings.getE
+CustomTimings.set0StackExchange.Profiling.Timing.CustomTimings.setM
+CustomTimingsJson.get4StackExchange.Profiling.Timing.CustomTimingsJson.getM
+CustomTimingsJson.set4StackExchange.Profiling.Timing.CustomTimingsJson.setK
+HasCustomTimings.get3StackExchange.Profiling.Timing.HasCustomTimings.getK
+HasCustomTimings.set3StackExchange.Profiling.Timing.HasCustomTimings.setC
+ParentTiming.get/StackExchange.Profiling.Timing.ParentTiming.getC
+ParentTiming.set/StackExchange.Profiling.Timing.ParentTiming.setG
+ParentTimingId.get1StackExchange.Profiling.Timing.ParentTimingId.getG
+ParentTimingId.set1StackExchange.Profiling.Timing.ParentTimingId.setq
+'DurationWithoutChildrenMilliseconds.getFStackExchange.Profiling.Timing.DurationWithoutChildrenMilliseconds.getq
+'DurationWithoutChildrenMilliseconds.setFStackExchange.Profiling.Timing.DurationWithoutChildrenMilliseconds.set=
+IsTrivial.get,StackExchange.Profiling.Timing.IsTrivial.get=
+IsTrivial.set,StackExchange.Profiling.Timing.IsTrivial.setA
+HasChildren.get.StackExchange.Profiling.Timing.HasChildren.getA
+HasChildren.set.StackExchange.Profiling.Timing.HasChildren.set7
+
+IsRoot.get)StackExchange.Profiling.Timing.IsRoot.get7
+
+IsRoot.set)StackExchange.Profiling.Timing.IsRoot.set5
+	Depth.get(StackExchange.Profiling.Timing.Depth.get5
+	Depth.set(StackExchange.Profiling.Timing.Depth.set;
+Profiler.get+StackExchange.Profiling.Timing.Profiler.get;
+Profiler.set+StackExchange.Profiling.Timing.Profiler.setG
+MiniProfilerId.get1StackExchange.Profiling.Timing.MiniProfilerId.getG
+MiniProfilerId.set1StackExchange.Profiling.Timing.MiniProfilerId.set

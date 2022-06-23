@@ -1,0 +1,33 @@
+
+/StackExchange.Profiling.SqlTiming.GetHashCode()V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csF F('"0*—
+0V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csH H(1í
+ê
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csH H( *
+%0$StackExchange.Profiling.CustomTiming"__id*^*\#
+!StackExchange.Profiling.SqlTiming"5
+_customTiming$StackExchange.Profiling.CustomTimingÉ
+Æ
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csH H(#
+%1System.Guid"+StackExchange.Profiling.CustomTiming.Id.get*,
+*
+%0$StackExchange.Profiling.CustomTiming–
+“
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csH H(1	
+%2int"System.Guid.GetHashCode()*
+
+%1System.Guid"e
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csH H(2
+	
+%2int*Ê
+1V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csI	 I(	"m
+V
+LC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlTiming.csI I(	
+implicit returnB%#
+!StackExchange.Profiling.SqlTiming

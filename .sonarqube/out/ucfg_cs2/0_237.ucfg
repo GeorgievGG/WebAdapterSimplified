@@ -1,0 +1,227 @@
+
+LStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.Eval(object)e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs— —("0*Ò
+0e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs” ”(&}
+{
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs” ”(&
+%0"__id*
+""*
+1
+2*Û
+1e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs’ ’(B†ù
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs’ ’(C
+%1System.FormatException"System.FormatExceptionﬁ
+€
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs’ ’(-
+
+%2void".System.FormatException.FormatException(string)*
+
+%1System.FormatException*
+Invalid expression*
+3*u
+2e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÈ È(*	
+4
+5
+6*±
+4e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs⁄ ⁄(3â
+Ü
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs⁄- ⁄(3
+%3string"JStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.Format.get*CA
+?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression∞
+≠
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs⁄ ⁄(4
+
+%4bool"string.IsNullOrEmpty(string)*
+"
+string*
+
+%3string*
+7
+8*å
+7e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹  ‹(=ç
+ä
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹3 ‹(=
+%8string"NStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.Expression.get*CA
+?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression‰
+·
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹  ‹(>
+%9object"-System.Web.UI.DataBinder.Eval(object, string)*"
+System.Web.UI.DataBinder*
+
+oobject*
+
+%8stringé
+ã
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹  ‹(>
+%6object"__id*
+
+%9objecté
+ã
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹  ‹(>
+%5object"__id*
+
+%6object*
+9
+10*¥
+9e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹B ‹(Nû
+õ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹B ‹(N
+%10string"__id**
+string"
+Emptystringè
+å
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹B ‹(N
+%7object"__id*
+
+%10stringé
+ã
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹B ‹(N
+%5object"__id*
+
+%7object*
+10*ê
+10e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹ ‹(Z®•
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹ ‹(Z
+%11string"object.ToString()*
+
+%5object2
+ToString()"x
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs‹ ‹([
+
+%11string*¯
+8e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(Oé
+ã
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ/ ﬂ(9
+%15string"NStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.Expression.get*CA
+?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpressionä
+á
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂC ﬂ(I
+%16string"JStackExchange.Profiling.Helpers.HaackFormatter.FormatExpression.Format.get*CA
+?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpressionù
+ö
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ; ﬂ(I
+%17string"__concat*
+{0:*
+
+%16stringõ
+ò
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ; ﬂ(O
+%18string"__concat*
+
+%17string*
+}ˇ
+¸
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(P
+%19string"5System.Web.UI.DataBinder.Eval(object, string, string)*"
+System.Web.UI.DataBinder*
+
+oobject*
+
+%15string*
+
+%18stringê
+ç
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(P
+%13string"__id*
+
+%19stringê
+ç
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(P
+%12string"__id*
+
+%13string*
+11
+12*∏
+11e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂT ﬂ(`û
+õ
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂT ﬂ(`
+%20string"__id**
+string"
+Emptystringê
+ç
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂT ﬂ(`
+%14string"__id*
+
+%20stringê
+ç
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂT ﬂ(`
+%12string"__id*
+
+%14string*
+12*Ö
+12e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(lù
+ö
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(l
+%21string"string.ToString()*
+
+%12string"x
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csﬂ ﬂ(m
+
+%21string*ÿ
+6e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs„ „(/°û
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs„ „(/
+%22System.FormatException"System.FormatException¬
+ø
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.cs„ „(-
+%23void"(System.FormatException.FormatException()*
+
+%22System.FormatException*
+3*ÿ
+5e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÁ Á(/°û
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÁ Á(/
+%24System.FormatException"System.FormatException¬
+ø
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÁ Á(-
+%25void"(System.FormatException.FormatException()*
+
+%24System.FormatException*
+3*Ë
+3e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÈ È("|
+e
+YC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\HaackFormatter.csÈ È(
+implicit return:
+oobjectBCA
+?StackExchange.Profiling.Helpers.HaackFormatter.FormatExpression

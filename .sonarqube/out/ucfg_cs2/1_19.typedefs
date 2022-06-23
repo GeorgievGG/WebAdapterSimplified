@@ -1,0 +1,4 @@
+–
+#WebAdapterSimplifiedLibrary.ContextSystem.Data.Entity.DbContextobject:
+	Context()-WebAdapterSimplifiedLibrary.Context.Context()Œ
+2OnModelCreating(System.Data.Entity.DbModelBuilder)VWebAdapterSimplifiedLibrary.Context.OnModelCreating(System.Data.Entity.DbModelBuilder)

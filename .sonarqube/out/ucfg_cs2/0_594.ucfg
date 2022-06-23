@@ -1,0 +1,106 @@
+
+JStackExchange.Profiling.Data.ProfiledDbProviderFactory.CreateDataAdapter()k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csn& n(7"0*µ
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csp t(#¯
+ı
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csp p(/*
+%0$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfiler÷
+”
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csp p(/0
+profiler$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%0$StackExchange.Profiling.MiniProfilerè
+å
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csr r(#*
+%1$System.Data.Common.DbProviderFactory"__id*k*i8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory"-
+_tail$System.Data.Common.DbProviderFactoryïí
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csr r(7&
+%2 System.Data.Common.DbDataAdapter"8System.Data.Common.DbProviderFactory.CreateDataAdapter()*,
+*
+%1$System.Data.Common.DbProviderFactory2CreateDataAdapter()—
+Œ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csr r(7/
+dataAdapter System.Data.Common.DbDataAdapter"__id*(
+&
+%2 System.Data.Common.DbDataAdapterË
+Â
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cst t(#
+
+%3bool""object.operator !=(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2* 
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu u(M¯
+ı
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu9 u(M*
+%7$StackExchange.Profiling.MiniProfiler"0StackExchange.Profiling.MiniProfiler.Current.get*("&
+$StackExchange.Profiling.MiniProfilerﬁ€
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu u(N8
+%82StackExchange.Profiling.Data.ProfiledDbDataAdapter"2StackExchange.Profiling.Data.ProfiledDbDataAdapter™
+ß
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu u(+
+
+%9void"éStackExchange.Profiling.Data.ProfiledDbDataAdapter.ProfiledDbDataAdapter(System.Data.IDbDataAdapter, StackExchange.Profiling.Data.IDbProfiler)*:
+8
+%82StackExchange.Profiling.Data.ProfiledDbDataAdapter*1
+/
+dataAdapter System.Data.Common.DbDataAdapter*,
+*
+%7$StackExchange.Profiling.MiniProfilerÏ
+È
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu u(N8
+%52StackExchange.Profiling.Data.ProfiledDbDataAdapter"__id*:
+8
+%82StackExchange.Profiling.Data.ProfiledDbDataAdapter⁄
+◊
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csu u(N&
+%4 System.Data.Common.DbDataAdapter"__id*:
+8
+%52StackExchange.Profiling.Data.ProfiledDbDataAdapter*
+3*î
+2k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csv v(—
+Œ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csv v(&
+%6 System.Data.Common.DbDataAdapter"__id*1
+/
+dataAdapter System.Data.Common.DbDataAdapter»
+≈
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csv v(&
+%4 System.Data.Common.DbDataAdapter"__id*(
+&
+%6 System.Data.Common.DbDataAdapter*
+3*ä
+3k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csw	 w(	"ó
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.cst v((
+&
+%4 System.Data.Common.DbDataAdapter*ı
+4k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csw	 w(	"Ç
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbProviderFactory.csw w(	
+implicit returnB:8
+6StackExchange.Profiling.Data.ProfiledDbProviderFactory

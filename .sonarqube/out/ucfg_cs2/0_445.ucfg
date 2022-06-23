@@ -1,0 +1,122 @@
+
+õStackExchange.Profiling.SqlProfiler.ExecuteFinishImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs0 0(%"0*œ
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs2 7(é
+ã
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs2" 2(1
+%0"__id*#
+!
+commandSystem.Data.IDbCommand¿
+Ω
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs2 2(8
+%1System.Tuple<T1, T2>"#System.Tuple.Create<T1, T2>(T1, T2)*"
+System.Tuple*
+
+%0*
+""ù
+ö
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs2 2(8
+idSystem.Tuple<T1, T2>"__id*
+
+%1System.Tuple<T1, T2>ß
+§
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs3 3(%F
+%2@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*z*x%
+#StackExchange.Profiling.SqlProfiler"O
+_inProgress@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>¯
+ı
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs3 3()'
+%3!StackExchange.Profiling.SqlTiming"__mapGet*H
+F
+%2@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+
+idSystem.Tuple<T1, T2>º
+π
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs3 3(),
+current!StackExchange.Profiling.SqlTiming"__id*)
+'
+%3!StackExchange.Profiling.SqlTimingŒ
+À
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs4& 4(4
+
+%4bool""object.operator !=(object, object)*
+"
+object*+
+)
+readerSystem.Data.Common.DbDataReader*
+""‚
+ﬂ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs4 4(5
+
+%5void"9StackExchange.Profiling.SqlTiming.ExecutionComplete(bool)*.
+,
+current!StackExchange.Profiling.SqlTiming*
+
+
+%4boolß
+§
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs6 6(F
+%6@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*z*x%
+#StackExchange.Profiling.SqlProfiler"O
+_inProgress@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>ﬁ
+€
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs6 6(1
+
+%7bool"\System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>.TryRemove(TKey, out TValue)*H
+F
+%6@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*
+
+idSystem.Tuple<T1, T2>*-
++
+ignore!StackExchange.Profiling.SqlTimingŒ
+À
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs7 7(
+
+%8bool""object.operator !=(object, object)*
+"
+object*+
+)
+readerSystem.Data.Common.DbDataReader*
+""*
+1
+2*¨
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs9 9(4Ø
+¨
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs9 9("F
+%9@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>"__id*Å*%
+#StackExchange.Profiling.SqlProfiler"V
+_inProgressReaders@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>ï
+í
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs9 9(4
+%10"__mapSet*H
+F
+%9@System.Collections.Concurrent.ConcurrentDictionary<TKey, TValue>*+
+)
+readerSystem.Data.Common.DbDataReader*.
+,
+current!StackExchange.Profiling.SqlTiming*
+2*Œ
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs;	 ;(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cs; ;(	
+implicit return:!
+commandSystem.Data.IDbCommand:3
+type+StackExchange.Profiling.Data.SqlExecuteType:)
+readerSystem.Data.Common.DbDataReaderB'%
+#StackExchange.Profiling.SqlProfiler

@@ -1,0 +1,172 @@
+
+sStackExchange.Profiling.Helpers.Dapper.SqlMapper.ThrowDataException(System.Exception, int, System.Data.IDataReader)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csâ â(-"0*Ñ
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csä å(†
+ƒ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csä ä(!
+namestring"__id*	
+(n/a)‡
+„
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csä# ä(2
+valuestring"__id*	
+(n/a)Î
+Ë
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså å(
+
+%0bool""object.operator !=(object, object)*
+"
+object*#
+!
+readerSystem.Data.IDataReader*
+""*
+1
+2*m
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså" å(,*
+3
+2*½
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså0 å(IÍÊ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså8 å(I	
+%1int"&System.Data.IDataRecord.FieldCount.get*#
+!
+readerSystem.Data.IDataReader2FieldCount.get*
+4
+2*õ
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csç é(ÔÑ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csç ç(,
+%2string"$System.Data.IDataRecord.GetName(int)*#
+!
+readerSystem.Data.IDataReader*
+""2GetName(int)‹
+ˆ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csç ç(,
+namestring"__id*
+
+%2stringÖÓ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csè è(3
+%3object"%System.Data.IDataRecord.GetValue(int)*#
+!
+readerSystem.Data.IDataReader*
+""2GetValue(int)Š
+‡
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csè è(3
+valobject"__id*
+
+%3objectº
+·
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csé é(
+
+%4bool""object.operator ==(object, object)*
+"
+object*
+
+valobject*
+""*
+5
+6*m
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csé# é(0*
+5
+7*õ
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csë ë($ˆ
+…
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csë ë($
+valuestring"__id*
+
+<null>*
+2*à
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï(Z¹
+¶
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï(1
+%5string"System.Convert.ToString(object)*"
+System.Convert*
+
+valobject–
+“
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï(9
+%6string"__concat*
+
+%5string*
+ - ›
+˜
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csïM ï(Z
+%7System.Type"object.GetType()*
+
+valobjectÈ
+Å
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï< ï([
+%8System.TypeCode"$System.Type.GetTypeCode(System.Type)*"
+System.Type*
+
+%7System.Type¦
+£
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï([
+%9string"__concat*
+
+%6string*
+
+%8System.TypeCodeŒ
+‰
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï([
+valuestring"__id*
+
+%9string*
+2*
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csò ò(o„
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csò$ ò(k
+%10string"-string.Format(string, object, object, object)*
+"
+string*&$
+"Error parsing column {0} ({1}={2})*
+""*
+
+namestring*
+
+valuestring¢Ÿ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csò ò(p 
+%11System.Data.DataException"System.Data.DataException„
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csò ò(#
+%12void"ASystem.Data.DataException.DataException(string, System.Exception)*"
+ 
+%11System.Data.DataException*
+
+%10string*
+
+exSystem.Exception*
+8*Þ
+8`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csó	 ó(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csó ó(	
+implicit return:
+exSystem.Exception:
+indexint:!
+readerSystem.Data.IDataReaderB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

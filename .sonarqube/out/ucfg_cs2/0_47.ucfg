@@ -1,0 +1,68 @@
+
+_StackExchange.Profiling.BaseProfilerProvider.StopProfiler(StackExchange.Profiling.MiniProfiler)a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs8 8(*"0*Ï
+0a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs: :( Þ
+Û
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs: :( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*û
+1a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs; ;(:¨¥
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs; ;(;"
+%1System.ArgumentNullException"System.ArgumentNullExceptionâ
+ß
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs; ;(/
+
+%2void":System.ArgumentNullException.ArgumentNullException(string)*$
+"
+%1System.ArgumentNullException*
+
+profiler*
+3*È
+2a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs= =($×
+Ô
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs= =($
+
+%3bool"/StackExchange.Profiling.MiniProfiler.StopImpl()*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+4
+5*Ó
+4a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs> >("k
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs> >(
+""*·
+5a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs@ A(á
+Þ
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.cs@ @(%
+
+%4bool"1StackExchange.Profiling.MiniProfiler.IsActive.set*2
+0
+profiler$StackExchange.Profiling.MiniProfiler*
+"""k
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csA A(
+""*à
+3a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csB	 B(	"x
+a
+WC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\BaseProfilerProvider.csB B(	
+implicit return:0
+profiler$StackExchange.Profiling.MiniProfilerB0".
+,StackExchange.Profiling.BaseProfilerProvider

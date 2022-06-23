@@ -1,0 +1,5 @@
+Ò
+-WebAdapterSimplifiedLibrary.MatrixUserServiceobject¼
+EMatrixUserService(WebAdapterSimplifiedLibrary.IDbContextScopeFactory)sWebAdapterSimplifiedLibrary.MatrixUserService.MatrixUserService(WebAdapterSimplifiedLibrary.IDbContextScopeFactory)f
+IsExistingUserInDb(string)HWebAdapterSimplifiedLibrary.MatrixUserService.IsExistingUserInDb(string)r
+ IsExistingUserInDbDapper(string)NWebAdapterSimplifiedLibrary.MatrixUserService.IsExistingUserInDbDapper(string)

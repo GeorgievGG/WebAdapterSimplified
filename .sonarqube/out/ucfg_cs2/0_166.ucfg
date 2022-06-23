@@ -1,0 +1,146 @@
+
+fStackExchange.Profiling.MiniProfilerHandler.AuthorizeRequest(System.Web.HttpContext, bool, out string)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs” ”(,"0*ƒ
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs’ Ÿ("à
+Ö
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs’ ’(
+messagestring"__id*
+""˛
+˚
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs÷ ÷(C
+%0System.Func<T, TResult>"CStackExchange.Profiling.MiniProfiler.Settings.Results_Authorize.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings¥
+±
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs÷ ÷(C$
+	authorizeSystem.Func<T, TResult>"__id*
+
+%0System.Func<T, TResult>É
+Ä
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs◊  ◊(L
+%1System.Func<T, TResult>"HStackExchange.Profiling.MiniProfiler.Settings.Results_List_Authorize.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings∏
+µ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs◊ ◊(L(
+authorizeListSystem.Func<T, TResult>"__id*
+
+%1System.Func<T, TResult>Œ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸ Ÿ("
+
+%2bool"ãSystem.Func<System.Web.HttpRequest, bool>.operator !=(System.Func<System.Web.HttpRequest, bool>, System.Func<System.Web.HttpRequest, bool>)*"
+System.Func<T, TResult>*&
+$
+	authorizeSystem.Func<T, TResult>*
+""*
+1
+2*ñ
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸ& Ÿ(@Œ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸ1 Ÿ(@
+%3System.Web.HttpRequest""System.Web.HttpContext.Request.get*#
+!
+contextSystem.Web.HttpContext”
+–
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸ' Ÿ(A
+
+%4bool"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*
+
+%3System.Web.HttpRequest*
+3
+2*o
+2b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸG Ÿ(M*
+4
+5*ƒ
+4b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸR Ÿ(g“
+œ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸR Ÿ(g
+
+%5bool"ãSystem.Func<System.Web.HttpRequest, bool>.operator ==(System.Func<System.Web.HttpRequest, bool>, System.Func<System.Web.HttpRequest, bool>)*"
+System.Func<T, TResult>**
+(
+authorizeListSystem.Func<T, TResult>*
+""*
+3
+6*ô
+6c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸk Ÿ(âœ
+Ã
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸz Ÿ(â
+%6System.Web.HttpRequest""System.Web.HttpContext.Request.get*#
+!
+contextSystem.Web.HttpContext‘
+—
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŸl Ÿ(ä
+
+%7bool"!System.Func<T, TResult>.Invoke(T)*
+System.Func<T, TResult>*
+
+%6System.Web.HttpRequest*
+3
+5*™	
+3b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs€ ﬁ(–
+Õ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs€ €( 
+%8System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContext¬
+ø
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs€ €(1	
+%9int"&System.Web.HttpResponse.StatusCode.set*
+
+%8System.Web.HttpResponse*2ë—
+Œ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs‹ ‹( 
+%10System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContext—
+Œ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs‹ ‹(;
+%11string"'System.Web.HttpResponse.ContentType.set* 
+
+%10System.Web.HttpResponse*
+
+text/plainí
+è
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs› ›((
+messagestring"__id*
+unauthorized"l
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csﬁ ﬁ(
+""*’
+5b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs· ·("l
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs· ·(
+""*‚
+7b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs‚	 ‚(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs‚ ‚(	
+implicit return:!
+contextSystem.Web.HttpContext:
+isListbool:
+messagestringB/"-
++StackExchange.Profiling.MiniProfilerHandler

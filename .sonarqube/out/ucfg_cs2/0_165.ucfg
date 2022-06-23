@@ -1,0 +1,67 @@
+
+ÁStackExchange.Profiling.MiniProfiler.StackExchange.Profiling.Data.IDbProfiler.ExecuteFinish(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (&"0*Ð
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (Û
+Ø
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (
+
+%0bool""object.operator !=(object, object)*
+"
+object*+
+)
+readerSystem.Data.Common.DbDataReader*
+""*
+1
+2*í
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (Põ
+ò
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs ()
+%1#StackExchange.Profiling.SqlProfiler"4StackExchange.Profiling.MiniProfiler.SqlProfiler.get*(&
+$StackExchange.Profiling.MiniProfilerƒ
+€
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (Q
+
+%2void"ÆStackExchange.Profiling.SqlProfilerExtensions.ExecuteFinish(StackExchange.Profiling.SqlProfiler, System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)*1"/
+-StackExchange.Profiling.SqlProfilerExtensions*+
+)
+%1#StackExchange.Profiling.SqlProfiler*-
++
+profiledDbCommandSystem.Data.IDbCommand*
+""*+
+)
+readerSystem.Data.Common.DbDataReader*
+3*È
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (Hõ
+ò
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs ()
+%3#StackExchange.Profiling.SqlProfiler"4StackExchange.Profiling.MiniProfiler.SqlProfiler.get*(&
+$StackExchange.Profiling.MiniProfilerÞ
+Û
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs (I
+
+%4void"ÆStackExchange.Profiling.SqlProfilerExtensions.ExecuteFinish(StackExchange.Profiling.SqlProfiler, System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)*1"/
+-StackExchange.Profiling.SqlProfilerExtensions*+
+)
+%3#StackExchange.Profiling.SqlProfiler*-
++
+profiledDbCommandSystem.Data.IDbCommand*
+""*
+""*
+3*è
+3e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs 	  (	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfiler.IDbProfiler.cs   (	
+implicit return:+
+profiledDbCommandSystem.Data.IDbCommand::
+executeType+StackExchange.Profiling.Data.SqlExecuteType:)
+readerSystem.Data.Common.DbDataReaderB(&
+$StackExchange.Profiling.MiniProfiler

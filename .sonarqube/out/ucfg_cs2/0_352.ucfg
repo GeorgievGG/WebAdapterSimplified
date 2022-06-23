@@ -1,0 +1,63 @@
+
+GStackExchange.Profiling.Storage.SqlServerStorage.GetUnviewedIds(string)g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs˘# ˘(1"0*˙
+0g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs˚ Ç(1≠
+™
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.cs˚ Ä("
+Sqlstring"__id*©¶
+£select Id
+                from   MiniProfilers
+                where  [User] = @user
+                and    HasUserViewed = 0
+                order  by Startedè
+å
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÇ Ç(1%
+%0System.Data.Common.DbConnection"DStackExchange.Profiling.Storage.SqlServerStorage.GetOpenConnection()*42
+0StackExchange.Profiling.Storage.SqlServerStorageƒ
+¡
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÇ Ç(1'
+connSystem.Data.Common.DbConnection"__id*'
+%
+%0System.Data.Common.DbConnection*
+1*©
+1g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÑ Ñ(7·
+ﬁ
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÑ Ñ(:/
+%1)System.Collections.Generic.IEnumerable<T>"ßStackExchange.Profiling.Helpers.Dapper.SqlMapper.Query<T>(System.Data.IDbConnection, string, dynamic, System.Data.IDbTransaction, bool, int?, System.Data.CommandType?)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*)
+'
+connSystem.Data.Common.DbConnection*
+
+Sqlstring*
+""*
+""*
+""*
+""*
+""æ
+ª
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÑ Ñ(C(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.IEnumerable<T>"ï
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÑ Ñ(D*
+(
+%2"System.Collections.Generic.List<T>*q
+2g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÜ	 Ü(	*
+3*Ï
+3g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÜ	 Ü(	"~
+g
+[C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\SqlServerStorage.csÜ Ü(	
+implicit return:
+userstringB42
+0StackExchange.Profiling.Storage.SqlServerStorage

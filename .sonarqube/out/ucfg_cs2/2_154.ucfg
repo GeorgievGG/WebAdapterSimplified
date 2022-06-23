@@ -1,0 +1,147 @@
+
+kWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetMemberName(System.Reflection.MethodInfo)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csg g(+"0*Ç
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csi k(&˛
+˚
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csi( i(D&
+%0 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfoÊ
+„
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csi] i(q
+%1System.Type".System.Reflection.MemberInfo.DeclaringType.get*(
+&
+methodSystem.Reflection.MethodInfoª
+∏
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csiQ i(r
+%2string"XWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTypeName(System.Type)*C"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider*
+
+%1System.Typeÿ
+’
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csit i(
+%3string"%System.Reflection.MemberInfo.Name.get*(
+&
+methodSystem.Reflection.MethodInfo™
+ß
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csi i(Ä
+%4string"=string.Format(System.IFormatProvider, string, object, object)*
+"
+string*(
+&
+%0 System.Globalization.CultureInfo*	
+{0}.{1}*
+
+%2string*
+
+%3string†
+ù
+u
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csi i(Ä
+namestring"__id*
+
+%4string˙
+˜
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csj) j(?'
+%5!System.Reflection.ParameterInfo[]",System.Reflection.MethodBase.GetParameters()*(
+&
+methodSystem.Reflection.MethodInfo€
+ÿ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csj j(?/
+
+parameters!System.Reflection.ParameterInfo[]"__id*)
+'
+%5!System.Reflection.ParameterInfo[]–
+Õ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csk k(!	
+%6int"System.Array.Length.get*1
+/
+
+parameters!System.Reflection.ParameterInfo[]*
+1
+2*¬
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csm n(pÇ
+ˇ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csm. m(j/
+%7)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*1
+/
+
+parameters!System.Reflection.ParameterInfo[]*
+""≤
+Ø
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csm. m(t
+%8string[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%7)System.Collections.Generic.IEnumerable<T>±
+Æ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csm m(t
+parameterTypeNamesstring[]"__id*
+
+%8string[]˛
+˚
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csn& n(B&
+%9 System.Globalization.CultureInfo"5System.Globalization.CultureInfo.InvariantCulture.get*$""
+ System.Globalization.CultureInfo„
+‡
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csnM n(q
+%10string"$string.Join(string, params string[])*
+"
+string*
+,* 
+
+parameterTypeNamesstring[]ë
+é
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csn n(r
+%11string"5string.Format(System.IFormatProvider, string, object)*
+"
+string*(
+&
+%9 System.Globalization.CultureInfo*	
+({0})*
+
+%10stringµ
+≤
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csn n(r
+%12string"__concat*
+
+namestring*
+
+%11string†
+ù
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csn n(r
+namestring"__id*
+
+%12string*
+2*Ñ
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csq q("à
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csq q(
+
+namestring*á
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csr	 r(	"ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csr r(	
+implicit return:&
+methodSystem.Reflection.MethodInfoBC"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

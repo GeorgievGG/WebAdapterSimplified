@@ -1,0 +1,244 @@
+
+sStackExchange.Profiling.SqlFormatters.InlineFormatter.GetParameterValue(StackExchange.Profiling.SqlTimingParameter)j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs: :('"0*ê
+0j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs= >(Ê
+„
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs= =( 
+%3string"4StackExchange.Profiling.SqlTimingParameter.Value.get*1
+/
+p*StackExchange.Profiling.SqlTimingParameteró
+î
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs= =( 
+resultstring"__id*
+
+%3stringÁ
+‰
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs> >(
+%4string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*1
+/
+p*StackExchange.Profiling.SqlTimingParameterì
+ê
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs> >(
+%1string"__id*
+
+%4stringì
+ê
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs> >(
+%0string"__id*
+
+%1string*
+1
+2*≈
+1j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs># >(/¢
+ü
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs># >(/
+%5string"__id**
+string"
+Emptystringì
+ê
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs># >(/
+%2string"__id*
+
+%5stringì
+ê
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs># >(/
+%0string"__id*
+
+%2string*
+2*∞
+2j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs> @("ï
+í
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs> >(/
+typestring"__id*
+
+%0string°
+û
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs@ @("
+%6string"string.ToLower()*
+
+typestring*
+3*w
+3j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs@ @("*
+4
+5*w
+5j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs@ @("*
+4
+6*ÿ
+4j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csD D(:«
+ƒ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csD D(;
+%7string"string.Format(string, object)*
+"
+string*	
+'{0}'*
+
+resultstringó
+î
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csD D(;
+resultstring"__id*
+
+%7string*
+7*w
+6j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs@ @("*
+8
+7*t
+8j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csG G("*
+9*y
+9j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csG G("*
+10
+11*á
+10j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csJ J((é
+ã
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csJ J((
+resultstring"__id*
+1*
+12*z
+11j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csG G("*
+13
+14*á
+13j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csM M((é
+ã
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csM M((
+resultstring"__id*
+0*
+12*à
+14j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csP P()è
+å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csP P()
+resultstring"__id*
+""*
+12*u
+12j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs_	 _(	*
+7*√
+7j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csV V(«
+ƒ
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csV V(
+
+%8bool""string.operator ==(string, string)*
+"
+string*
+
+resultstring*
+""*
+15
+16*ä
+15j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csX X(ë
+é
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csX X(
+resultstring"__id*
+null*
+16*Ä
+16j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csZ Z(É
+Ä
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.csZ Z(
+%9"__id*
+""*
+17
+18*∑
+17j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(IÊ
+„
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\# \()
+%10string"3StackExchange.Profiling.SqlTimingParameter.Name.get*1
+/
+p*StackExchange.Profiling.SqlTimingParameter£
+†
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \()
+%11string"__concat*
+ /* *
+
+%10stringß
+§
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(6
+%12string"__concat*
+
+%11string*
+
+ DbType.Ë
+Â
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\9 \(A
+%13string"5StackExchange.Profiling.SqlTimingParameter.DbType.get*1
+/
+p*StackExchange.Profiling.SqlTimingParameter™
+ß
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(A
+%14string"__concat*
+
+%12string*
+
+%13string¢
+ü
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(I
+%15string"__concat*
+
+%14string*
+ */≠
+™
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(I
+%16string"__concat*
+
+resultstring*
+
+%15stringò
+ï
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs\ \(I
+resultstring"__id*
+
+%16string*
+18*Û
+18j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs^ ^("Ä
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs^ ^(
+
+resultstring*Ù
+19j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs_	 _(	"Å
+j
+`C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\InlineFormatter.cs_ _(	
+implicit return:/
+p*StackExchange.Profiling.SqlTimingParameterB97
+5StackExchange.Profiling.SqlFormatters.InlineFormatter

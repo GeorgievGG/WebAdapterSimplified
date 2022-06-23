@@ -1,0 +1,45 @@
+È
+1StackExchange.Profiling.Data.ProfiledDbDataReaderSystem.Data.Common.DbDataReaderSystem.MarshalByRefObjectobject¸
+€ProfiledDbDataReader(System.Data.Common.DbDataReader, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)²StackExchange.Profiling.Data.ProfiledDbDataReader.ProfiledDbDataReader(System.Data.Common.DbDataReader, System.Data.Common.DbConnection, StackExchange.Profiling.Data.IDbProfiler)D
+Close()9StackExchange.Profiling.Data.ProfiledDbDataReader.Close()T
+GetBoolean(int)AStackExchange.Profiling.Data.ProfiledDbDataReader.GetBoolean(int)N
+GetByte(int)>StackExchange.Profiling.Data.ProfiledDbDataReader.GetByte(int)€
+%GetBytes(int, long, byte[], int, int)WStackExchange.Profiling.Data.ProfiledDbDataReader.GetBytes(int, long, byte[], int, int)N
+GetChar(int)>StackExchange.Profiling.Data.ProfiledDbDataReader.GetChar(int)€
+%GetChars(int, long, char[], int, int)WStackExchange.Profiling.Data.ProfiledDbDataReader.GetChars(int, long, char[], int, int)^
+GetDataTypeName(int)FStackExchange.Profiling.Data.ProfiledDbDataReader.GetDataTypeName(int)V
+GetDateTime(int)BStackExchange.Profiling.Data.ProfiledDbDataReader.GetDateTime(int)T
+GetDecimal(int)AStackExchange.Profiling.Data.ProfiledDbDataReader.GetDecimal(int)R
+GetDouble(int)@StackExchange.Profiling.Data.ProfiledDbDataReader.GetDouble(int)T
+GetEnumerator()AStackExchange.Profiling.Data.ProfiledDbDataReader.GetEnumerator()X
+GetFieldType(int)CStackExchange.Profiling.Data.ProfiledDbDataReader.GetFieldType(int)P
+GetFloat(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.GetFloat(int)N
+GetGuid(int)>StackExchange.Profiling.Data.ProfiledDbDataReader.GetGuid(int)P
+GetInt16(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.GetInt16(int)P
+GetInt32(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.GetInt32(int)P
+GetInt64(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.GetInt64(int)N
+GetName(int)>StackExchange.Profiling.Data.ProfiledDbDataReader.GetName(int)Z
+GetOrdinal(string)DStackExchange.Profiling.Data.ProfiledDbDataReader.GetOrdinal(string)V
+GetSchemaTable()BStackExchange.Profiling.Data.ProfiledDbDataReader.GetSchemaTable()R
+GetString(int)@StackExchange.Profiling.Data.ProfiledDbDataReader.GetString(int)P
+GetValue(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.GetValue(int)\
+GetValues(object[])EStackExchange.Profiling.Data.ProfiledDbDataReader.GetValues(object[])P
+IsDBNull(int)?StackExchange.Profiling.Data.ProfiledDbDataReader.IsDBNull(int)N
+NextResult()>StackExchange.Profiling.Data.ProfiledDbDataReader.NextResult()B
+Read()8StackExchange.Profiling.Data.ProfiledDbDataReader.Read()H
+	Depth.get;StackExchange.Profiling.Data.ProfiledDbDataReader.Depth.getH
+	Depth.set;StackExchange.Profiling.Data.ProfiledDbDataReader.Depth.setR
+FieldCount.get@StackExchange.Profiling.Data.ProfiledDbDataReader.FieldCount.getR
+FieldCount.set@StackExchange.Profiling.Data.ProfiledDbDataReader.FieldCount.setL
+HasRows.get=StackExchange.Profiling.Data.ProfiledDbDataReader.HasRows.getL
+HasRows.set=StackExchange.Profiling.Data.ProfiledDbDataReader.HasRows.setN
+IsClosed.get>StackExchange.Profiling.Data.ProfiledDbDataReader.IsClosed.getN
+IsClosed.set>StackExchange.Profiling.Data.ProfiledDbDataReader.IsClosed.set\
+RecordsAffected.getEStackExchange.Profiling.Data.ProfiledDbDataReader.RecordsAffected.get\
+RecordsAffected.setEStackExchange.Profiling.Data.ProfiledDbDataReader.RecordsAffected.setX
+WrappedReader.getCStackExchange.Profiling.Data.ProfiledDbDataReader.WrappedReader.getX
+WrappedReader.setCStackExchange.Profiling.Data.ProfiledDbDataReader.WrappedReader.setV
+this[string].getBStackExchange.Profiling.Data.ProfiledDbDataReader.this[string].getV
+this[string].setBStackExchange.Profiling.Data.ProfiledDbDataReader.this[string].setP
+this[int].get?StackExchange.Profiling.Data.ProfiledDbDataReader.this[int].getP
+this[int].set?StackExchange.Profiling.Data.ProfiledDbDataReader.this[int].set

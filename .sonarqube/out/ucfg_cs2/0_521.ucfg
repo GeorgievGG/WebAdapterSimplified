@@ -1,0 +1,25 @@
+
+AStackExchange.Profiling.Data.SimpleProfiledTransaction.Rollback()k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csD D("0*Ð
+0k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csF F(#‚
+ÿ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csF F( 
+%0System.Data.IDbTransaction"__id*h*f8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction"*
+_transactionSystem.Data.IDbTransactionÓÐ
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csF F(#
+
+%1void"%System.Data.IDbTransaction.Rollback()*"
+ 
+%0System.Data.IDbTransaction2
+Rollback()*
+1*õ
+1k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csG	 G(	"‚
+k
+aC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\SimpleProfiledTransaction.csG G(	
+implicit returnB:8
+6StackExchange.Profiling.Data.SimpleProfiledTransaction

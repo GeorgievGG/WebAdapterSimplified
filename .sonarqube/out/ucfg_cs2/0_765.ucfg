@@ -1,0 +1,61 @@
+
+„StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando.System.Collections.Generic.IDictionary<string, object>.this[string].set`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csê ê("0*¸
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì ì(-ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì ì(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>›˜
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì ì(.
+
+%1bool"FSystem.Collections.Generic.IDictionary<TKey, TValue>.ContainsKey(TKey)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+keystring2ContainsKey(TKey)*
+1
+2*î
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csî î(;«¨
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csî î(;$
+%2System.NotImplementedException"System.NotImplementedExceptionÓ
+Ð
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csî" î(9
+
+%3void"8System.NotImplementedException.NotImplementedException()*&
+$
+%2System.NotImplementedException*
+3*ñ
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csð ð(%ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csð ð(:
+%44System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>×
+Ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csð ð(%
+%5"__mapSet*<
+:
+%44System.Collections.Generic.IDictionary<TKey, TValue>*
+
+keystring*
+
+valueobject*
+3*Þ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csñ ñ("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csñ ñ(
+implicit return:
+keystring:
+valueobjectB@>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando

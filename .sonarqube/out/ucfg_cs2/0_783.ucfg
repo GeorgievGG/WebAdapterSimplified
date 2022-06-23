@@ -1,0 +1,45 @@
+
+OStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetSettableFields(System.Type)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs” ”(0"0*ò
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs– –(cx
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs– –(2
+%0"__id*
+""x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs–5 –(K
+%1"__id*
+""x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs–N –(c
+%2"__id*
+""Ý
+Ú
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs– –(d#
+%3System.Reflection.FieldInfo[]"5System.Type.GetFields(System.Reflection.BindingFlags)*
+
+tSystem.Type*
+""«
+¨
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs– –(m(
+%4"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*%
+#
+%3System.Reflection.FieldInfo[]"Ž
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs– –(n*
+(
+%4"System.Collections.Generic.List<T>*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs—	 —(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs— —(	
+implicit return:
+tSystem.TypeB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

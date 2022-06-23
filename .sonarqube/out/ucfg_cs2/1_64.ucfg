@@ -1,0 +1,94 @@
+
+HWebAdapterSimplifiedLibrary.DataIsolationScope.ContextImmutableStack.getc
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs ("0*Æ
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (&{
+y
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs9 (W
+%0"__id*
+""˜
+Ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (X
+%1object"DSystem.Runtime.Remoting.Messaging.CallContext.LogicalGetData(string)*1"/
+-System.Runtime.Remoting.Messaging.CallContext*
+
+%0å
+â
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (c
+%2object"__id*
+
+%1object¡
+æ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (cA
+wrapper6WebAdapterSimplifiedLibrary.DataIsolationScope.Wrapper"__id*
+
+%2objectÒ
+Ó
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (&
+
+%3bool""object.operator ==(object, object)*
+"
+object*C
+A
+wrapper6WebAdapterSimplifiedLibrary.DataIsolationScope.Wrapper*
+""*
+1
+2*∂
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs) (Và
+Ö
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs) (V4
+%7.System.Collections.Immutable.ImmutableStack<T>"7System.Collections.Immutable.ImmutableStack.Create<T>()*/"-
++System.Collections.Immutable.ImmutableStack‹
+Ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs) (V4
+%5.System.Collections.Immutable.ImmutableStack<T>"__id*6
+4
+%7.System.Collections.Immutable.ImmutableStack<T>‹
+Ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs) (V4
+%4.System.Collections.Immutable.ImmutableStack<T>"__id*6
+4
+%5.System.Collections.Immutable.ImmutableStack<T>*
+3*”
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY (f•
+¢
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY (f4
+%8.System.Collections.Immutable.ImmutableStack<T>"@WebAdapterSimplifiedLibrary.DataIsolationScope.Wrapper.Value.get*C
+A
+wrapper6WebAdapterSimplifiedLibrary.DataIsolationScope.Wrapper‹
+Ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY (f4
+%6.System.Collections.Immutable.ImmutableStack<T>"__id*6
+4
+%8.System.Collections.Immutable.ImmutableStack<T>‹
+Ÿ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.csY (f4
+%4.System.Collections.Immutable.ImmutableStack<T>"__id*6
+4
+%6.System.Collections.Immutable.ImmutableStack<T>*
+3*à
+3c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs   ("ù
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs (g6
+4
+%4.System.Collections.Immutable.ImmutableStack<T>*‰
+4c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs   ("z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs   (
+implicit returnB2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope

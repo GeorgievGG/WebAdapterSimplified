@@ -1,0 +1,27 @@
+
+SWebAdapterSimplifiedLibrary.MappingExtensions.MapTo<TSource, TDestination>(TSource)b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs# (("0*Ä
+0b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs	 	(;Þ
+Û
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs	 	(<
+%0TDestination"5AutoMapper.Mapper.Map<TSource, TDestination>(TSource)*"
+AutoMapper.Mapper*
+
+sourceTSource"z
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs	 	(=
+
+%0TDestination*â
+1b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs
+	 
+(	"y
+b
+XC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\MappingExtensions.cs
+ 
+(	
+implicit return:
+sourceTSourceB1"/
+-WebAdapterSimplifiedLibrary.MappingExtensions

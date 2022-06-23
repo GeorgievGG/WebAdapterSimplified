@@ -1,0 +1,23 @@
+
+VWebAdapterSimplifiedLibrary.Context.OnModelCreating(System.Data.Entity.DbModelBuilder)X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs'  '(/"0*ê
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs) )(7éæ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs) )(7G
+%0ASystem.Data.Entity.Infrastructure.UnintentionalCodeFirstException"ASystem.Data.Entity.Infrastructure.UnintentionalCodeFirstException™
+–
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs) )(5
+
+%1void"cSystem.Data.Entity.Infrastructure.UnintentionalCodeFirstException.UnintentionalCodeFirstException()*I
+G
+%0ASystem.Data.Entity.Infrastructure.UnintentionalCodeFirstException*
+1*Î
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs*	 *(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\Context.cs* *(	
+implicit return:1
+modelBuilder!System.Data.Entity.DbModelBuilderB'%
+#WebAdapterSimplifiedLibrary.Context

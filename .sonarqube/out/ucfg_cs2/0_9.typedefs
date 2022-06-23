@@ -1,0 +1,21 @@
+®	
+*StackExchange.Profiling.SqlTimingParameterobjectK
+Equals(object)9StackExchange.Profiling.SqlTimingParameter.Equals(object)I
+GetHashCode()8StackExchange.Profiling.SqlTimingParameter.GetHashCode()C
+
+ToString()5StackExchange.Profiling.SqlTimingParameter.ToString()W
+SqlTimingParameter()?StackExchange.Profiling.SqlTimingParameter.SqlTimingParameter()?
+Name.get3StackExchange.Profiling.SqlTimingParameter.Name.get?
+Name.set3StackExchange.Profiling.SqlTimingParameter.Name.setA
+	Value.get4StackExchange.Profiling.SqlTimingParameter.Value.getA
+	Value.set4StackExchange.Profiling.SqlTimingParameter.Value.setC
+
+DbType.get5StackExchange.Profiling.SqlTimingParameter.DbType.getC
+
+DbType.set5StackExchange.Profiling.SqlTimingParameter.DbType.set?
+Size.get3StackExchange.Profiling.SqlTimingParameter.Size.get?
+Size.set3StackExchange.Profiling.SqlTimingParameter.Size.setI
+Direction.get8StackExchange.Profiling.SqlTimingParameter.Direction.getI
+Direction.set8StackExchange.Profiling.SqlTimingParameter.Direction.setK
+IsNullable.get9StackExchange.Profiling.SqlTimingParameter.IsNullable.getK
+IsNullable.set9StackExchange.Profiling.SqlTimingParameter.IsNullable.set

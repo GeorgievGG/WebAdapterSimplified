@@ -1,0 +1,40 @@
+
+uStackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando.TryGetMember(System.Dynamic.GetMemberBinder, out object)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csº! º(-"0*˜
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ¼(?ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ¼(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>È
+Å
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼( ¼(3
+%1string"'System.Dynamic.GetMemberBinder.Name.get**
+(
+binderSystem.Dynamic.GetMemberBinderÆÃ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ¼(@
+
+%2bool"RSystem.Collections.Generic.IDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+%1string*
+
+resultobject2TryGetValue(TKey, out TValue)"p
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ¼(A
+
+
+%2bool*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs½ ½("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs½ ½(
+implicit return:(
+binderSystem.Dynamic.GetMemberBinder:
+resultobjectB@>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando

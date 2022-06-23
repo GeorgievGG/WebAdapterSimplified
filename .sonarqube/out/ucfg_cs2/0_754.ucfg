@@ -1,0 +1,34 @@
+
+“StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando.System.Collections.Generic.IDictionary<string, object>.TryGetValue(string, out object)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÚ- Ú(8"0*Í
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÜ Ü(6ª
+§
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÜ Ü(:
+%04System.Collections.Generic.IDictionary<TKey, TValue>"__id*€*~>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando"<
+data4System.Collections.Generic.IDictionary<TKey, TValue>ÆÃ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÜ Ü(7
+
+%1bool"RSystem.Collections.Generic.IDictionary<TKey, TValue>.TryGetValue(TKey, out TValue)*<
+:
+%04System.Collections.Generic.IDictionary<TKey, TValue>*
+
+keystring*
+
+valueobject2TryGetValue(TKey, out TValue)"p
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÜ Ü(8
+
+
+%1bool*Þ
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÝ Ý("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÝ Ý(
+implicit return:
+keystring:
+valueobjectB@>
+<StackExchange.Profiling.Helpers.Dapper.SqlMapper.FastExpando

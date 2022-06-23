@@ -1,0 +1,46 @@
+
+<StackExchange.Profiling.SingletonProfilerProvider.Stop(bool)f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs+ +("0*ß
+0f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs- -(!‰
+†
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs- -(*
+%0$StackExchange.Profiling.MiniProfiler"__id*j*h3
+1StackExchange.Profiling.SingletonProfilerProvider"1
+	_profiler$StackExchange.Profiling.MiniProfilerÝ
+Ú
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs- -(!
+
+%1bool""object.operator !=(object, object)*
+"
+object*,
+*
+%0$StackExchange.Profiling.MiniProfiler*
+""*
+1
+2*Õ
+1f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs-# -(7‰
+†
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs-# -(,*
+%2$StackExchange.Profiling.MiniProfiler"__id*j*h3
+1StackExchange.Profiling.SingletonProfilerProvider"1
+	_profiler$StackExchange.Profiling.MiniProfilerÖ
+Ó
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs-# -(7
+
+%3bool"/StackExchange.Profiling.MiniProfiler.StopImpl()*,
+*
+%2$StackExchange.Profiling.MiniProfiler*
+2*ê
+2f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs.	 .(	"}
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SingletonProfilerProvider.cs. .(	
+implicit return:
+discardResultsboolB53
+1StackExchange.Profiling.SingletonProfilerProvider

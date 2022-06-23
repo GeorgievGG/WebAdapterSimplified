@@ -1,0 +1,36 @@
+
+sWebAdapterSimplifiedLibrary.DataIsolationScope.DataIsolationScope(WebAdapterSimplifiedLibrary.DataIsolationContext)c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs2 2(!"1*m
+1c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs5	 5(	*
+0*³
+0c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs4 4(Fœ
+™
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs4$ 4(94
+%0.System.Collections.Immutable.ImmutableStack<T>"HWebAdapterSimplifiedLibrary.DataIsolationScope.ContextImmutableStack.get*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScopeÍ
+Ê
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs4$ 4(G4
+%1.System.Collections.Immutable.ImmutableStack<T>"6System.Collections.Immutable.ImmutableStack<T>.Push(T)*6
+4
+%0.System.Collections.Immutable.ImmutableStack<T>*=
+;
+context0WebAdapterSimplifiedLibrary.DataIsolationContextÔ
+Ñ
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs4 4(G4
+%2.System.Collections.Immutable.ImmutableStack<T>"HWebAdapterSimplifiedLibrary.DataIsolationScope.ContextImmutableStack.set*2"0
+.WebAdapterSimplifiedLibrary.DataIsolationScope*6
+4
+%1.System.Collections.Immutable.ImmutableStack<T>*
+2*ä
+2c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs5	 5(	"z
+c
+YC:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationScope.cs5 5(	
+implicit return:;
+context0WebAdapterSimplifiedLibrary.DataIsolationContextB20
+.WebAdapterSimplifiedLibrary.DataIsolationScope

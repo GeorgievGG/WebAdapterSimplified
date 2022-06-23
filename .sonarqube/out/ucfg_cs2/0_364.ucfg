@@ -1,0 +1,47 @@
+
+ÆStackExchange.Profiling.SqlProfilerExtensions.ExecuteFinish(StackExchange.Profiling.SqlProfiler, System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csg g(("0*¿
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csm m(#×
+Ô
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csm m(#
+
+%0bool""object.operator ==(object, object)*
+"
+object*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*
+""*
+1
+2*Á
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cso	 o(	"b
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csm% m(,
+""*ü
+2X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csn n(?—
+”
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.csn n(@
+
+%1void"›StackExchange.Profiling.SqlProfiler.ExecuteFinishImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)*4
+2
+sqlProfiler#StackExchange.Profiling.SqlProfiler*#
+!
+commandSystem.Data.IDbCommand*
+""*+
+)
+readerSystem.Data.Common.DbDataReader*
+3*Î
+3X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cso	 o(	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlProfiler.cso o(	
+implicit return:2
+sqlProfiler#StackExchange.Profiling.SqlProfiler:!
+commandSystem.Data.IDbCommand:3
+type+StackExchange.Profiling.Data.SqlExecuteType:)
+readerSystem.Data.Common.DbDataReaderB1"/
+-StackExchange.Profiling.SqlProfilerExtensions

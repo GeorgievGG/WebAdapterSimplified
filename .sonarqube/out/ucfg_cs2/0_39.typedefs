@@ -1,0 +1,16 @@
+œ
+7StackExchange.Profiling.Storage.HttpRuntimeCacheStorageobjectå
+(HttpRuntimeCacheStorage(System.TimeSpan)`StackExchange.Profiling.Storage.HttpRuntimeCacheStorage.HttpRuntimeCacheStorage(System.TimeSpan)ê
+*Save(StackExchange.Profiling.MiniProfiler)bStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.Save(StackExchange.Profiling.MiniProfiler)|
+ SetUnviewed(string, System.Guid)XStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.SetUnviewed(string, System.Guid)x
+SetViewed(string, System.Guid)VStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.SetViewed(string, System.Guid)^
+Load(System.Guid)IStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.Load(System.Guid)h
+GetUnviewedIds(string)NStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetUnviewedIds(string)z
+InsertIntoCache(string, object)WStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.InsertIntoCache(string, object)l
+GetCacheKey(System.Guid)PStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetCacheKey(System.Guid)Ä
+"GetPerUserUnviewedCacheKey(string)ZStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetPerUserUnviewedCacheKey(string)v
+GetPerUserUnviewedIds(string)UStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.GetPerUserUnviewedIds(string)˚
+_List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)óStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.List(int, System.DateTime?, System.DateTime?, StackExchange.Profiling.Storage.ListResultsOrder)Ñ
+$BinaryClosestSearch(System.DateTime)\StackExchange.Profiling.Storage.HttpRuntimeCacheStorage.BinaryClosestSearch(System.DateTime)^
+CacheDuration.getIStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.CacheDuration.get^
+CacheDuration.setIStackExchange.Profiling.Storage.HttpRuntimeCacheStorage.CacheDuration.set

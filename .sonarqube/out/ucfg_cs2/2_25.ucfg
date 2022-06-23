@@ -1,0 +1,64 @@
+
+=WebApiAdapterSimplified.WebApiApplication.Application_Start()X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (("0*¨
+0X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (<Â
+¿
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (/
+
+%0void"2System.Web.Mvc.AreaRegistration.RegisterAllAreas()*#"!
+System.Web.Mvc.AreaRegistrationû
+ø
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (@
+
+%1void"_System.Web.Http.GlobalConfiguration.Configure(System.Action<System.Web.Http.HttpConfiguration>)*'"%
+#System.Web.Http.GlobalConfiguration*
+""Ö
+Ó
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs/ (D+
+%2%System.Web.Mvc.GlobalFilterCollection"(System.Web.Mvc.GlobalFilters.Filters.get* "
+System.Web.Mvc.GlobalFilters¥
+¢
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (E
+
+%3void"aWebApiAdapterSimplified.FilterConfig.RegisterGlobalFilters(System.Web.Mvc.GlobalFilterCollection)*("&
+$WebApiAdapterSimplified.FilterConfig*-
++
+%2%System.Web.Mvc.GlobalFilterCollectionÔ
+Ñ
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs' (8(
+%4"System.Web.Routing.RouteCollection"(System.Web.Routing.RouteTable.Routes.get*!"
+System.Web.Routing.RouteTable–
+“
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (9
+
+%5void"VWebApiAdapterSimplified.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)*'"%
+#WebApiAdapterSimplified.RouteConfig**
+(
+%4"System.Web.Routing.RouteCollectionç
+ä
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs) (<.
+%6(System.Web.Optimization.BundleCollection"/System.Web.Optimization.BundleTable.Bundles.get*'"%
+#System.Web.Optimization.BundleTable¥
+¢
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (=
+
+%7void"^WebApiAdapterSimplified.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)*("&
+$WebApiAdapterSimplified.BundleConfig*0
+.
+%6(System.Web.Optimization.BundleCollection*
+1*Î
+1X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs	 (	"o
+X
+NC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Global.asax.cs (	
+implicit returnB-+
+)WebApiAdapterSimplified.WebApiApplication

@@ -1,0 +1,238 @@
+
+∂StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs ("0*æ
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs! #(µ≤
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs!# !(6
+%0System.Text.StringBuilder"System.Text.StringBuilder”
+–
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs!' !(4
+
+%1void")System.Text.StringBuilder.StringBuilder()*!
+
+%0System.Text.StringBuilder«
+ƒ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs! !(6#
+bufferSystem.Text.StringBuilder"__id*!
+
+%0System.Text.StringBuilder‚
+ﬂ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs# #(
+
+%2bool""object.operator !=(object, object)*
+"
+object*#
+!
+commandSystem.Data.IDbCommand*
+""*
+1
+2*£
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs## #(2ü
+ú
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs## #(2
+
+%3bool"SStackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.IncludeMetaData.get*CA
+?StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter*
+3
+2*„
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs% '(/ˆÛ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs%8 %(K
+%4System.Data.CommandType"&System.Data.IDbCommand.CommandType.get*#
+!
+commandSystem.Data.IDbCommand2CommandType.get⁄
+◊
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs%" %(K
+%5System.Data.CommandType"__concat*
+-- Command Type: *
+
+%4System.Data.CommandTypeê
+ç
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs% %(L
+%6System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*%
+#
+bufferSystem.Text.StringBuilder*
+
+%5System.Data.CommandTypeˆÛ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs&4 &(F
+%7System.Data.IDbConnection"%System.Data.IDbCommand.Connection.get*#
+!
+commandSystem.Data.IDbCommand2Connection.get‡›
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs&4 &(O
+%8string"&System.Data.IDbConnection.Database.get*!
+
+%7System.Data.IDbConnection2Database.get¥
+±
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs&" &(O
+%9string"__concat*
+-- Database: *
+
+%8stringÄ
+˝
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs& &(P 
+%10System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*%
+#
+bufferSystem.Text.StringBuilder*
+
+%9string˙˜
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs' '('!
+%11System.Data.IDbTransaction"&System.Data.IDbCommand.Transaction.get*#
+!
+commandSystem.Data.IDbCommand2Transaction.get„
+‡
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs' '(/
+%12bool""object.operator !=(object, object)*
+"
+object*#
+!
+%11System.Data.IDbTransaction*
+""*
+4
+5*ê	
+4t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs) )(o˙˜
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs)M )(`!
+%13System.Data.IDbTransaction"&System.Data.IDbCommand.Transaction.get*#
+!
+commandSystem.Data.IDbCommand2Transaction.getÑÅ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs)M )(o!
+%14System.Data.IsolationLevel"-System.Data.IDbTransaction.IsolationLevel.get*#
+!
+%13System.Data.IDbTransaction2IsolationLevel.getÛ
+
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs)& )(o!
+%15System.Data.IsolationLevel"__concat*&$
+"-- Command Transaction Iso Level: *#
+!
+%14System.Data.IsolationLevelï
+í
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs) )(p 
+%16System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*%
+#
+bufferSystem.Text.StringBuilder*#
+!
+%15System.Data.IsolationLevel*
+5*∆
+5t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs+ +(#Û
+
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs+ +(&
+%17System.Transactions.Transaction"+System.Transactions.Transaction.Current.get*#"!
+System.Transactions.TransactionÃ
+…
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs+ +(#
+%18bool"mSystem.Transactions.Transaction.operator !=(System.Transactions.Transaction, System.Transactions.Transaction)*#"!
+System.Transactions.Transaction*(
+&
+%17System.Transactions.Transaction*
+""*
+6
+7*ù	
+6t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs. .(^Û
+
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs.< .(O&
+%19System.Transactions.Transaction"+System.Transactions.Transaction.Current.get*#"!
+System.Transactions.TransactionÇ
+ˇ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs.< .(^)
+%20"System.Transactions.IsolationLevel"2System.Transactions.Transaction.IsolationLevel.get*(
+&
+%19System.Transactions.TransactionÅ
+˛
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs. .(^)
+%21"System.Transactions.IsolationLevel"__concat*$"
+ -- Transaction Scope Iso Level: *+
+)
+%20"System.Transactions.IsolationLevelù
+ö
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs. .(_ 
+%22System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*%
+#
+bufferSystem.Text.StringBuilder*+
+)
+%21"System.Transactions.IsolationLevel*
+7*Î
+7t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs0 0(#Í
+Á
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs0 0(# 
+%23System.Text.StringBuilder"&System.Text.StringBuilder.AppendLine()*%
+#
+bufferSystem.Text.StringBuilder*
+2*˜
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs3 7(!ÈÊ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs3 3(M
+%24string"ØStackExchange.Profiling.SqlFormatters.SqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)*CA
+?StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter*
+
+commandTextstring*2
+0
+
+parameters"System.Collections.Generic.List<T>*#
+!
+commandSystem.Data.IDbCommand2vFormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)¶
+£
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs3 3(M
+
+baseOutputstring"__id*
+
+%24stringÑ
+Å
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs5	 5(" 
+%25System.Text.StringBuilder"(System.Text.StringBuilder.Append(string)*%
+#
+bufferSystem.Text.StringBuilder*
+
+
+baseOutputstring’
+“
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs7 7(!
+%26string"$System.Text.StringBuilder.ToString()*%
+#
+bufferSystem.Text.StringBuilder"á
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs7	 7("
+
+%26string*á
+8t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs8	 8(	"ã
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\SqlFormatters\VerboseSqlServerFormatter.cs8 8(	
+implicit return:
+commandTextstring:0
+
+parameters"System.Collections.Generic.List<T>:!
+commandSystem.Data.IDbCommandBCA
+?StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter

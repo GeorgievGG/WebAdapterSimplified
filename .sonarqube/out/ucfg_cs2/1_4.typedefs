@@ -1,0 +1,11 @@
+‹
+0WebAdapterSimplifiedLibrary.DataIsolationContextobjectÏ
+MDataIsolationContext(string, WebAdapterSimplifiedLibrary.DataIsolationPolicy)~WebAdapterSimplifiedLibrary.DataIsolationContext.DataIsolationContext(string, WebAdapterSimplifiedLibrary.DataIsolationPolicy)I
+
+ToString();WebAdapterSimplifiedLibrary.DataIsolationContext.ToString()M
+Username.get=WebAdapterSimplifiedLibrary.DataIsolationContext.Username.getM
+Username.set=WebAdapterSimplifiedLibrary.DataIsolationContext.Username.setI
+
+Policy.get;WebAdapterSimplifiedLibrary.DataIsolationContext.Policy.getI
+
+Policy.set;WebAdapterSimplifiedLibrary.DataIsolationContext.Policy.set

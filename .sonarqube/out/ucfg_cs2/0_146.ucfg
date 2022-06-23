@@ -1,0 +1,204 @@
+
+IStackExchange.Profiling.MiniProfilerHandler.Index(System.Web.HttpContext)b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs∫ ∫(#"0*¿
+0b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csº Ω(MŒ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csΩ Ω(N
+
+%0bool"fStackExchange.Profiling.MiniProfilerHandler.AuthorizeRequest(System.Web.HttpContext, bool, out string)*/"-
++StackExchange.Profiling.MiniProfilerHandler*#
+!
+contextSystem.Web.HttpContext*
+""*
+
+messagestring*
+1
+2*‚
+1b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csø ø("y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csø ø(
+
+messagestring*å/
+2b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ Ã(,–
+Õ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ ¬(
+%1System.Web.HttpResponse"#System.Web.HttpContext.Response.get*#
+!
+contextSystem.Web.HttpContextŒ
+À
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs¬ ¬(6
+%2string"'System.Web.HttpResponse.ContentType.set*
+
+%1System.Web.HttpResponse*
+	text/htmlÈ
+Ê
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csƒ5 ƒ(X
+%3string"?StackExchange.Profiling.MiniProfiler.Settings.RouteBasePath.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings⁄
+◊
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csƒ ƒ(Y
+%4string"0System.Web.VirtualPathUtility.ToAbsolute(string)*!"
+System.Web.VirtualPathUtility*
+
+%3stringâ
+Ü
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csƒ ƒ(o
+%5string"LStackExchange.Profiling.Helpers.ExtensionMethods.EnsureTrailingSlash(string)*4"2
+0StackExchange.Profiling.Helpers.ExtensionMethods*
+
+%4stringç
+ä
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csƒ ƒ(o
+pathstring"__id*
+
+%5string£†
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ ≈(&
+%6System.Text.StringBuilder"System.Text.StringBuilder¡
+æ
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ ≈($
+
+%7void")System.Text.StringBuilder.StringBuilder()*!
+
+%6System.Text.StringBuilderÎ
+Ë
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ ∆(+
+%8System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*!
+
+%6System.Text.StringBuilder*
+<html><head>à
+Ö
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ «(H
+%9System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*!
+
+%8System.Text.StringBuilder*-+
+)<title>List of profiling sessions</title>Ê
+„
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs»ç »(™
+%10string"9StackExchange.Profiling.MiniProfiler.Settings.Version.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings∞
+≠
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs»¨ »(ø
+%11string"System.Environment.NewLine.get*"
+System.Environmentî
+ë
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ »(¿ 
+%12System.Text.StringBuilder"FSystem.Text.StringBuilder.AppendFormat(string, object, object, object)*!
+
+%9System.Text.StringBuilder*ig
+e<script id='mini-profiler' data-ids='' type='text/javascript' src='{0}includes.js?v={1}'></script>{2}*
+
+pathstring*
+
+%10string*
+
+%11stringÂ
+‚
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs…o …(å
+%13string"9StackExchange.Profiling.MiniProfiler.Settings.Version.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings∞
+≠
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs…é …(°
+%14string"System.Environment.NewLine.get*"
+System.Environment˜
+Ù
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ …(¢ 
+%15System.Text.StringBuilder"FSystem.Text.StringBuilder.AppendFormat(string, object, object, object)*"
+ 
+%12System.Text.StringBuilder*KI
+G<link href='{0}includes.css?v={1}' rel='stylesheet' type='text/css'>{2}*
+
+pathstring*
+
+%13string*
+
+%14stringÂ
+‚
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs n  (ã
+%16string"9StackExchange.Profiling.MiniProfiler.Settings.Version.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings∞
+≠
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs ç  (†
+%17string"System.Environment.NewLine.get*"
+System.Environmentˆ
+Û
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈  (° 
+%18System.Text.StringBuilder"FSystem.Text.StringBuilder.AppendFormat(string, object, object, object)*"
+ 
+%15System.Text.StringBuilder*JH
+F<script type='text/javascript' src='{0}includes.js?v={1}'></script>{2}*
+
+pathstring*
+
+%16string*
+
+%17stringÊ
+„
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÀä À(ß
+%19string"9StackExchange.Profiling.MiniProfiler.Settings.Version.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings∞
+≠
+d
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csÀ© À(º
+%20string"System.Environment.NewLine.get*"
+System.Environmentí
+è
+c
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ À(Ω 
+%21System.Text.StringBuilder"FSystem.Text.StringBuilder.AppendFormat(string, object, object, object)*"
+ 
+%18System.Text.StringBuilder*fd
+b<script type='text/javascript'>MiniProfiler.list.init({{path: '{0}', version: '{1}'}})</script>{2}*
+
+pathstring*
+
+%19string*
+
+%20stringÔ
+Ï
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ Ã(- 
+%22System.Text.StringBuilder",System.Text.StringBuilder.AppendLine(string)*"
+ 
+%21System.Text.StringBuilder*
+</head></html>¿
+Ω
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ Õ(
+%23string"$System.Text.StringBuilder.ToString()*"
+ 
+%22System.Text.StringBuilder"u
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.cs≈ Õ(
+
+%23string*‚
+3b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŒ	 Œ(	"y
+b
+VC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\MiniProfilerHandler.csŒ Œ(	
+implicit return:!
+contextSystem.Web.HttpContextB/"-
++StackExchange.Profiling.MiniProfilerHandler

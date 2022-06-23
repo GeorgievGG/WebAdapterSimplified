@@ -1,0 +1,7 @@
+‚
++StackExchange.Profiling.MiniProfilerHandlerobjectÔ
+RSystem.Web.Routing.IRouteHandler.GetHttpHandler(System.Web.Routing.RequestContext)~StackExchange.Profiling.MiniProfilerHandler.System.Web.Routing.IRouteHandler.GetHttpHandler(System.Web.Routing.RequestContext)|
+&ProcessRequest(System.Web.HttpContext)RStackExchange.Profiling.MiniProfilerHandler.ProcessRequest(System.Web.HttpContext)Z
+MiniProfilerHandler()AStackExchange.Profiling.MiniProfilerHandler.MiniProfilerHandler()L
+IsReusable.get:StackExchange.Profiling.MiniProfilerHandler.IsReusable.getL
+IsReusable.set:StackExchange.Profiling.MiniProfilerHandler.IsReusable.set

@@ -1,0 +1,87 @@
+
+aStackExchange.Profiling.Helpers.StackTraceSnippet.ShouldExcludeType(System.Reflection.MethodBase)f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs6 6(-"0*æ
+0f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs8 8((Ø
+Õ
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs8 8((
+%0System.Type".System.Reflection.MemberInfo.DeclaringType.get*(
+&
+methodSystem.Reflection.MethodBase˜
+•
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs8 8((
+tSystem.Type"__id*
+
+%0System.Type*
+1*Í
+1f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs: :(×
+Ô
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs: :(
+
+%1bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+tSystem.Type*
+""*
+2
+3*û
+2f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs< <(H‘
+Ž
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs< <(8/
+%2)System.Collections.Generic.IEnumerable<T>"@StackExchange.Profiling.MiniProfiler.Settings.TypesToExclude.get*1"/
+-StackExchange.Profiling.MiniProfiler.Settings´
+±
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs<B <(H
+%3string"%System.Reflection.MemberInfo.Name.get*
+
+tSystem.Typeº
+·
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs< <(I
+
+%4bool"bSystem.Linq.Enumerable.Contains<TSource>(System.Collections.Generic.IEnumerable<TSource>, TSource)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>*
+
+%3string*
+4
+5*Ý
+4f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs= =("p
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs= =( 
+""*Ò
+5f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs? ?(#ÄÁ
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs? ?(#
+%5System.Type"System.Type.DeclaringType.get*
+
+tSystem.Type2DeclaringType.get˜
+•
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.cs? ?(#
+tSystem.Type"__id*
+
+%5System.Type*
+1*Ý
+3f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.csB B("p
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.csB B(
+""*ê
+6f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.csC	 C(	"}
+f
+\C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\StackTraceSnippet.csC C(	
+implicit return:&
+methodSystem.Reflection.MethodBaseB5"3
+1StackExchange.Profiling.Helpers.StackTraceSnippet

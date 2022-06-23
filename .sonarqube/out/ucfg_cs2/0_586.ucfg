@@ -1,0 +1,78 @@
+
+FStackExchange.Profiling.Storage.MultiStorageProvider.Load(System.Guid)i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs[ [( "0*Ì
+0i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs] ](ì
+ê
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs] ]((
+%0"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProviderﬁ
+€
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs] ](
+
+%1bool""object.operator !=(object, object)*
+"
+object**
+(
+%0"System.Collections.Generic.List<T>*
+""*
+1
+2*â
+1i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs_& _(,ì
+ê
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.cs_& _(,(
+%2"System.Collections.Generic.List<T>"?StackExchange.Profiling.Storage.MultiStorageProvider.Stores.get*86
+4StackExchange.Profiling.Storage.MultiStorageProvider*
+3*v
+3i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csi	 i(	*
+4
+2*€
+4i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csa b(&¶£
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csa! a(/*
+%3$StackExchange.Profiling.MiniProfiler":StackExchange.Profiling.Storage.IStorage.Load(System.Guid)*3
+1
+store(StackExchange.Profiling.Storage.IStorage*
+""2Load(System.Guid)“
+œ
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csa a(/.
+result$StackExchange.Profiling.MiniProfiler"__id*,
+*
+%3$StackExchange.Profiling.MiniProfiler‰
+·
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csb b(&
+
+%4bool""object.operator !=(object, object)*
+"
+object*0
+.
+result$StackExchange.Profiling.MiniProfiler*
+""*
+5
+3*é
+5i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csd d(%"ù
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csd d(&0
+.
+result$StackExchange.Profiling.MiniProfiler*„
+2i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csh h("s
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csh h(
+""*Ò
+6i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csi	 i(	"Ä
+i
+_C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Storage\MultiStorageProvider.csi i(	
+implicit return:
+idSystem.GuidB86
+4StackExchange.Profiling.Storage.MultiStorageProvider

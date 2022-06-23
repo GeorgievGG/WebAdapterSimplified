@@ -1,0 +1,48 @@
+
+HStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.NextResult()`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¸ ¸(#"0*©
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csº º('ð
+í
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csº º(
+%0System.Data.IDataReader"__id*d*b=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"!
+readerSystem.Data.IDataReaderÆÃ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csº º('
+
+%1bool"$System.Data.IDataReader.NextResult()*
+
+%0System.Data.IDataReader2NextResult()*
+1
+2*­
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ½($x
+v
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs¼ ¼(
+%2"__id*
+""Æ
+Ã
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cs½ ½($Q=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader"
+consumedbool"__id*
+""*
+3*æ
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÁ Á(ù
+ö
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÁ Á(
+
+%3void"EStackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader.Dispose()*?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader*
+3*Þ
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ Ä("w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÄ Ä(
+implicit returnB?=
+;StackExchange.Profiling.Helpers.Dapper.SqlMapper.GridReader

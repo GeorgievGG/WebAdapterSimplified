@@ -1,0 +1,78 @@
+
+tWebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider.GetTagValue(System.Xml.XPath.XPathNavigator, string)t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cst t()"0*Ú
+0t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csv v("Ó
+Î
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csv v("
+
+%0bool""object.operator !=(object, object)*
+"
+object*/
+-
+
+parentNodeSystem.Xml.XPath.XPathNavigator*
+""*
+1
+2*˝
+1t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csx y( ∫∑
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csx& x(J%
+%1System.Xml.XPath.XPathNavigator"8System.Xml.XPath.XPathNavigator.SelectSingleNode(string)*/
+-
+
+parentNodeSystem.Xml.XPath.XPathNavigator*
+
+tagNamestring2SelectSingleNode(string)—
+Œ
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csx x(J'
+nodeSystem.Xml.XPath.XPathNavigator"__id*'
+%
+%1System.Xml.XPath.XPathNavigatorË
+Â
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csy y( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*)
+'
+nodeSystem.Xml.XPath.XPathNavigator*
+""*
+3
+2*Ü
+3t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs{ {(,ÿ
+’
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs{ {(%
+%3string"$System.Xml.XPath.XPathItem.Value.get*)
+'
+nodeSystem.Xml.XPath.XPathNavigator¶
+£
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs{ {(,
+%4string"string.Trim()*
+
+%3string"Ü
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs{ {(-
+
+%4string*˘
+2t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs ("~
+t
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.cs (
+""*ã
+4v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÄ	 Ä(	"ç
+v
+jC:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Areas\HelpPage\XmlDocumentationProvider.csÄ Ä(	
+implicit return:-
+
+parentNodeSystem.Xml.XPath.XPathNavigator:
+tagNamestringBC"A
+?WebApiAdapterSimplified.Areas.HelpPage.XmlDocumentationProvider

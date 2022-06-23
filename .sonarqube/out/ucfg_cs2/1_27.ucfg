@@ -1,0 +1,31 @@
+
+~WebAdapterSimplifiedLibrary.DataIsolationContext.DataIsolationContext(string, WebAdapterSimplifiedLibrary.DataIsolationPolicy)e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs (#"1*o
+1e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs		 	(	*
+0*É
+0e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs (ƒ
+€
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs (
+%0string"=WebAdapterSimplifiedLibrary.DataIsolationContext.Username.set*42
+0WebAdapterSimplifiedLibrary.DataIsolationContext*
+
+usernamestringÑ
+Î
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs (5
+%1/WebAdapterSimplifiedLibrary.DataIsolationPolicy";WebAdapterSimplifiedLibrary.DataIsolationContext.Policy.set*42
+0WebAdapterSimplifiedLibrary.DataIsolationContext*;
+9
+policy/WebAdapterSimplifiedLibrary.DataIsolationPolicy*
+2*è
+2e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs		 	(	"|
+e
+[C:\Repos\SmallApps\WebAdapterSimplified\WebAdapterSimplifiedLibrary\DataIsolationContext.cs	 	(	
+implicit return:
+usernamestring:9
+policy/WebAdapterSimplifiedLibrary.DataIsolationPolicyB42
+0WebAdapterSimplifiedLibrary.DataIsolationContext

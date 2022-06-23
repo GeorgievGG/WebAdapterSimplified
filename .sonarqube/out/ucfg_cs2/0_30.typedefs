@@ -1,0 +1,6 @@
+”
+?StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter8StackExchange.Profiling.SqlFormatters.SqlServerFormatterobject‚
+VerboseSqlServerFormatter(bool)_StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.VerboseSqlServerFormatter(bool)±
+vFormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)¶StackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.FormatSql(string, System.Collections.Generic.List<StackExchange.Profiling.SqlTimingParameter>, System.Data.IDbCommand)j
+IncludeMetaData.getSStackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.IncludeMetaData.getj
+IncludeMetaData.setSStackExchange.Profiling.SqlFormatters.VerboseSqlServerFormatter.IncludeMetaData.set

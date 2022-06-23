@@ -1,0 +1,46 @@
+
+¡EOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController.UsersController(WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic, WebAdapterSimplifiedLibrary.IMatrixUserService)h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs ("3*ä
+1h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs	 (	ï
+í
+
+%0void"IWebApiAdapterSimplified.Controllers.BaseApiController.BaseApiController()*97
+5WebApiAdapterSimplified.Controllers.BaseApiController*
+0*¢
+0h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (2’
+“
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (,òP
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController"D
+_privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic"__id*E
+C
+privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic’
+“
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (2òP
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController"D
+_matrixUserService.WebAdapterSimplifiedLibrary.IMatrixUserService"__id*E
+C
+matrixUserService.WebAdapterSimplifiedLibrary.IMatrixUserService*
+2*Ó
+2h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs	 (	"
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (	
+implicit return*Ñ
+3h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs1 (1è
+å
+h
+^C:\Repos\SmallApps\WebAdapterSimplified\WebApiAdapterSimplified\Controllers\UsersController.cs (
+%1"__entrypoint*E
+C
+privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic*E
+C
+matrixUserService.WebAdapterSimplifiedLibrary.IMatrixUserService*
+1:C
+privilegeLogic1WebAdapterSimplifiedLibrary.IMatrixPrivilegeLogic:C
+matrixUserService.WebAdapterSimplifiedLibrary.IMatrixUserServiceBRP
+NEOS.Matrix.WebApiAdapter.Controllers.Management.UserManagement.UsersController

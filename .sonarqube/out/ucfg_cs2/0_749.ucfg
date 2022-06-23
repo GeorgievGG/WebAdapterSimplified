@@ -1,0 +1,125 @@
+
+xStackExchange.Profiling.Helpers.Dapper.SqlMapper.GetCacheInfo(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÇ! Ç(-"0*Â
+0`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÑ Ö(4ı
+Ú
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csÖ Ö(5
+
+%0bool"ºStackExchange.Profiling.Helpers.Dapper.SqlMapper.TryGetQueryCache(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, out StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*
+1
+2*â
+
+1`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csá à(3„‡
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csá á(&@
+%1:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo":StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo˝
+˙
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csá á($
+
+%2void"FStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.CacheInfo()*B
+@
+%1:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoÛ
+
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csá á(&B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo"__id*B
+@
+%1:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfoË
+Â
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csà à(+
+%3System.Type"__id*h*f
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+parametersTypeSystem.Type“
+œ
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csà à(3
+
+%4bool"1System.Type.operator !=(System.Type, System.Type)*"
+System.Type*
+
+%3System.Type*
+""*
+3
+4*≥
+3`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csä ä([Ë
+Â
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csäD ä([
+%5System.Type"__id*h*f
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity"
+parametersTypeSystem.Typeÿ’
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csä ä(\
+
+%6bool")System.Type.IsAssignableFrom(System.Type)*
+""*
+
+%5System.Type2IsAssignableFrom(System.Type)*
+5
+6*â
+5`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså å(vú
+ô
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.cså å(v
+%7System.Action<T1, T2>"JStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.set*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*
+""*
+4*´
+6`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csê ê(Là
+Ö
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csê+ ê(M
+%8System.Action<T1, T2>"ÑStackExchange.Profiling.Helpers.Dapper.SqlMapper.CreateParamInfoGenerator(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity≥
+∞
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csê ê(M
+%9System.Action<T1, T2>"JStackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo.ParamReader.set*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*
+
+%8System.Action<T1, T2>*
+4*‹
+4`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì ì(,Ô
+Ï
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csì ì(-
+%10void"µStackExchange.Profiling.Helpers.Dapper.SqlMapper.SetQueryCache(StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity, StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo)*4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper*G
+E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.Identity*D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*
+2*ê
+2`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï("®
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csï ï(D
+B
+info:StackExchange.Profiling.Helpers.Dapper.SqlMapper.CacheInfo*ﬁ
+7`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csñ	 ñ(	"w
+`
+TC:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Helpers\SqlMapper.csñ ñ(	
+implicit return:E
+identity9StackExchange.Profiling.Helpers.Dapper.SqlMapper.IdentityB4"2
+0StackExchange.Profiling.Helpers.Dapper.SqlMapper

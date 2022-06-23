@@ -1,0 +1,20 @@
+‘
+8WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKeyobject»
+?HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue)xWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue)Ö
+LHelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue, System.Type)…WebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue, System.Type)Ñ
+‰HelpPageSampleKey(WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)ÂWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)­
+·HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)ðWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.HelpPageSampleKey(System.Net.Http.Headers.MediaTypeHeaderValue, WebApiAdapterSimplified.Areas.HelpPage.SampleDirection, string, string, System.Collections.Generic.IEnumerable<string>)Y
+Equals(object)GWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.Equals(object)W
+GetHashCode()FWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.GetHashCode()a
+ControllerName.getKWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ControllerName.geta
+ControllerName.setKWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ControllerName.setY
+ActionName.getGWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ActionName.getY
+ActionName.setGWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ActionName.setW
+MediaType.getFWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.MediaType.getW
+MediaType.setFWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.MediaType.seta
+ParameterNames.getKWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterNames.geta
+ParameterNames.setKWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterNames.set_
+ParameterType.getJWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterType.get_
+ParameterType.setJWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.ParameterType.setc
+SampleDirection.getLWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.SampleDirection.getc
+SampleDirection.setLWebApiAdapterSimplified.Areas.HelpPage.HelpPageSampleKey.SampleDirection.set

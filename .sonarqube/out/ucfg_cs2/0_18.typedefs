@@ -1,0 +1,28 @@
+‰
+2StackExchange.Profiling.Data.SimpleProfiledCommandobjectœ
+rSimpleProfiledCommand(System.Data.IDbCommand, System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)¥StackExchange.Profiling.Data.SimpleProfiledCommand.SimpleProfiledCommand(System.Data.IDbCommand, System.Data.IDbConnection, StackExchange.Profiling.Data.IDbProfiler)I
+	Prepare()<StackExchange.Profiling.Data.SimpleProfiledCommand.Prepare()G
+Cancel();StackExchange.Profiling.Data.SimpleProfiledCommand.Cancel()Y
+CreateParameter()DStackExchange.Profiling.Data.SimpleProfiledCommand.CreateParameter()Y
+ExecuteNonQuery()DStackExchange.Profiling.Data.SimpleProfiledCommand.ExecuteNonQuery()U
+ExecuteReader()BStackExchange.Profiling.Data.SimpleProfiledCommand.ExecuteReader()‹
+*ExecuteReader(System.Data.CommandBehavior)]StackExchange.Profiling.Data.SimpleProfiledCommand.ExecuteReader(System.Data.CommandBehavior)U
+ExecuteScalar()BStackExchange.Profiling.Data.SimpleProfiledCommand.ExecuteScalar()æ
+WProfileWith<TResult>(StackExchange.Profiling.Data.SqlExecuteType, System.Func<TResult>)ŠStackExchange.Profiling.Data.SimpleProfiledCommand.ProfileWith<TResult>(StackExchange.Profiling.Data.SqlExecuteType, System.Func<TResult>)I
+	Dispose()<StackExchange.Profiling.Data.SimpleProfiledCommand.Dispose()Q
+Dispose(bool)@StackExchange.Profiling.Data.SimpleProfiledCommand.Dispose(bool)E
+Clone():StackExchange.Profiling.Data.SimpleProfiledCommand.Clone()S
+Connection.getAStackExchange.Profiling.Data.SimpleProfiledCommand.Connection.getS
+Connection.setAStackExchange.Profiling.Data.SimpleProfiledCommand.Connection.setU
+Transaction.getBStackExchange.Profiling.Data.SimpleProfiledCommand.Transaction.getU
+Transaction.setBStackExchange.Profiling.Data.SimpleProfiledCommand.Transaction.setU
+CommandText.getBStackExchange.Profiling.Data.SimpleProfiledCommand.CommandText.getU
+CommandText.setBStackExchange.Profiling.Data.SimpleProfiledCommand.CommandText.set[
+CommandTimeout.getEStackExchange.Profiling.Data.SimpleProfiledCommand.CommandTimeout.get[
+CommandTimeout.setEStackExchange.Profiling.Data.SimpleProfiledCommand.CommandTimeout.setU
+CommandType.getBStackExchange.Profiling.Data.SimpleProfiledCommand.CommandType.getU
+CommandType.setBStackExchange.Profiling.Data.SimpleProfiledCommand.CommandType.setS
+Parameters.getAStackExchange.Profiling.Data.SimpleProfiledCommand.Parameters.getS
+Parameters.setAStackExchange.Profiling.Data.SimpleProfiledCommand.Parameters.set_
+UpdatedRowSource.getGStackExchange.Profiling.Data.SimpleProfiledCommand.UpdatedRowSource.get_
+UpdatedRowSource.setGStackExchange.Profiling.Data.SimpleProfiledCommand.UpdatedRowSource.set

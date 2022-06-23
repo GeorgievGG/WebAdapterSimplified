@@ -1,0 +1,71 @@
+
+@StackExchange.Profiling.Data.ProfiledDbTransaction.Dispose(bool)g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csQ  Q('"0*t
+0g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csS S(*
+1
+2*Ú
+1g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csS S(1†
+ƒ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csS S()&
+%0 System.Data.Common.DbTransaction"__id*j*h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransactionÚ
+×
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csS S(1
+
+%1bool""object.operator !=(object, object)*
+"
+object*(
+&
+%0 System.Data.Common.DbTransaction*
+""*
+3
+2*Ë
+3g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csU U(&†
+ƒ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csU U(&
+%2 System.Data.Common.DbTransaction"__id*j*h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransactionÎ
+Ë
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csU U(&
+
+%3void"*System.Data.Common.DbTransaction.Dispose()*(
+&
+%2 System.Data.Common.DbTransaction*
+2*É
+2g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csW Y("ä
+á
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csW W(h4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"0
+_transaction System.Data.Common.DbTransaction"__id*
+""ô
+ñ
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csX X(x4
+2StackExchange.Profiling.Data.ProfiledDbTransaction"@
+_connection1StackExchange.Profiling.Data.ProfiledDbConnection"__id*
+""÷ô
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csY Y(#
+
+%4void".System.Data.Common.DbTransaction.Dispose(bool)*64
+2StackExchange.Profiling.Data.ProfiledDbTransaction*
+""2Dispose(bool)*
+4*ì
+4g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csZ	 Z(	"~
+g
+]C:\Repos\SmallApps\WebAdapterSimplified\StackExchange.Profiling\Data\ProfiledDbTransaction.csZ Z(	
+implicit return:
+	disposingboolB64
+2StackExchange.Profiling.Data.ProfiledDbTransaction

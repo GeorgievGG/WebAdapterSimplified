@@ -1,0 +1,9 @@
+…
+#StackExchange.Profiling.SqlProfilerobjectŠ
+1SqlProfiler(StackExchange.Profiling.MiniProfiler)UStackExchange.Profiling.SqlProfiler.SqlProfiler(StackExchange.Profiling.MiniProfiler)Ò
+UExecuteStartImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)yStackExchange.Profiling.SqlProfiler.ExecuteStartImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType)—
+wExecuteFinishImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)›StackExchange.Profiling.SqlProfiler.ExecuteFinishImpl(System.Data.IDbCommand, StackExchange.Profiling.Data.SqlExecuteType, System.Data.Common.DbDataReader)~
++ReaderFinishedImpl(System.Data.IDataReader)OStackExchange.Profiling.SqlProfiler.ReaderFinishedImpl(System.Data.IDataReader)V
+GetInProgressCommands();StackExchange.Profiling.SqlProfiler.GetInProgressCommands()@
+Profiler.get0StackExchange.Profiling.SqlProfiler.Profiler.get@
+Profiler.set0StackExchange.Profiling.SqlProfiler.Profiler.set
